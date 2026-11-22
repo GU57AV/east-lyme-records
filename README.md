@@ -31,6 +31,21 @@ Currently archived: [Board of Selectmen](records/board-of-selectmen/INDEX.md).
 - Newly found documents are also submitted to the Internet Archive's Wayback Machine for an
   independent timestamp.
 
+## Blockchain timestamps
+
+Whenever the set of archived files changes, the archive writes a dated list of every file's SHA-256
+hash to [`manifests/`](manifests) and stamps it with [OpenTimestamps](https://opentimestamps.org),
+which anchors the list in the Bitcoin blockchain. The `.ots` file next to each manifest proves that
+exact list existed no later than the time of the Bitcoin block it names. Nobody, including the owner
+of this repository, can backdate it.
+
+To verify: download a manifest and its `.ots` file and drop both on <https://opentimestamps.org>,
+or run `pip install opentimestamps-client` and `ots verify manifests/<name>.txt.ots`. To check a
+document, compute its hash (`certutil -hashfile file.pdf SHA256` on Windows,
+`sha256sum file.pdf` on Mac or Linux) and find it in the manifest.
+
+Proofs start as "pending" and are completed automatically on a later run, usually within a few hours.
+
 ## Load on the Town website
 
 The archiver identifies itself by name and a link to this repository, waits 20 seconds between

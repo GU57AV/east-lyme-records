@@ -356,6 +356,7 @@ def run(args) -> int:
     state_path.parent.mkdir(parents=True, exist_ok=True)
     state_path.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
     write_report(today, report, initial, incomplete)
+    write_manifest()
     if cfg.get("wayback_new_documents") and not initial:
         submit_wayback(f, report["new"] + report["changed"])
     log(f"done: {len(report['new'])} new, {len(report['changed'])} changed, "
@@ -393,6 +394,34 @@ def store_original(cfg: dict, board: str, year: str, path: Path, stem: str, ext:
         return str(path.relative_to(ROOT))
     path.unlink()  # originals live in the release, not in git
     return f"https://github.com/{repo}/releases/download/{tag}/{asset}"
+
+
+def write_manifest() -> None:
+    """Write a dated manifest of every archived file's SHA-256 when the set of hashes changes.
+    The workflow stamps each new manifest with OpenTimestamps (Bitcoin-anchored proof)."""
+    rows = []
+    for side in sorted((ROOT / "records").rglob("*.json")):
+        m = load_json(side, None)
+        if m and m.get("sha256"):
+            rows.append(f"{m['sha256']}  {m['source_url']}  {side.relative_to(ROOT).with_suffix('')}")
+    if not rows:
+        return
+    rows.sort(key=lambda r: r.split("  ", 2)[2])
+    body = "\n".join(rows) + "\n"
+    mdir = ROOT / "manifests"
+    mdir.mkdir(exist_ok=True)
+    previous = sorted(mdir.glob("*.txt"))
+    if previous:
+        old = previous[-1].read_text(encoding="utf-8")
+        if old.split("\n\n", 1)[-1] == body:
+            return
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H%MZ")
+    header = (f"# East Lyme Records (unofficial) manifest {stamp}\n"
+              f"# {len(rows)} documents. Each line: SHA-256 of the original file, source URL, archive path.\n"
+              "# A matching .ots file is an OpenTimestamps proof that this exact list existed by the\n"
+              "# time of the Bitcoin block it names. Verify at https://opentimestamps.org\n\n")
+    (mdir / f"{stamp}.txt").write_text(header + body, encoding="utf-8")
+    log(f"manifest written: manifests/{stamp}.txt ({len(rows)} documents)")
 
 
 def write_report(today: str, rep: dict, initial: bool, incomplete: bool) -> None:
