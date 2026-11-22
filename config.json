@@ -1,6 +1,6 @@
 {
-  "user_agent": "east-lyme-records unofficial archiver (resident-run; contact via GitHub repository issues)",
-  "delay_seconds": 2,
+  "user_agent": "east-lyme-records unofficial public-records archiver (+https://github.com/GU57AV/east-lyme-records)",
+  "delay_seconds": 20,
   "min_hours_between_runs": 20,
   "original_storage": "release",
   "wayback_new_documents": true,

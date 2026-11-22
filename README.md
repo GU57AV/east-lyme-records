@@ -31,6 +31,12 @@ Currently archived: [Board of Selectmen](records/board-of-selectmen/INDEX.md).
 - Newly found documents are also submitted to the Internet Archive's Wayback Machine for an
   independent timestamp.
 
+## Load on the Town website
+
+The archiver identifies itself by name and a link to this repository, waits 20 seconds between
+requests (the delay the Town's robots.txt asks of search engines), and avoids the paths that file
+excludes. Daily checks read only the current year's listing pages; a full check runs weekly.
+
 ## Limits
 
 Text copies of scanned documents are made with OCR and may contain errors. Always rely on the

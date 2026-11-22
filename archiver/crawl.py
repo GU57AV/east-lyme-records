@@ -189,7 +189,7 @@ def load_json(p: Path, default):
         return default
 
 
-def crawl_board(f: Fetcher, board: dict) -> tuple[list[dict], bool]:
+def crawl_board(f: Fetcher, board: dict, full: bool = True) -> tuple[list[dict], bool]:
     """Return ([{url, link_text, listing_page}], complete) for every document."""
     base = board["url"]
     base_path = urlparse(base).path
@@ -200,7 +200,14 @@ def crawl_board(f: Fetcher, board: dict) -> tuple[list[dict], bool]:
         if p.netloc == urlparse(base).netloc and p.path.startswith(base_path) and p.path.rstrip("/") != base_path.rstrip("/"):
             if not is_doc(url) and url not in listings:
                 listings.append(url)
-    log(f"[{board['slug']}] {len(listings)} listing pages")
+    if not full:
+        # Daily runs only re-read the current and previous year's listings to keep load low;
+        # full runs (initial import, weekly recheck, manual) read everything.
+        yr = dt.date.today().year
+        recent = {str(yr), str(yr - 1), str(yr + 1)}
+        listings = [u for u in listings if any(y in urlparse(u).path for y in recent)
+                    or not re.search(r"(19|20)\d{2}", urlparse(u).path)]
+    log(f"[{board['slug']}] {len(listings)} listing pages{'' if full else ' (recent years only)'}")
     found, seen, complete = [], set(), True
     # Documents linked directly from the board page count too.
     pages = [(base, html)] + [(u, None) for u in listings]
@@ -243,7 +250,9 @@ def run(args) -> int:
     for board in cfg["boards"]:
         bdir = ROOT / "records" / board["slug"]
         try:
-            docs, complete = crawl_board(f, board)
+            full = initial or args.recheck or args.force
+            docs, complete = crawl_board(f, board, full)
+            complete = complete and full  # only mark removals after reading every listing
         except Exception as e:
             report["errors"].append(f"{board['slug']}: crawl failed: {e}")
             continue
