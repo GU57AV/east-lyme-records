@@ -1,0 +1,5 @@
+# Originals are stored as GitHub Release assets, not in git history.
+records/**/*.pdf
+records/**/*.doc
+records/**/*.docx
+__pycache__/

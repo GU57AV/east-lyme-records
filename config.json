@@ -1,0 +1,14 @@
+{
+  "user_agent": "east-lyme-records unofficial archiver (resident-run; contact via GitHub repository issues)",
+  "delay_seconds": 2,
+  "min_hours_between_runs": 20,
+  "original_storage": "release",
+  "wayback_new_documents": true,
+  "boards": [
+    {
+      "slug": "board-of-selectmen",
+      "name": "East Lyme Board of Selectmen",
+      "url": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/"
+    }
+  ]
+}
