@@ -232,7 +232,10 @@ def run(args) -> int:
     if not cfg:
         log("config not found")
         return 1
-    f = Fetcher(cfg.get("user_agent", "east-lyme-records-archiver"), float(cfg.get("delay_seconds", 2)))
+    ua = cfg.get("user_agent", "east-lyme-records-archiver")
+    if os.environ.get("GITHUB_REPOSITORY"):  # a fork identifies itself as the fork, not this repository
+        ua = re.sub(r"\(\+https://github\.com/[^)]*\)", f"(+https://github.com/{os.environ['GITHUB_REPOSITORY']})", ua)
+    f = Fetcher(ua, float(cfg.get("delay_seconds", 2)))
     state_path = ROOT / "state" / "state.json"
     state = load_json(state_path, {"initial_import_complete": False, "runs": 0})
     imported = set(state.get("boards_imported", []))
