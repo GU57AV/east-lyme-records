@@ -376,56 +376,99 @@ def run(args) -> int:
     return 0
 
 
-def process_watch(f: Fetcher, cfg: dict, w: dict, report: dict) -> None:
-    """Fetch one watched file; archive a new version whenever its content changes."""
-    folder = ROOT / "records" / "watched" / w["slug"]
-    side = folder / f"{w['slug']}.json"
+def archive_single(f: Fetcher, cfg: dict, url: str, name: str, folder: Path, slug: str,
+                   release_tag: str, report: dict) -> bytes | None:
+    """Fetch one file at a fixed address and archive a new version whenever its content changes.
+    Returns the file's bytes when it was downloaded (new or changed), else None."""
+    side = folder / f"{slug}.json"
     meta = load_json(side, None)
     headers = {}
     if meta and meta.get("etag"):
         headers["If-None-Match"] = meta["etag"]
     if meta and meta.get("http_last_modified"):
         headers["If-Modified-Since"] = meta["http_last_modified"]
-    r = f.get(w["url"], headers=headers)
+    r = f.get(url, headers=headers)
     if r.status_code == 304:
-        return
+        return None
     if r.status_code != 200:
         if meta and r.status_code == 404 and not meta.get("removed_from_listing_utc"):
             meta["removed_from_listing_utc"] = now_utc()
             side.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
-            report["removed"].append(f"{w['name']} (HTTP 404) — {w['url']}")
+            report["removed"].append(f"{name} (HTTP 404) — {url}")
         else:
-            report["errors"].append(f"{w['url']}: HTTP {r.status_code}")
-        return
+            report["errors"].append(f"{url}: HTTP {r.status_code}")
+        return None
     data = r.content
     sha = hashlib.sha256(data).hexdigest()
     if meta and meta.get("sha256") == sha:
-        return
+        return data
     folder.mkdir(parents=True, exist_ok=True)
-    ext = Path(urlparse(w["url"]).path).suffix.lower() or ".pdf"
-    doc_path = folder / f"{w['slug']}{ext}"
+    ext = Path(urlparse(url).path).suffix.lower() or ".pdf"
+    doc_path = folder / f"{slug}{ext}"
     doc_path.write_bytes(data)
     text, method = extract_text(doc_path)
-    stored = store_original(cfg, "watched", w["slug"], doc_path, w["slug"], ext, sha)
+    stored = store_original(cfg, "watched", release_tag, doc_path, slug, ext, sha)
+    lm = r.headers.get("Last-Modified")
     versions = (meta or {}).get("versions", [])
     versions.append({"sha256": sha, "bytes": len(data), "retrieved_utc": now_utc(),
-                     "http_last_modified": r.headers.get("Last-Modified"), "original_copy": stored})
+                     "http_last_modified": lm, "original_copy": stored})
     new_meta = {
         "board": "watched", "kind": "watched-file", "year": "", "subcommittee": False,
-        "link_text": w["name"], "filename": Path(urlparse(w["url"]).path).name,
-        "source_url": w["url"], "listing_page": w["url"], "upload_folder": None,
+        "link_text": name, "filename": Path(urlparse(url).path).name,
+        "source_url": url, "listing_page": url, "upload_folder": None,
         "first_seen_utc": meta["first_seen_utc"] if meta else now_utc(),
-        "seen_in_initial_import": False if meta else True,
+        "seen_in_initial_import": meta.get("seen_in_initial_import", True) if meta else True,
         "sha256": sha, "bytes": len(data), "pages": pdf_pages(doc_path) if ext == ".pdf" else None,
-        "http_last_modified": r.headers.get("Last-Modified"), "etag": r.headers.get("ETag"),
+        "http_last_modified": lm, "etag": r.headers.get("ETag"),
         "text_method": method, "original_copy": stored, "versions": versions,
     }
     side.write_text(json.dumps(new_meta, indent=2) + "\n", encoding="utf-8")
-    write_text_copy(folder / f"{w['slug']}.md", new_meta, text)
-    lm = r.headers.get("Last-Modified")
-    (report["changed"] if meta else report["new"]).append(
-        f"{w['name']} (server last-modified: {lm}) — {w['url']}")
-    log(f"  watched {'changed' if meta else 'first copy'}: {w['url']}")
+    write_text_copy(folder / f"{slug}.md", new_meta, text)
+    (report["changed"] if meta else report["new"]).append(f"{name} (server last-modified: {lm}) — {url}")
+    log(f"  watched {'changed' if meta else 'first copy'}: {url}")
+    return data
+
+
+def pdf_links(data: bytes) -> list[str]:
+    """Web links embedded in a PDF's link annotations."""
+    found = re.findall(rb"/URI\s*\(([^)]*)\)", data)
+    out = []
+    for raw in found:
+        u = raw.decode("latin-1").strip()
+        if u.lower().startswith(("http://", "https://")) and u not in out:
+            out.append(u)
+    return out
+
+
+def process_watch(f: Fetcher, cfg: dict, w: dict, report: dict) -> None:
+    folder = ROOT / "records" / "watched" / w["slug"]
+    data = archive_single(f, cfg, w["url"], w["name"], folder, w["slug"], w["slug"], report)
+    if not w.get("follow_links"):
+        return
+    links_file = folder / "links.json"
+    known = load_json(links_file, {})
+    if data is None:
+        current = [u for u, v in known.items() if not v.get("unlinked_utc")]
+    else:
+        current = pdf_links(data)
+        host = urlparse(w["url"]).netloc
+        if w.get("same_host_only", True):
+            current = [u for u in current if urlparse(u).netloc == host]
+        for u in current:
+            if u not in known:
+                known[u] = {"first_linked_utc": now_utc()}
+            known[u].pop("unlinked_utc", None)
+        for u, v in known.items():
+            if u not in current and not v.get("unlinked_utc"):
+                v["unlinked_utc"] = now_utc()
+                report["removed"].append(f"Link removed from {w['name']} — {u}")
+        folder.mkdir(parents=True, exist_ok=True)
+        links_file.write_text(json.dumps(known, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    # Every document the list links to is hashed and re-checked on each run.
+    for u in current:
+        name = Path(urlparse(u).path).name
+        archive_single(f, cfg, u, f"{name} (linked from {w['name']})", folder / "linked",
+                       safe_name(Path(name).stem), w["slug"], report)
 
 
 _releases: set[str] = set()

@@ -21,6 +21,12 @@ and the earlier version stays in the history.
 
 Currently archived: [Board of Selectmen](records/board-of-selectmen/INDEX.md).
 
+Also watched on every run (about every three hours): American Legal Publishing's
+[Advance Legislative Service list](https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf)
+of new East Lyme ordinances not yet in the Code, and every ordinance it links to. Each is hashed;
+any change, new link, or removed link is recorded in [`records/watched/`](records/watched) and the
+change reports, along with the publisher's server date for each version.
+
 ## How to read the dates
 
 - **Archived / first seen** is when this archive first found the document. For documents that were

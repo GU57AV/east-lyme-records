@@ -15,7 +15,8 @@
     {
       "slug": "amlegal-advance-legislative-service",
       "name": "American Legal Publishing \u2014 East Lyme Advance Legislative Service (new ordinances not yet in the Code)",
-      "url": "https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf"
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf",
+      "follow_links": true
     }
   ]
 }
