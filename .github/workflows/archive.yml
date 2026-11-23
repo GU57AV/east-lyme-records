@@ -61,6 +61,10 @@ jobs:
           NTFY_REMINDER_TOPIC: ${{ secrets.NTFY_REMINDER_TOPIC }}
         run: python archiver/compliance.py --open-issues
 
+      - name: Build RSS feeds
+        continue-on-error: true
+        run: python archiver/feeds.py
+
       - name: Timestamp manifests on the Bitcoin blockchain (OpenTimestamps)
         continue-on-error: true
         run: |
@@ -82,7 +86,7 @@ jobs:
         run: |
           git config user.name "east-lyme-records bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A records changes state manifests reports README.md
+          git add -A records calendar feeds changes state manifests reports README.md
           if git diff --cached --quiet; then
             echo "No changes."
           else

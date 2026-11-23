@@ -252,10 +252,11 @@ def write_upcoming(items, now) -> None:
     out.parent.mkdir(exist_ok=True)
     lines = ["# Upcoming posting deadlines", "",
              f"_Updated {fmt(now)}. Unofficial and automatic._", "",
-             "Agendas for regular meetings come from each board's published schedule of meetings and are due at "
+             "Meetings come from the Town calendar (including special meetings, once they are on it) and from each "
+             "board's published schedule of meetings. Agendas and special-meeting notices are due at "
              "least 24 hours before the meeting; minutes are due within seven days after a meeting "
-             "(Connecticut FOI Act, CGS § 1-225). Special meetings can't be predicted, and a scheduled meeting may "
-             "be cancelled. Schedules are often scanned, so a date can occasionally be misread or missed.", ""]
+             "(Connecticut FOI Act, CGS § 1-225). A special meeting not yet on the calendar can't be predicted, "
+             "and a scheduled meeting may be cancelled. Schedules are often scanned, so a date can occasionally be misread or missed.", ""]
     if not items:
         lines.append("Nothing due in the next seven days that the archive knows of.")
     else:
@@ -264,6 +265,188 @@ def write_upcoming(items, now) -> None:
             lines.append(f"| {r['due_text']} | {r['kind']} | {r['board']} | {r['meeting'].strftime('%a %b %-d, %Y')} "
                          f"| {r['status']} |")
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def covered_boards(cfg: dict) -> set:
+    """Boards whose full history the archive has imported; checks only make sense for these."""
+    st = load_json(ROOT / "state" / "state.json", {})
+    got = set(st.get("boards_imported", []))
+    if not got and st.get("initial_import_complete"):
+        got = {"board-of-selectmen"}
+    return got
+
+
+def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
+    """Cross-check the Town calendar against posted agendas and minutes.
+
+    Returns (flags, notes, upcoming_items, summary). A calendar entry is matched to a posted
+    agenda first by the agenda file it links to, then by board and date. Entries created after
+    their own meeting date are ignored (they are corrections or mistakes, not notice)."""
+    import towncal
+    c = cfg.get("calendar") or {}
+    if not c:
+        return [], [], [], {}
+    covered = covered_boards(cfg)
+    aliases = c.get("aliases", [])
+    excl = re.compile(c.get("exclude", r"$^"), re.I)
+    cats = set(c.get("categories") or [])
+    since = dt.date.fromisoformat(c.get("flag_since", "2024-01-01"))
+    today = now.astimezone(ET).date()
+    name = lambda b: boards.get(b, b)
+    by_file, agendas, minutes, cal_posted = {}, {}, set(), set()
+    for side, m in docs:
+        fn = (m.get("filename") or "").lower()
+        if fn:
+            by_file[fn] = (side, m)
+        title = (m.get("link_text") or "") + " " + (m.get("filename") or "")
+        d = meeting_date(m.get("filename", ""), m.get("link_text", ""), default_year=m.get("year"))
+        if not d:
+            continue
+        if m.get("kind") == "agendas" and not re.search(r"schedule", title, re.I):
+            agendas.setdefault((m["board"], d), []).append((side, m))
+        elif m.get("kind") == "minutes":
+            minutes.add((m["board"], d, mtype(m)))
+    flags, notes, soon = [], [], []
+    summary = {"entries": 0, "matched": 0, "unmatched": {}, "not_covered": {}, "retroactive": 0, "rows": []}
+    for e in towncal.all_entries():
+        if e.get("removed_utc") or not e.get("begin"):
+            continue
+        title = e.get("title", "")
+        if (cats and e.get("category") not in cats) or excl.search(title):
+            continue
+        try:
+            begin = dt.datetime.strptime(e["begin"], "%Y-%m-%d %H:%M").replace(tzinfo=ET)
+        except ValueError:
+            continue
+        try:
+            added = dt.datetime.strptime(e["added"], "%Y-%m-%d %H:%M").replace(tzinfo=ET) if e.get("added") else None
+        except ValueError:
+            added = None
+        d = begin.date()
+        summary["entries"] += 1
+        linkbase = (e.get("link") or "").rsplit("/", 1)[-1].lower()
+        linked = by_file.get(linkbase) if linkbase else None
+        cancelled = bool(re.search(r"cancel", title + " " + linkbase, re.I))
+        special = bool(re.search(r"special|emergency", title, re.I))
+        slug, level = None, "flag"
+        for a in aliases:
+            if re.search(a[0], title, re.I):
+                slug, level = a[1], (a[2] if len(a) > 2 else "flag")
+                break
+        if linked:
+            slug = linked[1]["board"]
+        if not slug:
+            summary["unmatched"][title] = summary["unmatched"].get(title, 0) + 1
+            continue
+        if slug not in covered:
+            summary["not_covered"][name(slug)] = summary["not_covered"].get(name(slug), 0) + 1
+            continue
+        retro = bool(added and added.date() > d)
+        posted = linked or (agendas.get((slug, d)) or [None])[0]
+        link_only = bool(linkbase) and not posted and linkbase.endswith((".pdf", ".doc", ".docx"))
+        if posted or link_only:
+            summary["matched"] += 1
+            cal_posted.add((slug, d))
+        base = {"board": name(slug), "date": d.isoformat(), "title": f"Calendar: {title}",
+                "link": e["_file"], "source": e.get("link") or c.get("page", ""), "source_kind": "calendar",
+                "absent": "—", "seen": "—"}
+        # Public hearings have their own minutes; an entry for a hearing followed by a meeting counts as a meeting.
+        mt = "hearing" if re.search(r"hearing", title, re.I) and not re.search(
+            r"immed|follow|regular meeting|&", title, re.I) else "meeting"
+        has_min = (slug, d, mt) in minutes
+        if abs((d - today).days) <= 30:
+            summary["rows"].append({"begin": begin, "title": title, "board": name(slug), "cancelled": cancelled,
+                                    "agenda": ("posted" if posted else "linked on calendar" if link_only
+                                               else "not found"), "agenda_link": (link(posted[0]) if posted else None),
+                                    "minutes": has_min, "special": special})
+        if cancelled or retro:
+            summary["retroactive"] += int(retro and not cancelled)
+            continue
+        if begin > now:
+            if begin - now <= dt.timedelta(days=7):
+                due = begin - dt.timedelta(hours=24)
+                soon.append({"key": f"agenda:{slug}:False:{d}", "kind": "Special meeting notice" if special else "Agenda",
+                             "board": name(slug), "meeting": d, "due": due.date(),
+                             "due_text": f"by {due.strftime('%a %b %-d, %-I:%M %p')}",
+                             "status": "posted" if posted else ("linked on calendar" if link_only else "not posted yet")})
+            continue
+        if d < since:
+            continue
+        lvl = notes if level == "note" else flags
+        if not posted and not link_only:
+            lvl.append({**base, "key": f"cal-noagenda:{slug}:{d}:{e['occur_id']}",
+                        "rule": "Meeting on the Town calendar; no agenda found",
+                        "detail": f"The calendar lists “{title}” on {begin.strftime('%b %-d, %Y %-I:%M %p')}"
+                                  + (f" (entry created {added.strftime('%b %-d, %Y')})" if added else "")
+                                  + ". No agenda or notice for that date was found on the board's pages, and the "
+                                    "calendar entry links none."})
+        elif link_only:
+            notes.append({**base, "key": f"cal-linkonly:{slug}:{d}:{e['occur_id']}",
+                          "rule": "Agenda linked from the calendar but not on the board's page"})
+        if special and added and begin - added < dt.timedelta(hours=24):
+            notes.append({**base, "key": f"cal-late:{slug}:{d}:{e['occur_id']}",
+                          "rule": f"Special meeting added to the calendar {(begin - added).total_seconds() / 3600:.0f} "
+                                  "hours before it began (the calendar is not the legal notice; check the Clerk's filing)"})
+        if (today - d).days > 8 and not has_min:
+            lvl.append({**base, "key": f"missing-minutes:{slug}:False:{d}:{mt}",
+                        "rule": "No minutes found more than 8 days after the "
+                                + ("public hearing" if mt == "hearing" else "meeting"),
+                        "detail": f"The Town calendar lists “{title}” on {begin.strftime('%b %-d, %Y')}, and no "
+                                  "minutes for that date have appeared on the board's pages "
+                                  "(the meeting may not have been held)."})
+    # Minutes with no agenda anywhere: the after-the-fact check for meetings never on the calendar.
+    for side, m in docs:
+        if m.get("kind") != "minutes" or m["board"] not in covered:
+            continue
+        title = m.get("link_text") or m.get("filename") or ""
+        d = meeting_date(m.get("filename", ""), m.get("link_text", ""), default_year=m.get("year"))
+        if not d or d < since or re.search(r"hearing|workshop|site walk", title, re.I):
+            continue
+        if (m["board"], d) not in agendas and (m["board"], d) not in cal_posted:
+            emergency = bool(re.search(r"emergency", title, re.I))
+            notes.append({"board": name(m["board"]), "date": d.isoformat(), "title": title, "link": link(side),
+                          "source": m["source_url"], "key": f"min-noagenda:{m['source_url']}",
+                          "rule": "Minutes posted, but no agenda for that date on the board's page or the calendar"
+                                  + (" (an emergency special meeting may be held without 24 hours' notice; its minutes "
+                                     "must be posted within 72 hours and state the reason, CGS § 1-225(d))"
+                                     if emergency else "")})
+    return flags, notes, soon, summary
+
+
+def write_calendar_report(summary: dict, now: dt.datetime, cfg: dict) -> None:
+    out = ROOT / "reports" / "calendar.md"
+    out.parent.mkdir(exist_ok=True)
+    page = (cfg.get("calendar") or {}).get("page", "")
+    L = ["# Town calendar cross-check", "", f"_Updated {fmt(now)}. Unofficial and automatic._", "",
+         f"Meetings on the [Town calendar]({page}) in the 30 days before and after today, for boards whose "
+         "records this archive has fully imported, with whether an agenda and minutes have been posted. "
+         "Snapshots of the calendar, with every change to every entry, are kept in "
+         "[calendar/](../calendar/). The calendar is not the legal notice of a meeting, and entries can be "
+         "changed at any time, so this is a cross-check, not proof.", ""]
+    rows = sorted(summary.get("rows", []), key=lambda r: r["begin"], reverse=True)
+    if rows:
+        L += ["| When | Meeting | Board | Agenda | Minutes |", "|---|---|---|---|---|"]
+        for r in rows:
+            past = r["begin"] < now
+            ag = r["agenda"]
+            ag = f"[{ag}](../{r['agenda_link']})" if r["agenda_link"] else ag
+            mi = "cancelled" if r["cancelled"] else ("posted" if r["minutes"] else ("not yet" if past else "—"))
+            L.append(f"| {r['begin'].strftime('%a %b %-d, %Y %-I:%M %p')} | {r['title']} | {r['board']} | "
+                     f"{'—' if r['cancelled'] else ag} | {mi} |")
+        L.append("")
+    else:
+        L += ["No calendar entries for imported boards in this window.", ""]
+    nc = summary.get("not_covered", {})
+    if nc:
+        L += ["**Not checked yet** (board still being imported): "
+              + ", ".join(f"{k} ({v})" for k, v in sorted(nc.items())), ""]
+    um = summary.get("unmatched", {})
+    if um:
+        L += ["**Calendar entries for bodies this archive doesn't follow** (not checked): "
+              + ", ".join(f"{k} ({v})" for k, v in sorted(um.items(), key=lambda kv: -kv[1])[:40]), ""]
+    if summary.get("retroactive"):
+        L += [f"_{summary['retroactive']} calendar entries created after their own meeting date were ignored._", ""]
+    out.write_text("\n".join(L) + "\n", encoding="utf-8")
 
 
 def topic_hits(docs, topics: list[str]) -> dict:
@@ -301,12 +484,13 @@ def write_compliance(flags, notes, now) -> None:
         lines += [f"## Flags ({len(flags)})", "", "| Meeting date | Board | Document | Issue | Evidence |",
                   "|---|---|---|---|---|"]
         for f in sorted(flags, key=lambda x: x["date"], reverse=True):
-            lines.append(f"| {f['date']} | {f['board']} | [{f['title']}](../{f['link']}) ([Town]({f['source']})) "
+            lines.append(f"| {f['date']} | {f['board']} | [{f['title']}](../{f['link']}) ([{'calendar' if f.get('source_kind') == 'calendar' else 'Town'}]({f['source']})) "
                          f"| {f['rule']} | {f['detail']} |")
         lines.append("")
     if notes:
         lines += [f"## For review ({len(notes)})", "",
-                  "Amended agendas and cancellations posted late, and agendas whose meeting time couldn't be read.",
+                  "Amended agendas and cancellations posted late, agendas whose meeting time couldn't be read, and "
+                  "calendar cross-checks that need a person to look (see the [calendar report](calendar.md)).",
                   "", "| Meeting date | Board | Document | Note |", "|---|---|---|---|"]
         for n in sorted(notes, key=lambda x: x["date"], reverse=True):
             lines.append(f"| {n['date']} | {n['board']} | [{n['title']}](../{n['link']}) | {n['rule']} |")
@@ -355,8 +539,24 @@ def main() -> int:
     state = load_json(state_path, {"flags": [], "topic_docs": {}})
 
     flags, notes = deadline_flags(docs, boards, now)
+    cflags, cnotes, csoon, csum = calendar_checks(docs, boards, cfg, now)
+    if "calendar_seeded" not in state and csum:  # don't announce the calendar's history as new flags
+        state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in cflags})
+        state["calendar_seeded"] = now.isoformat(timespec="seconds")
+    seen_k = {(f["key"], f["rule"]) for f in flags}
+    flags += [f for f in cflags if (f["key"], f["rule"]) not in seen_k]
+    seen_k = {(n["key"], n["rule"]) for n in notes if "key" in n}
+    notes += [n for n in cnotes if (n["key"], n["rule"]) not in seen_k]
     write_compliance(flags, notes, now)
-    soon = upcoming(docs, boards, now)
+    if csum:
+        write_calendar_report(csum, now, cfg)
+    soon = csoon + upcoming(docs, boards, now)  # calendar first: it has exact times and special meetings
+    seen_k, merged = set(), []
+    for r in sorted(soon, key=lambda r: (r["due"], r["board"])):
+        if r["key"] not in seen_k:
+            seen_k.add(r["key"])
+            merged.append(r)
+    soon = merged
     write_upcoming(soon, now)
     import ordinances
     ords = ordinances.run(docs, doc_text, now, repo_url() + "/blob/main/")
@@ -404,7 +604,7 @@ def main() -> int:
     # Heads-up reminders, about a day before each deadline, to a separate optional topic.
     today = now.astimezone(ET).date()
     reminded = set(state.get("reminders", []))
-    due_soon = [r for r in soon if r["status"] != "posted" and r["due"] <= today + dt.timedelta(days=1)
+    due_soon = [r for r in soon if r["status"] == "not posted yet" and r["due"] <= today + dt.timedelta(days=1)
                 and r["key"] not in reminded]
     for r in due_soon:
         notify(f"Deadline tomorrow: {r['kind'].lower()} for {r['board']}",

@@ -33,7 +33,7 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from notify import notify, repo_url  # noqa: E402
+from notify import notify, record, repo_url  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DOC_EXT = (".pdf", ".doc", ".docx")
@@ -286,6 +286,19 @@ def run(args) -> int:
         if age < dt.timedelta(hours=float(cfg.get("min_hours_between_runs", 20))):
             log(f"last full run {age} ago; doing a quick check of current agenda pages")
             args.quick = True
+
+    # Town calendar: one request per month, recent and upcoming months every run.
+    try:
+        import towncal
+        cal = towncal.sync(f, cfg, state, deadline, quick=args.quick, log=log)
+        towncal.write_changes(today, cal)
+        for kind in ("new", "changed", "removed", "restored"):
+            for line in cal[kind]:
+                record(line.split(" — ")[0], line, repo_url("reports/calendar.md"), feed="calendar")
+        if cal["new"] or cal["changed"] or cal["removed"]:
+            write_manifest()
+    except Exception as e:  # noqa: BLE001  (the calendar is a cross-check; never block the archive)
+        log(f"calendar sync failed: {e}")
 
     # Rotating verification: each full run re-downloads (conditionally) the N archived documents
     # checked longest ago, so silent replacements are caught without re-checking everything at once.
@@ -658,7 +671,8 @@ def write_manifest() -> None:
     """Write a dated manifest of every archived file's SHA-256 when the set of hashes changes.
     The workflow stamps each new manifest with OpenTimestamps (Bitcoin-anchored proof)."""
     rows = []
-    sides = sorted((ROOT / "records").rglob("*.json")) + sorted((ROOT / "code").rglob("*.json"))
+    sides = (sorted((ROOT / "records").rglob("*.json")) + sorted((ROOT / "code").rglob("*.json"))
+             + sorted((ROOT / "calendar").rglob("*.json")))
     for side in sides:
         m = load_json(side, None)
         if isinstance(m, dict) and m.get("sha256") and m.get("source_url"):

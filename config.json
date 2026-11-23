@@ -169,7 +169,7 @@
   "watch": [
     {
       "slug": "amlegal-advance-legislative-service",
-      "name": "American Legal Publishing \u2014 East Lyme Advance Legislative Service (new ordinances not yet in the Code)",
+      "name": "American Legal Publishing — East Lyme Advance Legislative Service (new ordinances not yet in the Code)",
       "url": "https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf",
       "follow_links": true
     }
@@ -186,5 +186,157 @@
     "executive session",
     "notice of adoption",
     "proposed ordinance"
-  ]
+  ],
+  "calendar": {
+    "page": "https://eltownhall.com/news-and-events/calendar/",
+    "api": "https://eltownhall.com/wp-json/my-calendar/v1/events",
+    "start": "2020-01",
+    "backfill_months_per_run": 24,
+    "flag_since": "2024-01-01",
+    "categories": [
+      "Meetings"
+    ],
+    "_aliases_help": "Calendar title pattern (case-insensitive regex) -> board slug, checked in order. 'note' puts findings under 'For review' instead of flags (used for subcommittees whose agendas may be posted elsewhere).",
+    "exclude": "referendum|primary|election|\\bfair\\b|night out|parade|fireworks|lecture|seminar|stroll|craft show|celebrate|swearing|touch-a-truck|ballpark|potluck|awards|\\bband\\b",
+    "aliases": [
+      [
+        "\\bWELSCO\\b|Waterford.{0,6}East Lyme Shellfish",
+        "waterford-east-lyme-shellfish-commission"
+      ],
+      [
+        "Harbor Management",
+        "harbor-mgt-shellfish-commission"
+      ],
+      [
+        "Zoning Board of Appeals|\\bZBA\\b",
+        "zoning-board-of-appeals"
+      ],
+      [
+        "^(BOS|Board of Selectmen)\\b",
+        "board-of-selectmen"
+      ],
+      [
+        "Town Meeting",
+        "town-meetings"
+      ],
+      [
+        "^Zoning\\b",
+        "zoning-commission"
+      ],
+      [
+        "^Planning\\b",
+        "planning-commission"
+      ],
+      [
+        "^(BOF|Board of Finance)\\b",
+        "board-of-finance"
+      ],
+      [
+        "^IWA\\b|Inland Wetlands",
+        "inland-wetlands-agency"
+      ],
+      [
+        "Police Commission",
+        "police-commission"
+      ],
+      [
+        "Sewer Capacity|Water ?(&|and) ?Sewer.*sub-?committee",
+        "water-sewer-commission",
+        "note"
+      ],
+      [
+        "^Water ?(&|and) ?Sewer|\\bWPCA\\b",
+        "water-sewer-commission"
+      ],
+      [
+        "Charter Revision",
+        "charter-revision-commission"
+      ],
+      [
+        "\\bSTR\\b|Short[- ]Term Rental",
+        "ad-hoc-short-term-rental-committee"
+      ],
+      [
+        "Aquifer",
+        "aquifer-protection-agency"
+      ],
+      [
+        "^BAA\\b|Assessment Appeals",
+        "board-of-assessment-appeals"
+      ],
+      [
+        "^(BOE|Board of Education)\\b",
+        "board-of-education"
+      ],
+      [
+        "^Brookside",
+        "brookside-farm-museum-commission"
+      ],
+      [
+        "Cable",
+        "cable-tv-advisory-council"
+      ],
+      [
+        "^COA\\b|Commission on Aging",
+        "commission-on-aging"
+      ],
+      [
+        "^CNRC?\\b|Conservation of Natural Resources",
+        "conservation-of-natural-resources-commission"
+      ],
+      [
+        "Library",
+        "east-lyme-public-library-meetings-page"
+      ],
+      [
+        "Economic Development|^EDC\\b",
+        "economic-development-commission"
+      ],
+      [
+        "Fair Rent",
+        "fair-rent-commission"
+      ],
+      [
+        "Hazard Mitigation",
+        "hazard-mitigation-plan-committee"
+      ],
+      [
+        "^Health ?(&|and) ?Safety\\b",
+        "health-safety-committee"
+      ],
+      [
+        "Historic Properties",
+        "historic-properties-commission"
+      ],
+      [
+        "^(NRWC|Niantic River Watershed)",
+        "niantic-river-watershed-committee"
+      ],
+      [
+        "Dog Park|Darrow Pond|Multi-Sport|Playground",
+        "parks-recreation-commission",
+        "note"
+      ],
+      [
+        "^Parks ?(&|and) ?Rec",
+        "parks-recreation-commission"
+      ],
+      [
+        "^Pension",
+        "pension-board"
+      ],
+      [
+        "Town Building Committee",
+        "town-building-committee"
+      ],
+      [
+        "^(YFHS|Youth,? Family)",
+        "yfhs-commission"
+      ],
+      [
+        "Youth Services",
+        "youth-services-commission"
+      ]
+    ]
+  }
 }

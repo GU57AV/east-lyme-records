@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East Lyme records: deadline reminders</title>
+    <link>https://github.com/GU57AV/east-lyme-records</link>
+    <description>Heads-up about a day before an agenda or minutes posting deadline that hasn't been met yet. Unofficial; the Town's website is the official source.</description>
+    <atom:link href="https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <ttl>180</ttl>
+  </channel>
+</rss>

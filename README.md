@@ -12,6 +12,10 @@ remains the official source.
 | [Text of every document (ZIP)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records-text.zip) | Every agenda, minutes and notice as a plain text file, in folders by board and year, plus the Charter and Code | Any computer: unzip and use its normal search |
 | [Searchable database (SQLite)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records.sqlite) | All of the above in one file with full-text search | Free [DB Browser for SQLite](https://sqlitebrowser.org) |
 
+**Want to follow along?** Paste one of these into any news-reader (RSS) app: [new documents](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/documents.xml) ·
+[alerts](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/alerts.xml) · [deadline reminders](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml) · [Town calendar changes](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml).
+See [Getting updates](#getting-updates).
+
 ## Start here: how to use this archive (plain English)
 
 New to GitHub? This section walks through everything step by step. You don't need an account to
@@ -208,6 +212,17 @@ Two automatic reports are built from what the archive records:
   Town's website. "Not found" means not found in what this archive saves, and filing with the Town Clerk
   or newspaper publication can't be checked from here.
 
+- **[Town calendar cross-check](https://github.com/GU57AV/east-lyme-records/blob/main/reports/calendar.md).** The Town's online calendar lists
+  meetings, including special meetings, often days before they happen. The archive keeps a dated copy of
+  the calendar (in [`calendar/`](calendar), with every change to every entry: added, moved, retitled
+  "cancelled" or deleted) and compares it with what's posted. It flags a calendar meeting with no agenda on
+  the board's page, and a meeting with no minutes more than eight days later. It notes minutes posted for a
+  date with no agenda anywhere, which can catch a meeting that was never on the calendar at all. And it
+  notes a special meeting put on the calendar less than 24 hours ahead. Upcoming calendar meetings also feed
+  the [upcoming deadlines](https://github.com/GU57AV/east-lyme-records/blob/main/reports/upcoming.md) page, so special meetings show up there too.
+  The calendar isn't the legal notice of a meeting (that's the notice filed with the Town Clerk), and
+  entries can change, so these are leads, not proof.
+
 When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
 **issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
 [Getting updates](#getting-updates)), you get those by email.
@@ -238,8 +253,19 @@ first import of a large board takes a while.
 
 ### Getting updates
 
-- **News reader (RSS):** add [this feed](https://github.com/GU57AV/east-lyme-records/commits/main.atom) to any news reader app to see each
-  update as it's saved.
+- **News reader (RSS), no account needed:** copy one of these addresses into any news-reader app
+  (Feedly, Inoreader, NetNewsWire, Outlook and most email programs can do this):
+  - **New documents:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/documents.xml`, each agenda, minutes file or notice newly posted
+    on the Town website, with links to the Town's original and the archived copy.
+  - **Alerts:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/alerts.xml`, possible missed deadlines, watched topics, ordinance notices,
+    and documents the Town changed or removed. The same things the push notifications cover.
+  - **Deadline reminders:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml`, a heads-up about a day before an agenda or
+    minutes deadline that hasn't been met yet.
+  - **Town calendar changes:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml`, meetings added, moved, cancelled or removed.
+
+  The documents feed only lists documents posted after this archive started watching each board, so it
+  starts out short. For every saved change, technical or not, there's also the
+  [commit feed](https://github.com/GU57AV/east-lyme-records/commits/main.atom).
 - **GitHub account:** click **Watch** at the top of the main page, then **Custom**, and tick
   **Releases** and **Issues** to get emails about new originals, deadline flags and topic alerts.
 
@@ -344,6 +370,13 @@ See the [list of archived boards](records/README.md).
 
 Also here: a searchable copy of the **[Town Charter and Code of Ordinances](code/README.md)**, one page per
 chapter, from American Legal Publishing's 2025 S-7 edition (current through April 16, 2025).
+
+Also kept: dated snapshots of the **Town calendar** in [`calendar/`](calendar), one file per month, read
+from the public data feed of the calendar on the Town website (one request per month). Each entry keeps the
+time the archive first saw it and every later change, and each month file's checksum is included in the
+blockchain-timestamped manifests. See the [calendar cross-check](reports/calendar.md).
+
+**RSS feeds** in [`feeds/`](feeds) are rebuilt on every run.
 
 Also watched on every run (about every three hours): American Legal Publishing's
 [Advance Legislative Service list](https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf)
@@ -456,3 +489,20 @@ computer's scheduler (Task Scheduler on Windows, `cron` on Mac or Linux).
 Edit `config.json`: each entry under `boards` is one Town board page, and each entry under `watch` is
 one file checked every run. A newly added board gets its own first import, marked as such, so its older
 documents aren't reported as newly posted.
+
+The `calendar` section points at the Town calendar's data feed and maps calendar titles (like "BOS" or
+"IWA (Special)") to boards with patterns, checked in order. It works with any town site that uses the
+WordPress "My Calendar" plugin; remove the section to turn the calendar off. Entries whose titles match no
+pattern are listed in the calendar report but never flagged.
+
+## License
+
+The archiver code in this repository (the `archiver/` folder and the GitHub Actions workflows) is free
+software: you can redistribute it and/or modify it under the terms of the
+[GNU General Public License, version 3](LICENSE), as published by the Free Software Foundation. It comes
+with no warranty. If you share a modified version, you must share its source under the same license.
+
+The Town's documents saved here are public records and are not covered by this license. The copy of the
+Charter and Code is from American Legal Publishing's online edition and is provided for reference.
+
+Copyright (C) 2026 GU57AV.
