@@ -91,8 +91,15 @@ jobs:
             echo "No changes."
           else
             git commit -q -m "Archive update $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase -q origin main
-            git push
+            # Index, report and state files are rebuilt by every run. If someone pushed while this run was
+            # working and the same lines changed, keep this run's (newer) version instead of failing.
+            ok=""
+            for i in 1 2 3; do
+              if git pull --rebase -X theirs -q origin main && git push -q; then ok=1; break; fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((i * 15))
+            done
+            [ -n "$ok" ] || { echo "Could not save this run's changes"; exit 1; }
           fi
 
       - name: Start the next batch if the initial import is unfinished
