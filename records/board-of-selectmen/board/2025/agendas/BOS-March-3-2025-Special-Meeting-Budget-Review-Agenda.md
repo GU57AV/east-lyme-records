@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T23:05:34+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2025/agendas/BOS-March-3-2025-Special-Meeting-Budget-Review-Agenda.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-March-3-2025-Special-Meeting-Budget-Review-Agenda--3cb1db8ef949.pdf
 
 ```text
                      EAST LYME BOARD OF SELECTMEN

@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T22:13:45+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2027/agendas/BOS-2027-Schedule-of-Meetings.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2027/BOS-2027-Schedule-of-Meetings--a4d781ccf885.pdf
 
 ```text
               Town of                                                         East Lyme

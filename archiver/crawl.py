@@ -508,7 +508,7 @@ def store_original(cfg: dict, board: str, year: str, path: Path, stem: str, ext:
         tmp = Path(td) / asset
         shutil.copyfile(path, tmp)
         r = subprocess.run(["gh", "release", "upload", tag, str(tmp)], capture_output=True, text=True)
-    if r.returncode != 0 and "already_exists" not in r.stderr:
+    if r.returncode != 0 and "already" not in (r.stderr + r.stdout).lower():
         log(f"  release upload failed for {asset}: {r.stderr.strip()}")
         return str(path.relative_to(ROOT))
     path.unlink()  # originals live in the release, not in git

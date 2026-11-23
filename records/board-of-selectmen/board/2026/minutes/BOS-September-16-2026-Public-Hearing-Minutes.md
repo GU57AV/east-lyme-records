@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T22:38:36+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2026/minutes/BOS-September-16-2026-Public-Hearing-Minutes.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-September-16-2026-Public-Hearing-Minutes--e9ccbfddaa81.pdf
 
 ```text
                             EAST LYME BOARD OF SELECTMEN

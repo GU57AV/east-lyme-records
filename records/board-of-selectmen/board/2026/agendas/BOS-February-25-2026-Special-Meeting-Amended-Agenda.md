@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T22:28:43+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2026/agendas/BOS-February-25-2026-Special-Meeting-Amended-Agenda.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-February-25-2026-Special-Meeting-Amended-Agenda--7330528ac4f3.pdf
 
 ```text
                          EAST LYME BOARD OF SELECTMEN

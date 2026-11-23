@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T22:16:49+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2026/agendas/Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26--bda605cd0122.pdf
 
 ```text
 Town of East Lyme, Connecticut

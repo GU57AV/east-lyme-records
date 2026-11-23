@@ -9,7 +9,7 @@ text_method: pdftotext
 first_seen_utc: 2026-11-22T22:36:12+00:00
 ---
 
-> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2026/agendas/BOS-January-7-2026-Public-Hearing-Notice-With-Draft-Ordinance-1.pdf
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-January-7-2026-Public-Hearing-Notice-With-Draft-Ordinance-1--6490c5fe0a39.pdf
 
 ```text
                                  TOWN OF EAST LYINE
