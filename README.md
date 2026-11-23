@@ -18,6 +18,7 @@ look at anything here. You only need one if you want to report a problem or get 
 [What the dates mean](#what-the-dates-mean) ·
 [Checking a document is genuine](#checking-that-a-document-is-genuine) ·
 [The blockchain proofs](#the-blockchain-proofs-explained-simply) ·
+[Deadline report and topic alerts](#deadline-report-and-topic-alerts) ·
 [How often it checks](#how-often-it-checks) ·
 [Downloading everything](#downloading-everything) ·
 [Getting updates](#getting-updates) ·
@@ -154,10 +155,38 @@ To check a proof yourself:
 
 New proofs say "pending" for a few hours until Bitcoin confirms them. That's normal.
 
+### Deadline report and topic alerts
+
+Two automatic reports are built from what the archive records:
+
+- **[Posting-deadline report](https://github.com/GU57AV/east-lyme-records/blob/main/reports/compliance.md).** Connecticut's Freedom of Information
+  Act (CGS § 1-225) says a meeting's agenda must be available at least 24 hours before the meeting, and its
+  minutes within seven days after. For every agenda and set of minutes posted after the archive started,
+  the report checks whether the Town met those deadlines and lists anything that appears late, plus
+  meetings with an agenda but no minutes after eight days.
+
+  How it decides: the archive notes the last time it checked a Town page and the document *wasn't* there,
+  and the first time it was. The document was posted somewhere in between. Something is flagged only when
+  it was provably missing at a check made after its deadline. Each flag shows those times so you can
+  judge it yourself.
+
+  A flag is a lead, not a finding. A document posted on a page the archive doesn't watch, a cancelled
+  meeting, or a misread date can all cause one. Amended agendas are listed separately for review, since
+  adding items late can be allowed.
+- **[Topic index](https://github.com/GU57AV/east-lyme-records/blob/main/reports/topics.md).** Every archived document mentioning each watched
+  topic, such as "speed camera," "Altumint," "license plate," "executive session" or "proposed ordinance,"
+  with a short excerpt and a link. The list of topics is in `config.json` under `topics`.
+
+When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
+**issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
+[Getting updates](#getting-updates)), you get those by email.
+
 ### How often it checks
 
 - **About every three hours:** the code publisher's list of new East Lyme ordinances, and every
   ordinance it links to.
+- **About every three hours:** each board's agenda page for the current year, so a new agenda's posting
+  time is known to within a few hours.
 - **Once a day:** each board's current listing pages, for anything new or removed.
 - **Every day, a rotating batch:** 150 previously saved documents are downloaded again and compared
   with their fingerprints, to catch files the Town replaced without renaming. Recent years come first.
@@ -178,7 +207,7 @@ first import of a large board takes a while.
 - **News reader (RSS):** add [this feed](https://github.com/GU57AV/east-lyme-records/commits/main.atom) to any news reader app to see each
   update as it's saved.
 - **GitHub account:** click **Watch** at the top of the main page, then **Custom**, and tick
-  **Releases** and **Issues** to get emails about new originals and reported problems.
+  **Releases** and **Issues** to get emails about new originals, deadline flags and topic alerts.
 
 ### Words used here
 

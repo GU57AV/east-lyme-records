@@ -189,11 +189,15 @@ def load_json(p: Path, default):
         return default
 
 
-def crawl_board(f: Fetcher, board: dict, full: bool = True) -> tuple[list[dict], bool]:
-    """Return ([{url, link_text, listing_page}], complete) for every document."""
+def crawl_board(f: Fetcher, board: dict, full: bool = True, quick: bool = False,
+                checks: dict | None = None) -> tuple[list[dict], bool]:
+    """Return ([{url, link_text, listing_page}], complete) for every document.
+    `checks` records when each listing page was read, for posting-window evidence."""
     base = board["url"]
     base_path = urlparse(base).path
     html = f.get(base).text
+    if checks is not None:
+        checks[base] = now_utc()
     listings = []
     for url, text in main_links(html, base):
         p = urlparse(url)
@@ -207,7 +211,14 @@ def crawl_board(f: Fetcher, board: dict, full: bool = True) -> tuple[list[dict],
         recent = {str(yr), str(yr - 1), str(yr + 1)}
         listings = [u for u in listings if any(y in urlparse(u).path for y in recent)
                     or not re.search(r"(19|20)\d{2}", urlparse(u).path)]
-    log(f"[{board['slug']}] {len(listings)} listing pages{'' if full else ' (recent years only)'}")
+    if quick:
+        # Frequent checks between daily runs: only this year's (and next year's) agenda pages,
+        # so a newly posted agenda's posting time is known to within a few hours.
+        yr = dt.date.today().year
+        listings = [u for u in listings if re.search(r"agenda", urlparse(u).path, re.I)
+                    and any(str(y) in urlparse(u).path for y in (yr, yr + 1))]
+    log(f"[{board['slug']}] {len(listings)} listing pages"
+        f"{' (current agendas only)' if quick else '' if full else ' (recent years only)'}")
     found, seen, complete = [], set(), True
     # Documents linked directly from the board page count too.
     pages = [(base, html)] + [(u, None) for u in listings]
@@ -219,6 +230,8 @@ def crawl_board(f: Fetcher, board: dict, full: bool = True) -> tuple[list[dict],
                 complete = False
                 continue
             body = r.text
+            if checks is not None:
+                checks[url] = now_utc()
         for doc, text in main_links(body, url):
             if is_doc(doc) and doc not in seen:
                 seen.add(doc)
@@ -262,15 +275,15 @@ def run(args) -> int:
     if not initial and not args.force and state.get("last_full_run_utc"):
         age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(state["last_full_run_utc"])
         if age < dt.timedelta(hours=float(cfg.get("min_hours_between_runs", 20))):
-            log(f"last run {age} ago; nothing to do (use --force to run anyway)")
-            return 0
+            log(f"last full run {age} ago; doing a quick check of current agenda pages")
+            args.quick = True
 
     # Rotating verification: each full run re-downloads (conditionally) the N archived documents
     # checked longest ago, so silent replacements are caught without re-checking everything at once.
     verified_path = ROOT / "state" / "verified.json"
     verified = load_json(verified_path, {})
     verify_set: set[str] = set()
-    if args.verify and not initial:
+    if args.verify and not initial and not args.quick:
         pool = []
         for side in (ROOT / "records").rglob("*.json"):
             if side.parent.name == "linked" or "watched" in side.parts:
@@ -284,13 +297,15 @@ def run(args) -> int:
         verify_set = {u for _, _, u in pool[:args.verify]}
         log(f"verifying {len(verify_set)} archived documents (recent years first, oldest check first)")
 
+    prev_checks = dict(state.get("listing_checks", {}))
+    page_checks: dict = {}
     for board in cfg["boards"]:
         bdir = ROOT / "records" / board["slug"]
         binit = board["slug"] not in imported  # this board's first (initial) import
         brep = init_report if binit else report
         board_incomplete = False
-        if binit and time.monotonic() > deadline:
-            incomplete = True
+        if binit and (args.quick or time.monotonic() > deadline):
+            incomplete = incomplete or not args.quick
             continue
         try:
             full = binit or args.recheck or args.force
@@ -303,8 +318,8 @@ def run(args) -> int:
                 docs, complete = cache["docs"], False
                 log(f"[{board['slug']}] using cached list of {len(docs)} documents from {cache['at']}")
             else:
-                docs, complete = crawl_board(f, board, full)
-                complete = complete and full  # only mark removals after reading every listing
+                docs, complete = crawl_board(f, board, full and not args.quick, args.quick, page_checks)
+                complete = complete and full and not args.quick  # removals only after reading every listing
                 if binit:
                     state["doc_cache"][board["slug"]] = {"at": now_utc(), "docs": docs}
         except Exception as e:
@@ -383,6 +398,10 @@ def run(args) -> int:
                 "upload_folder": c["upload_folder"],
                 "first_seen_utc": first_seen,
                 "seen_in_initial_import": binit if not meta else meta.get("seen_in_initial_import", binit),
+                # The last time the listing page was read without this document on it: the document
+                # was posted after this moment and no later than first_seen_utc.
+                "not_on_site_at_utc": (meta or {}).get("not_on_site_at_utc") if meta
+                else (None if binit else prev_checks.get(d["listing_page"])),
                 "sha256": sha,
                 "bytes": len(data),
                 "pages": pdf_pages(doc_path) if ext == ".pdf" else None,
@@ -412,10 +431,11 @@ def run(args) -> int:
             state.get("doc_cache", {}).pop(board["slug"], None)
             log(f"[{board['slug']}] initial import complete")
 
+    state.setdefault("listing_checks", {}).update(page_checks)
     write_master_index(cfg, imported)
     state["boards_imported"] = sorted(imported)
     state["initial_import_complete"] = all(b["slug"] in imported for b in cfg["boards"])
-    if not incomplete:
+    if not incomplete and not args.quick:
         state.pop("doc_cache", None)
         state["last_full_run_utc"] = now_utc()
     state["runs"] = state.get("runs", 0) + 1
@@ -792,4 +812,5 @@ if __name__ == "__main__":
     ap.add_argument("--verify", type=int, default=0, help="re-check this many archived documents (rotating)")
     ap.add_argument("--time-budget", type=float, default=0, help="stop starting new downloads after N minutes")
     ap.add_argument("--force", action="store_true", help="run even if a full run happened recently")
+    ap.add_argument("--quick", action="store_true", help="only check current agenda pages")
     sys.exit(run(ap.parse_args()))

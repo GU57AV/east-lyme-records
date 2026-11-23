@@ -2,8 +2,8 @@ name: Archive East Lyme meeting records
 
 on:
   schedule:
-    # Every 3 hours. While the initial import is running, each run adds the next batch.
-    # After that, the script only does a full check about once a day and exits early otherwise.
+    # Every 3 hours. While an initial import is running, each run adds the next batch.
+    # After that, one run a day is a full check; the others quickly check current agenda pages.
     - cron: "23 */3 * * *"
   workflow_dispatch:
     inputs:
@@ -15,6 +15,7 @@ on:
 permissions:
   contents: write
   actions: write   # lets an unfinished initial import start its next batch right away
+  issues: write    # posting-deadline and topic alerts
 
 concurrency:
   group: archive
@@ -47,6 +48,12 @@ jobs:
           ARGS="$ARGS --verify 150"
           python archiver/crawl.py $ARGS
 
+      - name: Check posting deadlines and watched topics
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python archiver/compliance.py --open-issues
+
       - name: Timestamp manifests on the Bitcoin blockchain (OpenTimestamps)
         continue-on-error: true
         run: |
@@ -68,7 +75,7 @@ jobs:
         run: |
           git config user.name "east-lyme-records bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A records changes state manifests README.md
+          git add -A records changes state manifests reports README.md
           if git diff --cached --quiet; then
             echo "No changes."
           else
