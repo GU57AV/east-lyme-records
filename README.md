@@ -46,6 +46,17 @@ document, compute its hash (`certutil -hashfile file.pdf SHA256` on Windows,
 
 Proofs start as "pending" and are completed automatically on a later run, usually within a few hours.
 
+### Proofs so far
+
+Each row shows when that list of documents was anchored. Click the block number to see the block,
+and its time, on a public Bitcoin block explorer.
+
+<!-- proofs:start -->
+| Manifest | Documents | Bitcoin block | Block time | Proof |
+|---|---|---|---|---|
+| _none yet_ | | | | |
+<!-- proofs:end -->
+
 ## Load on the Town website
 
 The archiver identifies itself by name and a link to this repository, waits 20 seconds between
