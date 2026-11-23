@@ -241,6 +241,17 @@ def run(args) -> int:
     processed = 0
     incomplete = False
     deadline = time.monotonic() + args.time_budget * 60 if args.time_budget else float("inf")
+    # Individually watched files (e.g., the code publisher's list of new ordinances) are
+    # checked on every run, since each is a single request.
+    watch_report = {"new": [], "changed": [], "removed": [], "restored": [], "errors": []}
+    for w in cfg.get("watch", []):
+        try:
+            process_watch(f, cfg, w, watch_report)
+        except Exception as e:
+            watch_report["errors"].append(f"{w['url']}: {e}")
+    if any(watch_report.values()):
+        write_report(today, watch_report, False, False, heading="Watched files")
+        write_manifest()
     if not initial and not args.force and state.get("last_full_run_utc"):
         age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(state["last_full_run_utc"])
         if age < dt.timedelta(hours=float(cfg.get("min_hours_between_runs", 20))):
@@ -365,6 +376,58 @@ def run(args) -> int:
     return 0
 
 
+def process_watch(f: Fetcher, cfg: dict, w: dict, report: dict) -> None:
+    """Fetch one watched file; archive a new version whenever its content changes."""
+    folder = ROOT / "records" / "watched" / w["slug"]
+    side = folder / f"{w['slug']}.json"
+    meta = load_json(side, None)
+    headers = {}
+    if meta and meta.get("etag"):
+        headers["If-None-Match"] = meta["etag"]
+    if meta and meta.get("http_last_modified"):
+        headers["If-Modified-Since"] = meta["http_last_modified"]
+    r = f.get(w["url"], headers=headers)
+    if r.status_code == 304:
+        return
+    if r.status_code != 200:
+        if meta and r.status_code == 404 and not meta.get("removed_from_listing_utc"):
+            meta["removed_from_listing_utc"] = now_utc()
+            side.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
+            report["removed"].append(f"{w['name']} (HTTP 404) — {w['url']}")
+        else:
+            report["errors"].append(f"{w['url']}: HTTP {r.status_code}")
+        return
+    data = r.content
+    sha = hashlib.sha256(data).hexdigest()
+    if meta and meta.get("sha256") == sha:
+        return
+    folder.mkdir(parents=True, exist_ok=True)
+    ext = Path(urlparse(w["url"]).path).suffix.lower() or ".pdf"
+    doc_path = folder / f"{w['slug']}{ext}"
+    doc_path.write_bytes(data)
+    text, method = extract_text(doc_path)
+    stored = store_original(cfg, "watched", w["slug"], doc_path, w["slug"], ext, sha)
+    versions = (meta or {}).get("versions", [])
+    versions.append({"sha256": sha, "bytes": len(data), "retrieved_utc": now_utc(),
+                     "http_last_modified": r.headers.get("Last-Modified"), "original_copy": stored})
+    new_meta = {
+        "board": "watched", "kind": "watched-file", "year": "", "subcommittee": False,
+        "link_text": w["name"], "filename": Path(urlparse(w["url"]).path).name,
+        "source_url": w["url"], "listing_page": w["url"], "upload_folder": None,
+        "first_seen_utc": meta["first_seen_utc"] if meta else now_utc(),
+        "seen_in_initial_import": False if meta else True,
+        "sha256": sha, "bytes": len(data), "pages": pdf_pages(doc_path) if ext == ".pdf" else None,
+        "http_last_modified": r.headers.get("Last-Modified"), "etag": r.headers.get("ETag"),
+        "text_method": method, "original_copy": stored, "versions": versions,
+    }
+    side.write_text(json.dumps(new_meta, indent=2) + "\n", encoding="utf-8")
+    write_text_copy(folder / f"{w['slug']}.md", new_meta, text)
+    lm = r.headers.get("Last-Modified")
+    (report["changed"] if meta else report["new"]).append(
+        f"{w['name']} (server last-modified: {lm}) — {w['url']}")
+    log(f"  watched {'changed' if meta else 'first copy'}: {w['url']}")
+
+
 _releases: set[str] = set()
 
 
@@ -415,7 +478,7 @@ def write_manifest() -> None:
         old = previous[-1].read_text(encoding="utf-8")
         if old.split("\n\n", 1)[-1] == body:
             return
-    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H%MZ")
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H%M%SZ")
     header = (f"# East Lyme Records (unofficial) manifest {stamp}\n"
               f"# {len(rows)} documents. Each line: SHA-256 of the original file, source URL, archive path.\n"
               "# A matching .ots file is an OpenTimestamps proof that this exact list existed by the\n"
@@ -424,12 +487,14 @@ def write_manifest() -> None:
     log(f"manifest written: manifests/{stamp}.txt ({len(rows)} documents)")
 
 
-def write_report(today: str, rep: dict, initial: bool, incomplete: bool) -> None:
+def write_report(today: str, rep: dict, initial: bool, incomplete: bool, heading: str = "") -> None:
     if not any(rep.values()):
         return
     out = ROOT / "changes" / f"{today}.md"
     out.parent.mkdir(exist_ok=True)
-    lines = [f"# Changes found {today}", ""]
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%H:%M UTC")
+    lines = [f"# Changes found {today}", ""] if not out.exists() else []
+    lines += [f"### {heading + ' — ' if heading else ''}check at {stamp}", ""]
     if initial:
         lines += ["_Initial import: these documents were already on the Town website when the archive "
                   "started, so the dates here show when they were archived, not when the Town posted them._", ""]
