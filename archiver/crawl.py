@@ -609,29 +609,104 @@ def write_report(today: str, rep: dict, initial: bool, incomplete: bool, heading
         fh.write("\n".join(lines) + "\n")
 
 
+MONTHS = {m: i for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun",
+                                      "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+MON = (r"(jan(?:uary|uay)?|feb(?:ruary|uary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|"
+       r"sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)")
+
+
+def _mk(y, m, d):
+    try:
+        y = int(y)
+        y = y + 2000 if y < 100 else y
+        if not 1990 <= y <= 2100:
+            return None
+        return dt.date(y, int(m), int(d))
+    except Exception:
+        return None
+
+
+def meeting_date(*texts, default_year=None):
+    """Best-effort meeting date from a document's title or file name."""
+    for t in texts:
+        if not t:
+            continue
+        s = re.sub(r"[_+]", " ", t)
+        s = re.sub(r"(?<=[a-z])(?=\d)|(?<=\d)(?=[a-z])", " ", s, flags=re.I)  # 17Jan2024 -> 17 Jan 2024
+        low = s.replace("-", " ").replace(".", " ").replace(",", " ").lower()
+        m = re.search(MON + r"\s+(\d{1,2})(?:st|nd|rd|th)?\s+(\d{4}|\d{2})\b", low)
+        if m and (d := _mk(m.group(3), MONTHS[m.group(1)[:3]], m.group(2))):
+            return d
+        m = re.search(r"\b(\d{1,2})\s+" + MON + r"\s+(\d{4}|\d{2})\b", low)
+        if m and (d := _mk(m.group(3), MONTHS[m.group(2)[:3]], m.group(1))):
+            return d
+    for t in texts:
+        if not t:
+            continue
+        s = re.sub(r"[_+.\-/]", " ", t)
+        m = re.search(r"\b(19|20)(\d{2})\s+(\d{1,2})\s+(\d{1,2})\b", s)
+        if m and (d := _mk(m.group(1) + m.group(2), m.group(3), m.group(4))):
+            return d
+        m = re.search(r"\b(\d{1,2})\s+(\d{1,2})\s+((?:19|20)?\d{2})\b", s)
+        if m and (d := _mk(m.group(3), m.group(1), m.group(2))):
+            return d
+        m = re.search(r"(?<!\d)(\d{2})(\d{2})(20\d{2})(?!\d)", s)  # 09162026
+        if m and (d := _mk(m.group(3), m.group(1), m.group(2))):
+            return d
+        m = re.search(r"(?<!\d)(\d{2})(\d{2})(\d{2})(?!\d)", s)  # 091620
+        if m and (d := _mk(m.group(3), m.group(1), m.group(2))):
+            return d
+    if default_year:  # e.g. "November 4 Supporting Documentation" listed under a given year
+        for t in texts:
+            if not t:
+                continue
+            s = re.sub(r"[_+.\-/,]", " ", t).lower()
+            m = re.search(MON + r"\s+(\d{1,2})(?:st|nd|rd|th)?\b", s)
+            if m and (d := _mk(default_year, MONTHS[m.group(1)[:3]], m.group(2))):
+                return d
+    return None
+
+
 def write_index(bdir: Path, board: dict) -> None:
+    """Board index, newest meeting first. Dates come from each document's title or file name;
+    when none is found, the month the Town uploaded it is used for ordering (shown with ~)."""
     if not bdir.exists():
         return
     rows = []
     for side in bdir.rglob("*.json"):
         m = load_json(side, None)
-        if not m:
+        if not isinstance(m, dict) or "source_url" not in m:
             continue
         rel = side.relative_to(bdir)
         orig = m.get("original_copy") or ""
         if orig and not orig.startswith("http"):
             orig = os.path.relpath(ROOT / orig, bdir)
-        rows.append((m.get("year", ""), m.get("subcommittee"), m.get("kind", ""), m.get("link_text") or m.get("filename"),
-                     str(rel.with_suffix(".md")), orig,
-                     m.get("first_seen_utc", "")[:10], m.get("removed_from_listing_utc")))
-    rows.sort(key=lambda r: (r[0], r[1], r[2], r[3]), reverse=True)
+        fname = m.get("filename") or m["source_url"].rsplit("/", 1)[-1]
+        yr = m.get("year", "")
+        d = meeting_date(m.get("link_text"), fname, default_year=yr if yr.isdigit() else None)
+        if d:
+            shown, key = d.strftime("%b %-d, %Y"), d.isoformat()
+        elif m.get("upload_folder"):
+            shown, key = f"~{m['upload_folder']} (posted)", m["upload_folder"] + "-00"
+        else:
+            shown, key = (yr if yr.isdigit() else ""), (yr + "-00-00" if yr.isdigit() else "")
+        rows.append((key, shown, m.get("subcommittee"), m.get("kind", ""), m.get("link_text") or fname,
+                     str(rel.with_suffix(".md")), orig, m.get("first_seen_utc", "")[:10],
+                     m.get("removed_from_listing_utc")))
+    # Newest meeting first; within a meeting, agendas before minutes, then by title.
+    rows.sort(key=lambda r: str(r[4]).lower())
+    rows.sort(key=lambda r: r[3])
+    rows.sort(key=lambda r: r[0], reverse=True)
     lines = [f"# {board['name']} — archived documents", "",
-             f"Source: <{board['url']}>  ", "Unofficial archive. “Archived” is the date this archive first saw the document.", "",
-             "| Year | Body | Type | Document | Text | Original | Archived |", "|---|---|---|---|---|---|---|"]
-    for y, sub, kind, title, md, doc, seen, removed in rows:
+             f"Source: <{board['url']}>  ",
+             "Unofficial archive, newest meeting first. **Date** is the meeting date taken from the document's "
+             "title; \u201c~\u201d marks documents with no date in the title, placed by the month the Town "
+             "uploaded them. **Archived** is the date this archive first saw the document.", "",
+             "| Date | Body | Type | Document | Text | Original | Archived |", "|---|---|---|---|---|---|---|"]
+    for key, shown, sub, kind, title, md, doc, seen, removed in rows:
         flag = " (removed from Town site)" if removed else ""
         title = str(title).replace("|", "\\|")
-        lines.append(f"| {y} | {'Subcommittee' if sub else 'Board'} | {kind} | {title}{flag} | "
+        lines.append(f"| {shown} | {'Subcommittee' if sub else 'Board'} | {kind} | {title}{flag} | "
                      f"[text]({md.replace(' ', '%20')}) | {'[original](' + doc.replace(' ', '%20') + ')' if doc else ''} | {seen} |")
     (bdir / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
