@@ -32,6 +32,9 @@ from urllib.parse import unquote, urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from notify import notify, repo_url  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 DOC_EXT = (".pdf", ".doc", ".docx")
 MIN_CHARS_PER_PAGE = 40  # below this, treat a PDF as scanned and OCR it
@@ -271,6 +274,11 @@ def run(args) -> int:
             watch_report["errors"].append(f"{w['url']}: {e}")
     if any(watch_report.values()):
         write_report(today, watch_report, False, False, heading="Watched files")
+        items = watch_report["new"] + watch_report["changed"] + watch_report["removed"]
+        if items:
+            notify("East Lyme: new-ordinance list or a linked ordinance changed",
+                   "\n".join(x.split(" — ")[0] for x in items[:8]) + ("\n…" if len(items) > 8 else ""),
+                   priority="high", tags=["scroll"], click=repo_url("code/new-ordinances.md"))
         write_manifest()
     write_new_ordinances(cfg)
     if not initial and not args.force and state.get("last_full_run_utc"):
@@ -447,6 +455,13 @@ def run(args) -> int:
         verified_path.write_text(json.dumps(verified, indent=0, sort_keys=True) + "\n", encoding="utf-8")
     write_report(today, init_report, True, incomplete, heading="Initial import of newly added boards")
     write_report(today, report, False, False)
+    if report["removed"] or report["changed"]:
+        gone, changed = report["removed"], report["changed"]
+        notify(f"East Lyme: {len(gone)} document(s) removed, {len(changed)} changed on the Town site",
+               "\n".join(("Removed: " + x.split(" — ")[0]) for x in gone[:6])
+               + ("\n" if gone and changed else "")
+               + "\n".join(("Changed: " + x.split(" — ")[0]) for x in changed[:6]),
+               priority="high", tags=["eyes"], click=repo_url(f"changes/{today}.md"))
     write_manifest()
     if cfg.get("wayback_new_documents"):
         submit_wayback(f, report["new"] + report["changed"])
@@ -881,6 +896,9 @@ def new_edition_alert(w: dict, prev: dict, rows: list[dict], since: str | None) 
         log("  edition alert: " + (r.stdout.strip() or r.stderr.strip()))
     else:
         log("  edition alert (not on GitHub):\n" + "\n".join(lines))
+    notify("East Lyme: new Code edition likely published",
+           "Download the updated Charter and Code (Word and PDF) from American Legal's code library.",
+           priority="high", tags=["books"], click="https://codelibrary.amlegal.com/codes/eastlyme/latest/overview")
     done.append(sig)
     alerts.parent.mkdir(exist_ok=True)
     alerts.write_text(json.dumps(done, indent=1) + "\n", encoding="utf-8")

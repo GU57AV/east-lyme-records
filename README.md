@@ -23,6 +23,7 @@ look at anything here. You only need one if you want to report a problem or get 
 [How often it checks](#how-often-it-checks) ·
 [Downloading everything](#downloading-everything) ·
 [Getting updates](#getting-updates) ·
+[Push notifications](#push-notifications-optional) ·
 [Words used here](#words-used-here) ·
 [Problems and questions](#problems-and-questions)
 
@@ -216,6 +217,22 @@ first import of a large board takes a while.
   update as it's saved.
 - **GitHub account:** click **Watch** at the top of the main page, then **Custom**, and tick
   **Releases** and **Issues** to get emails about new originals, deadline flags and topic alerts.
+
+### Push notifications (optional)
+
+The archive can send instant phone alerts through [ntfy](https://ntfy.sh), a free notification app, for
+posting-deadline flags, topic alerts, documents removed or changed on the Town site, changes to the
+new-ordinance list, a likely new Code edition, and failed runs.
+
+To turn it on for your own copy:
+
+1. Install the **ntfy** app (iPhone or Android) and subscribe to a topic with a long, hard-to-guess name,
+   like `eastlyme-records-7f3k9q2m`. On the free public server, anyone who knows the name can read it.
+2. In your GitHub repository, go to **Settings → Secrets and variables → Actions → New repository
+   secret**, name it `NTFY_TOPIC`, and paste the topic name.
+3. Optional: add `NTFY_SERVER` if you run your own ntfy server, and `NTFY_TOKEN` if your topic needs one.
+
+Alerts start with the next run. Without `NTFY_TOPIC`, nothing is sent.
 
 ### Words used here
 

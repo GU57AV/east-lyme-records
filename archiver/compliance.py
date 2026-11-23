@@ -29,6 +29,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from crawl import ROOT, load_json, meeting_date  # noqa: E402
+from notify import notify, repo_url  # noqa: E402
 
 ET = ZoneInfo("America/New_York")
 REPO = None
@@ -271,6 +272,18 @@ def main() -> int:
                         f"[{m.get('link_text') or m.get('filename')}]({repo_url}{link(side)}) — “…{snip}…”")
         names = sorted({t for t, *_ in new_hits})
         open_issue(f"Topic alert: {', '.join(names)[:180]}", "\n".join(body), "topic-alert", "1d76db")
+
+    if new_flags:
+        notify(f"East Lyme: {len(new_flags)} posting-deadline flag{'s' if len(new_flags) != 1 else ''}",
+               "\n".join(f"{f['board']}, {f['date']}: {f['rule']}" for f in new_flags[:8])
+               + ("\n…" if len(new_flags) > 8 else ""),
+               priority="high", tags=["warning"], click=repo_url("reports/compliance.md"))
+    if new_hits:
+        names = sorted({t for t, *_ in new_hits})
+        notify(f"East Lyme topic alert: {', '.join(names)[:120]}",
+               "\n".join(f"{t}: {m.get('link_text') or m.get('filename')} ({boards.get(m['board'], m['board'])})"
+                         for t, side, m, snip in new_hits[:8]) + ("\n…" if len(new_hits) > 8 else ""),
+               priority="default", tags=["mag"], click=repo_url("reports/topics.md"))
 
     state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in flags})
     state_path.parent.mkdir(exist_ok=True)

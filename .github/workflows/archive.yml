@@ -39,6 +39,9 @@ jobs:
       - name: Run archiver
         env:
           GH_TOKEN: ${{ github.token }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
         run: |
           ARGS="--time-budget 300"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then ARGS="$ARGS --force"; fi
@@ -52,6 +55,9 @@ jobs:
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
         run: python archiver/compliance.py --open-issues
 
       - name: Timestamp manifests on the Bitcoin blockchain (OpenTimestamps)
@@ -93,3 +99,17 @@ jobs:
           else
             gh workflow run archive.yml --ref main -f recheck=false
           fi
+
+      - name: Alert if this run failed
+        if: failure()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python -c "
+          import os, sys; sys.path.insert(0, 'archiver')
+          from notify import notify
+          notify('East Lyme archive: a run failed', 'Open the run log to see what went wrong.', priority='high', tags=['rotating_light'], click=os.environ['RUN_URL'])
+          "
