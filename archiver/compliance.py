@@ -540,9 +540,17 @@ def main() -> int:
 
     flags, notes = deadline_flags(docs, boards, now)
     cflags, cnotes, csoon, csum = calendar_checks(docs, boards, cfg, now)
-    if "calendar_seeded" not in state and csum:  # don't announce the calendar's history as new flags
+    # Until the calendar's history has been fully read (a few runs), record its findings quietly so
+    # past problems aren't announced as new.
+    import towncal
+    st = load_json(ROOT / "state" / "state.json", {})
+    cur = now.astimezone(ET).strftime("%Y-%m")
+    backfilling = (not st.get("calendar_initialized")
+                   or st.get("calendar_backfill_next", "0000-00") < towncal.add_months(cur, -1))
+    if csum and (backfilling or "calendar_seeded" not in state):
         state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in cflags})
-        state["calendar_seeded"] = now.isoformat(timespec="seconds")
+        if not backfilling:
+            state["calendar_seeded"] = now.isoformat(timespec="seconds")
     seen_k = {(f["key"], f["rule"]) for f in flags}
     flags += [f for f in cflags if (f["key"], f["rule"]) not in seen_k]
     seen_k = {(n["key"], n["rule"]) for n in notes if "key" in n}
