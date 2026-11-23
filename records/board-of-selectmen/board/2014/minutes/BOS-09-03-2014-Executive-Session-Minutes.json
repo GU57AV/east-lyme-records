@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS September 2 2014 Executive Session Minutes (pdf)",
+  "filename": "BOS-09-03-2014-Executive-Session-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-09-03-2014-Executive-Session-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:36:48+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "4d80bcbc54855985cddb88076a8d5132d43ff7807be7879b73f96902ab268ee0",
+  "bytes": 35528,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT",
+  "etag": "\"1664048-8ac8-520826d1ce200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-09-03-2014-Executive-Session-Minutes--4d80bcbc5485.pdf",
+  "versions": [
+    {
+      "sha256": "4d80bcbc54855985cddb88076a8d5132d43ff7807be7879b73f96902ab268ee0",
+      "bytes": 35528,
+      "retrieved_utc": "2026-11-23T05:36:48+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT"
+    }
+  ]
+}

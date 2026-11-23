@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS April 19 2017 Public Hearing Notice (pdf)",
+  "filename": "BOS-April-19-2017-Public-Hearing-Notice-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-April-19-2017-Public-Hearing-Notice-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:52:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5bd98186827492069f6d058cd949ab2a691c87055dddaa44e781d449dfb58d46",
+  "bytes": 121349,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Apr 2017 17:19:35 GMT",
+  "etag": "\"1662d7f-1da05-54c82b68237c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-April-19-2017-Public-Hearing-Notice-1--5bd981868274.pdf",
+  "versions": [
+    {
+      "sha256": "5bd98186827492069f6d058cd949ab2a691c87055dddaa44e781d449dfb58d46",
+      "bytes": 121349,
+      "retrieved_utc": "2026-11-23T03:52:33+00:00",
+      "http_last_modified": "Thu, 06 Apr 2017 17:19:35 GMT"
+    }
+  ]
+}

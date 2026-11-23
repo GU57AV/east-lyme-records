@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS Executive Session October 1 2014 Agenda (pdf)",
+  "filename": "BOS-Executive-Session-Agenda-10-01-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Executive-Session-Agenda-10-01-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:22:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2a6a5c372c8476caf12590ba5065fcbfb1f2e8394ade45fe7499bfd7446c3424",
+  "bytes": 25414,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:16 GMT",
+  "etag": "\"16640ba-6346-520826fbc4500\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Executive-Session-Agenda-10-01-2014--2a6a5c372c84.pdf",
+  "versions": [
+    {
+      "sha256": "2a6a5c372c8476caf12590ba5065fcbfb1f2e8394ade45fe7499bfd7446c3424",
+      "bytes": 25414,
+      "retrieved_utc": "2026-11-23T05:22:38+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:16 GMT"
+    }
+  ]
+}

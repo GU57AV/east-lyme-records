@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS February 25 2015 Special Meeting Agenda (pdf)",
+  "filename": "BOS-February-25-2015-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-February-25-2015-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:52:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "282d24c8603f872ec2836644949cbb8ad9e38b2596db810b54c8d647249ed4d4",
+  "bytes": 27686,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:23 GMT",
+  "etag": "\"1663e47-6c26-52082702714c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-February-25-2015-Special-Meeting-Agenda--282d24c8603f.pdf",
+  "versions": [
+    {
+      "sha256": "282d24c8603f872ec2836644949cbb8ad9e38b2596db810b54c8d647249ed4d4",
+      "bytes": 27686,
+      "retrieved_utc": "2026-11-23T04:52:01+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:23 GMT"
+    }
+  ]
+}

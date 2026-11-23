@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS April 1 2015 Agenda (pdf)",
+  "filename": "BOS-April-1-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-April-1-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:51:00+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bb09313559794fca56a6f5bef45c190a5f6cdd9cf99df159e23424980271b247",
+  "bytes": 59943,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:35 GMT",
+  "etag": "\"1663fa3-ea27-520826d4aa8c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-April-1-2015-Agenda--bb0931355979.pdf",
+  "versions": [
+    {
+      "sha256": "bb09313559794fca56a6f5bef45c190a5f6cdd9cf99df159e23424980271b247",
+      "bytes": 59943,
+      "retrieved_utc": "2026-11-23T04:51:00+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:35 GMT"
+    }
+  ]
+}

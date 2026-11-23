@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS September 7 2016 Agenda (pdf)",
+  "filename": "BOS-September-7-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-September-7-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:13:50+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "28fc853a469e0e5e359689c3017217732bb1ab2b556f0f9cc54605e856deee31",
+  "bytes": 42730,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Sep 2016 16:26:31 GMT",
+  "etag": "\"16e06ac-a6ea-53b74ad29dbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-September-7-2016-Agenda--28fc853a469e.pdf",
+  "versions": [
+    {
+      "sha256": "28fc853a469e0e5e359689c3017217732bb1ab2b556f0f9cc54605e856deee31",
+      "bytes": 42730,
+      "retrieved_utc": "2026-11-23T04:13:50+00:00",
+      "http_last_modified": "Thu, 01 Sep 2016 16:26:31 GMT"
+    }
+  ]
+}

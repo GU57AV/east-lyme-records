@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS November 2 2016 Special Meeting Agenda (pdf)",
+  "filename": "BOS-November-2-2016-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-November-2-2016-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:12:09+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8b04763fa8fd701dc904529ad259d7606162be47c5f74598b4754c116fdf9fce",
+  "bytes": 22773,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Oct 2016 16:26:01 GMT",
+  "etag": "\"16e03ad-58f5-53fef50547840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-November-2-2016-Special-Meeting-Agenda--8b04763fa8fd.pdf",
+  "versions": [
+    {
+      "sha256": "8b04763fa8fd701dc904529ad259d7606162be47c5f74598b4754c116fdf9fce",
+      "bytes": 22773,
+      "retrieved_utc": "2026-11-23T04:12:09+00:00",
+      "http_last_modified": "Fri, 28 Oct 2016 16:26:01 GMT"
+    }
+  ]
+}

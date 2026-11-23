@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS February 20 2013 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-February-20-2013-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-February-20-2013-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:16:42+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "75da217e5e3bb6c1a670db55b8fee5f2247775c0bafceca28a977d26daf52a2e",
+  "bytes": 918995,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:23 GMT",
+  "etag": "\"1663785-e05d3-52082702714c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-February-20-2013-Regular-Meeting-Minutes--75da217e5e3b.pdf",
+  "versions": [
+    {
+      "sha256": "75da217e5e3bb6c1a670db55b8fee5f2247775c0bafceca28a977d26daf52a2e",
+      "bytes": 918995,
+      "retrieved_utc": "2026-11-23T06:16:42+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:23 GMT"
+    }
+  ]
+}

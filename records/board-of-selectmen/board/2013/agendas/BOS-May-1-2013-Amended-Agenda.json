@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS May 1 2013 Amended Agenda (pdf)",
+  "filename": "BOS-May-1-2013-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-May-1-2013-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:58:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bda9263b6a97deadf853585ff1e601a3497d35e47b45f5fd8555df5cedc43c52",
+  "bytes": 44528,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:27 GMT",
+  "etag": "\"1663d05-adf0-5208273f7a4c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-May-1-2013-Amended-Agenda--bda9263b6a97.pdf",
+  "versions": [
+    {
+      "sha256": "bda9263b6a97deadf853585ff1e601a3497d35e47b45f5fd8555df5cedc43c52",
+      "bytes": 44528,
+      "retrieved_utc": "2026-11-23T05:58:13+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:27 GMT"
+    }
+  ]
+}

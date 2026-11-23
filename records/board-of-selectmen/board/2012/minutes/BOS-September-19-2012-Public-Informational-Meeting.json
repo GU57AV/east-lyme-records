@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS September 19 2012 Public Informational Meeting (pdf)",
+  "filename": "BOS-September-19-2012-Public-Informational-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-19-2012-Public-Informational-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:44:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9964abffc9cfe7eec8eb9471e223645e5e4a246cb5b4866540ce7f3514b1eed4",
+  "bytes": 333373,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:36 GMT",
+  "etag": "\"166380e-5163d-5208278148000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-September-19-2012-Public-Informational-Meeting--9964abffc9cf.pdf",
+  "versions": [
+    {
+      "sha256": "9964abffc9cfe7eec8eb9471e223645e5e4a246cb5b4866540ce7f3514b1eed4",
+      "bytes": 333373,
+      "retrieved_utc": "2026-11-23T06:44:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:36 GMT"
+    }
+  ]
+}

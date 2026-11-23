@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS September 4 2013 Meeting Attachment (pdf)",
+  "filename": "BOS-September-4-2013-Meeting-Attachment.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-4-2013-Meeting-Attachment.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:08:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c1ca0f5de84ba5561ce70be5e0dfdafbde5b2e198913fe4666c0263ef43bf0ab",
+  "bytes": 1020395,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:47 GMT",
+  "etag": "\"16639bc-f91eb-5208278bc58c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-September-4-2013-Meeting-Attachment--c1ca0f5de84b.pdf",
+  "versions": [
+    {
+      "sha256": "c1ca0f5de84ba5561ce70be5e0dfdafbde5b2e198913fe4666c0263ef43bf0ab",
+      "bytes": 1020395,
+      "retrieved_utc": "2026-11-23T06:08:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:47 GMT"
+    }
+  ]
+}

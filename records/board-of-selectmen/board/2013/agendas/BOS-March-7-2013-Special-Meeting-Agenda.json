@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS March 7 2013 Special Meeting Agenda (pdf)",
+  "filename": "BOS-March-7-2013-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-March-7-2013-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:00:34+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "afb7070bbc79dcde0784dedf9661facd355f1edd945c0e4c213eb97dc90da237",
+  "bytes": 22797,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:26 GMT",
+  "etag": "\"1663b52-590d-5208273e86280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-March-7-2013-Special-Meeting-Agenda--afb7070bbc79.pdf",
+  "versions": [
+    {
+      "sha256": "afb7070bbc79dcde0784dedf9661facd355f1edd945c0e4c213eb97dc90da237",
+      "bytes": 22797,
+      "retrieved_utc": "2026-11-23T06:00:34+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:26 GMT"
+    }
+  ]
+}

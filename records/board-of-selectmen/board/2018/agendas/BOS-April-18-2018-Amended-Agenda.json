@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS April 18 2018 Regular Meeting Amended Agenda (pdf)",
+  "filename": "BOS-April-18-2018-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/BOS-April-18-2018-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-04",
+  "first_seen_utc": "2026-11-23T03:28:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "196f2c101f11fa1d324437d6357803ce44ec632068cdfbfd3028c86d936849cd",
+  "bytes": 40560,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 Apr 2018 12:21:29 GMT",
+  "etag": "\"16c15fc-9e70-56a0a60c08440\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-April-18-2018-Amended-Agenda--196f2c101f11.pdf",
+  "versions": [
+    {
+      "sha256": "196f2c101f11fa1d324437d6357803ce44ec632068cdfbfd3028c86d936849cd",
+      "bytes": 40560,
+      "retrieved_utc": "2026-11-23T03:28:53+00:00",
+      "http_last_modified": "Tue, 17 Apr 2018 12:21:29 GMT"
+    }
+  ]
+}

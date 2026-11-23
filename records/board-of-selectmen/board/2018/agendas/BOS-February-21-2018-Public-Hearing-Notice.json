@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS February 21 2018 Public Hearing Notice (pdf)",
+  "filename": "BOS-February-21-2018-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/02/BOS-February-21-2018-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-02",
+  "first_seen_utc": "2026-11-23T03:31:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7a554528ff4f70ac85a16414be3b7ee76c14aa0f04ed05dec3f94c6868a44328",
+  "bytes": 41255,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Feb 2018 19:56:13 GMT",
+  "etag": "\"16c1090-a127-564b8cdcbd140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-February-21-2018-Public-Hearing-Notice--7a554528ff4f.pdf",
+  "versions": [
+    {
+      "sha256": "7a554528ff4f70ac85a16414be3b7ee76c14aa0f04ed05dec3f94c6868a44328",
+      "bytes": 41255,
+      "retrieved_utc": "2026-11-23T03:31:14+00:00",
+      "http_last_modified": "Thu, 08 Feb 2018 19:56:13 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS October 7 2015 Amended Agenda (pdf)",
+  "filename": "BOS-Oct-7-2015-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-Oct-7-2015-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:44:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "437681d45d1d36ee58645902e3dd79bb357bd37b158038c50b543a1c2c7873c9",
+  "bytes": 41614,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Oct 2015 14:43:40 GMT",
+  "etag": "\"1663061-a28e-52184c5b61f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Oct-7-2015-Amended-Agenda--437681d45d1d.pdf",
+  "versions": [
+    {
+      "sha256": "437681d45d1d36ee58645902e3dd79bb357bd37b158038c50b543a1c2c7873c9",
+      "bytes": 41614,
+      "retrieved_utc": "2026-11-23T04:44:37+00:00",
+      "http_last_modified": "Wed, 07 Oct 2015 14:43:40 GMT"
+    }
+  ]
+}

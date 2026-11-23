@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS December 6 2017 Agenda (pdf)",
+  "filename": "BOS-December-6-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-December-6-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:45:50+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c4219c758425d4996ebebe63d7502c5592ecd208c7f0d1071c0f62bf2e0caef4",
+  "bytes": 38736,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Dec 2017 19:21:52 GMT",
+  "etag": "\"16623b6-9750-55f4c47e69400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-December-6-2017-Agenda--c4219c758425.pdf",
+  "versions": [
+    {
+      "sha256": "c4219c758425d4996ebebe63d7502c5592ecd208c7f0d1071c0f62bf2e0caef4",
+      "bytes": 38736,
+      "retrieved_utc": "2026-11-23T03:45:50+00:00",
+      "http_last_modified": "Fri, 01 Dec 2017 19:21:52 GMT"
+    }
+  ]
+}

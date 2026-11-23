@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS October 5 2016 Minutes (pdf)",
+  "filename": "BOS-October-5-2016-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-October-5-2016-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:27:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "74e31ea12ecfa10978de2b0355f8a553b5990c9f7cde018a9cebcd75df182eda",
+  "bytes": 1040910,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Oct 2016 15:46:34 GMT",
+  "etag": "\"16e0359-fe20e-53f4dd483ea80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-October-5-2016-Minutes-1--74e31ea12ecf.pdf",
+  "versions": [
+    {
+      "sha256": "74e31ea12ecfa10978de2b0355f8a553b5990c9f7cde018a9cebcd75df182eda",
+      "bytes": 1040910,
+      "retrieved_utc": "2026-11-23T04:27:07+00:00",
+      "http_last_modified": "Thu, 20 Oct 2016 15:46:34 GMT"
+    }
+  ]
+}

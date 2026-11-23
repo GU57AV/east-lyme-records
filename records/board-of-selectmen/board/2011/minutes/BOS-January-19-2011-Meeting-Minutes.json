@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS January 19 2011 Meeting Minutes (pdf)",
+  "filename": "BOS-January-19-2011-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-January-19-2011-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:11:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bf1f8c1b4e3e44a9e3688a919e5ac97fdd488cad65bca9fba7a3626835a10846",
+  "bytes": 83407,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:33 GMT",
+  "etag": "\"1661b9e-145cf-5208270bfab40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-January-19-2011-Meeting-Minutes--bf1f8c1b4e3e.pdf",
+  "versions": [
+    {
+      "sha256": "bf1f8c1b4e3e44a9e3688a919e5ac97fdd488cad65bca9fba7a3626835a10846",
+      "bytes": 83407,
+      "retrieved_utc": "2026-11-23T07:11:33+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:33 GMT"
+    }
+  ]
+}

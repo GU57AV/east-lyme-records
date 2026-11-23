@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS June 7 2017 Special Meeting Minutes (pdf)",
+  "filename": "BOS-June-7-2017-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-June-7-2017-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T04:05:05+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cb915f2ca5745edf979bcf065cab1a4363d37b10327fde32af792f861be0d3df",
+  "bytes": 42657,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Jun 2017 13:54:13 GMT",
+  "etag": "\"1662c5a-a6a1-551c3a76d8b40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-June-7-2017-Special-Meeting-Minutes--cb915f2ca574.pdf",
+  "versions": [
+    {
+      "sha256": "cb915f2ca5745edf979bcf065cab1a4363d37b10327fde32af792f861be0d3df",
+      "bytes": 42657,
+      "retrieved_utc": "2026-11-23T04:05:05+00:00",
+      "http_last_modified": "Mon, 12 Jun 2017 13:54:13 GMT"
+    }
+  ]
+}

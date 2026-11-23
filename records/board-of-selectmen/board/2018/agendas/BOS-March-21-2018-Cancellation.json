@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS March 21 2018 Cancellation (pdf)",
+  "filename": "BOS-March-21-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/BOS-March-21-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-23T03:29:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "25777161404d8d7e403ef29e28affa9eeb8eab850f3c243c6133a966adb26839",
+  "bytes": 43271,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Mar 2018 19:05:42 GMT",
+  "etag": "\"16c085a-a907-5678c4b6bed80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-March-21-2018-Cancellation--25777161404d.pdf",
+  "versions": [
+    {
+      "sha256": "25777161404d8d7e403ef29e28affa9eeb8eab850f3c243c6133a966adb26839",
+      "bytes": 43271,
+      "retrieved_utc": "2026-11-23T03:29:53+00:00",
+      "http_last_modified": "Fri, 16 Mar 2018 19:05:42 GMT"
+    }
+  ]
+}

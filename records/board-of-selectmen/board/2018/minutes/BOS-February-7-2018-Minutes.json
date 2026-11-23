@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS February 7 2018 Minutes (pdf)",
+  "filename": "BOS-February-7-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/02/BOS-February-7-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-minutes/",
+  "upload_folder": "2018-02",
+  "first_seen_utc": "2026-11-23T03:43:49+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "03ff3f9826da6921e06c1eaf8ae407c876a9ce7a04eb3a849d05f84ff2028a6a",
+  "bytes": 385735,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Feb 2018 20:40:39 GMT",
+  "etag": "\"16c1034-5e2c7-56509e4113fc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-February-7-2018-Minutes--03ff3f9826da.pdf",
+  "versions": [
+    {
+      "sha256": "03ff3f9826da6921e06c1eaf8ae407c876a9ce7a04eb3a849d05f84ff2028a6a",
+      "bytes": 385735,
+      "retrieved_utc": "2026-11-23T03:43:49+00:00",
+      "http_last_modified": "Mon, 12 Feb 2018 20:40:39 GMT"
+    }
+  ]
+}

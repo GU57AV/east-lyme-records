@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS June 17 2015 Agenda (pdf)",
+  "filename": "BOS-June-17-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-June-17-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:47:18+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c9ec38f72442dd657eb3761c09b7192ee00c5a5ca0981e40f282c20571fbb9fd",
+  "bytes": 41363,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:51 GMT",
+  "etag": "\"1663c22-a193-5208271d253c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-June-17-2015-Agenda--c9ec38f72442.pdf",
+  "versions": [
+    {
+      "sha256": "c9ec38f72442dd657eb3761c09b7192ee00c5a5ca0981e40f282c20571fbb9fd",
+      "bytes": 41363,
+      "retrieved_utc": "2026-11-23T04:47:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:51 GMT"
+    }
+  ]
+}

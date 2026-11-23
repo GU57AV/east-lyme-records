@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS March 18 2015 Agenda (pdf)",
+  "filename": "BOS-Agenda-03-18-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Agenda-03-18-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:51:20+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "37262198ab4071048f23e1b857ca3988bdb07dc4ada8fb5b0c143e19547ca83a",
+  "bytes": 35773,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Mar 2015 13:49:56 GMT",
+  "etag": "\"1663d41-8bbd-5112bc68dc900\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Agenda-03-18-2015--37262198ab40.pdf",
+  "versions": [
+    {
+      "sha256": "37262198ab4071048f23e1b857ca3988bdb07dc4ada8fb5b0c143e19547ca83a",
+      "bytes": 35773,
+      "retrieved_utc": "2026-11-23T04:51:20+00:00",
+      "http_last_modified": "Fri, 13 Mar 2015 13:49:56 GMT"
+    }
+  ]
+}

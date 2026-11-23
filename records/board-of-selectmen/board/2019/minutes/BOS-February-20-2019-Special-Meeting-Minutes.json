@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS February 20 2019 Special Meeting Minutes (pdf)",
+  "filename": "BOS-February-20-2019-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/BOS-February-20-2019-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-minutes/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-23T03:19:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "17252802719652c025a4237e6f25f634c715c05bd411b2df1f3d8137cae006bc",
+  "bytes": 137330,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Feb 2019 18:09:18 GMT",
+  "etag": "\"16c1dcd-21872-582bbd6cfef80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-February-20-2019-Special-Meeting-Minutes--172528027196.pdf",
+  "versions": [
+    {
+      "sha256": "17252802719652c025a4237e6f25f634c715c05bd411b2df1f3d8137cae006bc",
+      "bytes": 137330,
+      "retrieved_utc": "2026-11-23T03:19:08+00:00",
+      "http_last_modified": "Mon, 25 Feb 2019 18:09:18 GMT"
+    }
+  ]
+}

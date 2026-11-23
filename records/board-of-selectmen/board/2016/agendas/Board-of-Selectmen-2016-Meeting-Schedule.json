@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Board of Selectmen 2016 Meeting Schedule (pdf)",
+  "filename": "Board-of-Selectmen-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Board-of-Selectmen-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:24:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cb54bf77672b2093d2838bbc3af596a3fefbd35b9d79eeed4a4729915d9261fc",
+  "bytes": 36911,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Dec 2015 20:37:56 GMT",
+  "etag": "\"16e06c1-902f-52668f2d43100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/Board-of-Selectmen-2016-Meeting-Schedule--cb54bf77672b.pdf",
+  "versions": [
+    {
+      "sha256": "cb54bf77672b2093d2838bbc3af596a3fefbd35b9d79eeed4a4729915d9261fc",
+      "bytes": 36911,
+      "retrieved_utc": "2026-11-23T04:24:15+00:00",
+      "http_last_modified": "Tue, 08 Dec 2015 20:37:56 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS May 20 2015 Regular Minutes Attachment (pdf)",
+  "filename": "BOS-May-20-2015-Minutes-Attachment.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-May-20-2015-Minutes-Attachment.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:07:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2291eca6475129f012c73386a36871a663aebb9325bdbd21a1148661cf81643a",
+  "bytes": 49359,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:32 GMT",
+  "etag": "\"1663fc3-c0cf-520827443f000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-May-20-2015-Minutes-Attachment--2291eca64751.pdf",
+  "versions": [
+    {
+      "sha256": "2291eca6475129f012c73386a36871a663aebb9325bdbd21a1148661cf81643a",
+      "bytes": 49359,
+      "retrieved_utc": "2026-11-23T05:07:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:32 GMT"
+    }
+  ]
+}

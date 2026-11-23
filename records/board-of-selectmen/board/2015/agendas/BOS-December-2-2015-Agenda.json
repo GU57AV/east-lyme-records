@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS December 2 2015 Agenda (pdf)",
+  "filename": "BOS-December-2-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-December-2-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:42:56+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8ff1cd328860196d9d037841cb96661cee7c3a5ef12640a776bb4de2cec7370e",
+  "bytes": 37620,
+  "pages": 0,
+  "http_last_modified": "Wed, 25 Nov 2015 17:25:33 GMT",
+  "etag": "\"166307b-92f4-52560bee01d40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-December-2-2015-Agenda--8ff1cd328860.pdf",
+  "versions": [
+    {
+      "sha256": "8ff1cd328860196d9d037841cb96661cee7c3a5ef12640a776bb4de2cec7370e",
+      "bytes": 37620,
+      "retrieved_utc": "2026-11-23T04:42:56+00:00",
+      "http_last_modified": "Wed, 25 Nov 2015 17:25:33 GMT"
+    }
+  ]
+}

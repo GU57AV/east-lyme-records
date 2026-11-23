@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS June 27 2011 Public Hearing Minutes (pdf)",
+  "filename": "BOS-June-27-2011-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-June-27-2011-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:05:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8b25e6e65a444ed1d534132d181620c51b3db281967181bdb7c7bf25b42e79be",
+  "bytes": 42986,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:59 GMT",
+  "etag": "\"1663a17-a7ea-52082724c65c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-June-27-2011-Public-Hearing-Minutes--8b25e6e65a44.pdf",
+  "versions": [
+    {
+      "sha256": "8b25e6e65a444ed1d534132d181620c51b3db281967181bdb7c7bf25b42e79be",
+      "bytes": 42986,
+      "retrieved_utc": "2026-11-23T07:05:29+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:59 GMT"
+    }
+  ]
+}

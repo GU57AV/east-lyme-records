@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS November 2 2016 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-November-2-2016-Regular-Meeting-Minues-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-November-2-2016-Regular-Meeting-Minues-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:25:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3320790484d824b6ea11aba2eb7a52fe79a4c9d6cf476ee35d78bbc045bfb922",
+  "bytes": 510802,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Nov 2016 14:44:58 GMT",
+  "etag": "\"16e032b-7cb52-540b7115c2e80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-November-2-2016-Regular-Meeting-Minues-1--3320790484d8.pdf",
+  "versions": [
+    {
+      "sha256": "3320790484d824b6ea11aba2eb7a52fe79a4c9d6cf476ee35d78bbc045bfb922",
+      "bytes": 510802,
+      "retrieved_utc": "2026-11-23T04:25:36+00:00",
+      "http_last_modified": "Mon, 07 Nov 2016 14:44:58 GMT"
+    }
+  ]
+}

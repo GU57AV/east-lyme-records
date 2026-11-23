@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS November 18 2015 Special Meeting Agenda (pdf)",
+  "filename": "BOS-Nov-18-2015-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-Nov-18-2015-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:43:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8232c52f543427c91ac327090c3cec1d17748d1351f94a0d37bf3b49098e8276",
+  "bytes": 25207,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Nov 2015 16:42:29 GMT",
+  "etag": "\"1663033-6277-5246ebec2e740\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Nov-18-2015-Special-Meeting--8232c52f5434.pdf",
+  "versions": [
+    {
+      "sha256": "8232c52f543427c91ac327090c3cec1d17748d1351f94a0d37bf3b49098e8276",
+      "bytes": 25207,
+      "retrieved_utc": "2026-11-23T04:43:37+00:00",
+      "http_last_modified": "Fri, 13 Nov 2015 16:42:29 GMT"
+    }
+  ]
+}

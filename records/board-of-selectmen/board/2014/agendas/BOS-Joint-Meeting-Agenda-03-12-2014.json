@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS March 12 2014 Joint Meeting Agenda (pdf)",
+  "filename": "BOS-Joint-Meeting-Agenda-03-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/05/BOS-Joint-Meeting-Agenda-03-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": "2014-05",
+  "first_seen_utc": "2026-11-23T05:29:41+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "187502ec19c74d9c6e0b8d21eb7a7bfd22dfacdd478a38f74e4de16a942ed403",
+  "bytes": 25057,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:14:18 GMT",
+  "etag": "\"1663168-61e1-52082330ed280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Joint-Meeting-Agenda-03-12-2014--187502ec19c7.pdf",
+  "versions": [
+    {
+      "sha256": "187502ec19c74d9c6e0b8d21eb7a7bfd22dfacdd478a38f74e4de16a942ed403",
+      "bytes": 25057,
+      "retrieved_utc": "2026-11-23T05:29:41+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:14:18 GMT"
+    }
+  ]
+}

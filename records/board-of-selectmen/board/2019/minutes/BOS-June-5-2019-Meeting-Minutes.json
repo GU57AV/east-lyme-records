@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS June 5 2019 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-June-5-2019-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/06/BOS-June-5-2019-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-minutes/",
+  "upload_folder": "2019-06",
+  "first_seen_utc": "2026-11-23T03:15:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "39746a257c20eaef3b162986527003261b07fef77d967f9ed3846836704d0d88",
+  "bytes": 372350,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Jun 2019 19:52:49 GMT",
+  "etag": "\"16c1d62-5ae7e-58b11a4320640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-June-5-2019-Meeting-Minutes--39746a257c20.pdf",
+  "versions": [
+    {
+      "sha256": "39746a257c20eaef3b162986527003261b07fef77d967f9ed3846836704d0d88",
+      "bytes": 372350,
+      "retrieved_utc": "2026-11-23T03:15:45+00:00",
+      "http_last_modified": "Tue, 11 Jun 2019 19:52:49 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS February 5 2014 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-Agenda-02-05-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/05/BOS-Agenda-02-05-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": "2014-05",
+  "first_seen_utc": "2026-11-23T05:32:02+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "db058d246dd9561fa64d36965193062b47ee41112b252d7ff3557ad08d64c3bd",
+  "bytes": 38770,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:14:17 GMT",
+  "etag": "\"16631c7-9772-5208232ff9040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Agenda-02-05-2014--db058d246dd9.pdf",
+  "versions": [
+    {
+      "sha256": "db058d246dd9561fa64d36965193062b47ee41112b252d7ff3557ad08d64c3bd",
+      "bytes": 38770,
+      "retrieved_utc": "2026-11-23T05:32:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:14:17 GMT"
+    }
+  ]
+}

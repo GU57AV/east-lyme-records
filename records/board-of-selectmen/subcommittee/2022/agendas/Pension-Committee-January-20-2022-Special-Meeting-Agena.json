@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Pension Committee January 20 2022 Special Meeting Agenda (pdf)",
+  "filename": "Pension-Committee-January-20-2022-Special-Meeting-Agena.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Pension-Committee-January-20-2022-Special-Meeting-Agena.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-23T07:41:31+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2e371596ac1e3b742c5ebfd353090392cd1b16520c11834752a4a9d9446a9b8d",
+  "bytes": 34667,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Jan 2022 14:40:34 GMT",
+  "etag": "\"16a0e5f-876b-5d58bc9101c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/Pension-Committee-January-20-2022-Special-Meeting-Agena--2e371596ac1e.pdf",
+  "versions": [
+    {
+      "sha256": "2e371596ac1e3b742c5ebfd353090392cd1b16520c11834752a4a9d9446a9b8d",
+      "bytes": 34667,
+      "retrieved_utc": "2026-11-23T07:41:31+00:00",
+      "http_last_modified": "Fri, 14 Jan 2022 14:40:34 GMT"
+    }
+  ]
+}

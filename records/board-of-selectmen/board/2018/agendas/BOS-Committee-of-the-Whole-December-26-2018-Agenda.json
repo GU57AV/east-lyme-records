@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS December 26 2018 Committee Of The Whole Agenda (pdf)",
+  "filename": "BOS-Committee-of-the-Whole-December-26-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/BOS-Committee-of-the-Whole-December-26-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-23T03:21:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "84091057dfe615f42e1a2a264772caa40d0188e616f60e57f50c038c95060fcc",
+  "bytes": 24286,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Dec 2018 18:01:40 GMT",
+  "etag": "\"16c068b-5ede-57d8c09fca900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-Committee-of-the-Whole-December-26-2018-Agenda--84091057dfe6.pdf",
+  "versions": [
+    {
+      "sha256": "84091057dfe615f42e1a2a264772caa40d0188e616f60e57f50c038c95060fcc",
+      "bytes": 24286,
+      "retrieved_utc": "2026-11-23T03:21:29+00:00",
+      "http_last_modified": "Fri, 21 Dec 2018 18:01:40 GMT"
+    }
+  ]
+}

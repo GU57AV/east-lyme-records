@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "ARP Sub-Committee February 17 2022 Agenda (pdf)",
+  "filename": "ARP-Sub-Committee-February-17-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/ARP-Sub-Committee-February-17-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2022-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-23T07:39:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6e0314a655fa5c12b6c69489e60ec719de4e87bed02cc6ab243eb0dc8868c30b",
+  "bytes": 45787,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Feb 2022 16:41:57 GMT",
+  "etag": "\"16a1055-b2db-5d82553ed3f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/ARP-Sub-Committee-February-17-2022-Agenda--6e0314a655fa.pdf",
+  "versions": [
+    {
+      "sha256": "6e0314a655fa5c12b6c69489e60ec719de4e87bed02cc6ab243eb0dc8868c30b",
+      "bytes": 45787,
+      "retrieved_utc": "2026-11-23T07:39:30+00:00",
+      "http_last_modified": "Wed, 16 Feb 2022 16:41:57 GMT"
+    }
+  ]
+}

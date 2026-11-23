@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS December 17 2014 Agenda (pdf)",
+  "filename": "BOS-Agenda-12-17-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Agenda-12-17-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:18:56+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b89b213851bcdcfe07a684b1d772cba67bf7b930ccf0da0334be0f80c659844f",
+  "bytes": 38256,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Dec 2014 17:57:30 GMT",
+  "etag": "\"166405f-9570-50a08a05cb680\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Agenda-12-17-2014--b89b213851bc.pdf",
+  "versions": [
+    {
+      "sha256": "b89b213851bcdcfe07a684b1d772cba67bf7b930ccf0da0334be0f80c659844f",
+      "bytes": 38256,
+      "retrieved_utc": "2026-11-23T05:18:56+00:00",
+      "http_last_modified": "Fri, 12 Dec 2014 17:57:30 GMT"
+    }
+  ]
+}

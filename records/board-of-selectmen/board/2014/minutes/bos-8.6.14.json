@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS August 6 2014 Meeting Minutes (pdf)",
+  "filename": "bos-8.6.14.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/bos-8.6.14.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:37:09+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "301c530af18eb9d746c3d21be935c98dc711380ad6744a0dce703607807d643f",
+  "bytes": 1995060,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 14:21:16 GMT",
+  "etag": "\"1661ee1-1e7134-5005b44920f00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/bos-8.6.14--301c530af18e.pdf",
+  "versions": [
+    {
+      "sha256": "301c530af18eb9d746c3d21be935c98dc711380ad6744a0dce703607807d643f",
+      "bytes": 1995060,
+      "retrieved_utc": "2026-11-23T05:37:09+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 14:21:16 GMT"
+    }
+  ]
+}

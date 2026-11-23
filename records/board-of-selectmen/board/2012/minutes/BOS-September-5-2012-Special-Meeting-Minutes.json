@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS September 5 2012 Special Meeting Minutes (pdf)",
+  "filename": "BOS-September-5-2012-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-5-2012-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:45:05+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6af0ef4b39c2bc4f466de47cd9bed109300df797655e287dd5869c9ac63a50ad",
+  "bytes": 37956,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:51 GMT",
+  "etag": "\"166392d-9444-5208278f961c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-September-5-2012-Special-Meeting-Minutes--6af0ef4b39c2.pdf",
+  "versions": [
+    {
+      "sha256": "6af0ef4b39c2bc4f466de47cd9bed109300df797655e287dd5869c9ac63a50ad",
+      "bytes": 37956,
+      "retrieved_utc": "2026-11-23T06:45:05+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:51 GMT"
+    }
+  ]
+}

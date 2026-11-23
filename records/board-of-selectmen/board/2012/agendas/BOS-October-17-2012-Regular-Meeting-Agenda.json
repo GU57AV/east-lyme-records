@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS October 17 2012 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-October-17-2012-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-October-17-2012-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:20:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "95a8930aa45884806a7c85c6a1da92c5199277c143dfaa8ae2aac5b58b9d02fd",
+  "bytes": 35717,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:05 GMT",
+  "etag": "\"1663daa-8b85-52082763b7a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-October-17-2012-Regular-Meeting-Agenda--95a8930aa458.pdf",
+  "versions": [
+    {
+      "sha256": "95a8930aa45884806a7c85c6a1da92c5199277c143dfaa8ae2aac5b58b9d02fd",
+      "bytes": 35717,
+      "retrieved_utc": "2026-11-23T06:20:13+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:05 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS & BOF December 17 2014 Special Joint Meeting (pdf)",
+  "filename": "BOS-BOF-December-17-2014-Special-Joint-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-BOF-December-17-2014-Special-Joint-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:18:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ed5b7f2a7540b9e9a5416626246e3c1faaaf6cd57aedd66b30c7a6e580c8cca3",
+  "bytes": 34614,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:52 GMT",
+  "etag": "\"1663fed-8736-520826e4e0f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-BOF-December-17-2014-Special-Joint-Meeting--ed5b7f2a7540.pdf",
+  "versions": [
+    {
+      "sha256": "ed5b7f2a7540b9e9a5416626246e3c1faaaf6cd57aedd66b30c7a6e580c8cca3",
+      "bytes": 34614,
+      "retrieved_utc": "2026-11-23T05:18:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:52 GMT"
+    }
+  ]
+}

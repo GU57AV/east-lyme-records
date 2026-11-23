@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS May 16 2018 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-May-16-2018-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/BOS-May-16-2018-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-23T03:28:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c14dc9e1ed28511cb434de1f3835c4459e08f4283733e77a58b325d990a367bd",
+  "bytes": 39669,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 May 2018 18:49:39 GMT",
+  "etag": "\"16c09da-9af5-56bf29922b6c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-May-16-2018-Regular-Meeting-Agenda--c14dc9e1ed28.pdf",
+  "versions": [
+    {
+      "sha256": "c14dc9e1ed28511cb434de1f3835c4459e08f4283733e77a58b325d990a367bd",
+      "bytes": 39669,
+      "retrieved_utc": "2026-11-23T03:28:13+00:00",
+      "http_last_modified": "Fri, 11 May 2018 18:49:39 GMT"
+    }
+  ]
+}

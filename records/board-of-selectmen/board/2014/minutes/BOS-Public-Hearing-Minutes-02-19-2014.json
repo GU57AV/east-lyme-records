@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS February 19 2014 Public Hearing Minutes (pdf)",
+  "filename": "BOS-Public-Hearing-Minutes-02-19-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOS-Public-Hearing-Minutes-02-19-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-23T05:47:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "04c19c74d13e5120a403626682913b215fffb7b7c4aac64a338d505ffc7c70f7",
+  "bytes": 71512,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:07:10 GMT",
+  "etag": "\"1663132-11758-52082198c0f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Public-Hearing-Minutes-02-19-2014--04c19c74d13e.pdf",
+  "versions": [
+    {
+      "sha256": "04c19c74d13e5120a403626682913b215fffb7b7c4aac64a338d505ffc7c70f7",
+      "bytes": 71512,
+      "retrieved_utc": "2026-11-23T05:47:07+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:07:10 GMT"
+    }
+  ]
+}

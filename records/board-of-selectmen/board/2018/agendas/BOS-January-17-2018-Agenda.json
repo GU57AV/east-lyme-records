@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS January 17 2018 Agenda (pdf)",
+  "filename": "BOS-January-17-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/BOS-January-17-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-23T03:33:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ac6eea88a501cb9c9d73aeb32c2904d2f9e2c4979fb3018f408e1a50f15b5f59",
+  "bytes": 34364,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Jan 2018 16:45:32 GMT",
+  "etag": "\"16c0d9d-863c-56296fe24e300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-January-17-2018-Agenda--ac6eea88a501.pdf",
+  "versions": [
+    {
+      "sha256": "ac6eea88a501cb9c9d73aeb32c2904d2f9e2c4979fb3018f408e1a50f15b5f59",
+      "bytes": 34364,
+      "retrieved_utc": "2026-11-23T03:33:15+00:00",
+      "http_last_modified": "Fri, 12 Jan 2018 16:45:32 GMT"
+    }
+  ]
+}

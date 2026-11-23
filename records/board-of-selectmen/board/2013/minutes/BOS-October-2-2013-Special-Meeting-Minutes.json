@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS October 2 2013 Special Meeting Minutes (pdf)",
+  "filename": "BOS-October-2-2013-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-October-2-2013-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:06:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "01b4688795443a88cf7e3436e0ecf4cb5235ef54b29600958b92844055d13f07",
+  "bytes": 35660,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:09 GMT",
+  "etag": "\"1663aa2-8b4c-5208276788340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-October-2-2013-Special-Meeting-Minutes--01b468879544.pdf",
+  "versions": [
+    {
+      "sha256": "01b4688795443a88cf7e3436e0ecf4cb5235ef54b29600958b92844055d13f07",
+      "bytes": 35660,
+      "retrieved_utc": "2026-11-23T06:06:52+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:09 GMT"
+    }
+  ]
+}

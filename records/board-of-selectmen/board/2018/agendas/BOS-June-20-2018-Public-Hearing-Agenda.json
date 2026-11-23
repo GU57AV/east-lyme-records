@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS June 20 2018 Public Hearing Agenda (pdf)",
+  "filename": "BOS-June-20-2018-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/BOS-June-20-2018-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-23T03:26:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8755e4c30530ebc939e672ab8a091155085d45e61714410a0ff9b7e602edf56a",
+  "bytes": 30553,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Jun 2018 14:35:07 GMT",
+  "etag": "\"16c0fc2-7759-56eaf1f4c9cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-June-20-2018-Public-Hearing-Agenda--8755e4c30530.pdf",
+  "versions": [
+    {
+      "sha256": "8755e4c30530ebc939e672ab8a091155085d45e61714410a0ff9b7e602edf56a",
+      "bytes": 30553,
+      "retrieved_utc": "2026-11-23T03:26:11+00:00",
+      "http_last_modified": "Fri, 15 Jun 2018 14:35:07 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS March 19 2014 Cancellation (pdf)",
+  "filename": "BOS-Cancellation-03-19-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/05/BOS-Cancellation-03-19-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": "2014-05",
+  "first_seen_utc": "2026-11-23T05:29:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f263fb83ad101a94b1b72381138b3cb2c6c3f6b5751b176db689fad43ad2e300",
+  "bytes": 30470,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:14:18 GMT",
+  "etag": "\"16631b8-7706-52082330ed280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Cancellation-03-19-2014--f263fb83ad10.pdf",
+  "versions": [
+    {
+      "sha256": "f263fb83ad101a94b1b72381138b3cb2c6c3f6b5751b176db689fad43ad2e300",
+      "bytes": 30470,
+      "retrieved_utc": "2026-11-23T05:29:01+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:14:18 GMT"
+    }
+  ]
+}

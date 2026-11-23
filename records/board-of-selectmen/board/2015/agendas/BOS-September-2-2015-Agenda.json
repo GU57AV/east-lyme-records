@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS September 2 2015 Agenda (pdf)",
+  "filename": "BOS-September-2-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-2-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:45:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "74687e5a96819f2eac88393cd93e2742a135e5be480fb89c6066566877d64e6e",
+  "bytes": 42277,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:36 GMT",
+  "etag": "\"1661d68-a525-5208278148000\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-September-2-2015-Agenda--74687e5a9681.pdf",
+  "versions": [
+    {
+      "sha256": "74687e5a96819f2eac88393cd93e2742a135e5be480fb89c6066566877d64e6e",
+      "bytes": 42277,
+      "retrieved_utc": "2026-11-23T04:45:38+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS November 15 2017 Minutes (pdf)",
+  "filename": "BOS-November-15-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-November-15-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:59:16+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9ffa8d4c9a44c30e460f28337dabbfdd1cbf14332ae2417fbe16ad513467b57c",
+  "bytes": 242586,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Nov 2017 15:43:06 GMT",
+  "etag": "\"16622de-3b39a-55e6bf1469680\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-November-15-2017-Minutes--9ffa8d4c9a44.pdf",
+  "versions": [
+    {
+      "sha256": "9ffa8d4c9a44c30e460f28337dabbfdd1cbf14332ae2417fbe16ad513467b57c",
+      "bytes": 242586,
+      "retrieved_utc": "2026-11-23T03:59:16+00:00",
+      "http_last_modified": "Mon, 20 Nov 2017 15:43:06 GMT"
+    }
+  ]
+}

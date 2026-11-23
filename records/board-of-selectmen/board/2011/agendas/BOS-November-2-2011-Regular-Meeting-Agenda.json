@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS November 2 2011 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-November-2-2011-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-November-2-2011-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:47:27+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d56e06ed926baa3870c8dccb42721fb9069932de68efd2f2db42903a11555fcd",
+  "bytes": 29174,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:51 GMT",
+  "etag": "\"1664036-71f6-520827565dac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-November-2-2011-Regular-Meeting-Agenda--d56e06ed926b.pdf",
+  "versions": [
+    {
+      "sha256": "d56e06ed926baa3870c8dccb42721fb9069932de68efd2f2db42903a11555fcd",
+      "bytes": 29174,
+      "retrieved_utc": "2026-11-23T06:47:27+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:51 GMT"
+    }
+  ]
+}

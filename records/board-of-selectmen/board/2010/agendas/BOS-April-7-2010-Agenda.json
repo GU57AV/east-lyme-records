@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOS April 7 2010 Agenda (pdf)",
+  "filename": "BOS-April-7-2010-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-April-7-2010-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:22:21+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c7696f5acb21161061d5d7b249d27b3b3338f76762e5594c45533210e931db8a",
+  "bytes": 27220,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:44 GMT",
+  "etag": "\"1663f61-6a54-520826dd3fd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2010/BOS-April-7-2010-Agenda--c7696f5acb21.pdf",
+  "versions": [
+    {
+      "sha256": "c7696f5acb21161061d5d7b249d27b3b3338f76762e5594c45533210e931db8a",
+      "bytes": 27220,
+      "retrieved_utc": "2026-11-23T07:22:21+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:44 GMT"
+    }
+  ]
+}

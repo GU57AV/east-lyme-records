@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOS September 1 2010 Special Meeting Agenda (pdf)",
+  "filename": "BOS-September-1-2010-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-1-2010-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:16:58+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d75825e9243eb7cc1d900c1fb939d83a0f834c8db9363e9f7f35ac79d4668f2e",
+  "bytes": 28743,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:31 GMT",
+  "etag": "\"1663ce1-7047-5208277c834c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2010/BOS-September-1-2010-Special-Meeting-Agenda--d75825e9243e.pdf",
+  "versions": [
+    {
+      "sha256": "d75825e9243eb7cc1d900c1fb939d83a0f834c8db9363e9f7f35ac79d4668f2e",
+      "bytes": 28743,
+      "retrieved_utc": "2026-11-23T07:16:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:31 GMT"
+    }
+  ]
+}

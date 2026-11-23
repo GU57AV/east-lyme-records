@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS November 7 2012 Amended Agenda (pdf)",
+  "filename": "BOS-November-7-2012-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-November-7-2012-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:18:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "852e31bb67c8ad5ec0ebd89aeb126a5929ea61bcaf59e85198b7bf176a186b7a",
+  "bytes": 46303,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:00 GMT",
+  "etag": "\"1663cd0-b4df-5208275ef2f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-November-7-2012-Amended-Agenda--852e31bb67c8.pdf",
+  "versions": [
+    {
+      "sha256": "852e31bb67c8ad5ec0ebd89aeb126a5929ea61bcaf59e85198b7bf176a186b7a",
+      "bytes": 46303,
+      "retrieved_utc": "2026-11-23T06:18:52+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:00 GMT"
+    }
+  ]
+}

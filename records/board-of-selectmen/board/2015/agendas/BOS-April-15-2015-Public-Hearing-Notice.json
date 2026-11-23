@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS April 15 2015 Public Hearing Notice (pdf)",
+  "filename": "BOS-April-15-2015-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-April-15-2015-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:50:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ed5bfd5a08d6861b8b83d1e9829cb1f0dcbc3bd0b2c1c5ecb24b99a9b1af5962",
+  "bytes": 42556,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:35 GMT",
+  "etag": "\"1664123-a63c-520826d4aa8c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-April-15-2015-Public-Hearing-Notice--ed5bfd5a08d6.pdf",
+  "versions": [
+    {
+      "sha256": "ed5bfd5a08d6861b8b83d1e9829cb1f0dcbc3bd0b2c1c5ecb24b99a9b1af5962",
+      "bytes": 42556,
+      "retrieved_utc": "2026-11-23T04:50:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:35 GMT"
+    }
+  ]
+}

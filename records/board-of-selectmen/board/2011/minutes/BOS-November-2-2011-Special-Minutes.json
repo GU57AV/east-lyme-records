@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS November 2 2011 Special Meeting Minutes (pdf)",
+  "filename": "BOS-November-2-2011-Special-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-November-2-2011-Special-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:01:47+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "60a79945b4f01b594f3e9a1178916f6da689fc080508323370c2900a9650163b",
+  "bytes": 36586,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:53 GMT",
+  "etag": "\"1661ee4-8eea-5208275845f40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-November-2-2011-Special-Minutes--60a79945b4f0.pdf",
+  "versions": [
+    {
+      "sha256": "60a79945b4f01b594f3e9a1178916f6da689fc080508323370c2900a9650163b",
+      "bytes": 36586,
+      "retrieved_utc": "2026-11-23T07:01:47+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:53 GMT"
+    }
+  ]
+}

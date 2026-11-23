@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Fire Department Study (pdf)",
+  "filename": "Fire-Department-Study.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/07/Fire-Department-Study.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2017-07",
+  "first_seen_utc": "2026-11-23T04:03:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "364167e5d70d3fa59bc0a2ae928c38a06c536ad8eb14116bc9f6a90f56959351",
+  "bytes": 4771178,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Jul 2017 13:42:50 GMT",
+  "etag": "\"16a0485-48cd6a-553a64ae8ca80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/Fire-Department-Study--364167e5d70d.pdf",
+  "versions": [
+    {
+      "sha256": "364167e5d70d3fa59bc0a2ae928c38a06c536ad8eb14116bc9f6a90f56959351",
+      "bytes": 4771178,
+      "retrieved_utc": "2026-11-23T04:03:24+00:00",
+      "http_last_modified": "Thu, 06 Jul 2017 13:42:50 GMT"
+    }
+  ]
+}

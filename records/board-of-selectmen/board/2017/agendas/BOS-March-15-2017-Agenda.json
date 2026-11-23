@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS March 15 2017 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-March-15-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-March-15-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:54:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5a1d8eab616c0281ca62a7e1188380a01791986547907f2242bef79ad1c0dff6",
+  "bytes": 40203,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Mar 2017 19:26:05 GMT",
+  "etag": "\"166277f-9d0b-54a6555314d40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-March-15-2017-Agenda--5a1d8eab616c.pdf",
+  "versions": [
+    {
+      "sha256": "5a1d8eab616c0281ca62a7e1188380a01791986547907f2242bef79ad1c0dff6",
+      "bytes": 40203,
+      "retrieved_utc": "2026-11-23T03:54:14+00:00",
+      "http_last_modified": "Fri, 10 Mar 2017 19:26:05 GMT"
+    }
+  ]
+}

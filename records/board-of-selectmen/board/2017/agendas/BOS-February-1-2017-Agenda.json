@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS February 1 2017 Agenda (pdf)",
+  "filename": "BOS-February-1-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-February-1-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:56:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d3a63b8542b072793a010a5c8e1870055b39393022db4c925ac0631428046a2f",
+  "bytes": 49377,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Jan 2017 17:30:37 GMT",
+  "etag": "\"1662a2e-c0e1-54716d2eaa940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-February-1-2017-Agenda--d3a63b8542b0.pdf",
+  "versions": [
+    {
+      "sha256": "d3a63b8542b072793a010a5c8e1870055b39393022db4c925ac0631428046a2f",
+      "bytes": 49377,
+      "retrieved_utc": "2026-11-23T03:56:35+00:00",
+      "http_last_modified": "Fri, 27 Jan 2017 17:30:37 GMT"
+    }
+  ]
+}

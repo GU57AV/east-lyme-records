@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS November 19 2014 Agenda (pdf)",
+  "filename": "BOS-Agenda-11-19-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Agenda-11-19-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:19:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6745ea7f33a734c6b002efb70651f32f13bbe299d90d0c3d35994d2beee18e24",
+  "bytes": 34734,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Nov 2014 18:40:42 GMT",
+  "etag": "\"1663949-87ae-507d5f74cfe80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Agenda-11-19-2014--6745ea7f33a7.pdf",
+  "versions": [
+    {
+      "sha256": "6745ea7f33a734c6b002efb70651f32f13bbe299d90d0c3d35994d2beee18e24",
+      "bytes": 34734,
+      "retrieved_utc": "2026-11-23T05:19:36+00:00",
+      "http_last_modified": "Fri, 14 Nov 2014 18:40:42 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS June 7 2017 Special Meeting Agenda (pdf)",
+  "filename": "BOS-June-7-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-June-7-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:51:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "0d4569eb7c1d3ed62c39af998576709c06d2b7493ebb09becfa6d0eb17b822d6",
+  "bytes": 23319,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Jun 2017 13:04:42 GMT",
+  "etag": "\"1662f20-5b17-5513625740e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-June-7-2017-Special-Meeting-Agenda--0d4569eb7c1d.pdf",
+  "versions": [
+    {
+      "sha256": "0d4569eb7c1d3ed62c39af998576709c06d2b7493ebb09becfa6d0eb17b822d6",
+      "bytes": 23319,
+      "retrieved_utc": "2026-11-23T03:51:12+00:00",
+      "http_last_modified": "Mon, 05 Jun 2017 13:04:42 GMT"
+    }
+  ]
+}

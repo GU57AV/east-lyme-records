@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOS February 11 2010 Special Meeting Minutes (pdf)",
+  "filename": "BOS-February-11-2010-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-February-11-2010-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:36:28+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5c169d06058df16735b0053ec0b4e2612ea8fd1011d80709015aafa64822d021",
+  "bytes": 47264,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:17 GMT",
+  "etag": "\"166382b-b8a0-520826fcb8740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2010/BOS-February-11-2010-Special-Meeting-Minutes--5c169d06058d.pdf",
+  "versions": [
+    {
+      "sha256": "5c169d06058df16735b0053ec0b4e2612ea8fd1011d80709015aafa64822d021",
+      "bytes": 47264,
+      "retrieved_utc": "2026-11-23T07:36:28+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:17 GMT"
+    }
+  ]
+}

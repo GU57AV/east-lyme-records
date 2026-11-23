@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS February 3 2016 Amended Agenda (pdf)",
+  "filename": "BOS-February-3-2016-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-February-3-2016-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:22:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7a7a7d2b0fc1e5570d8e3944526c59cc8e8e69a3717c7edddb7a5ed384a5f632",
+  "bytes": 50046,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Feb 2016 18:17:31 GMT",
+  "etag": "\"16e0571-c37e-52acd83c5e4c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-February-3-2016-Amended-Agenda--7a7a7d2b0fc1.pdf",
+  "versions": [
+    {
+      "sha256": "7a7a7d2b0fc1e5570d8e3944526c59cc8e8e69a3717c7edddb7a5ed384a5f632",
+      "bytes": 50046,
+      "retrieved_utc": "2026-11-23T04:22:14+00:00",
+      "http_last_modified": "Tue, 02 Feb 2016 18:17:31 GMT"
+    }
+  ]
+}

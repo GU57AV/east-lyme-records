@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS February 1 2017 Minutes (pdf)",
+  "filename": "BOS-February-1-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-February-1-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T04:09:28+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "0df3f0fe4637e46ea3de37bea2d4765d74517c9cd7f3afa9b799467282b6e587",
+  "bytes": 488084,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Feb 2017 20:32:37 GMT",
+  "etag": "\"1662c7d-77294-547a62eb04340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-February-1-2017-Minutes--0df3f0fe4637.pdf",
+  "versions": [
+    {
+      "sha256": "0df3f0fe4637e46ea3de37bea2d4765d74517c9cd7f3afa9b799467282b6e587",
+      "bytes": 488084,
+      "retrieved_utc": "2026-11-23T04:09:28+00:00",
+      "http_last_modified": "Fri, 03 Feb 2017 20:32:37 GMT"
+    }
+  ]
+}

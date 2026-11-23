@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOS January 6 2010 Amended Agenda (pdf)",
+  "filename": "BOS-January-6-2010-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-January-6-2010-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:27:23+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f225f03f490b62556b314a03d0e4f250185570ef4217825a54cda43eb20f6c9f",
+  "bytes": 29221,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:40 GMT",
+  "etag": "\"1661d9e-7225-52082712a7b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2010/BOS-January-6-2010-Amended-Agenda--f225f03f490b.pdf",
+  "versions": [
+    {
+      "sha256": "f225f03f490b62556b314a03d0e4f250185570ef4217825a54cda43eb20f6c9f",
+      "bytes": 29221,
+      "retrieved_utc": "2026-11-23T07:27:23+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:40 GMT"
+    }
+  ]
+}

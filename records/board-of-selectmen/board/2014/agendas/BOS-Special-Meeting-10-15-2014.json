@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS October 15 2014 Special Meeting (pdf)",
+  "filename": "BOS-Special-Meeting-10-15-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Special-Meeting-10-15-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:21:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "02b05b1a6c023c9504c63bce02c1e09bb43b848731d01d692ac97df2c74d14c7",
+  "bytes": 22135,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:51 GMT",
+  "etag": "\"1663a28-5677-5208278f961c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Special-Meeting-10-15-2014--02b05b1a6c02.pdf",
+  "versions": [
+    {
+      "sha256": "02b05b1a6c023c9504c63bce02c1e09bb43b848731d01d692ac97df2c74d14c7",
+      "bytes": 22135,
+      "retrieved_utc": "2026-11-23T05:21:37+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:51 GMT"
+    }
+  ]
+}

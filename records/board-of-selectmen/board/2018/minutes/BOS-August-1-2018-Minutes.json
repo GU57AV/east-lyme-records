@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS August 1 2018 Minutes (pdf)",
+  "filename": "BOS-August-1-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/BOS-August-1-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-minutes/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-23T03:38:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ebd01f307c6ae2520f06c1879af12b2e3f552a36eab841923a63ab4865e5e98b",
+  "bytes": 320018,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Aug 2018 18:35:14 GMT",
+  "etag": "\"16c1635-4e212-572c889c57c80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-August-1-2018-Minutes--ebd01f307c6a.pdf",
+  "versions": [
+    {
+      "sha256": "ebd01f307c6ae2520f06c1879af12b2e3f552a36eab841923a63ab4865e5e98b",
+      "bytes": 320018,
+      "retrieved_utc": "2026-11-23T03:38:11+00:00",
+      "http_last_modified": "Mon, 06 Aug 2018 18:35:14 GMT"
+    }
+  ]
+}

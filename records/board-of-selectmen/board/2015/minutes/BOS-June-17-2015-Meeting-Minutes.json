@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS June 17 2015 Minutes (pdf)",
+  "filename": "BOS-June-17-2015-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-June-17-2015-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:04:57+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9443f5afca023480f769eaf24d235d3ba82def624f75df4c1670a9be313275cb",
+  "bytes": 1613200,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:57 GMT",
+  "etag": "\"1663fd6-189d90-52082722de140\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-June-17-2015-Meeting-Minutes--9443f5afca02.pdf",
+  "versions": [
+    {
+      "sha256": "9443f5afca023480f769eaf24d235d3ba82def624f75df4c1670a9be313275cb",
+      "bytes": 1613200,
+      "retrieved_utc": "2026-11-23T05:04:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:57 GMT"
+    }
+  ]
+}

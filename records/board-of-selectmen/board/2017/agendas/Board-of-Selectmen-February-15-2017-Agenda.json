@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS February 15 2017 Regular Meeting Agenda (pdf)",
+  "filename": "Board-of-Selectmen-February-15-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Board-of-Selectmen-February-15-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:55:34+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b745ae3a9f33c344469f8aa09aa09264fbfc6b993c3bf7c1d1a9e1ba226e987d",
+  "bytes": 54439,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Feb 2017 20:27:46 GMT",
+  "etag": "\"1662754-d4a7-54832ee3b9480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/Board-of-Selectmen-February-15-2017-Agenda--b745ae3a9f33.pdf",
+  "versions": [
+    {
+      "sha256": "b745ae3a9f33c344469f8aa09aa09264fbfc6b993c3bf7c1d1a9e1ba226e987d",
+      "bytes": 54439,
+      "retrieved_utc": "2026-11-23T03:55:34+00:00",
+      "http_last_modified": "Fri, 10 Feb 2017 20:27:46 GMT"
+    }
+  ]
+}

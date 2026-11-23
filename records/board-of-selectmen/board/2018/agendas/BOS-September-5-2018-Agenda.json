@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS September 5 2018 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-September-5-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/BOS-September-5-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-23T03:24:31+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8e431c0114d45985526ddfdca66cb205a6ed357c93049cae05fa0bb019ca121f",
+  "bytes": 37277,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Aug 2018 13:53:35 GMT",
+  "etag": "\"16c16c0-919d-574a766b435c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-September-5-2018-Agenda--8e431c0114d4.pdf",
+  "versions": [
+    {
+      "sha256": "8e431c0114d45985526ddfdca66cb205a6ed357c93049cae05fa0bb019ca121f",
+      "bytes": 37277,
+      "retrieved_utc": "2026-11-23T03:24:31+00:00",
+      "http_last_modified": "Thu, 30 Aug 2018 13:53:35 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "watched",
+  "kind": "watched-file",
+  "year": "",
+  "subcommittee": false,
+  "link_text": "ECRF_5-13-25.pdf (linked from American Legal Publishing \u2014 East Lyme Advance Legislative Service (new ordinances not yet in the Code))",
+  "filename": "ECRF_5-13-25.pdf",
+  "source_url": "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf",
+  "listing_page": "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T02:43:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d89b7e8c5d362dacdc0f48046afce0a7dcee5d9a58a9f386c17bda5248a9b250",
+  "bytes": 83733,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Jun 2025 15:39:48 GMT",
+  "etag": "\"68430bc4-14715\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/ECRF_5-13-25--d89b7e8c5d36.pdf",
+  "versions": [
+    {
+      "sha256": "d89b7e8c5d362dacdc0f48046afce0a7dcee5d9a58a9f386c17bda5248a9b250",
+      "bytes": 83733,
+      "retrieved_utc": "2026-11-23T02:43:53+00:00",
+      "http_last_modified": "Fri, 06 Jun 2025 15:39:48 GMT",
+      "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/ECRF_5-13-25--d89b7e8c5d36.pdf"
+    }
+  ]
+}

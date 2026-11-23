@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS November 4 2015 Minutes (2 of 2) (pdf)",
+  "filename": "BOS-November-4-2015-Minutes-2-of-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-November-4-2015-Minutes-2-of-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:56:43+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "530f0c9d78410dc9075c080660daf5405e3c888474c25736b1fcbda2b179346f",
+  "bytes": 334828,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Nov 2015 16:23:43 GMT",
+  "etag": "\"1663079-51bec-523cd8cea81c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-November-4-2015-Minutes-2-of-2--530f0c9d7841.pdf",
+  "versions": [
+    {
+      "sha256": "530f0c9d78410dc9075c080660daf5405e3c888474c25736b1fcbda2b179346f",
+      "bytes": 334828,
+      "retrieved_utc": "2026-11-23T04:56:43+00:00",
+      "http_last_modified": "Thu, 05 Nov 2015 16:23:43 GMT"
+    }
+  ]
+}

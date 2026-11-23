@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS September 7 2016 Minutes (pdf)",
+  "filename": "BOS-September-7-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-September-7-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:28:03+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "859c4866891bbd96a01513e0de1a7ae6f47933b306df13db785f71e6246ffd1e",
+  "bytes": 1956518,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Sep 2016 17:56:38 GMT",
+  "etag": "\"16e05db-1ddaa6-53c02c055c180\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-September-7-2016-Minutes--859c4866891b.pdf",
+  "versions": [
+    {
+      "sha256": "859c4866891bbd96a01513e0de1a7ae6f47933b306df13db785f71e6246ffd1e",
+      "bytes": 1956518,
+      "retrieved_utc": "2026-11-23T04:28:03+00:00",
+      "http_last_modified": "Thu, 08 Sep 2016 17:56:38 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS January 22 2014 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-Regular-Meeting-Minutes-01-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOS-Regular-Meeting-Minutes-01-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-23T05:48:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "50dc7cf65be2aa1deb8093d442f7c3cda1981319a799e80b07258ba1d7011580",
+  "bytes": 208666,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:07:13 GMT",
+  "etag": "\"16630db-32f1a-5208219b9d640\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Regular-Meeting-Minutes-01-22-2014--50dc7cf65be2.pdf",
+  "versions": [
+    {
+      "sha256": "50dc7cf65be2aa1deb8093d442f7c3cda1981319a799e80b07258ba1d7011580",
+      "bytes": 208666,
+      "retrieved_utc": "2026-11-23T05:48:08+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:07:13 GMT"
+    }
+  ]
+}

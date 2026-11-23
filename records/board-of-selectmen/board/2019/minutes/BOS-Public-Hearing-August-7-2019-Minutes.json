@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS August 7 2019 Public Hearing Minutes (pdf)",
+  "filename": "BOS-Public-Hearing-August-7-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/08/BOS-Public-Hearing-August-7-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-minutes/",
+  "upload_folder": "2019-08",
+  "first_seen_utc": "2026-11-23T03:14:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "efc48b03c3c57ecc5fc0eacbcfee1c6c720fa640e3188de8b3943d84e93ec807",
+  "bytes": 187565,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Aug 2019 17:34:04 GMT",
+  "etag": "\"16c21a8-2dcad-5901729d49b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-Public-Hearing-August-7-2019-Minutes--efc48b03c3c5.pdf",
+  "versions": [
+    {
+      "sha256": "efc48b03c3c57ecc5fc0eacbcfee1c6c720fa640e3188de8b3943d84e93ec807",
+      "bytes": 187565,
+      "retrieved_utc": "2026-11-23T03:14:25+00:00",
+      "http_last_modified": "Wed, 14 Aug 2019 17:34:04 GMT"
+    }
+  ]
+}

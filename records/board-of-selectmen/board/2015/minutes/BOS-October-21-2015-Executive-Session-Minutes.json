@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS October 21 2015 Executive Session Minutes (pdf)",
+  "filename": "BOS-October-21-2015-Executive-Session-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-October-21-2015-Executive-Session-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:57:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "17d99aa355e5eda840dcd026ddf845787a05aed6b5cb06154f22bbb61611d08e",
+  "bytes": 27106,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Oct 2015 18:19:16 GMT",
+  "etag": "\"166304c-69e2-522c9a637d100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-October-21-2015-Executive-Session-Minutes--17d99aa355e5.pdf",
+  "versions": [
+    {
+      "sha256": "17d99aa355e5eda840dcd026ddf845787a05aed6b5cb06154f22bbb61611d08e",
+      "bytes": 27106,
+      "retrieved_utc": "2026-11-23T04:57:25+00:00",
+      "http_last_modified": "Fri, 23 Oct 2015 18:19:16 GMT"
+    }
+  ]
+}

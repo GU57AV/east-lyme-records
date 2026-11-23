@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS September 18 2013 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-September-18-2013-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-18-2013-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:53:51+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "641ce4cd0603b40e7e5a8fa9c7169d6c62d53256a545a2d36151b2ddf278c010",
+  "bytes": 42695,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:32 GMT",
+  "etag": "\"1663d11-a6c7-5208277d77700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-September-18-2013-Regular-Meeting-Agenda--641ce4cd0603.pdf",
+  "versions": [
+    {
+      "sha256": "641ce4cd0603b40e7e5a8fa9c7169d6c62d53256a545a2d36151b2ddf278c010",
+      "bytes": 42695,
+      "retrieved_utc": "2026-11-23T05:53:51+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:32 GMT"
+    }
+  ]
+}

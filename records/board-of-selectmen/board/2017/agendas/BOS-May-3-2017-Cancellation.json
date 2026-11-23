@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS May 3 2017 Cancellation (pdf)",
+  "filename": "BOS-May-3-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-May-3-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:51:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "65e5755209fa3a39ccd09d96baed596dbb7e51695df6d1569703ca5248b16652",
+  "bytes": 39651,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Apr 2017 13:37:01 GMT",
+  "etag": "\"1662766-9ae3-54e3a2b0e9940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-May-3-2017-Cancellation--65e5755209fa.pdf",
+  "versions": [
+    {
+      "sha256": "65e5755209fa3a39ccd09d96baed596dbb7e51695df6d1569703ca5248b16652",
+      "bytes": 39651,
+      "retrieved_utc": "2026-11-23T03:51:53+00:00",
+      "http_last_modified": "Fri, 28 Apr 2017 13:37:01 GMT"
+    }
+  ]
+}

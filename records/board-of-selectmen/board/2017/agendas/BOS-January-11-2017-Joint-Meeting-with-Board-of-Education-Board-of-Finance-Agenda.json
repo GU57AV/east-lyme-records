@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS January 11 2017 Joint Meeting with Board of Education & Board of Finance Agenda (pdf)",
+  "filename": "BOS-January-11-2017-Joint-Meeting-with-Board-of-Education-Board-of-Finance-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-January-11-2017-Joint-Meeting-with-Board-of-Education-Board-of-Finance-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:57:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a9187bef414e228eb168bb7387530339205bcb35c8e93e8090047833d20f90fc",
+  "bytes": 25570,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Jan 2017 13:24:09 GMT",
+  "etag": "\"166244c-63e2-5456ceed0d040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-January-11-2017-Joint-Meeting-with-Board-of-Education-Board-of-Finance-Agenda--a9187bef414e.pdf",
+  "versions": [
+    {
+      "sha256": "a9187bef414e228eb168bb7387530339205bcb35c8e93e8090047833d20f90fc",
+      "bytes": 25570,
+      "retrieved_utc": "2026-11-23T03:57:35+00:00",
+      "http_last_modified": "Fri, 06 Jan 2017 13:24:09 GMT"
+    }
+  ]
+}

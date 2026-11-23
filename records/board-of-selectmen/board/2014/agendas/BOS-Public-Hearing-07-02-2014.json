@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS July 2 2014 Public Hearing Agenda (pdf)",
+  "filename": "BOS-Public-Hearing-07-02-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/05/BOS-Public-Hearing-07-02-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-agendas-2014/",
+  "upload_folder": "2014-05",
+  "first_seen_utc": "2026-11-23T05:24:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "4eddaeff41421722db3ef59f76b59e85b3208094734dc2bdb706c0e43c148b72",
+  "bytes": 53662,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:14:19 GMT",
+  "etag": "\"16631f5-d19e-52082331e14c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Public-Hearing-07-02-2014--4eddaeff4142.pdf",
+  "versions": [
+    {
+      "sha256": "4eddaeff41421722db3ef59f76b59e85b3208094734dc2bdb706c0e43c148b72",
+      "bytes": 53662,
+      "retrieved_utc": "2026-11-23T05:24:39+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:14:19 GMT"
+    }
+  ]
+}

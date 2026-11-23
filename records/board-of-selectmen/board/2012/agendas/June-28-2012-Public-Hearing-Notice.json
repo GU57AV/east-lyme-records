@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Public Hearing Notice June 28 2012 (pdf)",
+  "filename": "June-28-2012-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/June-28-2012-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:24:55+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8f7295af36ebe17b6f7ed9db622a4c23965c4ac013cc5e133849c38d9260548e",
+  "bytes": 82134,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:57 GMT",
+  "etag": "\"1663caa-140d6-52082b28d5f40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/June-28-2012-Public-Hearing-Notice--8f7295af36eb.pdf",
+  "versions": [
+    {
+      "sha256": "8f7295af36ebe17b6f7ed9db622a4c23965c4ac013cc5e133849c38d9260548e",
+      "bytes": 82134,
+      "retrieved_utc": "2026-11-23T06:24:55+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:57 GMT"
+    }
+  ]
+}

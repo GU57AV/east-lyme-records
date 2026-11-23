@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS February 4 2015 Agenda (pdf)",
+  "filename": "BOS-Agenda-02-04-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Agenda-02-04-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:53:21+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d068aa6da772254fa2541f83f8d609f3e95fd98f2d67c7ddca0b644afd888317",
+  "bytes": 39067,
+  "pages": 0,
+  "http_last_modified": "Fri, 30 Jan 2015 18:09:52 GMT",
+  "etag": "\"1663c3d-989b-50de282d01c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Agenda-02-04-2015--d068aa6da772.pdf",
+  "versions": [
+    {
+      "sha256": "d068aa6da772254fa2541f83f8d609f3e95fd98f2d67c7ddca0b644afd888317",
+      "bytes": 39067,
+      "retrieved_utc": "2026-11-23T04:53:21+00:00",
+      "http_last_modified": "Fri, 30 Jan 2015 18:09:52 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOS April 23 2014 Special Meeting Minutes (pdf)",
+  "filename": "BOS-Special-Meeting-Minutes-04-23-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOS-Special-Meeting-Minutes-04-23-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/bos-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-23T05:44:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1c2cf248f4e55b157496870843982266f1e7cee29cbe97115ac146501412795b",
+  "bytes": 197411,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:07:38 GMT",
+  "etag": "\"1663142-30323-520821b374e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/BOS-Special-Meeting-Minutes-04-23-2014--1c2cf248f4e5.pdf",
+  "versions": [
+    {
+      "sha256": "1c2cf248f4e55b157496870843982266f1e7cee29cbe97115ac146501412795b",
+      "bytes": 197411,
+      "retrieved_utc": "2026-11-23T05:44:22+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:07:38 GMT"
+    }
+  ]
+}

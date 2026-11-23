@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS November 21 2018 Agenda (pdf)",
+  "filename": "BOS-November-21-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/11/BOS-November-21-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-agendas/",
+  "upload_folder": "2018-11",
+  "first_seen_utc": "2026-11-23T03:22:50+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f3a2e3ee199e57c4a41ba2546eb8d2f15798dd17e17b2e46b716a422a3484d7a",
+  "bytes": 34877,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Nov 2018 16:35:24 GMT",
+  "etag": "\"16c1162-883d-57acac1070b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-November-21-2018-Agenda--f3a2e3ee199e.pdf",
+  "versions": [
+    {
+      "sha256": "f3a2e3ee199e57c4a41ba2546eb8d2f15798dd17e17b2e46b716a422a3484d7a",
+      "bytes": 34877,
+      "retrieved_utc": "2026-11-23T03:22:50+00:00",
+      "http_last_modified": "Fri, 16 Nov 2018 16:35:24 GMT"
+    }
+  ]
+}

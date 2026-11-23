@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS March 2 2016 Public Hearing Cancellation (pdf)",
+  "filename": "BOS-March-2-2016-Public-Hearing-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-March-2-2016-Public-Hearing-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:20:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "be794f40f89e57409224a4acb450fa66c3387ae2c8f104af7da0ce718b27839d",
+  "bytes": 46241,
+  "pages": 0,
+  "http_last_modified": "Mon, 22 Feb 2016 15:12:18 GMT",
+  "etag": "\"16e0721-b4a1-52c5d42367880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-March-2-2016-Public-Hearing-Cancellation--be794f40f89e.pdf",
+  "versions": [
+    {
+      "sha256": "be794f40f89e57409224a4acb450fa66c3387ae2c8f104af7da0ce718b27839d",
+      "bytes": 46241,
+      "retrieved_utc": "2026-11-23T04:20:33+00:00",
+      "http_last_modified": "Mon, 22 Feb 2016 15:12:18 GMT"
+    }
+  ]
+}

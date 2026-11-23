@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS June 20 2012 Regular Meeting Agenda (2) (pdf)",
+  "filename": "BOS-June-20-2012-Regular-Meeting-Agenda-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-June-20-2012-Regular-Meeting-Agenda-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:25:55+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d10e0ca671d6d55c7ca1f1b00df46d5fb19d60241416a3a668d1cdcfc9fa7562",
+  "bytes": 50631,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:58 GMT",
+  "etag": "\"1663a3d-c5c7-52082723d2380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-June-20-2012-Regular-Meeting-Agenda-2--d10e0ca671d6.pdf",
+  "versions": [
+    {
+      "sha256": "d10e0ca671d6d55c7ca1f1b00df46d5fb19d60241416a3a668d1cdcfc9fa7562",
+      "bytes": 50631,
+      "retrieved_utc": "2026-11-23T06:25:55+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:58 GMT"
+    }
+  ]
+}

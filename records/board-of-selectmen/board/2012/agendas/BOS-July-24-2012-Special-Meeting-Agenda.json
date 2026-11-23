@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS July 24 2012 Special Meeting Agenda (pdf)",
+  "filename": "BOS-July-24-2012-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-July-24-2012-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:23:34+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c88a9580e900ed39437bfed5a092db61ce65e84e848915d29b913f44ce1bbfa4",
+  "bytes": 28002,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:31:49 GMT",
+  "etag": "\"1663eee-6d62-5208271b3cf40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-July-24-2012-Special-Meeting-Agenda--c88a9580e900.pdf",
+  "versions": [
+    {
+      "sha256": "c88a9580e900ed39437bfed5a092db61ce65e84e848915d29b913f44ce1bbfa4",
+      "bytes": 28002,
+      "retrieved_utc": "2026-11-23T06:23:34+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:31:49 GMT"
+    }
+  ]
+}

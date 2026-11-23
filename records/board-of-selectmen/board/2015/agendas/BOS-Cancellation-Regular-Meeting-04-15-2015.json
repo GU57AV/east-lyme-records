@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS April 15 2015 Cancellation (Regular Meeting) (pdf)",
+  "filename": "BOS-Cancellation-Regular-Meeting-04-15-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-Cancellation-Regular-Meeting-04-15-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:50:20+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cbef4a7d9404c162cb00e201e52aaf9ea13f0f83f9fddbc2436c583fec76f285",
+  "bytes": 42668,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:53 GMT",
+  "etag": "\"1661d55-a6ac-520826e5d5140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Cancellation-Regular-Meeting-04-15-2015--cbef4a7d9404.pdf",
+  "versions": [
+    {
+      "sha256": "cbef4a7d9404c162cb00e201e52aaf9ea13f0f83f9fddbc2436c583fec76f285",
+      "bytes": 42668,
+      "retrieved_utc": "2026-11-23T04:50:20+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:53 GMT"
+    }
+  ]
+}

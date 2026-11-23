@@ -1,0 +1,29 @@
+{
+  "board": "watched",
+  "kind": "watched-file",
+  "year": "",
+  "subcommittee": false,
+  "link_text": "Ord_74.08.pdf (linked from American Legal Publishing \u2014 East Lyme Advance Legislative Service (new ordinances not yet in the Code))",
+  "filename": "Ord_74.08.pdf",
+  "source_url": "https://files.amlegal.com/pdffiles/EastLyme/Ord_74.08.pdf",
+  "listing_page": "https://files.amlegal.com/pdffiles/EastLyme/Ord_74.08.pdf",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T02:45:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "de28f151d4a4a624a8e02c178e981f00bb492ff55286a287d899ce7d4a83eb17",
+  "bytes": 60641,
+  "pages": 0,
+  "http_last_modified": "Sat, 21 Nov 2026 15:47:05 GMT",
+  "etag": "\"6b01bcf9-ece1\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/Ord_74.08--de28f151d4a4.pdf",
+  "versions": [
+    {
+      "sha256": "de28f151d4a4a624a8e02c178e981f00bb492ff55286a287d899ce7d4a83eb17",
+      "bytes": 60641,
+      "retrieved_utc": "2026-11-23T02:45:35+00:00",
+      "http_last_modified": "Sat, 21 Nov 2026 15:47:05 GMT",
+      "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/Ord_74.08--de28f151d4a4.pdf"
+    }
+  ]
+}

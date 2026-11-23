@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS April 5 2017 Amended Agenda (2) (pdf)",
+  "filename": "BOS-April-6-2017-Amended-Agenda-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-April-6-2017-Amended-Agenda-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T03:52:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "982d8e86159fc530d2e29724dcdd6d0fe9c34b4401665503d594ef0759afee2d",
+  "bytes": 52791,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Apr 2017 19:10:49 GMT",
+  "etag": "\"1662294-ce37-54c5c08a0a040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-April-6-2017-Amended-Agenda-2--982d8e86159f.pdf",
+  "versions": [
+    {
+      "sha256": "982d8e86159fc530d2e29724dcdd6d0fe9c34b4401665503d594ef0759afee2d",
+      "bytes": 52791,
+      "retrieved_utc": "2026-11-23T03:52:53+00:00",
+      "http_last_modified": "Tue, 04 Apr 2017 19:10:49 GMT"
+    }
+  ]
+}

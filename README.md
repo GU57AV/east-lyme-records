@@ -60,7 +60,8 @@ and its time, on a public Bitcoin block explorer.
 <!-- proofs:start -->
 | Manifest | Documents | Bitcoin block | Block time | Proof |
 |---|---|---|---|---|
-| _none yet_ | | | | |
+| [2026-11-23T074334Z](manifests/2026-11-23T074334Z.txt) | 1450 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-23T074334Z.txt.ots) |
+| [2026-11-23T024535Z](manifests/2026-11-23T024535Z.txt) | 726 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-23T024535Z.txt.ots) |
 <!-- proofs:end -->
 
 ## Load on the Town website

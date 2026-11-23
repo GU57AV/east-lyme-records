@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOS June 20 2018 Public Hearing Minutes (pdf)",
+  "filename": "BOS-June-20-2018-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/BOS-June-20-2018-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-23T03:39:32+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3c33e8143227c71a7d2fffe679832d1e0085424cb5f75ae54fd859f2a6ec3885",
+  "bytes": 129193,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jun 2018 13:12:44 GMT",
+  "etag": "\"16c0f0e-1f8a9-56f3ac9900b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/BOS-June-20-2018-Public-Hearing-Minutes--3c33e8143227.pdf",
+  "versions": [
+    {
+      "sha256": "3c33e8143227c71a7d2fffe679832d1e0085424cb5f75ae54fd859f2a6ec3885",
+      "bytes": 129193,
+      "retrieved_utc": "2026-11-23T03:39:32+00:00",
+      "http_last_modified": "Fri, 22 Jun 2018 13:12:44 GMT"
+    }
+  ]
+}

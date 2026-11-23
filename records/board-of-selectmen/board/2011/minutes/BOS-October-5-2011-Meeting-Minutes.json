@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS October 5 2011 Meeting Minutes (pdf)",
+  "filename": "BOS-October-5-2011-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-October-5-2011-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:02:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6a86b2a98c4e387bc507c2677577668d187f64ca902054778779e8d210981791",
+  "bytes": 70489,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:10 GMT",
+  "etag": "\"16639bf-11359-520827687c580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-October-5-2011-Meeting-Minutes--6a86b2a98c4e.pdf",
+  "versions": [
+    {
+      "sha256": "6a86b2a98c4e387bc507c2677577668d187f64ca902054778779e8d210981791",
+      "bytes": 70489,
+      "retrieved_utc": "2026-11-23T07:02:07+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:10 GMT"
+    }
+  ]
+}

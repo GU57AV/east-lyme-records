@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS April 19 2017 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-April-19-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-April-19-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T04:05:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "93d115ef092c2a6849d756e6e7013369ace6f2180c7c9f35e4263eac34617dd6",
+  "bytes": 359180,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Apr 2017 19:29:32 GMT",
+  "etag": "\"1662785-57b0c-54deea063bf00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-April-19-2017-Minutes--93d115ef092c.pdf",
+  "versions": [
+    {
+      "sha256": "93d115ef092c2a6849d756e6e7013369ace6f2180c7c9f35e4263eac34617dd6",
+      "bytes": 359180,
+      "retrieved_utc": "2026-11-23T04:05:45+00:00",
+      "http_last_modified": "Mon, 24 Apr 2017 19:29:32 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOS May 5 2010 Public Information Meeting Minutes (pdf)",
+  "filename": "BOS-May-5-2010-Public-Information-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-May-5-2010-Public-Information-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T07:32:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5c530715de05733ad8d9965fbe88c4030ed1d087066fd2f1cd5e0981fc69cf30",
+  "bytes": 49503,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:32:41 GMT",
+  "etag": "\"1663d7f-c15f-5208274cd4440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2010/BOS-May-5-2010-Public-Information-Meeting-Minutes--5c530715de05.pdf",
+  "versions": [
+    {
+      "sha256": "5c530715de05733ad8d9965fbe88c4030ed1d087066fd2f1cd5e0981fc69cf30",
+      "bytes": 49503,
+      "retrieved_utc": "2026-11-23T07:32:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:32:41 GMT"
+    }
+  ]
+}

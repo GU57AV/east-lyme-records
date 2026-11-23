@@ -1,0 +1,29 @@
+{
+  "board": "watched",
+  "kind": "watched-file",
+  "year": "",
+  "subcommittee": false,
+  "link_text": "American Legal Publishing \u2014 East Lyme Advance Legislative Service (new ordinances not yet in the Code)",
+  "filename": "EastLymeALS.pdf",
+  "source_url": "https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf",
+  "listing_page": "https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T02:43:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "10adcc53b46f34cdff00cd153f7f48d395c317997e978996a0a67870a98c73e1",
+  "bytes": 39317,
+  "pages": 0,
+  "http_last_modified": "Sat, 21 Nov 2026 15:47:06 GMT",
+  "etag": "\"6b01bcfa-9995\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/amlegal-advance-legislative-service--10adcc53b46f.pdf",
+  "versions": [
+    {
+      "sha256": "10adcc53b46f34cdff00cd153f7f48d395c317997e978996a0a67870a98c73e1",
+      "bytes": 39317,
+      "retrieved_utc": "2026-11-23T02:43:37+00:00",
+      "http_last_modified": "Sat, 21 Nov 2026 15:47:06 GMT",
+      "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/watched-amlegal-advance-legislative-service/amlegal-advance-legislative-service--10adcc53b46f.pdf"
+    }
+  ]
+}

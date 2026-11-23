@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOS September 4 2013 Executive Session Agenda (pdf)",
+  "filename": "BOS-September-4-2013-Executive-Session-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-September-4-2013-Executive-Session-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T05:54:31+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "0680c5b1830f40bb746d0a5b0dd9878ddb09a47052b78a7ff3f91fc89ca7a5e2",
+  "bytes": 23816,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:43 GMT",
+  "etag": "\"16638bc-5d08-52082787f4fc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/BOS-September-4-2013-Executive-Session-Agenda--0680c5b1830f.pdf",
+  "versions": [
+    {
+      "sha256": "0680c5b1830f40bb746d0a5b0dd9878ddb09a47052b78a7ff3f91fc89ca7a5e2",
+      "bytes": 23816,
+      "retrieved_utc": "2026-11-23T05:54:31+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:43 GMT"
+    }
+  ]
+}

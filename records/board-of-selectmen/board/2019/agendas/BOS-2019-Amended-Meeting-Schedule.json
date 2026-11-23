@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS 2019 Amended Meeting Schedule (pdf)",
+  "filename": "BOS-2019-Amended-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/BOS-2019-Amended-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-23T03:10:42+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "617d4ab76e9a09c02648ec4ae0bf67ffa1c0153215c55819f5f02dfccf67cb5b",
+  "bytes": 40727,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Dec 2018 15:55:39 GMT",
+  "etag": "\"16c0675-9f17-57c344c0394c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-2019-Amended-Meeting-Schedule--617d4ab76e9a.pdf",
+  "versions": [
+    {
+      "sha256": "617d4ab76e9a09c02648ec4ae0bf67ffa1c0153215c55819f5f02dfccf67cb5b",
+      "bytes": 40727,
+      "retrieved_utc": "2026-11-23T03:10:42+00:00",
+      "http_last_modified": "Tue, 04 Dec 2018 15:55:39 GMT"
+    }
+  ]
+}

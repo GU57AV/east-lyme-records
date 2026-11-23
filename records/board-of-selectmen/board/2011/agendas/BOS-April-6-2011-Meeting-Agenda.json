@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS April 6 2011 Meeting Agenda (pdf)",
+  "filename": "BOS-April-6-2011-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-April-6-2011-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:55:51+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "fad4ab08b13fa2268d7cf38b22982eb5f31c73e8c02743e257ef9781e94834c3",
+  "bytes": 46130,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:44 GMT",
+  "etag": "\"1663c26-b432-520826dd3fd00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-April-6-2011-Meeting-Agenda--fad4ab08b13f.pdf",
+  "versions": [
+    {
+      "sha256": "fad4ab08b13fa2268d7cf38b22982eb5f31c73e8c02743e257ef9781e94834c3",
+      "bytes": 46130,
+      "retrieved_utc": "2026-11-23T06:55:51+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:44 GMT"
+    }
+  ]
+}

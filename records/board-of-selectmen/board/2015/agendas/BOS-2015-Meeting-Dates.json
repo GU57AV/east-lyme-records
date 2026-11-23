@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS 2015 Meeting Schedule (pdf)",
+  "filename": "BOS-2015-Meeting-Dates.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-2015-Meeting-Dates.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T04:55:02+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "02417c775aec85e890309ff4837d2df91bc3239a552e817d4e2616717f580cc9",
+  "bytes": 35584,
+  "pages": 0,
+  "http_last_modified": "Thu, 11 Dec 2014 13:53:36 GMT",
+  "etag": "\"166386e-8b00-509f11a443800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-2015-Meeting-Dates--02417c775aec.pdf",
+  "versions": [
+    {
+      "sha256": "02417c775aec85e890309ff4837d2df91bc3239a552e817d4e2616717f580cc9",
+      "bytes": 35584,
+      "retrieved_utc": "2026-11-23T04:55:02+00:00",
+      "http_last_modified": "Thu, 11 Dec 2014 13:53:36 GMT"
+    }
+  ]
+}

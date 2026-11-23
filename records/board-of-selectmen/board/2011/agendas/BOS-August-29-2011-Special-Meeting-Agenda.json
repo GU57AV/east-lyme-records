@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOS August 29 2011 Special Meeting Agenda (pdf)",
+  "filename": "BOS-August-29-2011-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-August-29-2011-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:50:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7a70954ce6d0a6054d1c026d348318039bfc8503d25a7a29a1ec12dd99eedacc",
+  "bytes": 25919,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:48 GMT",
+  "etag": "\"16639fd-653f-520826e110600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/BOS-August-29-2011-Special-Meeting-Agenda--7a70954ce6d0.pdf",
+  "versions": [
+    {
+      "sha256": "7a70954ce6d0a6054d1c026d348318039bfc8503d25a7a29a1ec12dd99eedacc",
+      "bytes": 25919,
+      "retrieved_utc": "2026-11-23T06:50:08+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:48 GMT"
+    }
+  ]
+}

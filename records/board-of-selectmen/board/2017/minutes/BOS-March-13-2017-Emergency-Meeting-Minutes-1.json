@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOS March 13 2017 Emergency Meeting Minutes (pdf)",
+  "filename": "BOS-March-13-2017-Emergency-Meeting-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOS-March-13-2017-Emergency-Meeting-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T04:07:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "fcc1a41dadb584c186709e0c5c3348f42b342b588b5625d04d9e8b4de9b2e897",
+  "bytes": 253802,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Mar 2017 00:41:44 GMT",
+  "etag": "\"166259b-3df6a-54aa61791a200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/BOS-March-13-2017-Emergency-Meeting-Minutes-1--fcc1a41dadb5.pdf",
+  "versions": [
+    {
+      "sha256": "fcc1a41dadb584c186709e0c5c3348f42b342b588b5625d04d9e8b4de9b2e897",
+      "bytes": 253802,
+      "retrieved_utc": "2026-11-23T04:07:26+00:00",
+      "http_last_modified": "Tue, 14 Mar 2017 00:41:44 GMT"
+    }
+  ]
+}

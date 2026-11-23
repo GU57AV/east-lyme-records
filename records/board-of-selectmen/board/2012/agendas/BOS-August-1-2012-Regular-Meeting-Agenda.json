@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOS August 1 2012 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-August-1-2012-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOS-August-1-2012-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T06:22:54+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "74f1da01219f809db0d7fe8e988f5e7a8d6534a08a1bff83a65f70e94baf269e",
+  "bytes": 40874,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:46 GMT",
+  "etag": "\"1661b9b-9faa-520826df28180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/BOS-August-1-2012-Regular-Meeting-Agenda--74f1da01219f.pdf",
+  "versions": [
+    {
+      "sha256": "74f1da01219f809db0d7fe8e988f5e7a8d6534a08a1bff83a65f70e94baf269e",
+      "bytes": 40874,
+      "retrieved_utc": "2026-11-23T06:22:54+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:46 GMT"
+    }
+  ]
+}

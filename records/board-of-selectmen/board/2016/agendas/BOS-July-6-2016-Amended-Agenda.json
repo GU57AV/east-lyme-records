@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOS July 6 2016 Amended Agenda (pdf)",
+  "filename": "BOS-July-6-2016-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOS-July-6-2016-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T04:14:31+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b24560c14064ecfa0625f2dc16cb37cb1a7d64d4b6befb6282f913085e5c45fd",
+  "bytes": 40425,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Jul 2016 17:44:40 GMT",
+  "etag": "\"16e03c6-9de9-536e701da9200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/BOS-July-6-2016-Amended-Agenda--b24560c14064.pdf",
+  "versions": [
+    {
+      "sha256": "b24560c14064ecfa0625f2dc16cb37cb1a7d64d4b6befb6282f913085e5c45fd",
+      "bytes": 40425,
+      "retrieved_utc": "2026-11-23T04:14:31+00:00",
+      "http_last_modified": "Tue, 05 Jul 2016 17:44:40 GMT"
+    }
+  ]
+}

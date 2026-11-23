@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOS October 21 2015 Agenda (pdf)",
+  "filename": "BOS-Oct-21-2015-Agenda1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/BOS-Oct-21-2015-Agenda1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T04:44:17+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9a472d03f65e06da2734016ad09ca58f919731371607535b799ad6feb60c0c36",
+  "bytes": 34730,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Oct 2015 17:08:15 GMT",
+  "etag": "\"1663031-87aa-5223bd75a7dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/BOS-Oct-21-2015-Agenda1--9a472d03f65e.pdf",
+  "versions": [
+    {
+      "sha256": "9a472d03f65e06da2734016ad09ca58f919731371607535b799ad6feb60c0c36",
+      "bytes": 34730,
+      "retrieved_utc": "2026-11-23T04:44:17+00:00",
+      "http_last_modified": "Fri, 16 Oct 2015 17:08:15 GMT"
+    }
+  ]
+}
