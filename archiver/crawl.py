@@ -313,18 +313,21 @@ def run(args) -> int:
             continue
         live_urls = {d["url"] for d in docs}
 
+        by_url = normalize_names(bdir)  # source URL -> sidecar path (also date-prefixes old names)
         for d in docs:
             c = classify(d["listing_page"], d["link_text"], d["url"])
             folder = bdir / ("subcommittee" if c["subcommittee"] else "board") / c["year"] / c["kind"]
-            stem = safe_name(Path(c["filename"]).stem)
             ext = Path(c["filename"]).suffix.lower() or ".pdf"
-            side = folder / f"{stem}.json"
-            meta = load_json(side, None)
-            if meta and meta.get("source_url") != d["url"]:
-                # Same file name from a different URL: keep both.
-                stem = f"{stem}--{hashlib.sha1(d['url'].encode()).hexdigest()[:8]}"
+            if d["url"] in by_url:
+                side = by_url[d["url"]]
+                folder, stem = side.parent, side.stem
+            else:
+                stem = dated_stem(c["filename"], d["link_text"], c["year"], c["upload_folder"])
                 side = folder / f"{stem}.json"
-                meta = load_json(side, None)
+                if side.exists():  # same name from a different URL: keep both
+                    stem = f"{stem}--{hashlib.sha1(d['url'].encode()).hexdigest()[:8]}"
+                    side = folder / f"{stem}.json"
+            meta = load_json(side, None)
 
             if meta and meta.get("removed_from_listing_utc"):
                 meta.pop("removed_from_listing_utc", None)
@@ -665,6 +668,51 @@ def meeting_date(*texts, default_year=None):
             if m and (d := _mk(default_year, MONTHS[m.group(1)[:3]], m.group(2))):
                 return d
     return None
+
+
+DATED = re.compile(r"^(\d{4}-\d{2}-\d{2})_")
+
+
+def dated_stem(filename: str, link_text: str, year: str, upload_folder: str | None) -> str:
+    """File name used in the archive: meeting date first, so folders list in date order."""
+    base = safe_name(Path(filename).stem)
+    d = meeting_date(filename, link_text, default_year=year if str(year).isdigit() else None)
+    if d:
+        prefix = d.isoformat()
+    elif upload_folder:
+        prefix = f"{upload_folder}-00"
+    else:
+        prefix = f"{year if str(year).isdigit() else '0000'}-00-00"
+    return f"{prefix}_{base}"
+
+
+def normalize_names(bdir: Path) -> dict:
+    """Give every archived document in a board a date-prefixed name (renaming its .json, .md and any
+    local original together) and return a map of source URL -> sidecar path."""
+    by_url = {}
+    if not bdir.exists():
+        return by_url
+    for side in sorted(bdir.rglob("*.json")):
+        m = load_json(side, None)
+        if not isinstance(m, dict) or "source_url" not in m:
+            continue
+        if not DATED.match(side.stem):
+            fname = m.get("filename") or m["source_url"].rsplit("/", 1)[-1]
+            new_stem = dated_stem(fname, m.get("link_text", ""), m.get("year", ""), m.get("upload_folder"))
+            if side.stem.endswith(tuple(f"--{h}" for h in [hashlib.sha1(m["source_url"].encode()).hexdigest()[:8]])):
+                new_stem += "--" + hashlib.sha1(m["source_url"].encode()).hexdigest()[:8]
+            target = side.with_name(new_stem + ".json")
+            if not target.exists():
+                for old in side.parent.glob(side.stem + ".*"):
+                    if old.stem == side.stem:
+                        old.rename(old.with_name(new_stem + old.suffix))
+                if m.get("original_copy") and not str(m["original_copy"]).startswith("http"):
+                    oc = Path(m["original_copy"])
+                    m["original_copy"] = str(oc.with_name(new_stem + oc.suffix))
+                    target.write_text(json.dumps(m, indent=2) + "\n", encoding="utf-8")
+                side = target
+        by_url[m["source_url"]] = side
+    return by_url
 
 
 def write_index(bdir: Path, board: dict) -> None:
