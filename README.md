@@ -220,19 +220,59 @@ first import of a large board takes a while.
 
 ### Push notifications (optional)
 
-The archive can send instant phone alerts through [ntfy](https://ntfy.sh), a free notification app, for
-posting-deadline flags, topic alerts, documents removed or changed on the Town site, changes to the
-new-ordinance list, a likely new Code edition, and failed runs.
+This archive's own phone alerts go privately to its maintainer. If you'd like the same alerts on your
+phone, you can set them up on your own copy in about ten minutes, for free, using
+[ntfy](https://ntfy.sh), a simple notification app.
 
-To turn it on for your own copy:
+**What you'd get alerted about:**
 
-1. Install the **ntfy** app (iPhone or Android) and subscribe to a topic with a long, hard-to-guess name,
-   like `eastlyme-records-7f3k9q2m`. On the free public server, anyone who knows the name can read it.
-2. In your GitHub repository, go to **Settings → Secrets and variables → Actions → New repository
-   secret**, name it `NTFY_TOPIC`, and paste the topic name.
-3. Optional: add `NTFY_SERVER` if you run your own ntfy server, and `NTFY_TOKEN` if your topic needs one.
+| Alert | Priority |
+|---|---|
+| New posting-deadline flags (late agendas or minutes, missing minutes) | High |
+| Documents removed or changed on the Town's website | High |
+| Changes to the publisher's new-ordinance list, or to an ordinance it links to | High |
+| A new annual Code edition appears to be out | High |
+| A run of the archive failed | High |
+| A newly posted document mentions one of your watched topics | Normal |
 
-Alerts start with the next run. Without `NTFY_TOPIC`, nothing is sent.
+Each alert has a short summary; tapping it opens the matching report or page in your repository.
+
+**Step 1: make your own copy of the archive.** Follow [Option 1 under Running your own copy](#option-1-your-own-copy-on-github-no-computer-setup).
+Alerts come from your copy's runs, so you need your own.
+
+**Step 2: install ntfy and pick a private topic.**
+
+1. Install the free **ntfy** app from the App Store or Google Play.
+2. Open it and tap **+** (Subscribe to topic).
+3. Make up a long, random topic name, for example `eastlyme-alerts-` followed by 10 random letters
+   and numbers, like `eastlyme-alerts-q8m2x7r4kt`. Type it in and tap **Subscribe**.
+4. Keep that name to yourself. On ntfy's free public server, a topic has no password: anyone who knows
+   the name can read your alerts, or send fake ones to it.
+
+**Step 3: tell your copy of the archive where to send alerts.**
+
+1. In your repository on GitHub, click **Settings** (top of the page).
+2. On the left, click **Secrets and variables**, then **Actions**.
+3. Click **New repository secret**. For **Name**, type `NTFY_TOPIC`. For **Secret**, paste your topic
+   name. Click **Add secret**.
+
+GitHub keeps secrets hidden, even in a public repository, so your topic name stays private.
+
+**Step 4: test it.** Click the **Actions** tab, choose **Archive East Lyme meeting records**, then **Run
+workflow**. Alerts are only sent when something happens, so a quiet run may send nothing. To check that
+your phone is set up, open `https://ntfy.sh/` followed by your topic name in a browser and send a test
+message from that page; it should pop up on your phone.
+
+**Optional extras:**
+
+- **More reliable delivery:** ntfy's free server limits how many messages it accepts, and GitHub's
+  servers are shared. If alerts stop arriving, create a free account at ntfy.sh, make an access token
+  under **Account → Access tokens**, and add it as a second secret named `NTFY_TOKEN`.
+- **Locking the topic:** a paid ntfy plan lets you reserve your topic name so only you can post to it.
+  Add your token as `NTFY_TOKEN` as above.
+- **Your own server:** if you run your own ntfy server, add its address (like `https://ntfy.example.org`)
+  as a secret named `NTFY_SERVER`.
+- **Turning alerts off:** delete the `NTFY_TOPIC` secret. Nothing is sent without it.
 
 ### Words used here
 
