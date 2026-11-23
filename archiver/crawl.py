@@ -585,9 +585,10 @@ def write_manifest() -> None:
     """Write a dated manifest of every archived file's SHA-256 when the set of hashes changes.
     The workflow stamps each new manifest with OpenTimestamps (Bitcoin-anchored proof)."""
     rows = []
-    for side in sorted((ROOT / "records").rglob("*.json")):
+    sides = sorted((ROOT / "records").rglob("*.json")) + sorted((ROOT / "code").rglob("*.json"))
+    for side in sides:
         m = load_json(side, None)
-        if m and m.get("sha256"):
+        if isinstance(m, dict) and m.get("sha256") and m.get("source_url"):
             rows.append(f"{m['sha256']}  {m['source_url']}  {side.relative_to(ROOT).with_suffix('')}")
     if not rows:
         return

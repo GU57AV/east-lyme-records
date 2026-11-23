@@ -11,6 +11,7 @@ look at anything here. You only need one if you want to report a problem or get 
 
 **In this guide:**
 [What this is](#what-this-is) ·
+[The Charter and Code](#reading-the-charter-and-code) ·
 [Finding a document](#finding-a-document) ·
 [Searching](#searching-every-document-at-once) ·
 [Reading a document's page](#what-youll-see-for-each-document) ·
@@ -35,6 +36,13 @@ changed, replaced, or taken down.
 
 It is **not** run by the Town, and it does not replace the Town's website. If the two ever disagree,
 check the Town's original, then look here to see whether and when it changed.
+
+### Reading the Charter and Code
+
+Open the [Charter and Code contents page](https://github.com/GU57AV/east-lyme-records/blob/main/code/README.md) and click a chapter. Every section
+is a heading you can link to: hover over it and click the small link icon to copy a link straight to,
+say, Charter § 3.4. The page shows which edition it is; newer ordinances not yet in that edition are
+tracked through the publisher's new-ordinance list described above.
 
 ### Finding a document
 
@@ -245,6 +253,9 @@ and the earlier version stays in the history.
 Currently archived: the Board of Selectmen and every board and commission on the Town's
 [Boards & Commissions page](https://eltownhall.com/government/boards-commissions/), plus Town Meetings.
 See the [list of archived boards](records/README.md).
+
+Also here: a searchable copy of the **[Town Charter and Code of Ordinances](code/README.md)**, one page per
+chapter, from American Legal Publishing's 2025 S-7 edition (current through April 16, 2025).
 
 Also watched on every run (about every three hours): American Legal Publishing's
 [Advance Legislative Service list](https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf)
