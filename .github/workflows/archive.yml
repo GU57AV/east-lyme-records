@@ -58,6 +58,7 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          NTFY_REMINDER_TOPIC: ${{ secrets.NTFY_REMINDER_TOPIC }}
         run: python archiver/compliance.py --open-issues
 
       - name: Timestamp manifests on the Bitcoin blockchain (OpenTimestamps)

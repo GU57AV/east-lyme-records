@@ -87,6 +87,12 @@ def load_docs() -> list[tuple[Path, dict]]:
     return out
 
 
+def mtype(m: dict) -> str:
+    """Public hearings get their own notice and minutes, separate from the meeting's."""
+    t = f"{m.get('link_text') or ''} {m.get('filename') or ''}"
+    return "hearing" if re.search(r"hearing", t, re.I) else "meeting"
+
+
 def deadline_flags(docs, boards: dict, now: dt.datetime) -> tuple[list[dict], list[dict]]:
     flags, notes = [], []
     minutes_by_meeting = set()
@@ -94,7 +100,7 @@ def deadline_flags(docs, boards: dict, now: dt.datetime) -> tuple[list[dict], li
         if m.get("kind") == "minutes":
             d = meeting_date(m.get("filename", ""), m.get("link_text", ""), default_year=m.get("year"))
             if d:
-                minutes_by_meeting.add((m["board"], bool(m.get("subcommittee")), d))
+                minutes_by_meeting.add((m["board"], bool(m.get("subcommittee")), d, mtype(m)))
     for side, m in docs:
         if m.get("seen_in_initial_import"):
             continue
@@ -136,11 +142,11 @@ def deadline_flags(docs, boards: dict, now: dt.datetime) -> tuple[list[dict], li
         d = meeting_date(m.get("filename", ""), title, default_year=m.get("year"))
         if not d or (now.astimezone(ET).date() - d).days <= 8:
             continue
-        if (m["board"], bool(m.get("subcommittee")), d) not in minutes_by_meeting:
+        if (m["board"], bool(m.get("subcommittee")), d, mtype(m)) not in minutes_by_meeting:
             board = boards.get(m["board"], m["board"]) + (" (subcommittee)" if m.get("subcommittee") else "")
             flags.append({"board": board, "date": d.isoformat(), "title": title, "link": link(side),
                           "source": m["source_url"], "absent": "—", "seen": fmt(utc(m.get("first_seen_utc"))),
-                          "key": f"missing-minutes:{m['board']}:{m.get('subcommittee')}:{d}",
+                          "key": f"missing-minutes:{m['board']}:{m.get('subcommittee')}:{d}:{mtype(m)}",
                           "rule": "No minutes found more than 8 days after the meeting",
                           "detail": "An agenda was posted but no minutes for that date have appeared on the "
                                     "board's pages (the meeting may have been cancelled)."})
@@ -152,6 +158,112 @@ def deadline_flags(docs, boards: dict, now: dt.datetime) -> tuple[list[dict], li
             seen_keys.add(k)
             uniq.append(f)
     return uniq, notes
+
+
+OCR_DIGITS = str.maketrans({"T": "7", "S": "5", "s": "5", "l": "1", "I": "1", "i": "1", "O": "0", "o": "0", "B": "8"})
+SCHED_RE = re.compile(r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|"
+                      r"sept?(?:ember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?\s*"
+                      r"([0-9TSsIlOoB][0-9TSsIlOoB.]{0,2})\s*(?:st|nd|rd|th|'d|'t|'s)?\b", re.I)
+MONTH_NO = {m: i for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun",
+                                        "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+
+
+def schedule_dates(text: str, year: int) -> list[dt.date]:
+    """Meeting dates listed in an annual schedule of meetings. Tolerates common OCR slips
+    (e.g. 'AprilTth', 'May Sth'), then keeps dates on the schedule's usual weekday."""
+    found = set()
+    for m in SCHED_RE.finditer(text):
+        day = m.group(2).replace(".", "").translate(OCR_DIGITS)
+        if not day.isdigit():
+            continue
+        try:
+            found.add(dt.date(year, MONTH_NO[m.group(1)[:3].lower()], int(day)))
+        except ValueError:
+            pass
+    if len(found) >= 4:
+        counts = {}
+        for d in found:
+            counts[d.weekday()] = counts.get(d.weekday(), 0) + 1
+        wd, n = max(counts.items(), key=lambda kv: kv[1])
+        if n >= 0.6 * len(found):
+            found = {d for d in found if d.weekday() == wd}
+    return sorted(found)
+
+
+def upcoming(docs, boards: dict, now: dt.datetime) -> list[dict]:
+    """Deadlines in the next week: agendas for scheduled regular meetings (24 hours ahead) and
+    minutes for meetings that have an agenda (seven days after)."""
+    today = now.astimezone(ET).date()
+    agendas, minutes, out = set(), set(), []
+    for side, m in docs:
+        d = meeting_date(m.get("filename", ""), m.get("link_text", ""), default_year=m.get("year"))
+        if not d:
+            continue
+        k = (m["board"], bool(m.get("subcommittee")), d, mtype(m))
+        if m.get("kind") == "agendas":
+            agendas.add(k)
+        elif m.get("kind") == "minutes":
+            minutes.add(k)
+    name = lambda b, sub: boards.get(b, b) + (" (subcommittee)" if sub else "")
+    # Minutes for meetings that had an agenda and haven't been posted yet.
+    for side, m in docs:
+        title = m.get("link_text") or m.get("filename") or ""
+        if m.get("kind") != "agendas" or re.search(r"cancel|schedule", title, re.I):
+            continue
+        d = meeting_date(m.get("filename", ""), title, default_year=m.get("year"))
+        if not d:
+            continue
+        due = d + dt.timedelta(days=7)
+        k = (m["board"], bool(m.get("subcommittee")), d, mtype(m))
+        if today <= due <= today + dt.timedelta(days=7) and k not in minutes:
+            label = "Public hearing minutes" if k[3] == "hearing" else "Minutes"
+            out.append({"key": f"minutes:{k[0]}:{k[1]}:{d}:{k[3]}", "kind": label, "board": name(*k[:2]),
+                        "meeting": d, "due": due, "due_text": f"by the end of {due.strftime('%a %b %-d')}",
+                        "status": "not posted yet"})
+    # Agendas for upcoming regular meetings listed in each board's schedule of meetings.
+    for side, m in docs:
+        title = (m.get("link_text") or "") + " " + (m.get("filename") or "")
+        if not re.search(r"schedule", title, re.I) or not re.search(r"meeting", title, re.I):
+            continue
+        ym = re.search(r"(20\d{2})", title)
+        if not ym or int(ym.group(1)) not in (today.year, today.year + 1):
+            continue
+        text = doc_text(side)
+        hm = meeting_time(text)
+        for d in schedule_dates(text, int(ym.group(1))):
+            if not (today <= d <= today + dt.timedelta(days=7)):
+                continue
+            k = (m["board"], bool(m.get("subcommittee")), d, "meeting")
+            when = (dt.datetime(d.year, d.month, d.day, *hm) - dt.timedelta(hours=24)).strftime("%a %b %-d, %-I:%M %p") if hm else None
+            out.append({"key": f"agenda:{k[0]}:{k[1]}:{d}", "kind": "Agenda", "board": name(*k[:2]), "meeting": d,
+                        "due": d - dt.timedelta(days=1),
+                        "due_text": f"by {when}" if when else "at least 24 hours before the meeting",
+                        "status": "posted" if k in agendas else "not posted yet"})
+    seen, uniq = set(), []
+    for r in sorted(out, key=lambda r: (r["due"], r["board"])):
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            uniq.append(r)
+    return uniq
+
+
+def write_upcoming(items, now) -> None:
+    out = ROOT / "reports" / "upcoming.md"
+    out.parent.mkdir(exist_ok=True)
+    lines = ["# Upcoming posting deadlines", "",
+             f"_Updated {fmt(now)}. Unofficial and automatic._", "",
+             "Agendas for regular meetings come from each board's published schedule of meetings and are due at "
+             "least 24 hours before the meeting; minutes are due within seven days after a meeting "
+             "(Connecticut FOI Act, CGS § 1-225). Special meetings can't be predicted, and a scheduled meeting may "
+             "be cancelled. Schedules are often scanned, so a date can occasionally be misread or missed.", ""]
+    if not items:
+        lines.append("Nothing due in the next seven days that the archive knows of.")
+    else:
+        lines += ["| Due | What | Board | Meeting | Status |", "|---|---|---|---|---|"]
+        for r in items:
+            lines.append(f"| {r['due_text']} | {r['kind']} | {r['board']} | {r['meeting'].strftime('%a %b %-d, %Y')} "
+                         f"| {r['status']} |")
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def topic_hits(docs, topics: list[str]) -> dict:
@@ -244,6 +356,8 @@ def main() -> int:
 
     flags, notes = deadline_flags(docs, boards, now)
     write_compliance(flags, notes, now)
+    soon = upcoming(docs, boards, now)
+    write_upcoming(soon, now)
     hits = topic_hits(docs, topics)
     write_topics(hits, boards, now)
 
@@ -284,6 +398,19 @@ def main() -> int:
                "\n".join(f"{t}: {m.get('link_text') or m.get('filename')} ({boards.get(m['board'], m['board'])})"
                          for t, side, m, snip in new_hits[:8]) + ("\n…" if len(new_hits) > 8 else ""),
                priority="default", tags=["mag"], click=repo_url("reports/topics.md"))
+
+    # Heads-up reminders, about a day before each deadline, to a separate optional topic.
+    today = now.astimezone(ET).date()
+    reminded = set(state.get("reminders", []))
+    due_soon = [r for r in soon if r["status"] != "posted" and r["due"] <= today + dt.timedelta(days=1)
+                and r["key"] not in reminded]
+    for r in due_soon:
+        notify(f"Deadline tomorrow: {r['kind'].lower()} for {r['board']}",
+               f"{r['kind']} for the {r['meeting'].strftime('%b %-d')} meeting should be posted {r['due_text']}.",
+               priority="default", tags=["alarm_clock"], click=repo_url("reports/upcoming.md"),
+               topic_env="NTFY_REMINDER_TOPIC")
+        reminded.add(r["key"])
+    state["reminders"] = sorted(reminded)
 
     state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in flags})
     state_path.parent.mkdir(exist_ok=True)

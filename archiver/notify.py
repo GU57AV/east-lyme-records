@@ -5,6 +5,7 @@ Set these as GitHub Actions secrets to turn them on (nothing is sent if NTFY_TOP
                since anyone who knows it can read the messages
   NTFY_SERVER  optional, defaults to https://ntfy.sh (use your own server if you run one)
   NTFY_TOKEN   optional access token, for servers or topics that require one
+  NTFY_REMINDER_TOPIC  optional, a separate topic for "deadline coming up" reminders (off unless set)
 """
 
 from __future__ import annotations
@@ -17,8 +18,8 @@ PRIORITY = {"min": 1, "low": 2, "default": 3, "high": 4, "urgent": 5}
 
 
 def notify(title: str, message: str, priority: str = "default", tags: list[str] | None = None,
-           click: str | None = None) -> bool:
-    topic = os.environ.get("NTFY_TOPIC", "").strip()
+           click: str | None = None, topic_env: str = "NTFY_TOPIC") -> bool:
+    topic = os.environ.get(topic_env, "").strip()
     if not topic:
         return False
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")

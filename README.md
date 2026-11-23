@@ -186,6 +186,10 @@ Two automatic reports are built from what the archive records:
   topic, such as "speed camera," "Altumint," "license plate," "executive session" or "proposed ordinance,"
   with a short excerpt and a link. The list of topics is in `config.json` under `topics`.
 
+- **[Upcoming deadlines](https://github.com/GU57AV/east-lyme-records/blob/main/reports/upcoming.md).** What's due in the next seven days:
+  agendas for regular meetings listed in each board's published schedule of meetings (due 24 hours
+  before), and minutes for recent meetings (due seven days after), with whether each has been posted yet.
+
 When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
 **issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
 [Getting updates](#getting-updates)), you get those by email.
@@ -272,6 +276,11 @@ message from that page; it should pop up on your phone.
   Add your token as `NTFY_TOKEN` as above.
 - **Your own server:** if you run your own ntfy server, add its address (like `https://ntfy.example.org`)
   as a secret named `NTFY_SERVER`.
+- **Deadline heads-up reminders:** to get a reminder about a day *before* each deadline (an agenda due
+  for a scheduled meeting, or minutes coming due) that hasn't been met yet, subscribe to a second topic
+  in the app and add it as a secret named `NTFY_REMINDER_TOPIC`. These go only to that topic, so they're
+  easy to share with someone who'd find them useful, such as a board chair or clerk, without your
+  other alerts. Leave it unset to turn reminders off.
 - **Turning alerts off:** delete the `NTFY_TOPIC` secret. Nothing is sent without it.
 
 ### Words used here
