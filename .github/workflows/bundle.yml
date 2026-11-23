@@ -1,0 +1,42 @@
+name: Build downloads
+
+on:
+  schedule:
+    - cron: "41 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bundle
+  cancel-in-progress: false
+
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build CSV index, text zip and SQLite database
+        run: python archiver/bundle.py
+      - name: Publish to the "download" release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view download >/dev/null 2>&1; then
+            gh release create download --title "Download the whole archive" --notes-file - <<'EOF'
+          One-click downloads of the entire archive, rebuilt daily. No GitHub account needed.
+
+          - **east-lyme-records-index.csv**: a spreadsheet listing every document, with dates and links. Opens in Excel, Numbers or Google Sheets.
+          - **east-lyme-records-text.zip**: the text of every document as plain .txt files, in folders by board and year, plus the Charter and Code. Unzip and search with your computer's normal search.
+          - **east-lyme-records.sqlite**: everything in one searchable database. Open with the free DB Browser for SQLite (sqlitebrowser.org).
+
+          Text copies are automatic and scanned pages were read by OCR, so errors are possible. The Town's original files are authoritative and are linked from the index.
+          EOF
+          fi
+          gh release upload download dist/east-lyme-records-index.csv dist/east-lyme-records-text.zip dist/east-lyme-records.sqlite --clobber

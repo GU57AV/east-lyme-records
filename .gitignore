@@ -3,3 +3,4 @@ records/**/*.pdf
 records/**/*.doc
 records/**/*.docx
 __pycache__/
+dist/

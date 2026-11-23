@@ -4,6 +4,14 @@
 meeting records published on [eltownhall.com](https://eltownhall.com). The Town's own website
 remains the official source.
 
+**Just want the records?** No GitHub needed. These downloads are rebuilt every day:
+
+| Download | What it is | Opens with |
+| --- | --- | --- |
+| [Index of every document (CSV)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records-index.csv) | One row per document: date, board, title, link to the Town's original and to a saved copy | Excel, Numbers, Google Sheets |
+| [Text of every document (ZIP)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records-text.zip) | Every agenda, minutes and notice as a plain text file, in folders by board and year, plus the Charter and Code | Any computer: unzip and use its normal search |
+| [Searchable database (SQLite)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records.sqlite) | All of the above in one file with full-text search | Free [DB Browser for SQLite](https://sqlitebrowser.org) |
+
 ## Start here: how to use this archive (plain English)
 
 New to GitHub? This section walks through everything step by step. You don't need an account to
@@ -219,9 +227,12 @@ first import of a large board takes a while.
 
 ### Downloading everything
 
-- **All text copies, details, change reports and proofs:** click the green **Code** button on the
-  [main page](https://github.com/GU57AV/east-lyme-records), then **Download ZIP**. Unzip it and search the folder with your computer's
-  search, or any text-search tool.
+- **Easiest:** the three daily downloads at the [top of this page](#east-lyme-records-unofficial-archive):
+  a spreadsheet index, a zip of every document's text, and a searchable database. In the database,
+  the `about` table has an example search you can copy into DB Browser's **Execute SQL** tab.
+- **Everything in the repository** (text copies, details, change reports and proofs): click the
+  green **Code** button on the [main page](https://github.com/GU57AV/east-lyme-records), then
+  **Download ZIP**.
 - **Originals:** these are on the [Releases page](https://github.com/GU57AV/east-lyme-records/releases), grouped by board and year. Click a
   release to see and download its files.
 
