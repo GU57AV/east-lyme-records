@@ -262,10 +262,22 @@ def run(args) -> int:
         bdir = ROOT / "records" / board["slug"]
         try:
             full = initial or args.recheck or args.force
-            docs, complete = crawl_board(f, board, full)
-            complete = complete and full  # only mark removals after reading every listing
+            cache = state.setdefault("doc_cache", {}).get(board["slug"])
+            fresh = cache and (dt.datetime.now(dt.timezone.utc)
+                               - dt.datetime.fromisoformat(cache["at"])) < dt.timedelta(hours=24)
+            if initial and fresh:
+                # During the initial import, reuse the document list from the last full read of the
+                # listing pages (less than a day old) instead of re-reading ~70 pages every batch.
+                docs, complete = cache["docs"], False
+                log(f"[{board['slug']}] using cached list of {len(docs)} documents from {cache['at']}")
+            else:
+                docs, complete = crawl_board(f, board, full)
+                complete = complete and full  # only mark removals after reading every listing
+                if initial:
+                    state["doc_cache"][board["slug"]] = {"at": now_utc(), "docs": docs}
         except Exception as e:
             report["errors"].append(f"{board['slug']}: crawl failed: {e}")
+            incomplete = True  # never treat a failed crawl as a finished import
             continue
         live_urls = {d["url"] for d in docs}
 
@@ -360,6 +372,7 @@ def run(args) -> int:
         write_index(bdir, board)
 
     if not incomplete:
+        state.pop("doc_cache", None)
         state["initial_import_complete"] = True
         state["last_full_run_utc"] = now_utc()
     state["runs"] = state.get("runs", 0) + 1

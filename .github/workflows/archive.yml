@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # lets an unfinished initial import start its next batch right away
 
 concurrency:
   group: archive
@@ -22,7 +23,7 @@ concurrency:
 jobs:
   archive:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,7 +39,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          ARGS="--time-budget 270"
+          ARGS="--time-budget 300"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then ARGS="$ARGS --force"; fi
           if [ "${{ inputs.recheck }}" = "true" ]; then ARGS="$ARGS --recheck"; fi
           # Weekly recheck on Sundays for silent replacements (uses conditional requests).
@@ -73,4 +74,14 @@ jobs:
             git commit -q -m "Archive update $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase -q origin main
             git push
+          fi
+
+      - name: Start the next batch if the initial import is unfinished
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if python -c "import json,sys; sys.exit(0 if json.load(open('state/state.json')).get('initial_import_complete') else 1)"; then
+            echo "Initial import complete."
+          else
+            gh workflow run archive.yml --ref main -f recheck=false
           fi
