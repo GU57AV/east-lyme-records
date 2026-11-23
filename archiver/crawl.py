@@ -235,9 +235,13 @@ def run(args) -> int:
     f = Fetcher(cfg.get("user_agent", "east-lyme-records-archiver"), float(cfg.get("delay_seconds", 2)))
     state_path = ROOT / "state" / "state.json"
     state = load_json(state_path, {"initial_import_complete": False, "runs": 0})
-    initial = not state.get("initial_import_complete")
+    imported = set(state.get("boards_imported", []))
+    if not imported and state.get("initial_import_complete"):
+        imported = {"board-of-selectmen"}  # archive started with this board only
+    initial = any(b["slug"] not in imported for b in cfg["boards"])
     today = dt.date.today().isoformat()
     report = {"new": [], "changed": [], "removed": [], "restored": [], "errors": []}
+    init_report = {"new": [], "changed": [], "removed": [], "restored": [], "errors": []}
     processed = 0
     incomplete = False
     deadline = time.monotonic() + args.time_budget * 60 if args.time_budget else float("inf")
@@ -258,14 +262,39 @@ def run(args) -> int:
             log(f"last run {age} ago; nothing to do (use --force to run anyway)")
             return 0
 
+    # Rotating verification: each full run re-downloads (conditionally) the N archived documents
+    # checked longest ago, so silent replacements are caught without re-checking everything at once.
+    verified_path = ROOT / "state" / "verified.json"
+    verified = load_json(verified_path, {})
+    verify_set: set[str] = set()
+    if args.verify and not initial:
+        pool = []
+        for side in (ROOT / "records").rglob("*.json"):
+            if side.parent.name == "linked" or "watched" in side.parts:
+                continue
+            m = load_json(side, None)
+            if m and m.get("source_url") and not m.get("removed_from_listing_utc"):
+                recent = m.get("year", "") >= str(dt.date.today().year - 1)
+                last = verified.get(m["source_url"], m.get("first_seen_utc", ""))
+                pool.append((not recent, last, m["source_url"]))
+        pool.sort()
+        verify_set = {u for _, _, u in pool[:args.verify]}
+        log(f"verifying {len(verify_set)} archived documents (recent years first, oldest check first)")
+
     for board in cfg["boards"]:
         bdir = ROOT / "records" / board["slug"]
+        binit = board["slug"] not in imported  # this board's first (initial) import
+        brep = init_report if binit else report
+        board_incomplete = False
+        if binit and time.monotonic() > deadline:
+            incomplete = True
+            continue
         try:
-            full = initial or args.recheck or args.force
+            full = binit or args.recheck or args.force
             cache = state.setdefault("doc_cache", {}).get(board["slug"])
             fresh = cache and (dt.datetime.now(dt.timezone.utc)
                                - dt.datetime.fromisoformat(cache["at"])) < dt.timedelta(hours=24)
-            if initial and fresh:
+            if binit and fresh:
                 # During the initial import, reuse the document list from the last full read of the
                 # listing pages (less than a day old) instead of re-reading ~70 pages every batch.
                 docs, complete = cache["docs"], False
@@ -273,10 +302,10 @@ def run(args) -> int:
             else:
                 docs, complete = crawl_board(f, board, full)
                 complete = complete and full  # only mark removals after reading every listing
-                if initial:
+                if binit:
                     state["doc_cache"][board["slug"]] = {"at": now_utc(), "docs": docs}
         except Exception as e:
-            report["errors"].append(f"{board['slug']}: crawl failed: {e}")
+            brep["errors"].append(f"{board['slug']}: crawl failed: {e}")
             incomplete = True  # never treat a failed crawl as a finished import
             continue
         live_urls = {d["url"] for d in docs}
@@ -296,13 +325,14 @@ def run(args) -> int:
 
             if meta and meta.get("removed_from_listing_utc"):
                 meta.pop("removed_from_listing_utc", None)
-                report["restored"].append(d["url"])
+                brep["restored"].append(d["url"])
                 side.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
 
-            if meta and not args.recheck:
-                continue  # already archived; content checks run with --recheck
+            if meta and not args.recheck and d["url"] not in verify_set:
+                continue  # already archived; re-checked on a rotating schedule (see --verify)
             if (args.max_new and processed >= args.max_new) or time.monotonic() > deadline:
                 incomplete = True
+                board_incomplete = True
                 continue
 
             headers = {}
@@ -313,12 +343,13 @@ def run(args) -> int:
             try:
                 r = f.get(d["url"], headers=headers)
             except Exception as e:
-                report["errors"].append(f"{d['url']}: {e}")
+                brep["errors"].append(f"{d['url']}: {e}")
                 continue
+            verified[d["url"]] = now_utc()
             if r.status_code == 304:
                 continue
             if r.status_code != 200:
-                report["errors"].append(f"{d['url']}: HTTP {r.status_code}")
+                brep["errors"].append(f"{d['url']}: HTTP {r.status_code}")
                 continue
             data = r.content
             sha = hashlib.sha256(data).hexdigest()
@@ -345,7 +376,7 @@ def run(args) -> int:
                 "listing_page": d["listing_page"],
                 "upload_folder": c["upload_folder"],
                 "first_seen_utc": first_seen,
-                "seen_in_initial_import": initial if not meta else meta.get("seen_in_initial_import", initial),
+                "seen_in_initial_import": binit if not meta else meta.get("seen_in_initial_import", binit),
                 "sha256": sha,
                 "bytes": len(data),
                 "pages": pdf_pages(doc_path) if ext == ".pdf" else None,
@@ -357,7 +388,7 @@ def run(args) -> int:
             }
             side.write_text(json.dumps(new_meta, indent=2) + "\n", encoding="utf-8")
             write_text_copy(folder / f"{stem}.md", new_meta, text)
-            (report["changed"] if meta else report["new"]).append(
+            (brep["changed"] if meta else brep["new"]).append(
                 f"{d['link_text'] or c['filename']} — {d['url']}")
             log(f"  {'changed' if meta else 'new'}: {d['url']} ({method})")
 
@@ -367,24 +398,33 @@ def run(args) -> int:
             if meta and meta.get("source_url") not in live_urls and not meta.get("removed_from_listing_utc"):
                 meta["removed_from_listing_utc"] = now_utc()
                 side.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
-                report["removed"].append(f"{meta.get('link_text') or meta.get('filename')} — {meta['source_url']}")
+                brep["removed"].append(f"{meta.get('link_text') or meta.get('filename')} — {meta['source_url']}")
 
         write_index(bdir, board)
+        if binit and not board_incomplete:
+            imported.add(board["slug"])
+            state.get("doc_cache", {}).pop(board["slug"], None)
+            log(f"[{board['slug']}] initial import complete")
 
+    write_master_index(cfg, imported)
+    state["boards_imported"] = sorted(imported)
+    state["initial_import_complete"] = all(b["slug"] in imported for b in cfg["boards"])
     if not incomplete:
         state.pop("doc_cache", None)
-        state["initial_import_complete"] = True
         state["last_full_run_utc"] = now_utc()
     state["runs"] = state.get("runs", 0) + 1
     state["last_run_utc"] = now_utc()
     state_path.parent.mkdir(parents=True, exist_ok=True)
     state_path.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
-    write_report(today, report, initial, incomplete)
+    if verified:
+        verified_path.write_text(json.dumps(verified, indent=0, sort_keys=True) + "\n", encoding="utf-8")
+    write_report(today, init_report, True, incomplete, heading="Initial import of newly added boards")
+    write_report(today, report, False, False)
     write_manifest()
-    if cfg.get("wayback_new_documents") and not initial:
+    if cfg.get("wayback_new_documents"):
         submit_wayback(f, report["new"] + report["changed"])
-    log(f"done: {len(report['new'])} new, {len(report['changed'])} changed, "
-        f"{len(report['removed'])} removed, {len(report['errors'])} errors"
+    log(f"done: {len(report['new'])} new, {len(init_report['new'])} imported, {len(report['changed'])} changed, "
+        f"{len(report['removed'])} removed, {len(report['errors']) + len(init_report['errors'])} errors"
         + (" (more remain; run again)" if incomplete else ""))
     return 0
 
@@ -593,6 +633,20 @@ def write_index(bdir: Path, board: dict) -> None:
     (bdir / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def write_master_index(cfg: dict, imported: set) -> None:
+    lines = ["# Archived boards and commissions", "",
+             "| Board or commission | Documents | Status |", "|---|---|---|"]
+    for b in cfg["boards"]:
+        bdir = ROOT / "records" / b["slug"]
+        n = sum(1 for _ in bdir.rglob("*.json")) if bdir.exists() else 0
+        status = "complete" if b["slug"] in imported else "import in progress"
+        link = f"[{b['name']}]({b['slug']}/INDEX.md)" if n else b["name"]
+        lines.append(f"| {link} | {n} | {status} |")
+    out = ROOT / "records" / "README.md"
+    out.parent.mkdir(exist_ok=True)
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def submit_wayback(f: Fetcher, items: list[str]) -> None:
     for item in items[:25]:
         url = item.rsplit(" — ", 1)[-1]
@@ -609,6 +663,7 @@ if __name__ == "__main__":
     ap.add_argument("--config", default="config.json")
     ap.add_argument("--max-new", type=int, default=0, help="stop after this many downloads (0 = no limit)")
     ap.add_argument("--recheck", action="store_true", help="re-download archived files to detect silent changes")
+    ap.add_argument("--verify", type=int, default=0, help="re-check this many archived documents (rotating)")
     ap.add_argument("--time-budget", type=float, default=0, help="stop starting new downloads after N minutes")
     ap.add_argument("--force", action="store_true", help="run even if a full run happened recently")
     sys.exit(run(ap.parse_args()))

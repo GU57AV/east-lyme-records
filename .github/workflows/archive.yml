@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       recheck:
-        description: "Re-download archived files to detect silent changes"
+        description: "Re-check every archived file for silent changes (slow: one request per document)"
         type: boolean
         default: false
 
@@ -42,8 +42,9 @@ jobs:
           ARGS="--time-budget 300"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then ARGS="$ARGS --force"; fi
           if [ "${{ inputs.recheck }}" = "true" ]; then ARGS="$ARGS --recheck"; fi
-          # Weekly recheck on Sundays for silent replacements (uses conditional requests).
-          if [ "$(date -u +%u)" = "7" ] && [ "$(date -u +%H)" -lt 3 ]; then ARGS="$ARGS --recheck --force"; fi
+          # Each full run also re-checks the 150 archived documents checked longest ago
+          # (current and previous year first) to catch silent replacements.
+          ARGS="$ARGS --verify 150"
           python archiver/crawl.py $ARGS
 
       - name: Timestamp manifests on the Bitcoin blockchain (OpenTimestamps)

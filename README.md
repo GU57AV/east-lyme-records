@@ -19,7 +19,9 @@ and records:
 Documents are never deleted here. If the Town replaces or removes a file, the metadata records it,
 and the earlier version stays in the history.
 
-Currently archived: [Board of Selectmen](records/board-of-selectmen/INDEX.md).
+Currently archived: the Board of Selectmen and every board and commission on the Town's
+[Boards & Commissions page](https://eltownhall.com/government/boards-commissions/), plus Town Meetings.
+See the [list of archived boards](records/README.md).
 
 Also watched on every run (about every three hours): American Legal Publishing's
 [Advance Legislative Service list](https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf)
@@ -69,7 +71,8 @@ and its time, on a public Bitcoin block explorer.
 
 The archiver identifies itself by name and a link to this repository, waits 20 seconds between
 requests (the delay the Town's robots.txt asks of search engines), and avoids the paths that file
-excludes. Daily checks read only the current year's listing pages; a full check runs weekly.
+excludes. Daily checks read only the current year's listing pages and re-check a rotating set of 150 archived
+files for silent changes.
 
 ## Limits
 

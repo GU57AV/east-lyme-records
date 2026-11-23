@@ -9,6 +9,161 @@
       "slug": "board-of-selectmen",
       "name": "East Lyme Board of Selectmen",
       "url": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/"
+    },
+    {
+      "slug": "town-meetings",
+      "name": "East Lyme Town Meetings",
+      "url": "https://eltownhall.com/government/boards-commissions/town-meetings/"
+    },
+    {
+      "slug": "zoning-commission",
+      "name": "East Lyme Zoning Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/zoning-commission/"
+    },
+    {
+      "slug": "planning-commission",
+      "name": "East Lyme Planning Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/planning-commission/"
+    },
+    {
+      "slug": "board-of-finance",
+      "name": "East Lyme Board of Finance",
+      "url": "https://eltownhall.com/government/boards-commissions/board-of-finance/"
+    },
+    {
+      "slug": "zoning-board-of-appeals",
+      "name": "East Lyme Zoning Board of Appeals",
+      "url": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/"
+    },
+    {
+      "slug": "inland-wetlands-agency",
+      "name": "East Lyme Inland Wetlands Agency",
+      "url": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/"
+    },
+    {
+      "slug": "police-commission",
+      "name": "East Lyme Board of Police Commissioners",
+      "url": "https://eltownhall.com/government/boards-commissions/police-commission/"
+    },
+    {
+      "slug": "water-sewer-commission",
+      "name": "East Lyme Water & Sewer Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/"
+    },
+    {
+      "slug": "charter-revision-commission",
+      "name": "East Lyme Charter Revision Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/"
+    },
+    {
+      "slug": "ad-hoc-short-term-rental-committee",
+      "name": "East Lyme Ad Hoc Short-Term Rental Committee",
+      "url": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/"
+    },
+    {
+      "slug": "aquifer-protection-agency",
+      "name": "East Lyme Aquifer Protection Agency",
+      "url": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/"
+    },
+    {
+      "slug": "board-of-assessment-appeals",
+      "name": "East Lyme Board of Assessment Appeals",
+      "url": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/"
+    },
+    {
+      "slug": "board-of-education",
+      "name": "East Lyme Board of Education",
+      "url": "https://eltownhall.com/government/boards-commissions/board-of-education/"
+    },
+    {
+      "slug": "brookside-farm-museum-commission",
+      "name": "East Lyme Brookside Farm Museum Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/"
+    },
+    {
+      "slug": "cable-tv-advisory-council",
+      "name": "East Lyme Cable TV Advisory Council",
+      "url": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/"
+    },
+    {
+      "slug": "commission-on-aging",
+      "name": "East Lyme Commission On Aging",
+      "url": "https://eltownhall.com/government/boards-commissions/commission-on-aging/"
+    },
+    {
+      "slug": "conservation-of-natural-resources-commission",
+      "name": "East Lyme Conservation of Natural Resources Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/"
+    },
+    {
+      "slug": "east-lyme-public-library-meetings-page",
+      "name": "East Lyme East Lyme Public Library Board of Trustees",
+      "url": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/"
+    },
+    {
+      "slug": "economic-development-commission",
+      "name": "East Lyme Economic Development Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/economic-development-commission/"
+    },
+    {
+      "slug": "fair-rent-commission",
+      "name": "East Lyme Fair Rent Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/"
+    },
+    {
+      "slug": "harbor-mgt-shellfish-commission",
+      "name": "East Lyme Harbor Management/Shellfish Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/"
+    },
+    {
+      "slug": "hazard-mitigation-plan-committee",
+      "name": "East Lyme Hazard Mitigation Plan Committee",
+      "url": "https://eltownhall.com/government/boards-commissions/hazard-mitigation-plan-committee/"
+    },
+    {
+      "slug": "health-safety-committee",
+      "name": "East Lyme Health & Safety Committee",
+      "url": "https://eltownhall.com/government/boards-commissions/health-safety-committee/"
+    },
+    {
+      "slug": "historic-properties-commission",
+      "name": "East Lyme Historic Properties Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/"
+    },
+    {
+      "slug": "niantic-river-watershed-committee",
+      "name": "East Lyme Niantic River Watershed Committee",
+      "url": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/"
+    },
+    {
+      "slug": "parks-recreation-commission",
+      "name": "East Lyme Parks & Recreation Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/"
+    },
+    {
+      "slug": "pension-board",
+      "name": "East Lyme Pension Board",
+      "url": "https://eltownhall.com/government/boards-commissions/pension-board/"
+    },
+    {
+      "slug": "town-building-committee",
+      "name": "East Lyme Town Building Committee",
+      "url": "https://eltownhall.com/government/boards-commissions/town-building-committee/"
+    },
+    {
+      "slug": "waterford-east-lyme-shellfish-commission",
+      "name": "East Lyme Waterford-East Lyme Shellfish Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/waterford-east-lyme-shellfish-commission/"
+    },
+    {
+      "slug": "yfhs-commission",
+      "name": "East Lyme Youth, Family and Human Services Commission",
+      "url": "https://eltownhall.com/government/boards-commissions/yfhs-commission/"
+    },
+    {
+      "slug": "youth-services-commission",
+      "name": "East Lyme Youth Services Commission (repealed 2023)",
+      "url": "https://eltownhall.com/government/boards-commissions/youth-services-commission/"
     }
   ],
   "watch": [
