@@ -9,9 +9,16 @@ This is a searchable copy of the Town of East Lyme's Charter and Code of Ordinan
 | **Official version** | <https://codelibrary.amlegal.com/codes/eastlyme/latest/overview> |
 | **Original files** | [Word](originals/east-lyme-code-2026-11-23.docx) · [PDF](originals/east-lyme-code-2026-11-23.pdf) (fingerprints in the `.json` files beside them, and in the archive's blockchain-stamped manifests) |
 
+**Newer ordinances: see [New ordinances not yet in the Code](new-ordinances.md).** That page lists every
+ordinance adopted since this edition, with links to the archived text of each, and updates automatically.
+
 **Not in this edition:** ordinances adopted after April 16, 2025. American Legal lists those in its [Advance Legislative Service](https://files.amlegal.com/pdffiles/EastLyme/EastLymeALS.pdf), which this archive [watches](../records/watched/) — including Chapter 74, Automated Traffic Enforcement Safety Devices (January 7, 2026), and its November 2026 amendment.
 
 **How to use it:** click a chapter below; each section is a heading you can link to directly (hover over a heading and click the link icon). Use the search box at the top of the page to search the Code along with the meeting records. When a newer edition is added, each chapter's **History** button will show exactly what changed.
+
+## New ordinances
+
+- [New ordinances not yet in the Code](new-ordinances.md) — adopted since April 17, 2025, updated automatically
 
 ## Charter
 

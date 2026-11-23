@@ -272,6 +272,7 @@ def run(args) -> int:
     if any(watch_report.values()):
         write_report(today, watch_report, False, False, heading="Watched files")
         write_manifest()
+    write_new_ordinances(cfg)
     if not initial and not args.force and state.get("last_full_run_utc"):
         age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(state["last_full_run_utc"])
         if age < dt.timedelta(hours=float(cfg.get("min_hours_between_runs", 20))):
@@ -456,15 +457,15 @@ def run(args) -> int:
 
 
 def archive_single(f: Fetcher, cfg: dict, url: str, name: str, folder: Path, slug: str,
-                   release_tag: str, report: dict) -> bytes | None:
+                   release_tag: str, report: dict, force: bool = False) -> bytes | None:
     """Fetch one file at a fixed address and archive a new version whenever its content changes.
     Returns the file's bytes when it was downloaded (new or changed), else None."""
     side = folder / f"{slug}.json"
     meta = load_json(side, None)
     headers = {}
-    if meta and meta.get("etag"):
+    if meta and meta.get("etag") and not force:
         headers["If-None-Match"] = meta["etag"]
-    if meta and meta.get("http_last_modified"):
+    if meta and meta.get("http_last_modified") and not force:
         headers["If-Modified-Since"] = meta["http_last_modified"]
     r = f.get(url, headers=headers)
     if r.status_code == 304:
@@ -519,9 +520,60 @@ def pdf_links(data: bytes) -> list[str]:
     return out
 
 
+def pdf_link_rows(data: bytes) -> list[str]:
+    """Link targets in top-to-bottom page order (duplicates kept), from a PDF whose link
+    annotations are stored as plain objects. Empty if the layout can't be read."""
+    try:
+        objs = {int(m.group(1)): m.group(2) for m in re.finditer(rb"(\d+)\s+0\s+obj\s*(.*?)endobj", data, re.S)}
+        acts = {}
+        for n, b in objs.items():
+            u = re.search(rb"/URI\s*\(([^)]*)\)", b)
+            if u and re.search(rb"/S\s*/URI", b):
+                acts[n] = u.group(1).decode("latin-1")
+        anns = []
+        for n, b in objs.items():
+            if re.search(rb"/Subtype\s*/Link", b):
+                r = re.search(rb"/Rect\s*\[\s*([\d.\-]+)\s+([\d.\-]+)", b)
+                a = re.search(rb"/A\s+(\d+)\s+0\s+R", b)
+                inline = re.search(rb"/URI\s*\(([^)]*)\)", b)
+                target = acts.get(int(a.group(1))) if a else (inline.group(1).decode("latin-1") if inline else None)
+                if r and target:
+                    anns.append((-float(r.group(2)), float(r.group(1)), target))
+        return [u for _, _, u in sorted(anns)]
+    except Exception:
+        return []
+
+
+def als_rows(text: str) -> list[dict]:
+    """Entries in the Advance Legislative Service list: ordinance no., date adopted, subject."""
+    rows, cur = [], None
+    for line in text.splitlines():
+        m = re.match(r"\s*No\.\s*([-\w]*)\s+(\d{1,2}/\d{1,2}/\d{2,4})\s+(.*\S)", line)
+        if m:
+            cur = {"number": m.group(1).strip("-") or None, "adopted": m.group(2), "subject": m.group(3).strip()}
+            rows.append(cur)
+        elif cur and line.strip() and line.startswith(" " * 20):
+            cur["subject"] += " " + line.strip()
+        elif not line.strip():
+            cur = None
+    return rows
+
+
 def process_watch(f: Fetcher, cfg: dict, w: dict, report: dict) -> None:
     folder = ROOT / "records" / "watched" / w["slug"]
-    data = archive_single(f, cfg, w["url"], w["name"], folder, w["slug"], w["slug"], report)
+    rows_file = folder / "rows.json"
+    force = bool(w.get("follow_links")) and not rows_file.exists()  # one-time backfill of rows.json
+    data = archive_single(f, cfg, w["url"], w["name"], folder, w["slug"], w["slug"], report, force=force)
+    if data is not None and w.get("follow_links"):
+        md = folder / f"{w['slug']}.md"
+        text = md.read_text(encoding="utf-8", errors="replace") if md.exists() else ""
+        rows, order = als_rows(text), pdf_link_rows(data)
+        mapped = bool(rows) and len(rows) == len(order)
+        for i, row in enumerate(rows):
+            row["url"] = order[i] if mapped else None
+        folder.mkdir(parents=True, exist_ok=True)
+        rows_file.write_text(json.dumps({"list_sha256": hashlib.sha256(data).hexdigest(), "mapped": mapped,
+                                         "rows": rows, "links_in_order": order}, indent=2) + "\n", encoding="utf-8")
     if not w.get("follow_links"):
         return
     links_file = folder / "links.json"
@@ -778,6 +830,65 @@ def write_index(bdir: Path, board: dict) -> None:
         lines.append(f"| {shown} | {'Subcommittee' if sub else 'Board'} | {kind} | {title}{flag} | "
                      f"[text]({md.replace(' ', '%20')}) | {'[original](' + doc.replace(' ', '%20') + ')' if doc else ''} | {seen} |")
     (bdir / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_new_ordinances(cfg: dict) -> None:
+    """code/new-ordinances.md: ordinances adopted since the last Code edition, from the publisher's
+    Advance Legislative Service list, each linked to its archived text and original."""
+    for w in cfg.get("watch", []):
+        if not w.get("follow_links"):
+            continue
+        folder = ROOT / "records" / "watched" / w["slug"]
+        info = load_json(folder / "rows.json", None)
+        als = load_json(folder / f"{w['slug']}.json", None)
+        if not info or not als:
+            continue
+        lines = ["# New ordinances not yet in the Code", "",
+                 "> **Unofficial.** The Code is updated about once a year. Until then, American Legal Publishing "
+                 "lists newly adopted ordinances in its Advance Legislative Service, linked to a copy of each. This "
+                 "page is rebuilt automatically from that list whenever it changes. [Contents](README.md)", "",
+                 f"**Publisher's list:** <{w['url']}>  ",
+                 f"**List last changed:** {als.get('http_last_modified') or 'unknown'} (publisher's server date)  ",
+                 f"**Archived copy of the list:** [text](../records/watched/{w['slug']}/{w['slug']}.md)"
+                 + (f" · [original]({als['original_copy']})" if str(als.get("original_copy", "")).startswith("http") else ""), "",
+                 "| Adopted (per list) | Ordinance | Archived copy | Publisher posted (server date) | First archived | Fingerprint |",
+                 "|---|---|---|---|---|---|"]
+        for row in info.get("rows", []):
+            url = row.get("url")
+            cell = posted = seen = fp = "—"
+            if url:
+                side = folder / "linked" / f"{safe_name(Path(urlparse(url).path).stem)}.json"
+                m = load_json(side, None)
+                if m:
+                    orig = m.get("original_copy", "")
+                    cell = (f"[text](../records/watched/{w['slug']}/linked/{side.stem}.md)"
+                            + (f" · [original]({orig})" if str(orig).startswith("http") else "")
+                            + f" · [publisher]({url})")
+                    posted = m.get("http_last_modified") or "—"
+                    seen = (m.get("first_seen_utc") or "")[:10]
+                    fp = f"`{m['sha256'][:12]}`"
+            subj = row["subject"].replace("|", "\\|")
+            no = f"No. {row['number']}: " if row.get("number") else ""
+            lines.append(f"| {row['adopted']} | {no}{subj} | {cell} | {posted} | {seen} | {fp} |")
+        dup = [u for u in set(info.get("links_in_order", [])) if info["links_in_order"].count(u) > 1]
+        lines += ["", "Notes:", "",
+                  "- \u201cAdopted\u201d and the descriptions are as the publisher's list states them.",
+                  "- \u201cPublisher posted\u201d is the last-modified date the publisher's server reports for each "
+                  "file: when it was last uploaded, not necessarily when it first appeared.",
+                  "- Fingerprints are SHA-256 hashes (first 12 characters shown); full values are in each file's "
+                  "details and in the blockchain-stamped manifests."]
+        if dup:
+            lines.append("- More than one entry in the publisher's list links to the same file: "
+                         + ", ".join(Path(urlparse(u).path).name for u in dup)
+                         + ". That is how the publisher's list is linked; the entry's own ordinance text may not be posted.")
+        if not info.get("mapped"):
+            lines.append("- The links in the publisher's list couldn't be matched to its entries automatically this time, "
+                         "so archived copies are listed below instead.")
+            for u in info.get("links_in_order", []):
+                lines.append(f"  - {u}")
+        out = ROOT / "code" / "new-ordinances.md"
+        out.parent.mkdir(exist_ok=True)
+        out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def write_master_index(cfg: dict, imported: set) -> None:
