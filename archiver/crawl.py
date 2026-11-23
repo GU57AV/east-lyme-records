@@ -571,9 +571,15 @@ def process_watch(f: Fetcher, cfg: dict, w: dict, report: dict) -> None:
         mapped = bool(rows) and len(rows) == len(order)
         for i, row in enumerate(rows):
             row["url"] = order[i] if mapped else None
+        sm = re.search(r"passed\s+since\s+([A-Z][a-z]+\.?\s+\d{1,2},\s+\d{4})", text)
+        since = sm.group(1) if sm else None
+        prev = load_json(rows_file, None)
         folder.mkdir(parents=True, exist_ok=True)
         rows_file.write_text(json.dumps({"list_sha256": hashlib.sha256(data).hexdigest(), "mapped": mapped,
-                                         "rows": rows, "links_in_order": order}, indent=2) + "\n", encoding="utf-8")
+                                         "since": since, "rows": rows, "links_in_order": order},
+                                        indent=2) + "\n", encoding="utf-8")
+        if prev and prev.get("rows") is not None:
+            new_edition_alert(w, prev, rows, since)
     if not w.get("follow_links"):
         return
     links_file = folder / "links.json"
@@ -830,6 +836,54 @@ def write_index(bdir: Path, board: dict) -> None:
         lines.append(f"| {shown} | {'Subcommittee' if sub else 'Board'} | {kind} | {title}{flag} | "
                      f"[text]({md.replace(' ', '%20')}) | {'[original](' + doc.replace(' ', '%20') + ')' if doc else ''} | {seen} |")
     (bdir / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def new_edition_alert(w: dict, prev: dict, rows: list[dict], since: str | None) -> None:
+    """When the publisher's new-ordinance list resets (its 'passed since' date moves forward or earlier
+    entries drop off), a new annual edition of the Code has probably been published. Open an issue
+    asking for the updated Charter and Code to be downloaded."""
+    key = lambda r: (r.get("adopted"), " ".join(r.get("subject", "").split()).lower())
+    dropped = [r for r in prev["rows"] if key(r) not in {key(x) for x in rows}]
+    moved = bool(since and prev.get("since") and since != prev.get("since"))
+    if not (moved or dropped):
+        return
+    alerts = ROOT / "state" / "edition_alerts.json"
+    done = load_json(alerts, [])
+    sig = f"{since}|{len(dropped)}|{len(rows)}"
+    if sig in done:
+        return
+    edition = "unknown"
+    readme = ROOT / "code" / "README.md"
+    if readme.exists():
+        m = re.search(r"current through \*\*(.+?)\*\*", readme.read_text(encoding="utf-8"))
+        edition = m.group(1) if m else edition
+    lines = ["The publisher's list of new East Lyme ordinances has reset, which usually means American Legal "
+             "Publishing has released a new annual edition of the Code with those ordinances folded in.", ""]
+    if moved:
+        lines.append(f"- The list now covers ordinances passed since **{since}** (it was {prev.get('since')}).")
+    if dropped:
+        lines.append(f"- {len(dropped)} ordinance(s) dropped off the list, probably now in the Code:")
+        lines += [f"  - {r['adopted']}: {r['subject']}" for r in dropped]
+    lines += ["", f"The copy hosted in this archive is current through **{edition}**.", "",
+              "**To update it:**", "",
+              "1. Open the code library: https://codelibrary.amlegal.com/codes/eastlyme/latest/overview",
+              "2. Use its download or export option to get the whole Charter, Code of Ordinances and Special Laws, "
+              "as **Word (.docx)** and **PDF**.",
+              "3. Note the \u201ccurrent through\u201d line near the front (the new supplement and date).",
+              "4. Add the files to the archive's `code` section (or hand them to whoever maintains it). Each "
+              "chapter's History will then show exactly what changed.", "",
+              f"Publisher's list: {w['url']}"]
+    if os.environ.get("GITHUB_REPOSITORY") and shutil.which("gh"):
+        subprocess.run(["gh", "label", "create", "code-update", "--color", "5319e7", "--force"], capture_output=True)
+        r = subprocess.run(["gh", "issue", "create", "--title",
+                            "New Code edition likely published: download the updated Charter and Code",
+                            "--body", "\n".join(lines), "--label", "code-update"], capture_output=True, text=True)
+        log("  edition alert: " + (r.stdout.strip() or r.stderr.strip()))
+    else:
+        log("  edition alert (not on GitHub):\n" + "\n".join(lines))
+    done.append(sig)
+    alerts.parent.mkdir(exist_ok=True)
+    alerts.write_text(json.dumps(done, indent=1) + "\n", encoding="utf-8")
 
 
 def write_new_ordinances(cfg: dict) -> None:
