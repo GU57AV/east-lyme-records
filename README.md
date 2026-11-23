@@ -190,6 +190,16 @@ Two automatic reports are built from what the archive records:
   agendas for regular meetings listed in each board's published schedule of meetings (due 24 hours
   before), and minutes for recent meetings (due seven days after), with whether each has been posted yet.
 
+- **[Ordinance enactments](https://github.com/GU57AV/east-lyme-records/blob/main/reports/ordinances.md).** Every Board of Selectmen vote
+  enacting an ordinance since the current Charter took effect (December 7, 2023), read from the minutes.
+  For each, the report looks for the hearing notice and proposed text (Charter § 3.4.2: on the Town's
+  website at least 10 days before the hearing) and for the notice of adoption with the full text
+  (§ 3.4.3: on the Town's website after enactment). When a notice is found, it shows the earliest date the
+  ordinance can take effect and roughly when the 10-day window for an overrule petition closes. Copies
+  that turn up only on the code publisher's site are listed separately, since they don't count as the
+  Town's website. "Not found" means not found in what this archive saves, and filing with the Town Clerk
+  or newspaper publication can't be checked from here.
+
 When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
 **issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
 [Getting updates](#getting-updates)), you get those by email.
@@ -280,7 +290,8 @@ message from that page; it should pop up on your phone.
   for a scheduled meeting, or minutes coming due) that hasn't been met yet, subscribe to a second topic
   in the app and add it as a secret named `NTFY_REMINDER_TOPIC`. These go only to that topic, so they're
   easy to share with someone who'd find them useful, such as a board chair or clerk, without your
-  other alerts. Leave it unset to turn reminders off.
+  other alerts. They also include a heads-up the day before an ordinance's overrule-petition window
+  appears to close. Leave it unset to turn reminders off.
 - **Turning alerts off:** delete the `NTFY_TOPIC` secret. Nothing is sent without it.
 
 ### Words used here

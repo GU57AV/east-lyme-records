@@ -1,5 +1,114 @@
 {
  "flags": [],
+ "ordinances": {
+  "2024-02-21|boardofpolicecommissioners": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive"
+   ],
+   "notice": "2024-02-00_BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling.json"
+  },
+  "2024-02-21|peddling": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive"
+   ],
+   "notice": "2024-02-00_BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling.json"
+  },
+  "2024-03-06|establishmentofgrantsfund": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2024-08-20|estabtishmentoffairrentcommission": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive",
+    "the vote result couldn't be read in the minutes; confirm the ordinance was enacted"
+   ],
+   "notice": ""
+  },
+  "2024-10-02|ordinanceestablishingaschoolbuildingcommittee": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-03-19|ordinanceestablishingayouthfamilyandhumanservicescommission": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-03-19|ordinanceestablishingfeesforbuildinganddemolitionpermits": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-03-19|ordinanceestablishingzoningfeesforgeographicinformationsyste": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-04-16|feesfordisposalofwasteatthetransferstation": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive",
+    "the hearing notice found appears to have been posted 9 days before the Apr 16, 2025 hearing, by the server's file date, which can also reflect a later replacement of the file (\u00a7 3.4.2 requires at least 10)"
+   ],
+   "notice": ""
+  },
+  "2025-06-04|ordinanceestablishingtheeastlymeclimatechangeandcoastalresil": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-09-03|ordinanceestablishingmoratoriaonnewsewerconnectionsovercerta": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2025-09-17|amendmentstothetownofeastlymefeesforbuildinganddemolitionper": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive",
+    "the hearing notice found appears to have been posted 8 days before the Sep 17, 2025 hearing, by the server's file date, which can also reflect a later replacement of the file (\u00a7 3.4.2 requires at least 10)"
+   ],
+   "notice": ""
+  },
+  "2025-10-21|ordinanceestablishingaschoolbuildingcommittee": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2026-01-07|ordinanceauthorizingtheuseofautomatedtrafficenforcementsafet": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  },
+  "2026-01-21|variouswatercharges": {
+   "flags": [
+    "no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive",
+    "no notice of adoption found on the Town's website in the archive"
+   ],
+   "notice": ""
+  }
+ },
+ "reminders": [],
  "topic_docs": {
   "ATESD|https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-16-2026-Public-Hearing-Minutes.pdf|e9ccbfddaa81c6e7549b1543cdd6a42d9793bb0c8b3817b14768e7b0189cf28a": "2026-11-23T15:12:34+00:00",
   "ATESD|https://eltownhall.com/wp-content/uploads/2026/09/Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26.pdf|bda605cd0122a028d3b5fd6b32fb8a0c91721462645d2ed60f5be2ebf25bd46d": "2026-11-23T15:12:34+00:00",

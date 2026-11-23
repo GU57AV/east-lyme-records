@@ -358,6 +358,8 @@ def main() -> int:
     write_compliance(flags, notes, now)
     soon = upcoming(docs, boards, now)
     write_upcoming(soon, now)
+    import ordinances
+    ords = ordinances.run(docs, doc_text, now, repo_url() + "/blob/main/")
     hits = topic_hits(docs, topics)
     write_topics(hits, boards, now)
 
@@ -370,20 +372,20 @@ def main() -> int:
                 new_hits.append((t, side, m, snip))
             state["topic_docs"].setdefault(k, now.isoformat(timespec="seconds"))
 
-    repo_url = f"https://github.com/{__import__('os').environ.get('GITHUB_REPOSITORY', 'GU57AV/east-lyme-records')}/blob/main/"
+    blob = repo_url()
     if args.open_issues and new_flags:
         body = ["New posting-deadline flags. These are leads to review, not findings; see "
-                f"[the report]({repo_url}reports/compliance.md) for how they're determined.", ""]
+                f"[the report]({blob}reports/compliance.md) for how they're determined.", ""]
         for f in new_flags:
-            body.append(f"- **{f['board']}, {f['date']}**: {f['rule']}. [{f['title']}]({repo_url}{f['link']}) — {f['detail']}")
+            body.append(f"- **{f['board']}, {f['date']}**: {f['rule']}. [{f['title']}]({blob}{f['link']}) — {f['detail']}")
         open_issue(f"Posting deadlines: {len(new_flags)} new flag{'s' if len(new_flags) != 1 else ''}",
                    "\n".join(body), "compliance", "d93f0b")
     if args.open_issues and new_hits:
         body = ["New or changed documents mention watched topics. "
-                f"Full list: [topic index]({repo_url}reports/topics.md).", ""]
+                f"Full list: [topic index]({blob}reports/topics.md).", ""]
         for t, side, m, snip in new_hits:
             body.append(f"- **{t}** — {boards.get(m['board'], m['board'])}: "
-                        f"[{m.get('link_text') or m.get('filename')}]({repo_url}{link(side)}) — “…{snip}…”")
+                        f"[{m.get('link_text') or m.get('filename')}]({blob}{link(side)}) — “…{snip}…”")
         names = sorted({t for t, *_ in new_hits})
         open_issue(f"Topic alert: {', '.join(names)[:180]}", "\n".join(body), "topic-alert", "1d76db")
 
@@ -412,11 +414,44 @@ def main() -> int:
         reminded.add(r["key"])
     state["reminders"] = sorted(reminded)
 
+    # Ordinance enactments: alert on a new enactment, a notice of adoption appearing, a new flag,
+    # and (to the reminder topic) the day before an overrule-petition window closes.
+    first_run = "ordinances" not in state
+    seen_ord = state.setdefault("ordinances", {})
+    for e, r in ords:
+        prev = seen_ord.get(e["key"], {})
+        n = r["notice"] or r["notice_possible"]
+        cur = {"notice": str(n["side"].name) if n else "", "flags": sorted(r["flags"])}
+        if not first_run:
+            title = e["title"][:80]
+            if not prev:
+                notify(f"Ordinance enacted: {title}",
+                       f"Board of Selectmen vote on {e['date']:%b %-d, %Y}. Watching for the notice of adoption and full "
+                       "text on the Town's website (Charter § 3.4.3).", tags=["scroll"], click=repo_url("reports/ordinances.md"))
+            if cur["notice"] and cur["notice"] != prev.get("notice"):
+                notify(f"Notice of adoption found: {title}",
+                       f"Appears posted {n['posted'][1]}. Earliest effective date {r['earliest_effective']:%b %-d, %Y}; "
+                       f"overrule petitions due within 10 days of publication (about {r['petition_by']:%b %-d}).",
+                       tags=["memo"], click=repo_url("reports/ordinances.md"))
+            new = [f for f in cur["flags"] if f not in prev.get("flags", []) and not f.startswith("no ")]
+            if new:
+                notify(f"Ordinance check: {title}", "\n".join(new), priority="high", tags=["warning"],
+                       click=repo_url("reports/ordinances.md"))
+        pb = r.get("petition_by")
+        rk = f"petition|{e['key']}"
+        if pb and today <= pb <= today + dt.timedelta(days=1) and rk not in reminded:
+            notify(f"Petition window closing: {e['title'][:70]}",
+                   f"Overrule petitions (200 electors) are due about {pb:%b %-d}. Confirm the exact deadline with the Town Clerk.",
+                   tags=["alarm_clock"], click=repo_url("reports/ordinances.md"), topic_env="NTFY_REMINDER_TOPIC")
+            reminded.add(rk)
+        seen_ord[e["key"]] = cur
+    state["reminders"] = sorted(reminded)
+
     state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in flags})
     state_path.parent.mkdir(exist_ok=True)
     state_path.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     print(f"compliance: {len(flags)} flags ({len(new_flags)} new), {len(notes)} notes; "
-          f"topics: {sum(len(v) for v in hits.values())} mentions ({len(new_hits)} new)")
+          f"topics: {sum(len(v) for v in hits.values())} mentions ({len(new_hits)} new); ordinances: {len(ords)}")
     return 0
 
 
