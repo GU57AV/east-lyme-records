@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": true,
+  "link_text": "Pension Committee October 19 2017 Cancellation (pdf)",
+  "filename": "Pension-Committee-October-19-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Pension-Committee-October-19-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T08:35:44+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "80b3f209b03a770f82339370fccca3c037ba64ecee6fefbe043efc45910a2552",
+  "bytes": 20874,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Oct 2017 13:50:08 GMT",
+  "etag": "\"1662bb4-518a-55be6a25a8400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/Pension-Committee-October-19-2017-Cancellation--80b3f209b03a.pdf",
+  "versions": [
+    {
+      "sha256": "80b3f209b03a770f82339370fccca3c037ba64ecee6fefbe043efc45910a2552",
+      "bytes": 20874,
+      "retrieved_utc": "2026-11-23T08:35:44+00:00",
+      "http_last_modified": "Thu, 19 Oct 2017 13:50:08 GMT"
+    }
+  ]
+}

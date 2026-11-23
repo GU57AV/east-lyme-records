@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Pension Committee January 16 2020 Cancellation (pdf)",
+  "filename": "Pension-Committee-January-16-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Pension-Committee-January-16-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-23T07:59:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f2c073006de3037c90a9d48ba3564bcbb209dc135d9ce9475c0fdb60991f6232",
+  "bytes": 27972,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Jan 2020 15:26:48 GMT",
+  "etag": "\"1661707-6d44-59c4374179e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Pension-Committee-January-16-2020-Cancellation--f2c073006de3.pdf",
+  "versions": [
+    {
+      "sha256": "f2c073006de3037c90a9d48ba3564bcbb209dc135d9ce9475c0fdb60991f6232",
+      "bytes": 27972,
+      "retrieved_utc": "2026-11-23T07:59:45+00:00",
+      "http_last_modified": "Thu, 16 Jan 2020 15:26:48 GMT"
+    }
+  ]
+}

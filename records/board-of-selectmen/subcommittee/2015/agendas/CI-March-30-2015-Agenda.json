@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "CIP March 30 2015 Agenda (pdf)",
+  "filename": "CI-March-30-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CI-March-30-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:50:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "839cf204300cfcfd201786c9b3889806ec70887cebee1f0af2e805d9d8cbd5dd",
+  "bytes": 24926,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:03 GMT",
+  "etag": "\"1663ab5-615e-5208279b07cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/CI-March-30-2015-Agenda--839cf204300c.pdf",
+  "versions": [
+    {
+      "sha256": "839cf204300cfcfd201786c9b3889806ec70887cebee1f0af2e805d9d8cbd5dd",
+      "bytes": 24926,
+      "retrieved_utc": "2026-11-23T08:50:30+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:03 GMT"
+    }
+  ]
+}

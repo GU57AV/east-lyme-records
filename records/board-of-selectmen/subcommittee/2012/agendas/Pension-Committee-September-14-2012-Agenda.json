@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "Pension Committee September 14 2012 Agenda (pdf)",
+  "filename": "Pension-Committee-September-14-2012-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-September-14-2012-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:07:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f68de67af9146bf12ca708899c43e5d970657d6064ddae56462b2bc4fbcba4d9",
+  "bytes": 28870,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:08 GMT",
+  "etag": "\"1663c16-70c6-52082bdefcd00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/Pension-Committee-September-14-2012-Agenda--f68de67af914.pdf",
+  "versions": [
+    {
+      "sha256": "f68de67af9146bf12ca708899c43e5d970657d6064ddae56462b2bc4fbcba4d9",
+      "bytes": 28870,
+      "retrieved_utc": "2026-11-23T09:07:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:08 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Public Safety Vision Committee May 30 2019 Agenda (pdf)",
+  "filename": "Public-Safety-Vision-Committee-May-30-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/Public-Safety-Vision-Committee-May-30-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-23T08:13:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "74aace46f8ab7617dad45c92679672d32d2625c426e5be5a6633e8cd99d336bd",
+  "bytes": 41733,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 May 2019 12:55:57 GMT",
+  "etag": "\"16c1ac7-a305-58a064d6d5140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Public-Safety-Vision-Committee-May-30-2019-Agenda--74aace46f8ab.pdf",
+  "versions": [
+    {
+      "sha256": "74aace46f8ab7617dad45c92679672d32d2625c426e5be5a6633e8cd99d336bd",
+      "bytes": 41733,
+      "retrieved_utc": "2026-11-23T08:13:12+00:00",
+      "http_last_modified": "Wed, 29 May 2019 12:55:57 GMT"
+    }
+  ]
+}

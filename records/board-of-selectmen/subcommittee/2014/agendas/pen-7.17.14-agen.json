@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "Pension Committee July 17 2014 Agenda (pdf)",
+  "filename": "pen-7.17.14-agen.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/pen-7.17.14-agen.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:56:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d29790521f2f82918465cc2b5dc00ae6be9c9206ac65dccfc33d537eb2ba33b1",
+  "bytes": 30281,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 16:43:08 GMT",
+  "etag": "\"1663ed2-7649-5005d3fecdf00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/pen-7.17.14-agen--d29790521f2f.pdf",
+  "versions": [
+    {
+      "sha256": "d29790521f2f82918465cc2b5dc00ae6be9c9206ac65dccfc33d537eb2ba33b1",
+      "bytes": 30281,
+      "retrieved_utc": "2026-11-23T08:56:33+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 16:43:08 GMT"
+    }
+  ]
+}

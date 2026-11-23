@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Public Safety Building Vision Committee May 6 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "Public-Safety-May-6-2020-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/Public-Safety-May-6-2020-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-23T07:57:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a4e004416224d2a989cbcce005425d0b974f967c77ddc12a1270958504a824cd",
+  "bytes": 112657,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 May 2020 13:20:58 GMT",
+  "etag": "\"16616a7-1b811-5a4e6849f0280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Public-Safety-May-6-2020-Agenda-Via-Zoom--a4e004416224.pdf",
+  "versions": [
+    {
+      "sha256": "a4e004416224d2a989cbcce005425d0b974f967c77ddc12a1270958504a824cd",
+      "bytes": 112657,
+      "retrieved_utc": "2026-11-23T07:57:24+00:00",
+      "http_last_modified": "Tue, 05 May 2020 13:20:58 GMT"
+    }
+  ]
+}

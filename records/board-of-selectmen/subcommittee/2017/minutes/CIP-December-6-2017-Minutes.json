@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": true,
+  "link_text": "CIP December 6 2017 Minutes (pdf)",
+  "filename": "CIP-December-6-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/CIP-December-6-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2017-minutes/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-23T08:38:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "23862acb21e527b5d981278b5e7e8a17303a7a9128355f5eaebefa637a5db6aa",
+  "bytes": 40436,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Mar 2018 19:09:54 GMT",
+  "etag": "\"16c0913-9df4-566c330076480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/CIP-December-6-2017-Minutes--23862acb21e5.pdf",
+  "versions": [
+    {
+      "sha256": "23862acb21e527b5d981278b5e7e8a17303a7a9128355f5eaebefa637a5db6aa",
+      "bytes": 40436,
+      "retrieved_utc": "2026-11-23T08:38:25+00:00",
+      "http_last_modified": "Tue, 06 Mar 2018 19:09:54 GMT"
+    }
+  ]
+}

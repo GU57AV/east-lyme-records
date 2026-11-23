@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "Capital Improvement September 24 2014 Agenda (pdf)",
+  "filename": "CIP-Agenda-09-24-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CIP-Agenda-09-24-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:55:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "057ec7099795891c44b05ec4970c17d418f0847c915f9260873bf327a07a5fcd",
+  "bytes": 24016,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Sep 2014 19:35:06 GMT",
+  "etag": "\"1663bb3-5dd0-503c0aa1a2e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/CIP-Agenda-09-24-2014--057ec7099795.pdf",
+  "versions": [
+    {
+      "sha256": "057ec7099795891c44b05ec4970c17d418f0847c915f9260873bf327a07a5fcd",
+      "bytes": 24016,
+      "retrieved_utc": "2026-11-23T08:55:53+00:00",
+      "http_last_modified": "Tue, 23 Sep 2014 19:35:06 GMT"
+    }
+  ]
+}

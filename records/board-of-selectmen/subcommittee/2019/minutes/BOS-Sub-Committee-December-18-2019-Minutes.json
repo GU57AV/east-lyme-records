@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "BOS Sub-Committee December 18 2019 Minutes (pdf)",
+  "filename": "BOS-Sub-Committee-December-18-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/BOS-Sub-Committee-December-18-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-minutes/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-23T08:19:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "488d37350afef6040b02795c62d20e3622497cf10d7f6c2386697892d41c4cfb",
+  "bytes": 36057,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Dec 2019 16:12:07 GMT",
+  "etag": "\"16c1886-8cd9-59b0238b243c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-Sub-Committee-December-18-2019-Minutes--488d37350afe.pdf",
+  "versions": [
+    {
+      "sha256": "488d37350afef6040b02795c62d20e3622497cf10d7f6c2386697892d41c4cfb",
+      "bytes": 36057,
+      "retrieved_utc": "2026-11-23T08:19:35+00:00",
+      "http_last_modified": "Tue, 31 Dec 2019 16:12:07 GMT"
+    }
+  ]
+}

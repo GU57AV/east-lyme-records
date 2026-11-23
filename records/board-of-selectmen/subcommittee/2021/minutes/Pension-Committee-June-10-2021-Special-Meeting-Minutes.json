@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "Pension Committee June 10 2021 Special Meeting Minutes (pdf)",
+  "filename": "Pension-Committee-June-10-2021-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/Pension-Committee-June-10-2021-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2021-minutes/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-23T07:53:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1d78d05f07fd6e6e9ccc817a0b39a38b0db9b3d39cf7ca704fceb7b29561bce6",
+  "bytes": 1294715,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 Jun 2021 12:23:09 GMT",
+  "etag": "\"1680017-13c17b-5c47c920f0540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/Pension-Committee-June-10-2021-Special-Meeting-Minutes--1d78d05f07fd.pdf",
+  "versions": [
+    {
+      "sha256": "1d78d05f07fd6e6e9ccc817a0b39a38b0db9b3d39cf7ca704fceb7b29561bce6",
+      "bytes": 1294715,
+      "retrieved_utc": "2026-11-23T07:53:22+00:00",
+      "http_last_modified": "Fri, 11 Jun 2021 12:23:09 GMT"
+    }
+  ]
+}

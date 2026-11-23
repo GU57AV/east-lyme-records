@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "Pension Committee Oct 22 2015 Minutes (pdf)",
+  "filename": "Pension-Committee-Oct-22-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/Pension-Committee-Oct-22-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T08:52:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "49a754739afb1afdc78f1a9e9714a7c5f8d9dd80af9b75e3264e4f691b727327",
+  "bytes": 71696,
+  "pages": 0,
+  "http_last_modified": "Wed, 28 Oct 2015 19:46:00 GMT",
+  "etag": "\"1663074-11810-5232f719b6e00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/Pension-Committee-Oct-22-2015-Minutes--49a754739afb.pdf",
+  "versions": [
+    {
+      "sha256": "49a754739afb1afdc78f1a9e9714a7c5f8d9dd80af9b75e3264e4f691b727327",
+      "bytes": 71696,
+      "retrieved_utc": "2026-11-23T08:52:52+00:00",
+      "http_last_modified": "Wed, 28 Oct 2015 19:46:00 GMT"
+    }
+  ]
+}

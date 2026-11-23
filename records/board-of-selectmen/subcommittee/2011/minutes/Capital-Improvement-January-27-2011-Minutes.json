@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "Capital Improvement January 27 2011 Minutes (pdf)",
+  "filename": "Capital-Improvement-January-27-2011-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Capital-Improvement-January-27-2011-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:20:47+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5769413a0ba2cd87ae0a2bfcd84b71b5491c83fa8113e5eae887ec51a0300c12",
+  "bytes": 29621,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:56 GMT",
+  "etag": "\"166385f-73b5-520827945ad00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/Capital-Improvement-January-27-2011-Minutes--5769413a0ba2.pdf",
+  "versions": [
+    {
+      "sha256": "5769413a0ba2cd87ae0a2bfcd84b71b5491c83fa8113e5eae887ec51a0300c12",
+      "bytes": 29621,
+      "retrieved_utc": "2026-11-23T09:20:47+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:56 GMT"
+    }
+  ]
+}

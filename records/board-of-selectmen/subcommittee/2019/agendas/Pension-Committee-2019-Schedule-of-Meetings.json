@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Pension Committee 2019 Meeting Schedule (pdf)",
+  "filename": "Pension-Committee-2019-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/Pension-Committee-2019-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-01",
+  "first_seen_utc": "2026-11-23T08:19:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "de59b9fc0c26972fc1f929e09c8e8afc462c6fc142fa5c773e511312b745eb34",
+  "bytes": 27950,
+  "pages": 0,
+  "http_last_modified": "Fri, 25 Jan 2019 15:43:31 GMT",
+  "etag": "\"16c1af2-6d2e-5804a305eaec0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Pension-Committee-2019-Schedule-of-Meetings--de59b9fc0c26.pdf",
+  "versions": [
+    {
+      "sha256": "de59b9fc0c26972fc1f929e09c8e8afc462c6fc142fa5c773e511312b745eb34",
+      "bytes": 27950,
+      "retrieved_utc": "2026-11-23T08:19:15+00:00",
+      "http_last_modified": "Fri, 25 Jan 2019 15:43:31 GMT"
+    }
+  ]
+}

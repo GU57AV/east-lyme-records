@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Pension Committee October 15 2020 Minutes (pdf)",
+  "filename": "Pension-Committee-October-15-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/Pension-Committee-October-15-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-minutes/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-23T08:03:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "aca77d50d4045eb63c4920d88887f0d3b65890c21e25b6364daadc1bcb1d0a17",
+  "bytes": 97245,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Oct 2020 21:56:32 GMT",
+  "etag": "\"16619cd-17bdd-5b1bcb8908400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Pension-Committee-October-15-2020-Minutes--aca77d50d404.pdf",
+  "versions": [
+    {
+      "sha256": "aca77d50d4045eb63c4920d88887f0d3b65890c21e25b6364daadc1bcb1d0a17",
+      "bytes": 97245,
+      "retrieved_utc": "2026-11-23T08:03:07+00:00",
+      "http_last_modified": "Thu, 15 Oct 2020 21:56:32 GMT"
+    }
+  ]
+}

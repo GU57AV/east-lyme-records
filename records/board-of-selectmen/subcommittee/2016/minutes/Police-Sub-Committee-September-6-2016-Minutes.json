@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Police Sub-Committee September 6 2016 Minutes (pdf)",
+  "filename": "Police-Sub-Committee-September-6-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Police-Sub-Committee-September-6-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T08:47:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "df466ad4eb6cbd78263f262a663005fed4b2ae175ad68bf0abddcb4004ba6d3e",
+  "bytes": 45356,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Sep 2016 12:58:04 GMT",
+  "etag": "\"16e0478-b12c-53c4f0bf14f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/Police-Sub-Committee-September-6-2016-Minutes--df466ad4eb6c.pdf",
+  "versions": [
+    {
+      "sha256": "df466ad4eb6cbd78263f262a663005fed4b2ae175ad68bf0abddcb4004ba6d3e",
+      "bytes": 45356,
+      "retrieved_utc": "2026-11-23T08:47:29+00:00",
+      "http_last_modified": "Mon, 12 Sep 2016 12:58:04 GMT"
+    }
+  ]
+}

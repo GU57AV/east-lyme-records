@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "2020 Facilities Committee Oct 5 2015 Agenda (pdf)",
+  "filename": "2020-Facilities-Committee-Oct-5-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020-Facilities-Committee-Oct-5-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:49:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "35dbaa907c73711a4cd2fb9f845f544b60afcc85a2a1357fb595578e68666a6d",
+  "bytes": 22082,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:21 GMT",
+  "etag": "\"1663e9a-5642-5208261ba7440\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/2020-Facilities-Committee-Oct-5-2015-Agenda--35dbaa907c73.pdf",
+  "versions": [
+    {
+      "sha256": "35dbaa907c73711a4cd2fb9f845f544b60afcc85a2a1357fb595578e68666a6d",
+      "bytes": 22082,
+      "retrieved_utc": "2026-11-23T08:49:30+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:21 GMT"
+    }
+  ]
+}

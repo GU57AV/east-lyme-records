@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Public Safety Vision Committee March 12 2019 Minutes (pdf)",
+  "filename": "Public-Safety-Vision-Committee-March-12-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/Public-Safety-Vision-Committee-March-12-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-minutes/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-23T08:26:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5835416b62ce352b7e12876800cd6c159127881a0ccba0efaac13b2ec418a625",
+  "bytes": 436821,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Mar 2019 13:50:12 GMT",
+  "etag": "\"16c1977-6aa55-5845eaaddad00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Public-Safety-Vision-Committee-March-12-2019-Minutes--5835416b62ce.pdf",
+  "versions": [
+    {
+      "sha256": "5835416b62ce352b7e12876800cd6c159127881a0ccba0efaac13b2ec418a625",
+      "bytes": 436821,
+      "retrieved_utc": "2026-11-23T08:26:40+00:00",
+      "http_last_modified": "Mon, 18 Mar 2019 13:50:12 GMT"
+    }
+  ]
+}

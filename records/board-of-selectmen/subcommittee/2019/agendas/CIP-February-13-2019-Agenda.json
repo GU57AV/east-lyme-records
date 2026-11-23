@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "CIP February 13 2019 Agenda (pdf)",
+  "filename": "CIP-February-13-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/CIP-February-13-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-23T08:17:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3dfe282506d4395c255edc7bfb35469ff6d1d724c76f281ab0473966e941b72d",
+  "bytes": 26471,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Feb 2019 18:51:15 GMT",
+  "etag": "\"16c1df5-6767-581b6e8e66ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/CIP-February-13-2019-Agenda--3dfe282506d4.pdf",
+  "versions": [
+    {
+      "sha256": "3dfe282506d4395c255edc7bfb35469ff6d1d724c76f281ab0473966e941b72d",
+      "bytes": 26471,
+      "retrieved_utc": "2026-11-23T08:17:14+00:00",
+      "http_last_modified": "Tue, 12 Feb 2019 18:51:15 GMT"
+    }
+  ]
+}

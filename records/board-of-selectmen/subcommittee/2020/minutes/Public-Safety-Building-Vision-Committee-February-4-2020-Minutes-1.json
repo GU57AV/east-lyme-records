@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Public Safety Building Vision Committee February 4 2020 Minutes (pdf)",
+  "filename": "Public-Safety-Building-Vision-Committee-February-4-2020-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/Public-Safety-Building-Vision-Committee-February-4-2020-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-minutes/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-23T08:05:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6c616cc974d5578255c3e374d9d9eb47d3e744beab6229cc8cde0cd15b77a334",
+  "bytes": 1791125,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Feb 2020 15:33:18 GMT",
+  "etag": "\"16617f8-1b5495-59e4e93364b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Public-Safety-Building-Vision-Committee-February-4-2020-Minutes-1--6c616cc974d5.pdf",
+  "versions": [
+    {
+      "sha256": "6c616cc974d5578255c3e374d9d9eb47d3e744beab6229cc8cde0cd15b77a334",
+      "bytes": 1791125,
+      "retrieved_utc": "2026-11-23T08:05:08+00:00",
+      "http_last_modified": "Tue, 11 Feb 2020 15:33:18 GMT"
+    }
+  ]
+}

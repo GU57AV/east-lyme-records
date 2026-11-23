@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "BOS Fire Department Review Sub-Committee January 13 2021 (via zoom) (pdf)",
+  "filename": "BOS-January-13-2021-Fire-Department-Review-Subcommittee.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/BOS-January-13-2021-Fire-Department-Review-Subcommittee.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-23T07:52:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1d822156f24b664768bca90cf7c1f39d81d70e0b81fb0bf0b033bd408c9d85e3",
+  "bytes": 39957,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Jan 2021 16:04:23 GMT",
+  "etag": "\"1663751-9c15-5b8a20f368fc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-January-13-2021-Fire-Department-Review-Subcommittee--1d822156f24b.pdf",
+  "versions": [
+    {
+      "sha256": "1d822156f24b664768bca90cf7c1f39d81d70e0b81fb0bf0b033bd408c9d85e3",
+      "bytes": 39957,
+      "retrieved_utc": "2026-11-23T07:52:01+00:00",
+      "http_last_modified": "Mon, 11 Jan 2021 16:04:23 GMT"
+    }
+  ]
+}

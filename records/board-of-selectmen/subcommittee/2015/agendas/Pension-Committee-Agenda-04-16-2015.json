@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "Pension Committee April 16 2015 Agenda (pdf)",
+  "filename": "Pension-Committee-Agenda-04-16-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-Agenda-04-16-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:50:10+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e6f9e81232d91f393fc810b7a025a761cf783122a6e4fbf4a620618a08d2f7b8",
+  "bytes": 25933,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:51 GMT",
+  "etag": "\"1663b8d-654d-52082bcec66c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/Pension-Committee-Agenda-04-16-2015--e6f9e81232d9.pdf",
+  "versions": [
+    {
+      "sha256": "e6f9e81232d91f393fc810b7a025a761cf783122a6e4fbf4a620618a08d2f7b8",
+      "bytes": 25933,
+      "retrieved_utc": "2026-11-23T08:50:10+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:51 GMT"
+    }
+  ]
+}

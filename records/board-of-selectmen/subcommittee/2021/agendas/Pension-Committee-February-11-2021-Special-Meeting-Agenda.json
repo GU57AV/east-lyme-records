@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "Pension Committee February 11 2021 Special Meeting Agenda (pdf)",
+  "filename": "Pension-Committee-February-11-2021-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/Pension-Committee-February-11-2021-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T07:51:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d86f887d329a552572023c07d0f6090954ee1610c9f95f643df1735c3ddb10b3",
+  "bytes": 66967,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Feb 2021 15:15:18 GMT",
+  "etag": "\"1680099-10597-5ba842bde6d80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/Pension-Committee-February-11-2021-Special-Meeting-Agenda--d86f887d329a.pdf",
+  "versions": [
+    {
+      "sha256": "d86f887d329a552572023c07d0f6090954ee1610c9f95f643df1735c3ddb10b3",
+      "bytes": 66967,
+      "retrieved_utc": "2026-11-23T07:51:01+00:00",
+      "http_last_modified": "Thu, 04 Feb 2021 15:15:18 GMT"
+    }
+  ]
+}

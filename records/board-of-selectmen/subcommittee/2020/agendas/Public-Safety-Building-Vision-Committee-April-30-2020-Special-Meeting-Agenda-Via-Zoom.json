@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Public Safety Building Vision Committee April 30 2020 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "Public-Safety-Building-Vision-Committee-April-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/Public-Safety-Building-Vision-Committee-April-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-23T07:57:44+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d759c8f1157a35d5cce41dbedcd1a9904b6e70ce12e4cd84895854f490b96234",
+  "bytes": 109435,
+  "pages": 0,
+  "http_last_modified": "Mon, 27 Apr 2020 17:55:39 GMT",
+  "etag": "\"16619ff-1ab7b-5a4496c3c1cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Public-Safety-Building-Vision-Committee-April-30-2020-Special-Meeting-Agenda-Via-Zoom--d759c8f1157a.pdf",
+  "versions": [
+    {
+      "sha256": "d759c8f1157a35d5cce41dbedcd1a9904b6e70ce12e4cd84895854f490b96234",
+      "bytes": 109435,
+      "retrieved_utc": "2026-11-23T07:57:44+00:00",
+      "http_last_modified": "Mon, 27 Apr 2020 17:55:39 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": true,
+  "link_text": "Capital Improvement November 7 2013 Agenda (pdf)",
+  "filename": "Capital-Improvement-November-7-2013-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Capital-Improvement-November-7-2013-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:01:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b55d37c1f51a20b513cd162d2cae09cbfb7ef05c76f04ff0dc3207699f721436",
+  "bytes": 23649,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:57 GMT",
+  "etag": "\"16638ca-5c61-520827954ef40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/Capital-Improvement-November-7-2013-Agenda--b55d37c1f51a.pdf",
+  "versions": [
+    {
+      "sha256": "b55d37c1f51a20b513cd162d2cae09cbfb7ef05c76f04ff0dc3207699f721436",
+      "bytes": 23649,
+      "retrieved_utc": "2026-11-23T09:01:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:57 GMT"
+    }
+  ]
+}

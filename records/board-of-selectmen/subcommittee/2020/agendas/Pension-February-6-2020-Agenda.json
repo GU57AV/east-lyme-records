@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Pension Committee February 6 2020 Agenda (pdf)",
+  "filename": "Pension-February-6-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/Pension-February-6-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-23T07:58:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5313bacb791635c475d2ad73040fd06af2321f5913fa2a58c9874141347fd19c",
+  "bytes": 30772,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Feb 2020 15:19:40 GMT",
+  "etag": "\"16617ae-7834-59dad73b99b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Pension-February-6-2020-Agenda--5313bacb7916.pdf",
+  "versions": [
+    {
+      "sha256": "5313bacb791635c475d2ad73040fd06af2321f5913fa2a58c9874141347fd19c",
+      "bytes": 30772,
+      "retrieved_utc": "2026-11-23T07:58:45+00:00",
+      "http_last_modified": "Mon, 03 Feb 2020 15:19:40 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "CIP December 10 2015 Agenda (pdf)",
+  "filename": "CIP-December-10-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/CIP-December-10-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T08:48:50+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "dba702ed09900f65068fa6ca4ca6b9e59c4f9e21785df227a6a8ddbf11eeee50",
+  "bytes": 30620,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Dec 2015 16:18:50 GMT",
+  "etag": "\"166306c-779c-52679720e6e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/CIP-December-10-2015-Agenda--dba702ed0990.pdf",
+  "versions": [
+    {
+      "sha256": "dba702ed09900f65068fa6ca4ca6b9e59c4f9e21785df227a6a8ddbf11eeee50",
+      "bytes": 30620,
+      "retrieved_utc": "2026-11-23T08:48:50+00:00",
+      "http_last_modified": "Wed, 09 Dec 2015 16:18:50 GMT"
+    }
+  ]
+}

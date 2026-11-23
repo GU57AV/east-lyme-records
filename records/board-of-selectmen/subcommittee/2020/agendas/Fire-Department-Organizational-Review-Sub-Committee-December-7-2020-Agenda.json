@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Fire Department Organizational Review Sub-Committee December 7 2020 Agenda (pdf)",
+  "filename": "Fire-Department-Organizational-Review-Sub-Committee-December-7-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Fire-Department-Organizational-Review-Sub-Committee-December-7-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-23T07:55:43+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "19dd62293c712c8577e2c92b50e4ef2e39a75864387ab8fa3b2f8febf067a8fe",
+  "bytes": 39475,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Dec 2020 19:44:44 GMT",
+  "etag": "\"16615ab-9a33-5b594976f6300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Fire-Department-Organizational-Review-Sub-Committee-December-7-2020-Agenda--19dd62293c71.pdf",
+  "versions": [
+    {
+      "sha256": "19dd62293c712c8577e2c92b50e4ef2e39a75864387ab8fa3b2f8febf067a8fe",
+      "bytes": 39475,
+      "retrieved_utc": "2026-11-23T07:55:43+00:00",
+      "http_last_modified": "Thu, 03 Dec 2020 19:44:44 GMT"
+    }
+  ]
+}

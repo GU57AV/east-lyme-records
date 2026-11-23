@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "Capital Improvement January 27 2011 Agenda (pdf)",
+  "filename": "Capital-Improvement-January-27-2011-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Capital-Improvement-January-27-2011-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:17:46+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d3e9d3ae7995c76816cce6a994c8c5c782d024d1c182eddae5235262c48f62a8",
+  "bytes": 38465,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:56 GMT",
+  "etag": "\"1663b62-9641-520827945ad00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/Capital-Improvement-January-27-2011-Agenda--d3e9d3ae7995.pdf",
+  "versions": [
+    {
+      "sha256": "d3e9d3ae7995c76816cce6a994c8c5c782d024d1c182eddae5235262c48f62a8",
+      "bytes": 38465,
+      "retrieved_utc": "2026-11-23T09:17:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:56 GMT"
+    }
+  ]
+}

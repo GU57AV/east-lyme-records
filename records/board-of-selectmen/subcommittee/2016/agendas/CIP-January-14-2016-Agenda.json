@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "CIP January 14 2016 Agenda (pdf)",
+  "filename": "CIP-January-14-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/CIP-January-14-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T08:45:28+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "41a632e3274f967152d1c222bb309f8f3fa349f42fcc46142c8112812e8981b3",
+  "bytes": 25185,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Jan 2016 15:47:19 GMT",
+  "etag": "\"16e0402-6261-5293915ca2fc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/CIP-January-14-2016-Agenda--41a632e3274f.pdf",
+  "versions": [
+    {
+      "sha256": "41a632e3274f967152d1c222bb309f8f3fa349f42fcc46142c8112812e8981b3",
+      "bytes": 25185,
+      "retrieved_utc": "2026-11-23T08:45:28+00:00",
+      "http_last_modified": "Wed, 13 Jan 2016 15:47:19 GMT"
+    }
+  ]
+}

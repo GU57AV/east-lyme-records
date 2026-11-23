@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "Pension Committee April 24 2014 Minutes (pdf)",
+  "filename": "pen-4.24-min.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/pen-4.24-min.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2014-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T08:59:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "27c1040077dfe3e136a916257ab5d635488e4049dd5dbcf4e5fc0fedc1432acb",
+  "bytes": 85923,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 16:54:52 GMT",
+  "etag": "\"16637d4-14fa3-5005d69e30f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2014/pen-4.24-min--27c1040077df.pdf",
+  "versions": [
+    {
+      "sha256": "27c1040077dfe3e136a916257ab5d635488e4049dd5dbcf4e5fc0fedc1432acb",
+      "bytes": 85923,
+      "retrieved_utc": "2026-11-23T08:59:35+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 16:54:52 GMT"
+    }
+  ]
+}

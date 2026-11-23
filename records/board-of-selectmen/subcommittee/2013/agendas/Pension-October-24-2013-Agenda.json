@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": true,
+  "link_text": "Pension October 24 2013 Agenda (pdf)",
+  "filename": "Pension-October-24-2013-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-October-24-2013-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:01:56+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "950647bb06b832e03f2d5c6248b2668b751c7a0bcf927f4844a73bb336f69d80",
+  "bytes": 26171,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:12 GMT",
+  "etag": "\"1661df9-663b-52082be2cd600\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/Pension-October-24-2013-Agenda--950647bb06b8.pdf",
+  "versions": [
+    {
+      "sha256": "950647bb06b832e03f2d5c6248b2668b751c7a0bcf927f4844a73bb336f69d80",
+      "bytes": 26171,
+      "retrieved_utc": "2026-11-23T09:01:56+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:12 GMT"
+    }
+  ]
+}

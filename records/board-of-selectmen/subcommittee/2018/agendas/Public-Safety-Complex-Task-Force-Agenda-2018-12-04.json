@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "Public Safety Complex Task Force Agenda 2018-12-04 (pdf)",
+  "filename": "Public-Safety-Complex-Task-Force-Agenda-2018-12-04.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Public-Safety-Complex-Task-Force-Agenda-2018-12-04.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-23T08:29:41+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "304a7fd83526e60c9d9bac773baf0974d7ff5525254fd752a2fe35300f89679e",
+  "bytes": 25463,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Dec 2018 18:08:53 GMT",
+  "etag": "\"16c07fe-6377-57c220aa6f740\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/Public-Safety-Complex-Task-Force-Agenda-2018-12-04--304a7fd83526.pdf",
+  "versions": [
+    {
+      "sha256": "304a7fd83526e60c9d9bac773baf0974d7ff5525254fd752a2fe35300f89679e",
+      "bytes": 25463,
+      "retrieved_utc": "2026-11-23T08:29:41+00:00",
+      "http_last_modified": "Mon, 03 Dec 2018 18:08:53 GMT"
+    }
+  ]
+}

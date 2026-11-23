@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "Fire Department Review Sub-Committee June 28 2021 Agenda (pdf)",
+  "filename": "Fire-Department-Review-Sub-Committee-June-28-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/Fire-Department-Review-Sub-Committee-June-28-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2021-agendas/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-23T07:50:00+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d689c3885eb8d1f5844c0dd5ceb82366f6ee51ecb3ef6a93af3d95340082ea33",
+  "bytes": 33372,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Jun 2021 17:24:22 GMT",
+  "etag": "\"168004f-825c-5c5864b3afd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/Fire-Department-Review-Sub-Committee-June-28-2021-Agenda--d689c3885eb8.pdf",
+  "versions": [
+    {
+      "sha256": "d689c3885eb8d1f5844c0dd5ceb82366f6ee51ecb3ef6a93af3d95340082ea33",
+      "bytes": 33372,
+      "retrieved_utc": "2026-11-23T07:50:00+00:00",
+      "http_last_modified": "Thu, 24 Jun 2021 17:24:22 GMT"
+    }
+  ]
+}

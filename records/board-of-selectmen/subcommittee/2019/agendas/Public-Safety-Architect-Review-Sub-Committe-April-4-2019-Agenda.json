@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Public Safety Architect Review Sub-Committee April 4 2019 Agenda (pdf)",
+  "filename": "Public-Safety-Architect-Review-Sub-Committe-April-4-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/Public-Safety-Architect-Review-Sub-Committe-April-4-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-23T08:15:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3667ff1c65a2a76dbbf5201d6aa90e8ca78eaefd2dea74dca2008777e714cdb6",
+  "bytes": 32177,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Mar 2019 18:14:45 GMT",
+  "etag": "\"16c192c-7db1-5853fa5398f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Public-Safety-Architect-Review-Sub-Committe-April-4-2019-Agenda--3667ff1c65a2.pdf",
+  "versions": [
+    {
+      "sha256": "3667ff1c65a2a76dbbf5201d6aa90e8ca78eaefd2dea74dca2008777e714cdb6",
+      "bytes": 32177,
+      "retrieved_utc": "2026-11-23T08:15:53+00:00",
+      "http_last_modified": "Fri, 29 Mar 2019 18:14:45 GMT"
+    }
+  ]
+}

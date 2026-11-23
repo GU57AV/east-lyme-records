@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": true,
+  "link_text": "Pension October 24 2013 Meeting Minutes (pdf)",
+  "filename": "Pension-October-24-2013-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-October-24-2013-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:04:57+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c5d663bd29171a3479864dfc0467dce498807eb6a60d6db889e532adc9bd8561",
+  "bytes": 109737,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:12 GMT",
+  "etag": "\"16637d1-1aca9-52082be2cd600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/Pension-October-24-2013-Meeting-Minutes--c5d663bd2917.pdf",
+  "versions": [
+    {
+      "sha256": "c5d663bd29171a3479864dfc0467dce498807eb6a60d6db889e532adc9bd8561",
+      "bytes": 109737,
+      "retrieved_utc": "2026-11-23T09:04:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:12 GMT"
+    }
+  ]
+}

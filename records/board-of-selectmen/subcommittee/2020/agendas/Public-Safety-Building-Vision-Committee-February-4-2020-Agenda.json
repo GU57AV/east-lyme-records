@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Public Safety Building Vision Committee February 4 2020 Agenda (pdf)",
+  "filename": "Public-Safety-Building-Vision-Committee-February-4-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Public-Safety-Building-Vision-Committee-February-4-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-23T07:59:05+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f72f9e063101b17d4d987f6207dcbfb201bf89b469977446d0c4371fcd71373a",
+  "bytes": 42338,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jan 2020 19:37:20 GMT",
+  "etag": "\"1661708-a562-59cbfa71dfc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Public-Safety-Building-Vision-Committee-February-4-2020-Agenda--f72f9e063101.pdf",
+  "versions": [
+    {
+      "sha256": "f72f9e063101b17d4d987f6207dcbfb201bf89b469977446d0c4371fcd71373a",
+      "bytes": 42338,
+      "retrieved_utc": "2026-11-23T07:59:05+00:00",
+      "http_last_modified": "Wed, 22 Jan 2020 19:37:20 GMT"
+    }
+  ]
+}

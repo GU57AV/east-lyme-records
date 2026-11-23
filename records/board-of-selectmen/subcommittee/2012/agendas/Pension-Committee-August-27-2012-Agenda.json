@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "Pension Committee August 27 2012 Agenda (pdf)",
+  "filename": "Pension-Committee-August-27-2012-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-August-27-2012-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:08:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "eb754d5201d34474302f58ff0eb2fb764f5f5f27e3e0d94081a4b57bc2c96826",
+  "bytes": 31028,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:52 GMT",
+  "etag": "\"1663c1f-7934-52082bcfba900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/Pension-Committee-August-27-2012-Agenda--eb754d5201d3.pdf",
+  "versions": [
+    {
+      "sha256": "eb754d5201d34474302f58ff0eb2fb764f5f5f27e3e0d94081a4b57bc2c96826",
+      "bytes": 31028,
+      "retrieved_utc": "2026-11-23T09:08:39+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:52 GMT"
+    }
+  ]
+}

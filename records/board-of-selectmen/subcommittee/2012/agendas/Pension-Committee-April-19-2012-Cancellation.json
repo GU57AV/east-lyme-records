@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "Pension Committee April 19 2012 Cancellation (pdf)",
+  "filename": "Pension-Committee-April-19-2012-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-April-19-2012-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:09:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "09a93599c0f3c6dcae92452002aee55aa5d14ada6225cacbc881bc69858fd6d3",
+  "bytes": 18563,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:51 GMT",
+  "etag": "\"166399c-4883-52082bcec66c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/Pension-Committee-April-19-2012-Cancellation--09a93599c0f3.pdf",
+  "versions": [
+    {
+      "sha256": "09a93599c0f3c6dcae92452002aee55aa5d14ada6225cacbc881bc69858fd6d3",
+      "bytes": 18563,
+      "retrieved_utc": "2026-11-23T09:09:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:51 GMT"
+    }
+  ]
+}

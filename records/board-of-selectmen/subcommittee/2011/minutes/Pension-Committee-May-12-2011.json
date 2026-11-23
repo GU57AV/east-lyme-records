@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "Pension Committee May 12 2011 (pdf)",
+  "filename": "Pension-Committee-May-12-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-May-12-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:20:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "81f29082269245e9bb27be018c0ead3e2f4bf36a4fad5392f20e129fa2840322",
+  "bytes": 49157,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:53 GMT",
+  "etag": "\"1663517-c005-52082bd0aeb40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2011/Pension-Committee-May-12-2011--81f290822692.pdf",
+  "versions": [
+    {
+      "sha256": "81f29082269245e9bb27be018c0ead3e2f4bf36a4fad5392f20e129fa2840322",
+      "bytes": 49157,
+      "retrieved_utc": "2026-11-23T09:20:07+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:53 GMT"
+    }
+  ]
+}

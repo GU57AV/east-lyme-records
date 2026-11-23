@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Public Safety Architect Review Sub-Committee April 4 2019 Minutes (pdf)",
+  "filename": "Public-Safety-Architect-Review-Subcommittee.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Public-Safety-Architect-Review-Subcommittee.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-minutes/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-23T08:25:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "19f7e2e4f55cc3e7ba85be65cf846ba88b2452c924d5091233967155694a589d",
+  "bytes": 63119,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Apr 2019 12:40:22 GMT",
+  "etag": "\"16c202a-f68f-586549b27b980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Public-Safety-Architect-Review-Subcommittee--19f7e2e4f55c.pdf",
+  "versions": [
+    {
+      "sha256": "19f7e2e4f55cc3e7ba85be65cf846ba88b2452c924d5091233967155694a589d",
+      "bytes": 63119,
+      "retrieved_utc": "2026-11-23T08:25:39+00:00",
+      "http_last_modified": "Fri, 12 Apr 2019 12:40:22 GMT"
+    }
+  ]
+}

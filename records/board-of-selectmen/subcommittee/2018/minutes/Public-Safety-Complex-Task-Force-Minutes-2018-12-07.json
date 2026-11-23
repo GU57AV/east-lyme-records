@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "Public Safety Complex Task Force Minutes 2018-12-07 (pdf)",
+  "filename": "Public-Safety-Complex-Task-Force-Minutes-2018-12-07.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Public-Safety-Complex-Task-Force-Minutes-2018-12-07.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2018-minutes/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-23T08:33:02+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2e8edc934621bdec9728a76d7beb9c6f77088ed6e779561459b96f0bc87a83b8",
+  "bytes": 38393,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Dec 2018 17:19:44 GMT",
+  "etag": "\"16c0740-95f9-57c71d23e4c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/Public-Safety-Complex-Task-Force-Minutes-2018-12-07--2e8edc934621.pdf",
+  "versions": [
+    {
+      "sha256": "2e8edc934621bdec9728a76d7beb9c6f77088ed6e779561459b96f0bc87a83b8",
+      "bytes": 38393,
+      "retrieved_utc": "2026-11-23T08:33:02+00:00",
+      "http_last_modified": "Fri, 07 Dec 2018 17:19:44 GMT"
+    }
+  ]
+}

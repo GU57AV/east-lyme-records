@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Public Safety Vision Committee January 7 2020 Agenda (pdf)",
+  "filename": "Public-Safety-January-7-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/Public-Safety-January-7-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-23T08:01:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "72f2024847414ce591c2bc8f34b19c8b58fbb20eb3728e3151724cd35520b7ea",
+  "bytes": 41699,
+  "pages": 0,
+  "http_last_modified": "Mon, 30 Dec 2019 13:43:08 GMT",
+  "etag": "\"16c185a-a2e3-59aec060c9300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Public-Safety-January-7-2020-Agenda--72f202484741.pdf",
+  "versions": [
+    {
+      "sha256": "72f2024847414ce591c2bc8f34b19c8b58fbb20eb3728e3151724cd35520b7ea",
+      "bytes": 41699,
+      "retrieved_utc": "2026-11-23T08:01:26+00:00",
+      "http_last_modified": "Mon, 30 Dec 2019 13:43:08 GMT"
+    }
+  ]
+}

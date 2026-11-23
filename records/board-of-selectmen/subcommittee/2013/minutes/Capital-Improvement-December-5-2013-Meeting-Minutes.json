@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": true,
+  "link_text": "Capital Improvement December 5 2013 Meeting Minutes (pdf)",
+  "filename": "Capital-Improvement-December-5-2013-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Capital-Improvement-December-5-2013-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:04:17+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "768b692723aedd30bd2b2df2e03958cb4245def3dc3bed64ed77f47ab5c5d568",
+  "bytes": 33850,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:33:54 GMT",
+  "etag": "\"166401f-843a-5208279272880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2013/Capital-Improvement-December-5-2013-Meeting-Minutes--768b692723ae.pdf",
+  "versions": [
+    {
+      "sha256": "768b692723aedd30bd2b2df2e03958cb4245def3dc3bed64ed77f47ab5c5d568",
+      "bytes": 33850,
+      "retrieved_utc": "2026-11-23T09:04:17+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:33:54 GMT"
+    }
+  ]
+}

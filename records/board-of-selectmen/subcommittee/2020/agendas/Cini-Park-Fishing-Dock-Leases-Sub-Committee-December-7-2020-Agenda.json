@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Cini Park Fishing Dock Leases Sub-Committee December 7 2020 Agenda (pdf)",
+  "filename": "Cini-Park-Fishing-Dock-Leases-Sub-Committee-December-7-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Cini-Park-Fishing-Dock-Leases-Sub-Committee-December-7-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-23T07:55:23+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "db644304c32fd4638fff3e2b882569173d527293c0b9831b602b496f1d7a244d",
+  "bytes": 37032,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Dec 2020 19:44:53 GMT",
+  "etag": "\"1661577-90a8-5b59497f8b740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Cini-Park-Fishing-Dock-Leases-Sub-Committee-December-7-2020-Agenda--db644304c32f.pdf",
+  "versions": [
+    {
+      "sha256": "db644304c32fd4638fff3e2b882569173d527293c0b9831b602b496f1d7a244d",
+      "bytes": 37032,
+      "retrieved_utc": "2026-11-23T07:55:23+00:00",
+      "http_last_modified": "Thu, 03 Dec 2020 19:44:53 GMT"
+    }
+  ]
+}

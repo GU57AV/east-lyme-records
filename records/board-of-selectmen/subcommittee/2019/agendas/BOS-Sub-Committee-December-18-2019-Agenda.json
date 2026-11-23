@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "BOS Sub-Committee December 18 2019 Agenda (pdf)",
+  "filename": "BOS-Sub-Committee-December-18-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/BOS-Sub-Committee-December-18-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-23T08:06:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e61827d9aefbf3bac16535da0a089e9091c3f8cd556bc8bca0913fd07383e650",
+  "bytes": 25258,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Dec 2019 14:41:38 GMT",
+  "etag": "\"16c1875-62aa-5995a826f6c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-Sub-Committee-December-18-2019-Agenda--e61827d9aefb.pdf",
+  "versions": [
+    {
+      "sha256": "e61827d9aefbf3bac16535da0a089e9091c3f8cd556bc8bca0913fd07383e650",
+      "bytes": 25258,
+      "retrieved_utc": "2026-11-23T08:06:29+00:00",
+      "http_last_modified": "Tue, 10 Dec 2019 14:41:38 GMT"
+    }
+  ]
+}

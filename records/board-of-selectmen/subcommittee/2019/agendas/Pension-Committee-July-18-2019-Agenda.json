@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Pension Committee July 18 2019 Agenda (pdf)",
+  "filename": "Pension-Committee-July-18-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/07/Pension-Committee-July-18-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-07",
+  "first_seen_utc": "2026-11-23T08:12:32+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bd5713b411804578e883599cc39fc56958b3e4f210bad48bcc29edacbe90bcb3",
+  "bytes": 28001,
+  "pages": 0,
+  "http_last_modified": "Wed, 10 Jul 2019 13:38:16 GMT",
+  "etag": "\"16c21df-6d61-58d53ca192200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Pension-Committee-July-18-2019-Agenda--bd5713b41180.pdf",
+  "versions": [
+    {
+      "sha256": "bd5713b411804578e883599cc39fc56958b3e4f210bad48bcc29edacbe90bcb3",
+      "bytes": 28001,
+      "retrieved_utc": "2026-11-23T08:12:32+00:00",
+      "http_last_modified": "Wed, 10 Jul 2019 13:38:16 GMT"
+    }
+  ]
+}

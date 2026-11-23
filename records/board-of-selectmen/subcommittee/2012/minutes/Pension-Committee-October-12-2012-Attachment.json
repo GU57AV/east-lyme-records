@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "Pension Committee October 12 2012 Attachment (pdf)",
+  "filename": "Pension-Committee-October-12-2012-Attachment.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Pension-Committee-October-12-2012-Attachment.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T09:13:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3a27b89a8e4ffe3ed33827588a21565b0800ca3307f8750bd13d91e85f8acc34",
+  "bytes": 640487,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:59 GMT",
+  "etag": "\"1663f28-9c5e7-52082bd6678c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2012/Pension-Committee-October-12-2012-Attachment--3a27b89a8e4f.pdf",
+  "versions": [
+    {
+      "sha256": "3a27b89a8e4ffe3ed33827588a21565b0800ca3307f8750bd13d91e85f8acc34",
+      "bytes": 640487,
+      "retrieved_utc": "2026-11-23T09:13:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:59 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Pension Committee January 21 2016 Minutes (pdf)",
+  "filename": "Pension-Committee-January-21-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Pension-Committee-January-21-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T08:48:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "fa2e56a8c9ff2db2d67c66bca3175a5f0b704b4acc72252f16e84b711517b9cf",
+  "bytes": 76471,
+  "pages": 0,
+  "http_last_modified": "Tue, 26 Jan 2016 14:44:29 GMT",
+  "etag": "\"16e0351-12ab7-52a3db9046d40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/Pension-Committee-January-21-2016-Minutes--fa2e56a8c9ff.pdf",
+  "versions": [
+    {
+      "sha256": "fa2e56a8c9ff2db2d67c66bca3175a5f0b704b4acc72252f16e84b711517b9cf",
+      "bytes": 76471,
+      "retrieved_utc": "2026-11-23T08:48:30+00:00",
+      "http_last_modified": "Tue, 26 Jan 2016 14:44:29 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Police Sub-Committee October 26 2016 Agenda (pdf)",
+  "filename": "Police-Sub-Committee-October-26-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Police-Sub-Committee-October-26-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T08:42:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "79a56aca61d60bee30e7da9fd65d6c13aced143ca3915435be8fdc1045755f44",
+  "bytes": 20527,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Sep 2016 18:58:59 GMT",
+  "etag": "\"16e0414-502f-53bef817982c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2016/Police-Sub-Committee-October-26-2016-Agenda--79a56aca61d6.pdf",
+  "versions": [
+    {
+      "sha256": "79a56aca61d60bee30e7da9fd65d6c13aced143ca3915435be8fdc1045755f44",
+      "bytes": 20527,
+      "retrieved_utc": "2026-11-23T08:42:06+00:00",
+      "http_last_modified": "Wed, 07 Sep 2016 18:58:59 GMT"
+    }
+  ]
+}

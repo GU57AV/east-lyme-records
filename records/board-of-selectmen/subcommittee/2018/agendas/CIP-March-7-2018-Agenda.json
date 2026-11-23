@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "CIP March 7 2018 Agenda (pdf)",
+  "filename": "CIP-March-7-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/CIP-March-7-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-23T08:31:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "11947e4d7f3f8aa88fb719e133fcb5959a77b966e115641fd42a36f012c914ed",
+  "bytes": 23963,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Mar 2018 16:06:26 GMT",
+  "etag": "\"16c08a8-5d9b-566c09fe6a480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2018/CIP-March-7-2018-Agenda--11947e4d7f3f.pdf",
+  "versions": [
+    {
+      "sha256": "11947e4d7f3f8aa88fb719e133fcb5959a77b966e115641fd42a36f012c914ed",
+      "bytes": 23963,
+      "retrieved_utc": "2026-11-23T08:31:22+00:00",
+      "http_last_modified": "Tue, 06 Mar 2018 16:06:26 GMT"
+    }
+  ]
+}

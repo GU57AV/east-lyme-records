@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Pension Committee February 6 2020 Minutes (pdf)",
+  "filename": "Pension-Committee-February-6-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/Pension-Committee-February-6-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-minutes/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-23T08:04:48+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6fefb4c2d0cadcb4581619aefe2aaf462771f54311b544e179985e61965489fc",
+  "bytes": 80426,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Feb 2020 21:07:42 GMT",
+  "etag": "\"1661783-13a2a-59e533f1ea380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Pension-Committee-February-6-2020-Minutes--6fefb4c2d0ca.pdf",
+  "versions": [
+    {
+      "sha256": "6fefb4c2d0cadcb4581619aefe2aaf462771f54311b544e179985e61965489fc",
+      "bytes": 80426,
+      "retrieved_utc": "2026-11-23T08:04:48+00:00",
+      "http_last_modified": "Tue, 11 Feb 2020 21:07:42 GMT"
+    }
+  ]
+}

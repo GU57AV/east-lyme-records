@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Public Safety Building Vision Committee August 15 2019 Cancellation (pdf)",
+  "filename": "Public-Safety-Building-Vision-Committee-August-15-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/08/Public-Safety-Building-Vision-Committee-August-15-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2019-agendas/",
+  "upload_folder": "2019-08",
+  "first_seen_utc": "2026-11-23T08:11:31+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c899241c323ff735950d0f3164ac82095b8faaff0556dcae0d9ab3f975c0a54f",
+  "bytes": 46056,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Aug 2019 13:14:00 GMT",
+  "etag": "\"16c219f-b3e8-5901387c27600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/Public-Safety-Building-Vision-Committee-August-15-2019-Cancellation--c899241c323f.pdf",
+  "versions": [
+    {
+      "sha256": "c899241c323ff735950d0f3164ac82095b8faaff0556dcae0d9ab3f975c0a54f",
+      "bytes": 46056,
+      "retrieved_utc": "2026-11-23T08:11:31+00:00",
+      "http_last_modified": "Wed, 14 Aug 2019 13:14:00 GMT"
+    }
+  ]
+}

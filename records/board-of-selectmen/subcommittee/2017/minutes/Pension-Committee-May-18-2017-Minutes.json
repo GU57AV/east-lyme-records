@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": true,
+  "link_text": "Pension Committee May 18 2017 Minutes (pdf)",
+  "filename": "Pension-Committee-May-18-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Pension-Committee-May-18-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T08:39:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "80d63f0bce51a76e926b75ac02d2b3c66ed901f50eae70a563a4ce3c2a0f654c",
+  "bytes": 80159,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 May 2017 15:12:17 GMT",
+  "etag": "\"16625a1-1391f-5504687a19640\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2017/Pension-Committee-May-18-2017-Minutes--80d63f0bce51.pdf",
+  "versions": [
+    {
+      "sha256": "80d63f0bce51a76e926b75ac02d2b3c66ed901f50eae70a563a4ce3c2a0f654c",
+      "bytes": 80159,
+      "retrieved_utc": "2026-11-23T08:39:25+00:00",
+      "http_last_modified": "Wed, 24 May 2017 15:12:17 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "CIP Sub-Committee January 14 2020 Agenda (pdf)",
+  "filename": "CIP-Sub-Committee-January-14-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/CIP-Sub-Committee-January-14-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-23T08:00:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f8cc9f7b10950f0fc844ae2f2b998b015c282803889e40392ff8ac1ec861e755",
+  "bytes": 25086,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Jan 2020 14:05:04 GMT",
+  "etag": "\"16616d4-61fe-59c1a141bc400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/CIP-Sub-Committee-January-14-2020-Agenda--f8cc9f7b1095.pdf",
+  "versions": [
+    {
+      "sha256": "f8cc9f7b10950f0fc844ae2f2b998b015c282803889e40392ff8ac1ec861e755",
+      "bytes": 25086,
+      "retrieved_utc": "2026-11-23T08:00:25+00:00",
+      "http_last_modified": "Tue, 14 Jan 2020 14:05:04 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "Capital Improvement March 30 2015 Minutes (pdf)",
+  "filename": "CIP-March-30-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/CIP-March-30-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-sub-committee-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-23T08:53:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "62f163df530b11893e004751ac1adba7e9fef444ee497b98f0a82556b67c4ae0",
+  "bytes": 35848,
+  "pages": 0,
+  "http_last_modified": "Wed, 18 Nov 2015 15:46:04 GMT",
+  "etag": "\"1663052-8c08-524d28a34c700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2015/CIP-March-30-2015-Minutes--62f163df530b.pdf",
+  "versions": [
+    {
+      "sha256": "62f163df530b11893e004751ac1adba7e9fef444ee497b98f0a82556b67c4ae0",
+      "bytes": 35848,
+      "retrieved_utc": "2026-11-23T08:53:52+00:00",
+      "http_last_modified": "Wed, 18 Nov 2015 15:46:04 GMT"
+    }
+  ]
+}

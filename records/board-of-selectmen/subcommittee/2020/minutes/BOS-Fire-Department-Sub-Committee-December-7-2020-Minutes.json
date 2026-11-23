@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "BOS Fire Department Sub-Committee December 7 2020 Minutes (pdf)",
+  "filename": "BOS-Fire-Department-Sub-Committee-December-7-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOS-Fire-Department-Sub-Committee-December-7-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-minutes/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T08:02:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a324e166bc71a17409470f27f802adc39c8eaa2f0a040bea7f921cbde5e359d8",
+  "bytes": 44374,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Feb 2021 16:49:28 GMT",
+  "etag": "\"168012d-ad56-5bb266b5d9600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-Fire-Department-Sub-Committee-December-7-2020-Minutes--a324e166bc71.pdf",
+  "versions": [
+    {
+      "sha256": "a324e166bc71a17409470f27f802adc39c8eaa2f0a040bea7f921cbde5e359d8",
+      "bytes": 44374,
+      "retrieved_utc": "2026-11-23T08:02:06+00:00",
+      "http_last_modified": "Fri, 12 Feb 2021 16:49:28 GMT"
+    }
+  ]
+}

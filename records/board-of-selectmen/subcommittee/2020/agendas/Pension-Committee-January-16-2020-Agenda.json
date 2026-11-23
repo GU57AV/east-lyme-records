@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Pension Committee January 16 2020 Agenda (pdf)",
+  "filename": "Pension-Committee-January-16-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Pension-Committee-January-16-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-23T08:00:05+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7c6308ecf992ff37a83b267ce3363299cf5824093c52de5db68fedce3bead629",
+  "bytes": 30690,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Jan 2020 15:36:36 GMT",
+  "etag": "\"16616f3-77e2-59c1b5b750900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Pension-Committee-January-16-2020-Agenda--7c6308ecf992.pdf",
+  "versions": [
+    {
+      "sha256": "7c6308ecf992ff37a83b267ce3363299cf5824093c52de5db68fedce3bead629",
+      "bytes": 30690,
+      "retrieved_utc": "2026-11-23T08:00:05+00:00",
+      "http_last_modified": "Tue, 14 Jan 2020 15:36:36 GMT"
+    }
+  ]
+}
