@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS March 2 2022 Public Hearing Minutes (pdf)",
+  "filename": "BOS-March-2-2022-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BOS-March-2-2022-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-23T00:54:51+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ccc33383c7961a9407d4014e055ef4a18e6249bcc3e2b4a79095886dcc676602",
+  "bytes": 47528,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Mar 2022 15:25:24 GMT",
+  "etag": "\"16a0ad1-b9a8-5d95201c84100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-March-2-2022-Public-Hearing-Minutes--ccc33383c796.pdf",
+  "versions": [
+    {
+      "sha256": "ccc33383c7961a9407d4014e055ef4a18e6249bcc3e2b4a79095886dcc676602",
+      "bytes": 47528,
+      "retrieved_utc": "2026-11-23T00:54:51+00:00",
+      "http_last_modified": "Thu, 03 Mar 2022 15:25:24 GMT"
+    }
+  ]
+}

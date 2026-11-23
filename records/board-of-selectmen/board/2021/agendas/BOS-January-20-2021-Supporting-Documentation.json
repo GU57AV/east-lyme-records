@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS January 20 2021 Supporting Documentation (pdf)",
+  "filename": "BOS-January-20-2021-Supporting-Documentation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/BOS-January-20-2021-Supporting-Documentation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-23T01:18:58+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5d2b7e76280cf8da1585892904ed3c78d31b96755274901397e3a8cea201ec9c",
+  "bytes": 9169218,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Jan 2021 20:18:11 GMT",
+  "etag": "\"1663727-8be942-5b8f6123ce6c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-January-20-2021-Supporting-Documentation--5d2b7e76280c.pdf",
+  "versions": [
+    {
+      "sha256": "5d2b7e76280cf8da1585892904ed3c78d31b96755274901397e3a8cea201ec9c",
+      "bytes": 9169218,
+      "retrieved_utc": "2026-11-23T01:18:58+00:00",
+      "http_last_modified": "Fri, 15 Jan 2021 20:18:11 GMT"
+    }
+  ]
+}

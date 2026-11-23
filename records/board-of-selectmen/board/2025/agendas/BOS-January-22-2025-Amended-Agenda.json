@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS January 22 2025 Amended Agenda (pdf)",
+  "filename": "BOS-January-22-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/BOS-January-22-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-22T23:12:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "de7417ff5001c22aa03ab795167b2bcba61e4320c7865a9f069e5c9ff68565b5",
+  "bytes": 39751,
+  "pages": 0,
+  "http_last_modified": "Tue, 21 Jan 2025 21:14:40 GMT",
+  "etag": "\"16c001f-9b47-62c3ddd701000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-January-22-2025-Amended-Agenda--de7417ff5001.pdf",
+  "versions": [
+    {
+      "sha256": "de7417ff5001c22aa03ab795167b2bcba61e4320c7865a9f069e5c9ff68565b5",
+      "bytes": 39751,
+      "retrieved_utc": "2026-11-22T23:12:22+00:00",
+      "http_last_modified": "Tue, 21 Jan 2025 21:14:40 GMT"
+    }
+  ]
+}

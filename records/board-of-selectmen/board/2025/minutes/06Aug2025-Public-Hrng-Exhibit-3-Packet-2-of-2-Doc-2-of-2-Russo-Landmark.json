@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "06Aug2025 Public Hrng - Exhibit #3 Packet 2 of 2 Doc 2 of 2 - Russo Landmark (pdf)",
+  "filename": "06Aug2025-Public-Hrng-Exhibit-3-Packet-2-of-2-Doc-2-of-2-Russo-Landmark.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/06Aug2025-Public-Hrng-Exhibit-3-Packet-2-of-2-Doc-2-of-2-Russo-Landmark.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-22T23:21:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d93156cb87e2a90cf807684ce260173fe6d1406d208accc2bcc03fe4033ad91b",
+  "bytes": 1754364,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Aug 2025 15:57:03 GMT",
+  "etag": "\"16c02bc-1ac4fc-63bdc9ff8f1c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/06Aug2025-Public-Hrng-Exhibit-3-Packet-2-of-2-Doc-2-of-2-Russo-Landmark--d93156cb87e2.pdf",
+  "versions": [
+    {
+      "sha256": "d93156cb87e2a90cf807684ce260173fe6d1406d208accc2bcc03fe4033ad91b",
+      "bytes": 1754364,
+      "retrieved_utc": "2026-11-22T23:21:15+00:00",
+      "http_last_modified": "Fri, 08 Aug 2025 15:57:03 GMT"
+    }
+  ]
+}

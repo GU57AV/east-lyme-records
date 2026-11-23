@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS May 6 2020 (via Zoom) Agenda with Attachment (pdf)",
+  "filename": "BOS-May-6-2020-Meeting-via-Zoom-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/BOS-May-6-2020-Meeting-via-Zoom-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-23T01:47:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e2a495a603b7f13603454122008e1d4123c3be98b69139c3c91094027897afac",
+  "bytes": 129522,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 May 2020 19:29:47 GMT",
+  "etag": "\"166166b-1f9f2-5a49b343f40c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-May-6-2020-Meeting-via-Zoom-Agenda--e2a495a603b7.pdf",
+  "versions": [
+    {
+      "sha256": "e2a495a603b7f13603454122008e1d4123c3be98b69139c3c91094027897afac",
+      "bytes": 129522,
+      "retrieved_utc": "2026-11-23T01:47:26+00:00",
+      "http_last_modified": "Fri, 01 May 2020 19:29:47 GMT"
+    }
+  ]
+}

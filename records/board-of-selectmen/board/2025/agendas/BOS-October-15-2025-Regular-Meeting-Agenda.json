@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS October 15 2025 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-October-15-2025-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/BOS-October-15-2025-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-22T22:53:19+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b301bcff8aa09c715e665bf6f40e1204300b96860769dffa9738e8dcb958daae",
+  "bytes": 48684,
+  "pages": 1,
+  "http_last_modified": "Thu, 09 Oct 2025 18:38:18 GMT",
+  "etag": "\"1720068-be2c-640be1ad7fb6f\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-October-15-2025-Regular-Meeting-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "b301bcff8aa09c715e665bf6f40e1204300b96860769dffa9738e8dcb958daae",
+      "bytes": 48684,
+      "retrieved_utc": "2026-11-22T22:53:19+00:00",
+      "http_last_modified": "Thu, 09 Oct 2025 18:38:18 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS April 2 2026 Cancellation (pdf)",
+  "filename": "BOS-April-2-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/BOS-April-2-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-22T22:22:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7fa1f6863d591fa84744a9c6a1c88b3cfdab898827a1237813ed7d933dc0adab",
+  "bytes": 45586,
+  "pages": 1,
+  "http_last_modified": "Thu, 02 Apr 2026 15:23:09 GMT",
+  "etag": "\"1701891-b212-64e7bc7275493\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-April-2-2026-Cancellation.pdf",
+  "versions": [
+    {
+      "sha256": "7fa1f6863d591fa84744a9c6a1c88b3cfdab898827a1237813ed7d933dc0adab",
+      "bytes": 45586,
+      "retrieved_utc": "2026-11-22T22:22:36+00:00",
+      "http_last_modified": "Thu, 02 Apr 2026 15:23:09 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS June 1 2022 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "BOS-June-1-2022-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/BOS-June-1-2022-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-23T00:51:46+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "de52c659e140bc5ba9b05db8fe5db0ee6f9b76eefc1adb650adfe2656b97415d",
+  "bytes": 596883,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jun 2022 14:51:08 GMT",
+  "etag": "\"16a0edd-91b93-5e0c89a28cf00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-June-1-2022-Public-Hearing-and-Regular-Meeting-Minutes--de52c659e140.pdf",
+  "versions": [
+    {
+      "sha256": "de52c659e140bc5ba9b05db8fe5db0ee6f9b76eefc1adb650adfe2656b97415d",
+      "bytes": 596883,
+      "retrieved_utc": "2026-11-23T00:51:46+00:00",
+      "http_last_modified": "Mon, 06 Jun 2022 14:51:08 GMT"
+    }
+  ]
+}

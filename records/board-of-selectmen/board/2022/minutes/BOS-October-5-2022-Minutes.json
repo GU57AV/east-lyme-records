@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS October 5 2022 Minutes (pdf)",
+  "filename": "BOS-October-5-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/BOS-October-5-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-23T00:49:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c91d8d9df517853b00588e832243a6ab646020f1e981ed1c7f7cf0984ca1c26a",
+  "bytes": 1635970,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Oct 2022 12:50:30 GMT",
+  "etag": "\"16a11a9-18f682-5ead5d66db180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-October-5-2022-Minutes--c91d8d9df517.pdf",
+  "versions": [
+    {
+      "sha256": "c91d8d9df517853b00588e832243a6ab646020f1e981ed1c7f7cf0984ca1c26a",
+      "bytes": 1635970,
+      "retrieved_utc": "2026-11-23T00:49:01+00:00",
+      "http_last_modified": "Wed, 12 Oct 2022 12:50:30 GMT"
+    }
+  ]
+}

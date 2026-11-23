@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS July 1 2026 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-July-1-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/07/BOS-July-1-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-07",
+  "first_seen_utc": "2026-11-22T22:39:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8fe24a15c9885d0894d9d04814663f65d778b542679ff1a41d90101be0e37de1",
+  "bytes": 198937,
+  "pages": 3,
+  "http_last_modified": "Tue, 07 Jul 2026 18:34:52 GMT",
+  "etag": "\"17008bb-30919-65609a58f7f5d\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-July-1-2026-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "8fe24a15c9885d0894d9d04814663f65d778b542679ff1a41d90101be0e37de1",
+      "bytes": 198937,
+      "retrieved_utc": "2026-11-22T22:39:38+00:00",
+      "http_last_modified": "Tue, 07 Jul 2026 18:34:52 GMT"
+    }
+  ]
+}

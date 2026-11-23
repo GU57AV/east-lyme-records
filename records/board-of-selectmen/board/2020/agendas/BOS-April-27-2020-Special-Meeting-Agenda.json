@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS April 27 2020 Special Meeting Agenda (Via Zoom) with Attachment (pdf)",
+  "filename": "BOS-April-27-2020-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/BOS-April-27-2020-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-23T01:47:46+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1c41a8954fac058cced624d2c7bb68a243cbae6f183c3147a24c4b41bc0ad459",
+  "bytes": 250971,
+  "pages": 0,
+  "http_last_modified": "Fri, 24 Apr 2020 16:35:28 GMT",
+  "etag": "\"16619f3-3d45b-5a40bf3f3f400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-April-27-2020-Special-Meeting-Agenda--1c41a8954fac.pdf",
+  "versions": [
+    {
+      "sha256": "1c41a8954fac058cced624d2c7bb68a243cbae6f183c3147a24c4b41bc0ad459",
+      "bytes": 250971,
+      "retrieved_utc": "2026-11-23T01:47:46+00:00",
+      "http_last_modified": "Fri, 24 Apr 2020 16:35:28 GMT"
+    }
+  ]
+}

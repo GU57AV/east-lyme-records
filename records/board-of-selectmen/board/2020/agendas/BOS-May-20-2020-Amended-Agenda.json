@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS May 20 2020 Amended Agenda (pdf)",
+  "filename": "BOS-May-20-2020-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/BOS-May-20-2020-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-23T01:46:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5bfca25a94d9efbd66936041b31a236c2673c891df38b37d0e8a8389f185226f",
+  "bytes": 50358,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 May 2020 16:12:39 GMT",
+  "etag": "\"16616af-c4b6-5a6028c630bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-May-20-2020-Amended-Agenda--5bfca25a94d9.pdf",
+  "versions": [
+    {
+      "sha256": "5bfca25a94d9efbd66936041b31a236c2673c891df38b37d0e8a8389f185226f",
+      "bytes": 50358,
+      "retrieved_utc": "2026-11-23T01:46:24+00:00",
+      "http_last_modified": "Tue, 19 May 2020 16:12:39 GMT"
+    }
+  ]
+}

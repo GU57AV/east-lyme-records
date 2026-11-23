@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS August 5 2026 Agenda (pdf)",
+  "filename": "BOS-August-5-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/07/BOS-August-5-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-07",
+  "first_seen_utc": "2026-11-22T22:18:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "71ca8e10b4e5580551505ac5389f6fd8c388c73695b8b0138b46f327390eae9a",
+  "bytes": 49388,
+  "pages": 1,
+  "http_last_modified": "Thu, 30 Jul 2026 20:43:46 GMT",
+  "etag": "\"1701922-c0ec-657da20dc2c3a\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-August-5-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "71ca8e10b4e5580551505ac5389f6fd8c388c73695b8b0138b46f327390eae9a",
+      "bytes": 49388,
+      "retrieved_utc": "2026-11-22T22:18:11+00:00",
+      "http_last_modified": "Thu, 30 Jul 2026 20:43:46 GMT"
+    }
+  ]
+}

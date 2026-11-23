@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS June 6 2024 Emergency Meeting Minutes (pdf)",
+  "filename": "BOS-June-6-2024-Emergency-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/BOS-June-6-2024-Emergency-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-22T23:52:42+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b09c8b43849834acdfb1c6417a6d3a99237122abd2d93275bb68afefc1f1c814",
+  "bytes": 45293,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Jun 2024 14:24:02 GMT",
+  "etag": "\"168077b-b0ed-61a4d8d148480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-June-6-2024-Emergency-Meeting-Minutes--b09c8b438498.pdf",
+  "versions": [
+    {
+      "sha256": "b09c8b43849834acdfb1c6417a6d3a99237122abd2d93275bb68afefc1f1c814",
+      "bytes": 45293,
+      "retrieved_utc": "2026-11-22T23:52:42+00:00",
+      "http_last_modified": "Fri, 07 Jun 2024 14:24:02 GMT"
+    }
+  ]
+}

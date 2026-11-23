@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS August 22 2023 Special Meeting Minutes (pdf)",
+  "filename": "BOS-August-22-2023-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/BOS-August-22-2023-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-minutes/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-23T00:24:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "26f2ee94afcdd02029347a0f1315a5708f20cfe570ac652d4d0321461880dcc3",
+  "bytes": 64060,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Aug 2023 20:11:14 GMT",
+  "etag": "\"16e02b7-fa3c-6039cb6a03c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-August-22-2023-Special-Meeting-Minutes--26f2ee94afcd.pdf",
+  "versions": [
+    {
+      "sha256": "26f2ee94afcdd02029347a0f1315a5708f20cfe570ac652d4d0321461880dcc3",
+      "bytes": 64060,
+      "retrieved_utc": "2026-11-23T00:24:06+00:00",
+      "http_last_modified": "Wed, 23 Aug 2023 20:11:14 GMT"
+    }
+  ]
+}

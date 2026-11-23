@@ -1,0 +1,379 @@
+---
+title: "BOS December 3 2025 Public Hearing Notice (With Proposed Ordinance) (pdf)"
+board: board-of-selectmen
+kind: agendas
+source_url: https://eltownhall.com/wp-content/uploads/2025/12/BOS-December-3-2025-Public-Hearing-Notice-With-Proposed-Ordinance.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/
+sha256: 39084b538b9ea490c06387332aa60a1d90dc8eb6e1b694a97a27abd09b941a3f
+text_method: pdftotext
+first_seen_utc: 2026-11-22T22:48:54+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: records/board-of-selectmen/board/2025/agendas/BOS-December-3-2025-Public-Hearing-Notice-With-Proposed-Ordinance.pdf
+
+```text
+                                 TOWN OF EAST LYME
+                                BOARD OF SELECTMEN
+                            NOTICE OF PUBLIC HEARING
+                        REGARDING AN ORDINANCE TITLED
+                    'oOrdinance.Authorizing The Use of Automated
+                         Traffic Enforcement Safety Devices',
+NoTlcE ls HEREBy.GIVFN of a public hearing to be held by the East Lyme Board
+                                                                                     of
+selectmen immediately following a Town Meetiig to commence at z:00 p.m.
+                                                                            on
+wednesday, Decemb er 3, 2a25, at the East Lymi rown Hail, 10s pennJyivania
+Avenue, Niantic, Connecticut to consider the Ordinance tifled "Ordinance
+                                                                         Authorizing
+The use of Automated rraffic Enforcement safety Devices".
+
+Copies of the full text of the proposed Ordinance are on file for public
+                                                                         inspection at the
+office of the East Lyme Town Cierk, 108 Pennsylvania Avenue,"Niantic,
+                                                                            Connecticut
+3nq "lwww.eftown'hal-lsom      to whici'r reference may be had. lnterested persons  are
+invited to attend and be heard. The Board of Selectmen may
+                                                                 make changes to the
+language of the proposed ordinance as the result of information presented
+                                                                              in the public
+hearing.
+
+Dated at East Lyme, connecticut, on this lgth day of November,
+                                                                   2025,
+
+
+
+
+                                                                            *t.)   ::
+                                                           {ntuua.d fu t-              I te--
+                                                             vw6{il ii           3
+                                                                                         G-
+                 ORDINANCE AUTHORIZING THE USE OF AUTOMATED
+                     TRAFFIC ENFORCEMENT SAFETY DEVICES
+The following new sections are hereby added to the Ordinances of the Town of East
+Lyme:
+
+
+
+Chapter 74: AUTOMATED TRAFFIC ENFORCEMENT SAFETY DEVICES
+
+
+
+s 74.01 USE OF AUTOMATED TRAFFTC ENFORCEMENT SAFETY DEVICES
+Pursuant to authority granted by General Statutes SS 14-307b to 14-307h, inclusive, the
+Town of East Lyme hereby authorizes the use of automated traffic enforcernent safety
+devices at locations within its territorial limits identified in a plan to be submitted to and
+approved by the Connecticut Department of Transportation. Such automated traffic
+enforcement safety devices shall be operated by the East Lyme Police Department
+under the supervision of the Board of Police Commissioners as herein provided. To the
+extent necessary to further effectuate Chapter 74, the provisions of General Statutes $$
+14-307b to 14-307h, inclusive, and as those sections may from time to time be
+amended, are hereby incorporated and adopted as if fully set forth herein.
+
+
+
+s 74.02 DEFTNIilONS
+The following words, terms, and phrases, when used in Chapter 74, shall have the
+following meanings:
+      (al Automated Traffic Enforcement Safety Device shall mean a device designed to
+          detect and collect evidence of alleged traffic violations by recording images that
+          capture the number plate, date, time, and location of a motor vehicle that (i)
+          exceeds the posted speed limit by ten (10) or more miles per hours or (ii) fails to
+          stop such vehicle when facing a steady red signal on a traffic control signal.
+
+      (b) Automated Traffic Enforcement Safety Device Operatorshall mean a person who
+          is trained and certified to operate an automated traffic enforcement safety device.
+
+      (c) Number Plate shall mean any sign or marker furnished by the Connecticut
+          Commissioner of Motor Vehicles, or the equivalent thereof for number plates
+          issued by a jurisdiction other than Connecticut, on which is displayed the
+          registration number assigned to a motor vehicle.
+
+
+
+{008097s4.1}                                    1
+       (d) Owner shall mean any person holding title to a motor vehicle or having the legal
+           right to register the same. ln the case of a motor vehicle that is leased for a
+           period of more than thirty (30) days and identified by an automated traffic
+           enforcement safety device as allegedly committing a violation of Chapter 74, the
+           lessee shall be considered the owner of such motor vehicle for the purposes of
+           Chapter 74 enforcement.
+
+       (e) Pedesfrian Safety Zone shall mean an area designated by the Office of State
+           Traffic Administration or traffic authority of the Town pursuant to General Statutes
+           $ 14-307a.
+
+       (f) Personally ldentifiable lnformafion shall mean information created or maintained
+               by the Town or a vendor that identifies or describes an owner and includes, but
+               need not be limited to, the owner's address, telephone number, number plate,
+               photograph, bank account information, credit card number, debit card number, or
+               the date, time, location, or direction of travel on a highway.
+
+       (g) Schoo/ Zone shall mean an area designated by the Office of State Traffic
+           Administration or the traffic authority of the Town pursuant to General Statutes g
+           14-212b.
+
+       (h) Traffic Authority, Traffic Controlsrgn, and Traffic Controlsrgnal shall have the
+               meanings provided in General Statutes S 14-297.
+
+       (i) Town shall mean the Town of East Lyme
+
+       U) Vendorshall mean a person who provides services to the Town under Chapter
+               74; operates, maintains, leases, or licenses an automated traffic enforcement
+               safety device; or is authorized to review and assemble the recorded images
+               captured by an automated traffic enforcement safety device and fonvard such
+               recorded images to the Town.
+
+
+s 74.03 VENDORS
+The Town may enter into agreements with vendors for the design, installation,
+operation, or maintenance, or any combination thereof, of automated traffic enforcement
+safety devices. Any such agreement with a vendor shall be subject to approval by the
+Board of Selectmen and subject to the appropriations process provided for by the Town
+Charter and General Statutes, lf a vendor designs, installs, operates, or maintains an
+
+
+
+{00s0e754.1}                                         2
+automated traffic enforcement safety device, the vendor's fees may not be contingent
+on the number of citations issued or fines paid pursuant to Chapter 74.
+
+s 74.04 OPERATTON OF AUTOMATED TRAFFICE ENFORCEMENT SAFETY
+DEVICES
+
+All automated traffic enforcement safety devices shall be operated by an automated
+traffic enforcement safety device operator. Said operator may be a sworn member or
+employee of the East Lyme Police Department or an agent of a vendor.
+
+s 74,05 VToLATTONS SUBJECT TO AUTOTVIATED ENFORCMENT
+      (a) The owner of a motor vehicle commits a violation of Chapter 74 if a driver
+          operating such motor vehicle:
+
+                      Exceeds the posted speed limit by ten (10) or more miles per hour and
+                      such operation is detected by an automated trafiic enforcement safety
+                      device; OR
+
+                 ii. Fails to stop such motor vehicle when facing a steady red signal on a
+                      traffic controlsignal and such failure is detected by an automated traffic
+                      enforcernent safety device.
+
+      (b) Automated traffic enforcement safety devices shall be used solely for identifying
+          violations identified in subsection (a) of this section.
+
+       (c) For the first thirty (30) days after a location is equipped with an operational
+           automated traffic enforcement safety device, the owner of any motor vehicle
+           recorded by automated traffic enforcement safety device operating in violation of
+           subsection (a) of this section shall receive a written warning instead of a citation.
+
+s 74.06 PENALTY FOR VTOLATTONS
+
+                (a) Whenever an automated traffic enforcement safety device detects a violation
+                    of $ 74.05 (a) and produces recorded images of a motor vehicle allegedly
+                   committing a violation of Chapter 74, a sworn member or employee of the
+                   East Lyme Police Department shall review and approve the recorded images
+                   provided by such device. lf, after such review, the member or employee
+                   determines that there are reasonable grounds to believe that a violation
+                   occurred, the member or employee must issue by first class mail a citation to
+                   the owner of such motor vehicle.
+
+
+                                                     a
+{00809754.1 }
+                (b) A citation under Chapter 74 shall include the following:
+
+                     i.   The name and address of the owner of the motor vehicle;
+
+                    ii. The number plate of the motor vehicle;
+                   iii. The violation charged;
+                   IV     The location of the automated traffic enforcement safety device and the
+                          date and time of the violation;
+
+                   V      A copy of or information on how to view, through electronic means, the
+                          recorded images that captured the alleged violation;
+
+                   vi. A statement or electronically generated affirmation by the member or
+                          employee who viewed the recorded images and determined that a
+                          violation occurred;
+
+                  vii. Verification that the automated traffic enforcement safety device was
+                          operating correctly at the time of the alleged violation and the date of the
+                          most recent calibration check performed pursuant to state law;
+
+                  viii, The amount of the fine imposed and the amount of the processing fee,
+                          and instructions regarding payment of the fine and processing fee,
+                          including provision of a method for paying such fine and fee
+                          electronically; and
+
+                   tx,    The right to contest the violation and request a hearing pursuant to
+                          General Statutes $ 7-152c as more particularly set forth in $ 74,08 of
+                          Chapter 74.
+
+                (c) ln the case of a violation involving a motor vehicle registered in Connecticut,
+                    the citation shall be sent by first class mail not later than thirty (30) days after
+                    the identity of the owner is determined and shall be mailed to the address of
+                    the owner in the records of the Department of Motor Vehicles. ln the case of
+                    a violation involving a motor vehicle registered in a jurisdiction other than
+                    Connecticut, the citation shall be sent by first class mail not later than thirty
+                    (30) days after the identity of the owner is determined and shall be mailed to
+                    the address of the owner that is in the records of the official in that jurisdiction
+                    issuing registrations for motor vehicles.
+
+{00809?54.1 }                                           4
+                    (d) A citation shall be invalid unless mailed to an owner not later than sixty (60)
+                        days afler the alleged violation.
+
+S 74.07 Fines for Violations
+
+        (a) The Town shall impose a fine against the owner of a motor vehicle that commits a
+            violation of Chapter 74.
+
+        (b) The fine for a first violation of Chapter 74 shall be fifty dollars ($S01. The fine for
+                    each subsequent violation shall be seventy-five dollars ($2S1. lf twelve (12)
+                    months elapse between the most recent violation and a new violation, the new
+                    violation shall be considered a first violation for purposes of calculating the fine.
+                    These fines shall be imposed against the owner of the motor vehicle recorded in
+                    violation of $ 74.05 (a).
+
+        (c) Each citation shall also impose a processing fee of fifteen dollars ($15), which
+            fee shall be in addition to the fine imposed by subsection (b) of this section.
+
+        (d) Funds received by the Town from fines and fees imposed pursuant to this section
+            shall be used for puposes of improving transportation mobility, investing in '
+            transportation infrastructure improvernents, or paying the costs associated with
+            the use of automated traffic enforcement safety devices within the Town.
+
+s 74.08 CTTAT|ON OFFTCER AND AppEAL OF CITAT|ONS
+
+        (a) Any owner of a motor vehicle cited for a violation of Section 74.A5 of Chapter 74
+                    may, within ten (10) business days of the receipt of the fine, appeal in writing to
+                    the citation hearing officer appointed pursuant to Section 150,036 of the
+                    Ordinances of the Town of East Lyme and a public hearing shall be conducted in
+                    accordance with Section 150,036 (G) of the Ordinances of the Town of East
+                    Lyme.
+
+        (b) ln the case of any deadlines, requirements, or defenses provided for by Section
+                    150.036 of the Ordinances of the Town of East Lyme that conflict with or are
+                    inconsistent with the provisions of Section 74 of the Ordinances of the Town of
+                    East Lyme and General Statutes SS 14-307b to 14-307h, inclusive, the provisions
+                    of Section 74 of the Ordinances of the Town of East Lyme and General Statutes
+                    $S 14-307b to 14-307h, inclusive, shall control for purposes of a public hearing
+                    on an appeal of a citation forviolation of Section 74.A5 of this Ordinance.
+
+{0080975.'i,   r}                                          5
+S 74.09 Defenses
+
+       (a) The defenses available to the owner of a motor vehicle that is alleged to have
+               committed a violation of Chapter 74 shall be:
+                   i.  The operator was driving an emergency vehicle in accordance with the
+                       provisions of General Statutes S 14-283 (b) (1);
+                  ii.  The traffic control signalwas inoperative and such status is observable
+                       on the recorded images;
+                  iii. The violation was necessary in order for the operator to comply with an
+                       order or direction form a law enforcement officer and such order or
+                       direction from a law enforcement officer is observable on the recorded
+                       images;
+                  iv.  The violation was necessary to allow the passage of an authorized
+                       emergency vehicle and the emergency vehicle is observable on the
+                       recorded images;
+                  v.   The violation took place during a period of time in which the motor
+                       vehicle had been reported as being stolen to a law enforcement unit as
+                       defined in General Statutes $ 7-294a and the vehicle had not been
+                       recovered prior to the time of the violation;
+                  vi.  The automated traffic erlforcement safety device was not in compliance
+                       with the calibration check required pursuant to General Statutes S 14-
+                       307c (h); or
+                 vii.  Any other defense provided by General Statutes $ 14-307cfi) as that
+                       section may be amended from time to time.
+
+S 74.10 Management of Personally ldentifiable lnformation
+
+               (a) No personally identifiable information shall be disclosed by the Town of a
+                   vendor to any person or entity, including any law enforcement unit, except
+                   where the disclosure is made in connection with the charging, collection, and
+                   enforcement of the fines imposed pursuant to Chapler 74.
+
+               (b) No personally identifiable information shall be stored or retained by the Town
+                   or a vendor unless such information is necessary for the charging, collection,
+                   and enforcement of the fines imposed pursuant to Chapter 74.
+
+               (c) The Town or a vendor shall destroy all personally identifiable information and
+                   other data that specifically identifies a motor vehicle and relates to a violation
+                   of Chapter 74 not later than thirty (30) days after any fine is collected or the
+
+{00809754.11                                          6
+                        resolution of a hearing conducted for the alleged commission of such violation
+                        whichever is later. The destruction requirements of this subsection shall not
+                        apply to any personally identifiable information required by the Town or a
+                        vendor for the limited purpose of determining whether a person has
+                        committed a second or subsequent violation for the purposes of calculating
+                        the applicable fine as provided for by S 74.07 (b). ln the case of such limited
+                        retained personally identifiable information, the Town or vendor shall destroy
+                        such retained information not later than one (1) year after the most recent
+                        date of violation.
+
+                     (d) Any information and other data gathered from automated traffic enforcement
+                        safety devices shall be subject to disclosure under the Freedom of
+                        lnformation Act, as defined in General Statutes S 1-200, except that no
+                        personally identifiable information may be disclosed,
+
+
+    S 74.11 Comprehensive Safety Action Plan
+
+    The East Lyme Police Department shallcreate a comprehensive safety action plan as
+    required by General Statutes $ 14-307c(eX2) to ensure that streets located in the Town
+'   safely and conveniently serve road users of all ages and abilities, including pedestrians, '
+    transit users, bicyclists, users of wheelchairs and other adaptive or assistive devices,
+    and motor vehicle operators.
+
+    574.12 Privacy Policy Regarding Chapter 74 lnformation
+
+    The Town shall maintain a written policy that meets or exceeds the standards of the
+    model privacy policy and protocol developed pursuant to General Statutes S 14-307d
+
+
+    S 74.13 Public Awareness And Notice Prior To Commencing Enforcement
+
+    Prior to commencing the operation of an automated traffic enforcement safety device,
+    the Town shall:
+
+           (a) install at least two conspicuous signs at a reasonable distance in advance of
+                     such location, in accordance with the Federal Highway Administration's Manual
+                     on Uniform Traffic Control Devices for Streets and Highways, notifying motor
+                     vehicle operators of such location;
+
+           (b) Provide notification of such location to persons, firms or corporations that operate
+               a mobile application that is used for navigation purposes or to provide real-time
+
+    {008097ri4.r }                                        7
+                information on motor vehicle traffic as designated by the Connecticut Department
+                of Transportation pursuant to General Statutes $ 1a-307c(0(1XB);
+
+       (c) At least thirty (30) days prior to the first automated traffic enforcement safety
+           device becoming operational in Town, the Town shall develop and implement a
+           public awareness campaign to educate the public concerning the importance of
+           obeying speed limits and traffic control signals and the imminent use of
+           automated traffic enforcement safety devices in Town at specified locations in a
+           plan approved by the Department of Transportation pursuant to General Statutes
+           $ 14-307e.
+
+S 74.14 Annual Calibration Required
+
+Any automated traffic enforcement safety device used within the jurisdictional limits of
+the Town shall undergo calibration checks at least annually at a calibration laboratory.
+The calibration laboratory shall issue a signed certificate of calibration after such
+calibration check. The Town shall keep and maintain such calibration certificate on file
+and available for admission as evidence in any appeal pursuant to $ 74.08 of Chapter
+74.
+
+
+$ 74.15 Severability
+ lf any section, subsection, sentence, clause or phrase of Chapter 74 is for any reason
+ held to be invalid or unconstitutional by any decision of any court of competent
+jurisdiction, such decision shall not affect the validity of the remaining portions of
+Chapter 74.
+
+
+
+
+{00809754,1 I                                       8
+```

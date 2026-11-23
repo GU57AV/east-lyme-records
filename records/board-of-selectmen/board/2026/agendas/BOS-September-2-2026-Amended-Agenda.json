@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS September 2 2026 Amended Agenda (pdf)",
+  "filename": "BOS-September-2-2026-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/BOS-September-2-2026-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-22T22:17:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b69bef656f16305e695c0bdc8fae0f0998a6ff135e92d38d6154ed578582ec7f",
+  "bytes": 60318,
+  "pages": 1,
+  "http_last_modified": "Tue, 01 Sep 2026 20:49:53 GMT",
+  "etag": "\"16e0f21-eb9e-65a720f8da995\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-September-2-2026-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "b69bef656f16305e695c0bdc8fae0f0998a6ff135e92d38d6154ed578582ec7f",
+      "bytes": 60318,
+      "retrieved_utc": "2026-11-22T22:17:30+00:00",
+      "http_last_modified": "Tue, 01 Sep 2026 20:49:53 GMT"
+    }
+  ]
+}

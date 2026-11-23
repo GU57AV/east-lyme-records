@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS November 18 2026 Public Hearing Minutes (pdf)",
+  "filename": "BOS-November-18-2026-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/BOS-November-18-2026-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-22T22:36:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6b14cf19ebbe429ed4c8296e1ebf20d6634cfbddae6ad7eeeb857943032a32e2",
+  "bytes": 1569204,
+  "pages": 28,
+  "http_last_modified": "Fri, 20 Nov 2026 15:58:15 GMT",
+  "etag": "\"17c0176-17f1b4-660b74fd816bf\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-November-18-2026-Public-Hearing-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "6b14cf19ebbe429ed4c8296e1ebf20d6634cfbddae6ad7eeeb857943032a32e2",
+      "bytes": 1569204,
+      "retrieved_utc": "2026-11-22T22:36:53+00:00",
+      "http_last_modified": "Fri, 20 Nov 2026 15:58:15 GMT"
+    }
+  ]
+}

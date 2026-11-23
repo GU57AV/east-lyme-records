@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS April 15 2026 Agenda (pdf)",
+  "filename": "BOS-April-15-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/BOS-April-15-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-22T22:22:16+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "244024686057706bd44de35e80a94626c3e9c1f1d8651e4ba8e170213c410364",
+  "bytes": 45573,
+  "pages": 1,
+  "http_last_modified": "Fri, 10 Apr 2026 13:23:51 GMT",
+  "etag": "\"17018bf-b205-64f1b0b3630d3\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-April-15-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "244024686057706bd44de35e80a94626c3e9c1f1d8651e4ba8e170213c410364",
+      "bytes": 45573,
+      "retrieved_utc": "2026-11-22T22:22:16+00:00",
+      "http_last_modified": "Fri, 10 Apr 2026 13:23:51 GMT"
+    }
+  ]
+}

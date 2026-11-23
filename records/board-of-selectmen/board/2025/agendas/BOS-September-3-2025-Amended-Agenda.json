@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS September 3 2025 Amended Agenda (pdf)",
+  "filename": "BOS-September-3-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/BOS-September-3-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-22T22:55:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3d13334757177f0e2fb1b93d8049603304890924688c7b55b0851727ad7ffe37",
+  "bytes": 60136,
+  "pages": 1,
+  "http_last_modified": "Tue, 02 Sep 2025 16:14:46 GMT",
+  "etag": "\"1720674-eae8-63dd3c969a0de\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-September-3-2025-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "3d13334757177f0e2fb1b93d8049603304890924688c7b55b0851727ad7ffe37",
+      "bytes": 60136,
+      "retrieved_utc": "2026-11-22T22:55:22+00:00",
+      "http_last_modified": "Tue, 02 Sep 2025 16:14:46 GMT"
+    }
+  ]
+}

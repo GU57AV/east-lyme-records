@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS November 1 2023 Agenda (With Zoom Link) (pdf)",
+  "filename": "BOS-November-1-2023-Hybrid-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/BOS-November-1-2023-Hybrid-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-23T00:02:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8b2c8b4df599d7a71d5cb60a4154546b52ba7d81400bf8663f1f95e03c29d4cb",
+  "bytes": 140876,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Oct 2023 12:58:28 GMT",
+  "etag": "\"16e01d6-2264c-608b23e9de500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-November-1-2023-Hybrid-Agenda--8b2c8b4df599.pdf",
+  "versions": [
+    {
+      "sha256": "8b2c8b4df599d7a71d5cb60a4154546b52ba7d81400bf8663f1f95e03c29d4cb",
+      "bytes": 140876,
+      "retrieved_utc": "2026-11-23T00:02:59+00:00",
+      "http_last_modified": "Fri, 27 Oct 2023 12:58:28 GMT"
+    }
+  ]
+}

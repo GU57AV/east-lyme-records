@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS February 8 2021 Budget Review Special Meeting (via zoom) (pdf)",
+  "filename": "BOS-February-8-2021-Budget-Review-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOS-February-8-2021-Budget-Review-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T01:17:56+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2a88a28b2893c771ae1256669d84564ae5ba2a4b76fdcbd4884a411e3e08f622",
+  "bytes": 66511,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Feb 2021 20:05:34 GMT",
+  "etag": "\"1680121-103cf-5ba8839f17f80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-February-8-2021-Budget-Review-Special-Meeting--2a88a28b2893.pdf",
+  "versions": [
+    {
+      "sha256": "2a88a28b2893c771ae1256669d84564ae5ba2a4b76fdcbd4884a411e3e08f622",
+      "bytes": 66511,
+      "retrieved_utc": "2026-11-23T01:17:56+00:00",
+      "http_last_modified": "Thu, 04 Feb 2021 20:05:34 GMT"
+    }
+  ]
+}

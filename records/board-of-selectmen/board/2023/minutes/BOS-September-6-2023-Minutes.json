@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS September 6 2023 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-September-6-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/BOS-September-6-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-minutes/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-23T00:23:05+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b1d72bc22c8df25a009d9ba7794fe3536f213b7034ae0593306ff6146c657ba8",
+  "bytes": 584682,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Sep 2023 12:16:24 GMT",
+  "etag": "\"16e0163-8ebea-605b53a347600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-September-6-2023-Minutes--b1d72bc22c8d.pdf",
+  "versions": [
+    {
+      "sha256": "b1d72bc22c8df25a009d9ba7794fe3536f213b7034ae0593306ff6146c657ba8",
+      "bytes": 584682,
+      "retrieved_utc": "2026-11-23T00:23:05+00:00",
+      "http_last_modified": "Tue, 19 Sep 2023 12:16:24 GMT"
+    }
+  ]
+}

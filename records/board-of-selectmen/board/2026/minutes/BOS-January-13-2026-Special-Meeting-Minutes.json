@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS January 13 2026 Special Meeting Minutes (pdf)",
+  "filename": "BOS-January-13-2026-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/BOS-January-13-2026-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-22T22:46:51+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a6e96e95421665e7412f51e6f6d4f0c81c7e961a2bd27d62cfde4af1998b89d2",
+  "bytes": 445355,
+  "pages": 8,
+  "http_last_modified": "Thu, 15 Jan 2026 21:37:09 GMT",
+  "etag": "\"1701341-6cbab-6487406e05de6\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-January-13-2026-Special-Meeting-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "a6e96e95421665e7412f51e6f6d4f0c81c7e961a2bd27d62cfde4af1998b89d2",
+      "bytes": 445355,
+      "retrieved_utc": "2026-11-22T22:46:51+00:00",
+      "http_last_modified": "Thu, 15 Jan 2026 21:37:09 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS March 5 2025 Special Meeting (Budget Review) Agenda (pdf)",
+  "filename": "BOS-March-5-2025-Special-Meeting-Budget-Review-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/BOS-March-5-2025-Special-Meeting-Budget-Review-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-22T23:05:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "315b912006114bcc48288ea7b1ca28f318ccda866f4c4f3b18c2e0145918a7c1",
+  "bytes": 21911,
+  "pages": 1,
+  "http_last_modified": "Tue, 25 Feb 2025 16:00:15 GMT",
+  "etag": "\"16c012e-5597-62ef98d7121c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-March-5-2025-Special-Meeting-Budget-Review-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "315b912006114bcc48288ea7b1ca28f318ccda866f4c4f3b18c2e0145918a7c1",
+      "bytes": 21911,
+      "retrieved_utc": "2026-11-22T23:05:14+00:00",
+      "http_last_modified": "Tue, 25 Feb 2025 16:00:15 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS October 18 2023 Agenda (With Zoom Link) (pdf)",
+  "filename": "BOS-October-18-2023-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/BOS-October-18-2023-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-23T00:03:19+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "327427dc43a868caf59be498b3bc4d88e6af128099ca051def21be6ab19632a2",
+  "bytes": 425319,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Oct 2023 18:39:49 GMT",
+  "etag": "\"16e01d5-67d67-6078943c28740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-October-18-2023-Agenda-With-Zoom-Link--327427dc43a8.pdf",
+  "versions": [
+    {
+      "sha256": "327427dc43a868caf59be498b3bc4d88e6af128099ca051def21be6ab19632a2",
+      "bytes": 425319,
+      "retrieved_utc": "2026-11-23T00:03:19+00:00",
+      "http_last_modified": "Thu, 12 Oct 2023 18:39:49 GMT"
+    }
+  ]
+}

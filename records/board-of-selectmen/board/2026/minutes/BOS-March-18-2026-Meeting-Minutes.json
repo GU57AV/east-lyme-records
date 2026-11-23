@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS March 18 2026 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-March-18-2026-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/BOS-March-18-2026-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-22T22:42:43+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c0f74580896fc3e342b8a35ba65e3f210163cfe7202f747d3791fffbf2371dbb",
+  "bytes": 1926378,
+  "pages": 28,
+  "http_last_modified": "Wed, 25 Mar 2026 14:44:28 GMT",
+  "etag": "\"170183f-1d64ea-64dda4e0f8ced\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-March-18-2026-Meeting-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "c0f74580896fc3e342b8a35ba65e3f210163cfe7202f747d3791fffbf2371dbb",
+      "bytes": 1926378,
+      "retrieved_utc": "2026-11-22T22:42:43+00:00",
+      "http_last_modified": "Wed, 25 Mar 2026 14:44:28 GMT"
+    }
+  ]
+}

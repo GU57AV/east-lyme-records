@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS 2026 Schedule of Meetings (pdf)",
+  "filename": "BOS-2026-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-2026-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T22:36:32+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7e5ec380350ded5c98c0fc391f76fa7cdd9411358fcdd35b4d30c87863e08fdd",
+  "bytes": 46532,
+  "pages": 1,
+  "http_last_modified": "Mon, 24 Nov 2025 17:43:11 GMT",
+  "etag": "\"1760034-b5c4-6445ab26c4c1a\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-2026-Schedule-of-Meetings.pdf",
+  "versions": [
+    {
+      "sha256": "7e5ec380350ded5c98c0fc391f76fa7cdd9411358fcdd35b4d30c87863e08fdd",
+      "bytes": 46532,
+      "retrieved_utc": "2026-11-22T22:36:32+00:00",
+      "http_last_modified": "Mon, 24 Nov 2025 17:43:11 GMT"
+    }
+  ]
+}

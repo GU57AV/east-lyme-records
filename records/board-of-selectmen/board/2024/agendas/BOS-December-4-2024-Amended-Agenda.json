@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS December 4 2024 Amended Agenda (pdf)",
+  "filename": "BOS-December-4-2024-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/BOS-December-4-2024-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-22T23:32:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "577abac14c3c1f99d138310b3b7a171ed110db58c0686358c8862046fa9bd002",
+  "bytes": 48132,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Dec 2024 19:18:24 GMT",
+  "etag": "\"1680520-bc04-6284e69920000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-December-4-2024-Amended-Agenda--577abac14c3c.pdf",
+  "versions": [
+    {
+      "sha256": "577abac14c3c1f99d138310b3b7a171ed110db58c0686358c8862046fa9bd002",
+      "bytes": 48132,
+      "retrieved_utc": "2026-11-22T23:32:15+00:00",
+      "http_last_modified": "Mon, 02 Dec 2024 19:18:24 GMT"
+    }
+  ]
+}

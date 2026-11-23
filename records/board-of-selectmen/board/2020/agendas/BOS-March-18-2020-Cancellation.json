@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS March 18 2020 Cancellation (pdf)",
+  "filename": "BOS-March-18-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/BOS-March-18-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-23T01:49:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "04bac3b1671a482994c69c502d52404905892d1f8f5aca8ceca01c34c2e8362c",
+  "bytes": 27303,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 Mar 2020 13:24:05 GMT",
+  "etag": "\"1661630-6aa7-5a10cd98b0740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-March-18-2020-Cancellation--04bac3b1671a.pdf",
+  "versions": [
+    {
+      "sha256": "04bac3b1671a482994c69c502d52404905892d1f8f5aca8ceca01c34c2e8362c",
+      "bytes": 27303,
+      "retrieved_utc": "2026-11-23T01:49:08+00:00",
+      "http_last_modified": "Tue, 17 Mar 2020 13:24:05 GMT"
+    }
+  ]
+}

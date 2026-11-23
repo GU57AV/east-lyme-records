@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS March 16 2020 Emergency Meeting Minutes (pdf)",
+  "filename": "BOS-March-16-2020-Emergency-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/BOS-March-16-2020-Emergency-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-minutes/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-23T02:02:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "43ae0f7a56b9a636f7950a5949c2c42eb6273cb97c94cbf627b29d4af2b26781",
+  "bytes": 280971,
+  "pages": 0,
+  "http_last_modified": "Wed, 18 Mar 2020 12:18:00 GMT",
+  "etag": "\"1661632-4498b-5a1200b0d4e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-March-16-2020-Emergency-Meeting-Minutes--43ae0f7a56b9.pdf",
+  "versions": [
+    {
+      "sha256": "43ae0f7a56b9a636f7950a5949c2c42eb6273cb97c94cbf627b29d4af2b26781",
+      "bytes": 280971,
+      "retrieved_utc": "2026-11-23T02:02:07+00:00",
+      "http_last_modified": "Wed, 18 Mar 2020 12:18:00 GMT"
+    }
+  ]
+}

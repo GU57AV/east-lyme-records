@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS June 17 2026 Agenda (pdf)",
+  "filename": "BOS-June-17-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/BOS-June-17-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-22T22:19:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "38c75a0a2a5df18047b033ef038ff1319916ee79eb6788a1c2932331e3a73452",
+  "bytes": 41811,
+  "pages": 1,
+  "http_last_modified": "Mon, 15 Jun 2026 13:09:35 GMT",
+  "etag": "\"1700874-a353-6544a89c0d0b7\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-June-17-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "38c75a0a2a5df18047b033ef038ff1319916ee79eb6788a1c2932331e3a73452",
+      "bytes": 41811,
+      "retrieved_utc": "2026-11-22T22:19:12+00:00",
+      "http_last_modified": "Mon, 15 Jun 2026 13:09:35 GMT"
+    }
+  ]
+}

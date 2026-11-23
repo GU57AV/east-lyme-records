@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS July 21 2021 Minutes (pdf)",
+  "filename": "BOS-July-21-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/BOS-July-21-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-23T01:24:47+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b5c5fe6c8c0ef26ee7494cc7aa6b79a796321aa4a254743cc5356bd6524a93b1",
+  "bytes": 1162034,
+  "pages": 0,
+  "http_last_modified": "Fri, 30 Jul 2021 13:11:11 GMT",
+  "etag": "\"1680506-11bb32-5c856f41039c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-July-21-2021-Minutes--b5c5fe6c8c0e.pdf",
+  "versions": [
+    {
+      "sha256": "b5c5fe6c8c0ef26ee7494cc7aa6b79a796321aa4a254743cc5356bd6524a93b1",
+      "bytes": 1162034,
+      "retrieved_utc": "2026-11-23T01:24:47+00:00",
+      "http_last_modified": "Fri, 30 Jul 2021 13:11:11 GMT"
+    }
+  ]
+}

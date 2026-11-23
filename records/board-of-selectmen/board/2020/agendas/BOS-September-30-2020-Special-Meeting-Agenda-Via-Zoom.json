@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS September 30 2020 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-September-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/BOS-September-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-23T01:37:49+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "68774ac9d870daa608538822083a347420e3a29c011881bc51a522e238274dff",
+  "bytes": 81498,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Sep 2020 19:00:57 GMT",
+  "etag": "\"16618df-13e5a-5afffb41eec40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-September-30-2020-Special-Meeting-Agenda-Via-Zoom--68774ac9d870.pdf",
+  "versions": [
+    {
+      "sha256": "68774ac9d870daa608538822083a347420e3a29c011881bc51a522e238274dff",
+      "bytes": 81498,
+      "retrieved_utc": "2026-11-23T01:37:49+00:00",
+      "http_last_modified": "Wed, 23 Sep 2020 19:00:57 GMT"
+    }
+  ]
+}

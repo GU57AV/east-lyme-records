@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS June 23 2022 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-June-23-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/BOS-June-23-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-23T00:37:47+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5b8c1e155c4d10c113a7c57f22a60697b7abfc25dc9ec480b4ad6720f50cd07a",
+  "bytes": 59014,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 14:08:01 GMT",
+  "etag": "\"16a0f41-e686-5e209dd6c5240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-June-23-2022-Special-Meeting-Agenda-Via-Zoom--5b8c1e155c4d.pdf",
+  "versions": [
+    {
+      "sha256": "5b8c1e155c4d10c113a7c57f22a60697b7abfc25dc9ec480b4ad6720f50cd07a",
+      "bytes": 59014,
+      "retrieved_utc": "2026-11-23T00:37:47+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 14:08:01 GMT"
+    }
+  ]
+}

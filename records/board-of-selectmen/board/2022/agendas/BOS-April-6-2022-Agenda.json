@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS April 6 2022 Agenda (pdf)",
+  "filename": "BOS-April-6-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BOS-April-6-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-23T00:41:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "23a5069535ffd9cbc6906a6da510fe38793067b16aabaa51f69bb3c9df326c66",
+  "bytes": 179594,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Apr 2022 15:22:47 GMT",
+  "etag": "\"16a12ee-2bd8a-5db9959d27fc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-April-6-2022-Agenda--23a5069535ff.pdf",
+  "versions": [
+    {
+      "sha256": "23a5069535ffd9cbc6906a6da510fe38793067b16aabaa51f69bb3c9df326c66",
+      "bytes": 179594,
+      "retrieved_utc": "2026-11-23T00:41:52+00:00",
+      "http_last_modified": "Fri, 01 Apr 2022 15:22:47 GMT"
+    }
+  ]
+}

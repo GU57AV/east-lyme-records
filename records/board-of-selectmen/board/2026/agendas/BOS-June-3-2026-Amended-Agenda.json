@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS June 3 2026 Amended Agenda (pdf)",
+  "filename": "BOS-June-3-2026-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/BOS-June-3-2026-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-22T22:20:54+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ecabe261604e4bc781e8ecb4a9953f0727445234ad0d2d4112e94ba46548f29b",
+  "bytes": 42019,
+  "pages": 1,
+  "http_last_modified": "Tue, 02 Jun 2026 13:17:55 GMT",
+  "etag": "\"17006ca-a423-65345239af793\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-June-3-2026-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "ecabe261604e4bc781e8ecb4a9953f0727445234ad0d2d4112e94ba46548f29b",
+      "bytes": 42019,
+      "retrieved_utc": "2026-11-22T22:20:54+00:00",
+      "http_last_modified": "Tue, 02 Jun 2026 13:17:55 GMT"
+    }
+  ]
+}

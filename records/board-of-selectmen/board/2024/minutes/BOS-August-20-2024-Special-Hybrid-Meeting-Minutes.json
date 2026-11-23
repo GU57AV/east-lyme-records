@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS August 20 2024 Special Hybrid Minutes (pdf)",
+  "filename": "BOS-August-20-2024-Special-Hybrid-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/BOS-August-20-2024-Special-Hybrid-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-22T23:50:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d6937d4c3bbc5a36448abd24b5b551f703eac625a185d3426b1c5484a6c50c04",
+  "bytes": 67059,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Aug 2024 20:15:32 GMT",
+  "etag": "\"1680a5b-105f3-62037343d8100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-August-20-2024-Special-Hybrid-Meeting-Minutes--d6937d4c3bbc.pdf",
+  "versions": [
+    {
+      "sha256": "d6937d4c3bbc5a36448abd24b5b551f703eac625a185d3426b1c5484a6c50c04",
+      "bytes": 67059,
+      "retrieved_utc": "2026-11-22T23:50:39+00:00",
+      "http_last_modified": "Wed, 21 Aug 2024 20:15:32 GMT"
+    }
+  ]
+}

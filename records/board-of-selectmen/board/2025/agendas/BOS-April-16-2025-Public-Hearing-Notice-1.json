@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS April 16 2025 Public Hearing Notice (pdf)",
+  "filename": "BOS-April-16-2025-Public-Hearing-Notice-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/BOS-April-16-2025-Public-Hearing-Notice-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-22T23:01:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e79e4af3c56b24a00f71c651fe39e989d562a0509edffb0b1367db3f4e7ab5e8",
+  "bytes": 164313,
+  "pages": 3,
+  "http_last_modified": "Mon, 07 Apr 2025 13:59:42 GMT",
+  "etag": "\"16c0244-281d9-63230a5d0af80\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-April-16-2025-Public-Hearing-Notice-1.pdf",
+  "versions": [
+    {
+      "sha256": "e79e4af3c56b24a00f71c651fe39e989d562a0509edffb0b1367db3f4e7ab5e8",
+      "bytes": 164313,
+      "retrieved_utc": "2026-11-22T23:01:29+00:00",
+      "http_last_modified": "Mon, 07 Apr 2025 13:59:42 GMT"
+    }
+  ]
+}

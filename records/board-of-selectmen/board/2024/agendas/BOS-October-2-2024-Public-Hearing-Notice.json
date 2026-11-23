@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS October 2 2024 Public Hearing Notice (pdf)",
+  "filename": "BOS-October-2-2024-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/BOS-October-2-2024-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-22T23:34:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "71d57268d9f0c5ac85f8471d1d9d3750fc72183caaf36629900c6b8bb966c2b3",
+  "bytes": 87559,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Sep 2024 14:47:12 GMT",
+  "etag": "\"1680938-15607-62279ff6d3c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-October-2-2024-Public-Hearing-Notice--71d57268d9f0.pdf",
+  "versions": [
+    {
+      "sha256": "71d57268d9f0c5ac85f8471d1d9d3750fc72183caaf36629900c6b8bb966c2b3",
+      "bytes": 87559,
+      "retrieved_utc": "2026-11-22T23:34:38+00:00",
+      "http_last_modified": "Thu, 19 Sep 2024 14:47:12 GMT"
+    }
+  ]
+}

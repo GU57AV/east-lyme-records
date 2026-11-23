@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS April 14 2022 Special Meeting Minutes (pdf)",
+  "filename": "BOS-April-14-2022-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BOS-April-14-2022-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-23T00:53:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "44459a1bc9232bdd04a77adc01f06eeb660fde433eeb6087cd80658ad692f31c",
+  "bytes": 127993,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Apr 2022 19:44:46 GMT",
+  "etag": "\"16a12b3-1f3f9-5dca286af4780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-April-14-2022-Special-Meeting-Minutes--44459a1bc923.pdf",
+  "versions": [
+    {
+      "sha256": "44459a1bc9232bdd04a77adc01f06eeb660fde433eeb6087cd80658ad692f31c",
+      "bytes": 127993,
+      "retrieved_utc": "2026-11-23T00:53:29+00:00",
+      "http_last_modified": "Thu, 14 Apr 2022 19:44:46 GMT"
+    }
+  ]
+}

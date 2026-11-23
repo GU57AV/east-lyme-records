@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS February 15 2022 Special Budget Review Agenda (pdf)",
+  "filename": "BOS-February-15-2022-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/BOS-February-15-2022-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-23T00:44:55+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c1d7c97dafa7f8dba72a3286816a253a2d8b96fcbc8010c83bdaab5b0e3bfbd3",
+  "bytes": 28561,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Feb 2022 14:45:58 GMT",
+  "etag": "\"16a0fb9-6f91-5d7324f0ad580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-February-15-2022-Special-Meeting-Agenda--c1d7c97dafa7.pdf",
+  "versions": [
+    {
+      "sha256": "c1d7c97dafa7f8dba72a3286816a253a2d8b96fcbc8010c83bdaab5b0e3bfbd3",
+      "bytes": 28561,
+      "retrieved_utc": "2026-11-23T00:44:55+00:00",
+      "http_last_modified": "Fri, 04 Feb 2022 14:45:58 GMT"
+    }
+  ]
+}

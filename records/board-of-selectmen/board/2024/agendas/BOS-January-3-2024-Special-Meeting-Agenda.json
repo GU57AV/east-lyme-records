@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS January 3 2024 Special Meeting Agenda (pdf)",
+  "filename": "BOS-January-3-2024-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/BOS-January-3-2024-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-22T23:47:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a9bd19935dc857b0734996a2b1b01c2450836bf30ee8f44f106b79fec489481b",
+  "bytes": 39757,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Dec 2023 14:17:26 GMT",
+  "etag": "\"16c2240-9b4d-60d92932f4980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-January-3-2024-Special-Meeting-Agenda--a9bd19935dc8.pdf",
+  "versions": [
+    {
+      "sha256": "a9bd19935dc857b0734996a2b1b01c2450836bf30ee8f44f106b79fec489481b",
+      "bytes": 39757,
+      "retrieved_utc": "2026-11-22T23:47:13+00:00",
+      "http_last_modified": "Thu, 28 Dec 2023 14:17:26 GMT"
+    }
+  ]
+}

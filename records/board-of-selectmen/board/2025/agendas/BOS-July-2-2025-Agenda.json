@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS July 2 2025 Agenda (pdf)",
+  "filename": "BOS-July-2-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/BOS-July-2-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-22T22:57:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "30c7d42b7643522043cfaa7f1ebca776e66ed37adc3d2c34290d977c8203b12c",
+  "bytes": 43557,
+  "pages": 1,
+  "http_last_modified": "Thu, 26 Jun 2025 19:10:28 GMT",
+  "etag": "\"16c007a-aa25-6387e50821100\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-July-2-2025-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "30c7d42b7643522043cfaa7f1ebca776e66ed37adc3d2c34290d977c8203b12c",
+      "bytes": 43557,
+      "retrieved_utc": "2026-11-22T22:57:24+00:00",
+      "http_last_modified": "Thu, 26 Jun 2025 19:10:28 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS January 17 2024 Amended Agenda (with Zoom Link) (pdf)",
+  "filename": "BOS-January-17-2024-Amended-Agenda-with-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/BOS-January-17-2024-Amended-Agenda-with-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-22T23:46:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "90e4823fc75e1372e46fa359209e6051bdff2b5c3812f5f6acc3b02c5ac8afb8",
+  "bytes": 53842,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Jan 2024 13:32:57 GMT",
+  "etag": "\"16806d8-d252-60ebfb3b83440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-January-17-2024-Amended-Agenda-with-Zoom--90e4823fc75e.pdf",
+  "versions": [
+    {
+      "sha256": "90e4823fc75e1372e46fa359209e6051bdff2b5c3812f5f6acc3b02c5ac8afb8",
+      "bytes": 53842,
+      "retrieved_utc": "2026-11-22T23:46:33+00:00",
+      "http_last_modified": "Fri, 12 Jan 2024 13:32:57 GMT"
+    }
+  ]
+}

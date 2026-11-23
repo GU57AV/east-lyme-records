@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS June 1 2022 Amended Agenda (pdf)",
+  "filename": "BOS-June-1-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/BOS-June-1-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-23T00:38:28+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "133b91f71320efc4150d24687534f3a00c9bd2a8204ec94abcd6b1ef8568ff70",
+  "bytes": 64320,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 May 2022 18:38:41 GMT",
+  "etag": "\"16a0b52-fb40-5e05314e4ce40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-June-1-2022-Amended-Agenda--133b91f71320.pdf",
+  "versions": [
+    {
+      "sha256": "133b91f71320efc4150d24687534f3a00c9bd2a8204ec94abcd6b1ef8568ff70",
+      "bytes": 64320,
+      "retrieved_utc": "2026-11-23T00:38:28+00:00",
+      "http_last_modified": "Tue, 31 May 2022 18:38:41 GMT"
+    }
+  ]
+}

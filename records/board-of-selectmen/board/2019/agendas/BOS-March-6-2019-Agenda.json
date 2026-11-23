@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS March 6 2019 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-March-6-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/BOS-March-6-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-23T02:15:03+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "de5bfad0bd19f6f7a8041c5324ded72a79393b7c7b8d62b0055855bac34dd018",
+  "bytes": 64235,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Mar 2019 18:01:45 GMT",
+  "etag": "\"16c199e-faeb-5830c332d3440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-March-6-2019-Agenda--de5bfad0bd19.pdf",
+  "versions": [
+    {
+      "sha256": "de5bfad0bd19f6f7a8041c5324ded72a79393b7c7b8d62b0055855bac34dd018",
+      "bytes": 64235,
+      "retrieved_utc": "2026-11-23T02:15:03+00:00",
+      "http_last_modified": "Fri, 01 Mar 2019 18:01:45 GMT"
+    }
+  ]
+}

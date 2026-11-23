@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS May 17 2023 Cancellation (pdf)",
+  "filename": "BOS-May-17-2023-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/BOS-May-17-2023-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-23T00:11:09+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e59c744e035d1fb8c8881628a1221b362eb832a881786d8bc5f6af7cdd0e7515",
+  "bytes": 22953,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 May 2023 15:24:59 GMT",
+  "etag": "\"16c2357-59a9-5fb80b542e8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-May-17-2023-Cancellation--e59c744e035d.pdf",
+  "versions": [
+    {
+      "sha256": "e59c744e035d1fb8c8881628a1221b362eb832a881786d8bc5f6af7cdd0e7515",
+      "bytes": 22953,
+      "retrieved_utc": "2026-11-23T00:11:09+00:00",
+      "http_last_modified": "Fri, 12 May 2023 15:24:59 GMT"
+    }
+  ]
+}

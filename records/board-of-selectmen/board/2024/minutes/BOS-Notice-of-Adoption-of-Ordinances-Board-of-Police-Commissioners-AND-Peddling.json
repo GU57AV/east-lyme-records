@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS Notice of Adoption of Ordinances (Board of Police Commissioners AND Peddling) (pdf)",
+  "filename": "BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-22T23:58:32+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e79088317acb4c8b2b38c3de27eaa68d52e49def40e0d32d6dd40d5214da33e6",
+  "bytes": 54573,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Feb 2024 14:46:54 GMT",
+  "etag": "\"16807f5-d52d-6120da1853380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling--e79088317acb.pdf",
+  "versions": [
+    {
+      "sha256": "e79088317acb4c8b2b38c3de27eaa68d52e49def40e0d32d6dd40d5214da33e6",
+      "bytes": 54573,
+      "retrieved_utc": "2026-11-22T23:58:32+00:00",
+      "http_last_modified": "Fri, 23 Feb 2024 14:46:54 GMT"
+    }
+  ]
+}

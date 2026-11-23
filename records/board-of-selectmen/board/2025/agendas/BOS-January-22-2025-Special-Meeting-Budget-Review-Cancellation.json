@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS January 22, 2025 Special Meeting (Budget Review) Cancellation (pdf)",
+  "filename": "BOS-January-22-2025-Special-Meeting-Budget-Review-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/BOS-January-22-2025-Special-Meeting-Budget-Review-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-22T23:13:03+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9cff52a884cb523703e498aed0493cf7c2791c837f01fbb5b48bbf442d19aedb",
+  "bytes": 20773,
+  "pages": 0,
+  "http_last_modified": "Fri, 17 Jan 2025 13:50:21 GMT",
+  "etag": "\"16c005d-5125-62be731128140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-January-22-2025-Special-Meeting-Budget-Review-Cancellation--9cff52a884cb.pdf",
+  "versions": [
+    {
+      "sha256": "9cff52a884cb523703e498aed0493cf7c2791c837f01fbb5b48bbf442d19aedb",
+      "bytes": 20773,
+      "retrieved_utc": "2026-11-22T23:13:03+00:00",
+      "http_last_modified": "Fri, 17 Jan 2025 13:50:21 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS July 5 2023 Agenda (pdf)",
+  "filename": "BOS-July-5-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/BOS-July-5-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-23T00:09:27+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ec7eeaad41d083bb53cd6d6f9d251761a62a207bd1b118688f4229ef1714150b",
+  "bytes": 51963,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jun 2023 17:31:45 GMT",
+  "etag": "\"16e003c-cafb-5ff4812ff4240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-July-5-2023-Agenda--ec7eeaad41d0.pdf",
+  "versions": [
+    {
+      "sha256": "ec7eeaad41d083bb53cd6d6f9d251761a62a207bd1b118688f4229ef1714150b",
+      "bytes": 51963,
+      "retrieved_utc": "2026-11-23T00:09:27+00:00",
+      "http_last_modified": "Thu, 29 Jun 2023 17:31:45 GMT"
+    }
+  ]
+}

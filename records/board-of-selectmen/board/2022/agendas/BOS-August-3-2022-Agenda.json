@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS August 3 2022 Agenda (pdf)",
+  "filename": "BOS-August-3-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/BOS-August-3-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-23T00:36:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a6d940beba70eefab884d70a4724708400832c922c1ae2bd875bb74466b43571",
+  "bytes": 58676,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Jul 2022 13:25:12 GMT",
+  "etag": "\"16a1415-e534-5e4f1946d5e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-August-3-2022-Agenda--a6d940beba70.pdf",
+  "versions": [
+    {
+      "sha256": "a6d940beba70eefab884d70a4724708400832c922c1ae2bd875bb74466b43571",
+      "bytes": 58676,
+      "retrieved_utc": "2026-11-23T00:36:25+00:00",
+      "http_last_modified": "Fri, 29 Jul 2022 13:25:12 GMT"
+    }
+  ]
+}

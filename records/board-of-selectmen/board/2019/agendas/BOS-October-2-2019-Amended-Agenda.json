@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS October 2 2019 Amended Agenda (pdf)",
+  "filename": "BOS-October-2-2019-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/09/BOS-October-2-2019-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-09",
+  "first_seen_utc": "2026-11-23T02:08:16+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3c1e26e89a81d47855bf865b807f99ec78ea1cce64d4558f2de92d882ff1851e",
+  "bytes": 42245,
+  "pages": 0,
+  "http_last_modified": "Mon, 30 Sep 2019 13:58:22 GMT",
+  "etag": "\"16c1f93-a505-593c5a0f7fb80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-October-2-2019-Amended-Agenda--3c1e26e89a81.pdf",
+  "versions": [
+    {
+      "sha256": "3c1e26e89a81d47855bf865b807f99ec78ea1cce64d4558f2de92d882ff1851e",
+      "bytes": 42245,
+      "retrieved_utc": "2026-11-23T02:08:16+00:00",
+      "http_last_modified": "Mon, 30 Sep 2019 13:58:22 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS December 21 2023 Special Meeting Agenda (with Zoom Link) (pdf)",
+  "filename": "BOS-December-21-2023-Special-Meeting-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/BOS-December-21-2023-Special-Meeting-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-23T00:00:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cd0f14594c5b34eba57d44a4ffd8bf935454746819bc894c48054a094e5b4837",
+  "bytes": 60438,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 Dec 2023 19:37:51 GMT",
+  "etag": "\"16c2254-ec16-60cf61e5a81c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-December-21-2023-Special-Meeting-Agenda-1--cd0f14594c5b.pdf",
+  "versions": [
+    {
+      "sha256": "cd0f14594c5b34eba57d44a4ffd8bf935454746819bc894c48054a094e5b4837",
+      "bytes": 60438,
+      "retrieved_utc": "2026-11-23T00:00:15+00:00",
+      "http_last_modified": "Wed, 20 Dec 2023 19:37:51 GMT"
+    }
+  ]
+}

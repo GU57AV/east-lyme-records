@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS February 5 2025 Regular Meeting Amended Agenda (pdf)",
+  "filename": "BOS-February-5-2025-Amended-Agenda-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/BOS-February-5-2025-Amended-Agenda-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-22T23:08:58+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "44fec11fcd5253fdd7e7cb1fd2eac91be88124048fddaa38cf64324c615ef243",
+  "bytes": 45080,
+  "pages": 1,
+  "http_last_modified": "Fri, 31 Jan 2025 15:39:54 GMT",
+  "etag": "\"16c003f-b018-62d025aa1c680\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-February-5-2025-Amended-Agenda-2.pdf",
+  "versions": [
+    {
+      "sha256": "44fec11fcd5253fdd7e7cb1fd2eac91be88124048fddaa38cf64324c615ef243",
+      "bytes": 45080,
+      "retrieved_utc": "2026-11-22T23:08:58+00:00",
+      "http_last_modified": "Fri, 31 Jan 2025 15:39:54 GMT"
+    }
+  ]
+}

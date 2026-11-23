@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS April 5 2023 Agenda (pdf)",
+  "filename": "BOS-April-5-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/03/BOS-April-5-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-03",
+  "first_seen_utc": "2026-11-23T00:13:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "3a390e90418076561c9d3cf5225a47d3500b68d8d7b73eb13a948b491721d99f",
+  "bytes": 61151,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Mar 2023 16:02:34 GMT",
+  "etag": "\"16c230c-eedf-5f8345655ba80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-April-5-2023-Agenda--3a390e904180.pdf",
+  "versions": [
+    {
+      "sha256": "3a390e90418076561c9d3cf5225a47d3500b68d8d7b73eb13a948b491721d99f",
+      "bytes": 61151,
+      "retrieved_utc": "2026-11-23T00:13:12+00:00",
+      "http_last_modified": "Fri, 31 Mar 2023 16:02:34 GMT"
+    }
+  ]
+}

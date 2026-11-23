@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS August 20 2024 Special Meeting Agenda (Hybrid - Immediately Following Public Hearing) (pdf)",
+  "filename": "BOS-August-20-2024-Special-Meeting-Agenda-Hybrid-Immediately-Following-Public-Hearing.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/BOS-August-20-2024-Special-Meeting-Agenda-Hybrid-Immediately-Following-Public-Hearing.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-22T23:35:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c4b39ba94c933485fe41353940bade9aa996acd91fe980d4f5ac33c7797d6dc6",
+  "bytes": 67530,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Aug 2024 12:35:50 GMT",
+  "etag": "\"1680a66-107ca-620088c8ad580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-August-20-2024-Special-Meeting-Agenda-Hybrid-Immediately-Following-Public-Hearing--c4b39ba94c93.pdf",
+  "versions": [
+    {
+      "sha256": "c4b39ba94c933485fe41353940bade9aa996acd91fe980d4f5ac33c7797d6dc6",
+      "bytes": 67530,
+      "retrieved_utc": "2026-11-22T23:35:39+00:00",
+      "http_last_modified": "Mon, 19 Aug 2024 12:35:50 GMT"
+    }
+  ]
+}

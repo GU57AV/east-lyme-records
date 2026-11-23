@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS October 21 2026 Agenda (pdf)",
+  "filename": "BOS-October-21-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/10/BOS-October-21-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-10",
+  "first_seen_utc": "2026-11-22T22:15:27+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "36c2899db0187b2448a11de6642c5854fe4e52b59ad90d3b0678420ff2bb271e",
+  "bytes": 52402,
+  "pages": 1,
+  "http_last_modified": "Fri, 16 Oct 2026 13:36:42 GMT",
+  "etag": "\"1700de5-ccb2-65df541368136\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-October-21-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "36c2899db0187b2448a11de6642c5854fe4e52b59ad90d3b0678420ff2bb271e",
+      "bytes": 52402,
+      "retrieved_utc": "2026-11-22T22:15:27+00:00",
+      "http_last_modified": "Fri, 16 Oct 2026 13:36:42 GMT"
+    }
+  ]
+}

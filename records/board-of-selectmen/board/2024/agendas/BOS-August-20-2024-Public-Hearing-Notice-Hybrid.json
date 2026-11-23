@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS August 20 2024 Public Hearing Notice (Hybrid) (pdf)",
+  "filename": "BOS-August-20-2024-Public-Hearing-Notice-Hybrid.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/BOS-August-20-2024-Public-Hearing-Notice-Hybrid.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-22T23:36:00+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "dd98c2eb6f50caa2e444ab6c1147bc04c08c94baab18f9d8f91974a221258f73",
+  "bytes": 111910,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Aug 2024 14:09:21 GMT",
+  "etag": "\"1680ab4-1b526-61f7d0a184640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-August-20-2024-Public-Hearing-Notice-Hybrid--dd98c2eb6f50.pdf",
+  "versions": [
+    {
+      "sha256": "dd98c2eb6f50caa2e444ab6c1147bc04c08c94baab18f9d8f91974a221258f73",
+      "bytes": 111910,
+      "retrieved_utc": "2026-11-22T23:36:00+00:00",
+      "http_last_modified": "Mon, 12 Aug 2024 14:09:21 GMT"
+    }
+  ]
+}

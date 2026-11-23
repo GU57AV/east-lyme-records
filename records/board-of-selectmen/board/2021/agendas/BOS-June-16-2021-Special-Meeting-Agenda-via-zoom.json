@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS June 16 2021 Special Meeting Agenda via zoom (pdf)",
+  "filename": "BOS-June-16-2021-Special-Meeting-Agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/BOS-June-16-2021-Special-Meeting-Agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-23T01:05:48+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "501bad81de8d9c31cbf97ba441521038e07e092cae8c6c18bccc061722da75e3",
+  "bytes": 48792,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jun 2021 17:07:28 GMT",
+  "etag": "\"1680042-be98-5c4bce460d400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-June-16-2021-Special-Meeting-Agenda-via-zoom--501bad81de8d.pdf",
+  "versions": [
+    {
+      "sha256": "501bad81de8d9c31cbf97ba441521038e07e092cae8c6c18bccc061722da75e3",
+      "bytes": 48792,
+      "retrieved_utc": "2026-11-23T01:05:48+00:00",
+      "http_last_modified": "Mon, 14 Jun 2021 17:07:28 GMT"
+    }
+  ]
+}

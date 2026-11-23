@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS November 19 2025 Public Hearing Agenda (pdf)",
+  "filename": "BOS-November-19-2025-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-November-19-2025-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T22:50:16+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "4707468999910758f87967dacf1bd6b6194cf11c44b4afb6eba3da43e21e3ee2",
+  "bytes": 86404,
+  "pages": 1,
+  "http_last_modified": "Fri, 14 Nov 2025 15:40:36 GMT",
+  "etag": "\"1760006-15184-6438fd197a82f\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-November-19-2025-Public-Hearing-Notice.pdf",
+  "versions": [
+    {
+      "sha256": "4707468999910758f87967dacf1bd6b6194cf11c44b4afb6eba3da43e21e3ee2",
+      "bytes": 86404,
+      "retrieved_utc": "2026-11-22T22:50:16+00:00",
+      "http_last_modified": "Fri, 14 Nov 2025 15:40:36 GMT"
+    }
+  ]
+}

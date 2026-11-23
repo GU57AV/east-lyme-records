@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS February 16 2022 Minutes (pdf)",
+  "filename": "BOS-February-16-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BOS-February-16-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-23T00:55:53+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "050352e3ecd886999ebe693a4453172e2e7e967bde5edeb313a3fe835fa215e4",
+  "bytes": 998065,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Mar 2022 17:31:56 GMT",
+  "etag": "\"16a09ee-f3ab1-5d953c64cfb00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-February-16-2022-Minutes--050352e3ecd8.pdf",
+  "versions": [
+    {
+      "sha256": "050352e3ecd886999ebe693a4453172e2e7e967bde5edeb313a3fe835fa215e4",
+      "bytes": 998065,
+      "retrieved_utc": "2026-11-23T00:55:53+00:00",
+      "http_last_modified": "Thu, 03 Mar 2022 17:31:56 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS-July-1-2020-Amended-Agenda (pdf)",
+  "filename": "BOS-July-1-2020-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/BOS-July-1-2020-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-23T01:43:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1fab815334b191c605d1078337553f892d32cac3863a902d12f00d83f0f4bdd3",
+  "bytes": 90236,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Aug 2020 13:34:01 GMT",
+  "etag": "\"1661a21-1607c-5ac0d4ed9c440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-July-1-2020-Amended-Agenda--1fab815334b1.pdf",
+  "versions": [
+    {
+      "sha256": "1fab815334b191c605d1078337553f892d32cac3863a902d12f00d83f0f4bdd3",
+      "bytes": 90236,
+      "retrieved_utc": "2026-11-23T01:43:40+00:00",
+      "http_last_modified": "Tue, 04 Aug 2020 13:34:01 GMT"
+    }
+  ]
+}

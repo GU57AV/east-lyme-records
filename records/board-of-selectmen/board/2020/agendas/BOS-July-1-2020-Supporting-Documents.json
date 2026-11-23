@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS July 1 2020 Supporting Documents (pdf)",
+  "filename": "BOS-July-1-2020-Supporting-Documents.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/BOS-July-1-2020-Supporting-Documents.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-23T01:43:17+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9a2d24607979397e8426310024c5954525319cb3a13e56305d48e4aa42431063",
+  "bytes": 11918398,
+  "pages": 0,
+  "http_last_modified": "Tue, 30 Jun 2020 18:12:03 GMT",
+  "etag": "\"1661735-b5dc3e-5a9511cbac2c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-July-1-2020-Supporting-Documents--9a2d24607979.pdf",
+  "versions": [
+    {
+      "sha256": "9a2d24607979397e8426310024c5954525319cb3a13e56305d48e4aa42431063",
+      "bytes": 11918398,
+      "retrieved_utc": "2026-11-23T01:43:17+00:00",
+      "http_last_modified": "Tue, 30 Jun 2020 18:12:03 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS September 1 2021 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-September-1-2021-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/BOS-September-1-2021-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-23T01:23:04+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f6a8cb46551a8fdf5467841d84c5c483a440eb4559764f83c4b3adc706858b3d",
+  "bytes": 294921,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Sep 2021 17:13:34 GMT",
+  "etag": "\"1680335-48009-5cbf7b3980b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-September-1-2021-Regular-Meeting-Minutes--f6a8cb46551a.pdf",
+  "versions": [
+    {
+      "sha256": "f6a8cb46551a8fdf5467841d84c5c483a440eb4559764f83c4b3adc706858b3d",
+      "bytes": 294921,
+      "retrieved_utc": "2026-11-23T01:23:04+00:00",
+      "http_last_modified": "Tue, 14 Sep 2021 17:13:34 GMT"
+    }
+  ]
+}

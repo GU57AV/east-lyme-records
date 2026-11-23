@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS December 3 2025 Amended Regular Meeting Minutes (pdf)",
+  "filename": "BOS-December-3-2025-Amended-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/BOS-December-3-2025-Amended-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-22T23:15:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1400461ee654a2f760713b6a5bf2b805ddae82043841135c50acfdb8ffe3c9c7",
+  "bytes": 283118,
+  "pages": 0,
+  "http_last_modified": "Thu, 11 Dec 2025 19:02:50 GMT",
+  "etag": "\"1a2005f-451ee-645b1ca932735\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-December-3-2025-Amended-Regular-Meeting-Minutes--1400461ee654.pdf",
+  "versions": [
+    {
+      "sha256": "1400461ee654a2f760713b6a5bf2b805ddae82043841135c50acfdb8ffe3c9c7",
+      "bytes": 283118,
+      "retrieved_utc": "2026-11-22T23:15:26+00:00",
+      "http_last_modified": "Thu, 11 Dec 2025 19:02:50 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS February 8 2021 Budget Review Special Meeting Amended Agenda (pdf)",
+  "filename": "BOS-February-8-2021-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOS-February-8-2021-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T01:17:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "dc462f59361003b35a2ee57aae107df5adc923096236737078a11e8d2420319d",
+  "bytes": 66078,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Feb 2021 15:12:00 GMT",
+  "etag": "\"1680125-1021e-5ba983de89000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-February-8-2021-Amended-Agenda--dc462f593610.pdf",
+  "versions": [
+    {
+      "sha256": "dc462f59361003b35a2ee57aae107df5adc923096236737078a11e8d2420319d",
+      "bytes": 66078,
+      "retrieved_utc": "2026-11-23T01:17:35+00:00",
+      "http_last_modified": "Fri, 05 Feb 2021 15:12:00 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS March 18 2026 Agenda (pdf)",
+  "filename": "BOS-March-18-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/BOS-March-18-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-22T22:23:58+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "04b90cf1d41102a77ac05d97a54b1e9753bd12ed36ce15b66f385a91d0fe78fc",
+  "bytes": 46614,
+  "pages": 1,
+  "http_last_modified": "Fri, 13 Mar 2026 12:54:21 GMT",
+  "etag": "\"1700276-b616-64ce75e35757b\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-March-18-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "04b90cf1d41102a77ac05d97a54b1e9753bd12ed36ce15b66f385a91d0fe78fc",
+      "bytes": 46614,
+      "retrieved_utc": "2026-11-22T22:23:58+00:00",
+      "http_last_modified": "Fri, 13 Mar 2026 12:54:21 GMT"
+    }
+  ]
+}

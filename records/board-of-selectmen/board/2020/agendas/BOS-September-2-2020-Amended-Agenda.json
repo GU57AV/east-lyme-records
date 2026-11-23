@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS September 2 2020 Amended Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-September-2-2020-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/BOS-September-2-2020-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-23T01:39:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d6ba345c66b05eb16e5219165fbfeae49e5400be47db0b3e433ecfe354c4c0e2",
+  "bytes": 91531,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Aug 2020 17:26:38 GMT",
+  "etag": "\"1661a64-1658b-5adf35af1af80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-September-2-2020-Amended-Agenda--d6ba345c66b0.pdf",
+  "versions": [
+    {
+      "sha256": "d6ba345c66b05eb16e5219165fbfeae49e5400be47db0b3e433ecfe354c4c0e2",
+      "bytes": 91531,
+      "retrieved_utc": "2026-11-23T01:39:11+00:00",
+      "http_last_modified": "Fri, 28 Aug 2020 17:26:38 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS May 18 2022 Agenda (pdf)",
+  "filename": "BOS-May-18-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/BOS-May-18-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-23T00:39:09+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8f893986c50246ae3ee614f901842cf38a1ff2dbfdd6f2cbbb13b02848502d01",
+  "bytes": 49181,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 May 2022 15:40:23 GMT",
+  "etag": "\"16a0d8e-c01d-5dee67e1987c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-May-18-2022-Agenda--8f893986c502.pdf",
+  "versions": [
+    {
+      "sha256": "8f893986c50246ae3ee614f901842cf38a1ff2dbfdd6f2cbbb13b02848502d01",
+      "bytes": 49181,
+      "retrieved_utc": "2026-11-23T00:39:09+00:00",
+      "http_last_modified": "Fri, 13 May 2022 15:40:23 GMT"
+    }
+  ]
+}

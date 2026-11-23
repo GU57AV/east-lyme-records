@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS March 13 2023 Special Budget Review Agenda (pdf)",
+  "filename": "BOS-March-13-2023-Special-Budget-Review-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/BOS-March-13-2023-Special-Budget-Review-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-23T00:14:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "e023a157bd126e717e961fdf6f0482e64131729220d39ac7b2eaf144523cc0be",
+  "bytes": 26391,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Feb 2023 18:28:57 GMT",
+  "etag": "\"16e00ad-6717-5f3bbbce34c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-March-13-2023-Special-Budget-Review-Agenda--e023a157bd12.pdf",
+  "versions": [
+    {
+      "sha256": "e023a157bd126e717e961fdf6f0482e64131729220d39ac7b2eaf144523cc0be",
+      "bytes": 26391,
+      "retrieved_utc": "2026-11-23T00:14:13+00:00",
+      "http_last_modified": "Thu, 02 Feb 2023 18:28:57 GMT"
+    }
+  ]
+}

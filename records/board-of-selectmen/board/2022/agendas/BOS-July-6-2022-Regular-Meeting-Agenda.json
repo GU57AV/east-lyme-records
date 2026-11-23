@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS July 6 2022 Agenda (pdf)",
+  "filename": "BOS-July-6-2022-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/BOS-July-6-2022-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-23T00:37:27+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f9a0bfcfdd3df41f060c98d163f22607ef601f03827039c69d5569a3e50c5e8a",
+  "bytes": 69879,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Jul 2022 18:00:38 GMT",
+  "etag": "\"16a1472-110f7-5e2c229e59d80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-July-6-2022-Regular-Meeting-Agenda--f9a0bfcfdd3d.pdf",
+  "versions": [
+    {
+      "sha256": "f9a0bfcfdd3df41f060c98d163f22607ef601f03827039c69d5569a3e50c5e8a",
+      "bytes": 69879,
+      "retrieved_utc": "2026-11-23T00:37:27+00:00",
+      "http_last_modified": "Fri, 01 Jul 2022 18:00:38 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS February 15 2023 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-February-15-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/BOS-February-15-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-23T00:16:15+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "fca6bf285910bfb8ce4d5a53afd36c29596b0bc528bf4cb11bf8b2a78049c56d",
+  "bytes": 48204,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Feb 2023 20:28:30 GMT",
+  "etag": "\"16e0103-bc4c-5f44a39523780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-February-15-2023-Agenda--fca6bf285910.pdf",
+  "versions": [
+    {
+      "sha256": "fca6bf285910bfb8ce4d5a53afd36c29596b0bc528bf4cb11bf8b2a78049c56d",
+      "bytes": 48204,
+      "retrieved_utc": "2026-11-23T00:16:15+00:00",
+      "http_last_modified": "Thu, 09 Feb 2023 20:28:30 GMT"
+    }
+  ]
+}

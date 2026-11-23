@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS January 19 2022 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-January-19-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/BOS-January-19-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-23T00:46:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cc485d0a001e773258d18a0c1a567e663e993461f904cad9d980fc1f04b9125d",
+  "bytes": 42179,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Jan 2022 13:45:21 GMT",
+  "etag": "\"16a0e64-a4c3-5d58b0397be40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-January-19-2022-Agenda--cc485d0a001e.pdf",
+  "versions": [
+    {
+      "sha256": "cc485d0a001e773258d18a0c1a567e663e993461f904cad9d980fc1f04b9125d",
+      "bytes": 42179,
+      "retrieved_utc": "2026-11-23T00:46:37+00:00",
+      "http_last_modified": "Fri, 14 Jan 2022 13:45:21 GMT"
+    }
+  ]
+}

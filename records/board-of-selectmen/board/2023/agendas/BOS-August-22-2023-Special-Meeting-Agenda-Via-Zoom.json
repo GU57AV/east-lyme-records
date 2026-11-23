@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS August 22 2023 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-August-22-2023-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/BOS-August-22-2023-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-23T00:08:26+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9108a0214a6b1c24e0a9369827d2cd813326567b7173e110c99a4decffb1449e",
+  "bytes": 61069,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Aug 2023 15:22:40 GMT",
+  "etag": "\"16e02bf-ee8d-60334196cb000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-August-22-2023-Special-Meeting-Agenda-Via-Zoom--9108a0214a6b.pdf",
+  "versions": [
+    {
+      "sha256": "9108a0214a6b1c24e0a9369827d2cd813326567b7173e110c99a4decffb1449e",
+      "bytes": 61069,
+      "retrieved_utc": "2026-11-23T00:08:26+00:00",
+      "http_last_modified": "Fri, 18 Aug 2023 15:22:40 GMT"
+    }
+  ]
+}

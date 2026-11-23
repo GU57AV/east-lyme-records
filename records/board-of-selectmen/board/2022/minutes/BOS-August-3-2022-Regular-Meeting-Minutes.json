@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS August 3 2022 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-August-3-2022-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/BOS-August-3-2022-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-minutes/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-23T00:50:03+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8c8013ff346f39144ffe52558280fdd6f702996c2bf6b329d4c069cdea9c9574",
+  "bytes": 1176284,
+  "pages": 0,
+  "http_last_modified": "Wed, 10 Aug 2022 18:40:41 GMT",
+  "etag": "\"16a135b-11f2dc-5e5e762c77c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-August-3-2022-Regular-Meeting-Minutes--8c8013ff346f.pdf",
+  "versions": [
+    {
+      "sha256": "8c8013ff346f39144ffe52558280fdd6f702996c2bf6b329d4c069cdea9c9574",
+      "bytes": 1176284,
+      "retrieved_utc": "2026-11-23T00:50:03+00:00",
+      "http_last_modified": "Wed, 10 Aug 2022 18:40:41 GMT"
+    }
+  ]
+}

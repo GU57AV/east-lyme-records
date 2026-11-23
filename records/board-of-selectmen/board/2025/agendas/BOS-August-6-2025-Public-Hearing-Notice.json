@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS August 6 2025 Public Hearing Notice (pdf)",
+  "filename": "BOS-August-6-2025-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/BOS-August-6-2025-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-22T22:56:44+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "9a63543f7c5648d01b7cbc15243db8d26c1b8939c6ab2fc9c240ee4e6b6bf0e2",
+  "bytes": 38264,
+  "pages": 1,
+  "http_last_modified": "Thu, 03 Jul 2025 14:56:39 GMT",
+  "etag": "\"16c02fc-9578-6390795ad97c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-August-6-2025-Public-Hearing-Notice.pdf",
+  "versions": [
+    {
+      "sha256": "9a63543f7c5648d01b7cbc15243db8d26c1b8939c6ab2fc9c240ee4e6b6bf0e2",
+      "bytes": 38264,
+      "retrieved_utc": "2026-11-22T22:56:44+00:00",
+      "http_last_modified": "Thu, 03 Jul 2025 14:56:39 GMT"
+    }
+  ]
+}

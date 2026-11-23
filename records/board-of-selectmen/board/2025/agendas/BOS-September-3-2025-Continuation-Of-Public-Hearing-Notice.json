@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS September 3 2025 Continuation Of Public Hearing Notice (pdf)",
+  "filename": "BOS-September-3-2025-Continuation-Of-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/BOS-September-3-2025-Continuation-Of-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-22T22:56:03+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6f079cf58231ec8a946d6d2cc8cc690b9491ae9385468569a0b6891655c9fe43",
+  "bytes": 41756,
+  "pages": 1,
+  "http_last_modified": "Mon, 11 Aug 2025 14:20:54 GMT",
+  "etag": "\"16c02a2-a31c-63c17a1a31d80\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-September-3-2025-Continuation-Of-Public-Hearing-Notice.pdf",
+  "versions": [
+    {
+      "sha256": "6f079cf58231ec8a946d6d2cc8cc690b9491ae9385468569a0b6891655c9fe43",
+      "bytes": 41756,
+      "retrieved_utc": "2026-11-22T22:56:03+00:00",
+      "http_last_modified": "Mon, 11 Aug 2025 14:20:54 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS November 4 2026 Agenda (pdf)",
+  "filename": "BOS-November-4-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/10/BOS-November-4-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-10",
+  "first_seen_utc": "2026-11-22T22:15:07+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d0f1cf19c1840c7cfde57f23689c2d90a9e7628ca9b5d6bd1981a939b6a9a620",
+  "bytes": 53256,
+  "pages": 1,
+  "http_last_modified": "Thu, 29 Oct 2026 19:35:34 GMT",
+  "etag": "\"17000cd-d008-65effc8857b3e\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-November-4-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "d0f1cf19c1840c7cfde57f23689c2d90a9e7628ca9b5d6bd1981a939b6a9a620",
+      "bytes": 53256,
+      "retrieved_utc": "2026-11-22T22:15:07+00:00",
+      "http_last_modified": "Thu, 29 Oct 2026 19:35:34 GMT"
+    }
+  ]
+}

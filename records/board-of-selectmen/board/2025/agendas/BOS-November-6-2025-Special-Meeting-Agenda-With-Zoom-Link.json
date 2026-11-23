@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS November 6 2025 Special Meeting Agenda (With Zoom Link) (pdf)",
+  "filename": "BOS-November-6-2025-Special-Meeting-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-November-6-2025-Special-Meeting-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T22:50:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ca48ce6b8ae3e72d1f5603156cbd947b838cd05fc7fe2b2c2203853ca04e3091",
+  "bytes": 70928,
+  "pages": 1,
+  "http_last_modified": "Wed, 05 Nov 2025 17:38:13 GMT",
+  "etag": "\"1761ce4-11510-642dc69b1fa82\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-November-6-2025-Special-Meeting-Agenda-With-Zoom-Link.pdf",
+  "versions": [
+    {
+      "sha256": "ca48ce6b8ae3e72d1f5603156cbd947b838cd05fc7fe2b2c2203853ca04e3091",
+      "bytes": 70928,
+      "retrieved_utc": "2026-11-22T22:50:36+00:00",
+      "http_last_modified": "Wed, 05 Nov 2025 17:38:13 GMT"
+    }
+  ]
+}

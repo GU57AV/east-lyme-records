@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS February 24 2026 Cancellation (pdf)",
+  "filename": "BOS-February-24-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/BOS-February-24-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-22T22:29:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "23c5a457b7f2d5651aefbb69ede087216bad688d355de5fe014885dceabd44a6",
+  "bytes": 51486,
+  "pages": 1,
+  "http_last_modified": "Wed, 25 Feb 2026 14:20:44 GMT",
+  "etag": "\"1701a94-c91e-64ba6b5ab8873\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-February-24-2026-Cancellation.pdf",
+  "versions": [
+    {
+      "sha256": "23c5a457b7f2d5651aefbb69ede087216bad688d355de5fe014885dceabd44a6",
+      "bytes": 51486,
+      "retrieved_utc": "2026-11-22T22:29:24+00:00",
+      "http_last_modified": "Wed, 25 Feb 2026 14:20:44 GMT"
+    }
+  ]
+}

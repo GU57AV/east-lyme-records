@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS December 7 2022 Amended Agenda (pdf)",
+  "filename": "BOS-December-7-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/BOS-December-7-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-23T00:31:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "94ae530f8c65abf165fd28fcf4dc4966b46473c03dcc40b27f58a0d036946c70",
+  "bytes": 53032,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Dec 2022 19:59:51 GMT",
+  "etag": "\"16a0950-cf28-5ef1a21559bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-December-7-2022-Amended-Agenda--94ae530f8c65.pdf",
+  "versions": [
+    {
+      "sha256": "94ae530f8c65abf165fd28fcf4dc4966b46473c03dcc40b27f58a0d036946c70",
+      "bytes": 53032,
+      "retrieved_utc": "2026-11-23T00:31:59+00:00",
+      "http_last_modified": "Mon, 05 Dec 2022 19:59:51 GMT"
+    }
+  ]
+}

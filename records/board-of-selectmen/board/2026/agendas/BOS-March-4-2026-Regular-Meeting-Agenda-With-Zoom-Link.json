@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS March 4 2026 Regular Meeting Agenda (With Zoom Link) (pdf)",
+  "filename": "BOS-March-4-2026-Regular-Meeting-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/BOS-March-4-2026-Regular-Meeting-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-22T22:25:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "240bad5974f7e2b8237d2c78ac2e1a3389ea5aacb1367c4238d3e02407217bba",
+  "bytes": 69617,
+  "pages": 1,
+  "http_last_modified": "Fri, 27 Feb 2026 16:21:33 GMT",
+  "etag": "\"1701aa5-10ff1-64bd0a166ac3c\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-March-4-2026-Regular-Meeting-Agenda-With-Zoom-Link.pdf",
+  "versions": [
+    {
+      "sha256": "240bad5974f7e2b8237d2c78ac2e1a3389ea5aacb1367c4238d3e02407217bba",
+      "bytes": 69617,
+      "retrieved_utc": "2026-11-22T22:25:39+00:00",
+      "http_last_modified": "Fri, 27 Feb 2026 16:21:33 GMT"
+    }
+  ]
+}

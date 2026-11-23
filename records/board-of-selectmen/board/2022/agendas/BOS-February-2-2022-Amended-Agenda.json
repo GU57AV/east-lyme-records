@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS February 2 2022 Amended Agenda (pdf)",
+  "filename": "BOS-February-2-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/BOS-February-2-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-23T00:45:36+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "380df0f86222ef5a99b8f3acef4e7d209529efa703be30b6b20743b99a07a61b",
+  "bytes": 62003,
+  "pages": 0,
+  "http_last_modified": "Mon, 31 Jan 2022 14:47:27 GMT",
+  "etag": "\"16a0dab-f233-5d6e1dcfb5dc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-February-2-2022-Amended-Agenda--380df0f86222.pdf",
+  "versions": [
+    {
+      "sha256": "380df0f86222ef5a99b8f3acef4e7d209529efa703be30b6b20743b99a07a61b",
+      "bytes": 62003,
+      "retrieved_utc": "2026-11-23T00:45:36+00:00",
+      "http_last_modified": "Mon, 31 Jan 2022 14:47:27 GMT"
+    }
+  ]
+}

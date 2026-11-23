@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS November 19 2025 Public Hearing Minutes (pdf)",
+  "filename": "BOS-November-19-2025-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-November-19-2025-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T23:16:48+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "0429f4852df1a8429fc76816df9fcc631198a2ede4a4898a9267fc8d28d656d4",
+  "bytes": 6973683,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Nov 2025 14:09:36 GMT",
+  "etag": "\"1760032-6a68f3-64457b69c8886\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-November-19-2025-Public-Hearing-Minutes--0429f4852df1.pdf",
+  "versions": [
+    {
+      "sha256": "0429f4852df1a8429fc76816df9fcc631198a2ede4a4898a9267fc8d28d656d4",
+      "bytes": 6973683,
+      "retrieved_utc": "2026-11-22T23:16:48+00:00",
+      "http_last_modified": "Mon, 24 Nov 2025 14:09:36 GMT"
+    }
+  ]
+}

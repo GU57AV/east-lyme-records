@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS February 5 2020 Agenda (pdf)",
+  "filename": "BOS-February-5-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/BOS-February-5-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-23T01:52:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7b529b5fb7c4b1675c9dc1d6cbb43f0a771def8dc4e8c25a4987a1834b4d80be",
+  "bytes": 42412,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Jan 2020 18:15:27 GMT",
+  "etag": "\"16616d7-a5ac-59d738ed9edc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-February-5-2020-Agenda--7b529b5fb7c4.pdf",
+  "versions": [
+    {
+      "sha256": "7b529b5fb7c4b1675c9dc1d6cbb43f0a771def8dc4e8c25a4987a1834b4d80be",
+      "bytes": 42412,
+      "retrieved_utc": "2026-11-23T01:52:11+00:00",
+      "http_last_modified": "Fri, 31 Jan 2020 18:15:27 GMT"
+    }
+  ]
+}

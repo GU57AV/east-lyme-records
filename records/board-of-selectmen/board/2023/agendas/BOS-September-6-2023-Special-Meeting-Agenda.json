@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS September 6 2023 Special Meeting Agenda (pdf)",
+  "filename": "BOS-September-6-2023-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/BOS-September-6-2023-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-23T00:07:04+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "d331b12910abd26a9e882efbbd152b947b75a1863a7a324916126b430d0cf911",
+  "bytes": 33464,
+  "pages": 0,
+  "http_last_modified": "Wed, 30 Aug 2023 20:27:29 GMT",
+  "etag": "\"16e02a3-82b8-60429c1a12e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-September-6-2023-Special-Meeting-Agenda--d331b12910ab.pdf",
+  "versions": [
+    {
+      "sha256": "d331b12910abd26a9e882efbbd152b947b75a1863a7a324916126b430d0cf911",
+      "bytes": 33464,
+      "retrieved_utc": "2026-11-23T00:07:04+00:00",
+      "http_last_modified": "Wed, 30 Aug 2023 20:27:29 GMT"
+    }
+  ]
+}

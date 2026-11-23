@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS December 20 2023 Minutes (pdf)",
+  "filename": "BOS-December-20-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/BOS-December-20-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-minutes/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-23T00:19:19+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f5f8e8081fa8c7124ac55735bf709385b1489dc0beb89e6cb4b1f2abeb02c9a4",
+  "bytes": 334833,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Dec 2023 15:17:46 GMT",
+  "etag": "\"16c222f-51bf1-60d936af41a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-December-20-2023-Minutes--f5f8e8081fa8.pdf",
+  "versions": [
+    {
+      "sha256": "f5f8e8081fa8c7124ac55735bf709385b1489dc0beb89e6cb4b1f2abeb02c9a4",
+      "bytes": 334833,
+      "retrieved_utc": "2026-11-23T00:19:19+00:00",
+      "http_last_modified": "Thu, 28 Dec 2023 15:17:46 GMT"
+    }
+  ]
+}

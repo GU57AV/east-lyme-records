@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS June 21 2023 Public Hearing Notice (pdf)",
+  "filename": "BOS-June-21-2023-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/BOS-June-21-2023-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-23T00:10:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a7003c73717e31c3fd2b43a1356d41837abc4aecfe2857f960711d24d278df83",
+  "bytes": 43157,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Jun 2023 15:45:32 GMT",
+  "etag": "\"16e006b-a895-5fe2cf55bbf00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-June-21-2023-Public-Hearing-Notice--a7003c73717e.pdf",
+  "versions": [
+    {
+      "sha256": "a7003c73717e31c3fd2b43a1356d41837abc4aecfe2857f960711d24d278df83",
+      "bytes": 43157,
+      "retrieved_utc": "2026-11-23T00:10:08+00:00",
+      "http_last_modified": "Thu, 15 Jun 2023 15:45:32 GMT"
+    }
+  ]
+}

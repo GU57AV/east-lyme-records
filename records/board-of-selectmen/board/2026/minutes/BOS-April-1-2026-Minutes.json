@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS April 1 2026 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-April-1-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/BOS-April-1-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-22T22:42:22+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "072cb08ba8b936f3356a59a31dd799c4b7620e87273f0d5cb8e3cd2ff3ce3a18",
+  "bytes": 867180,
+  "pages": 14,
+  "http_last_modified": "Tue, 07 Apr 2026 20:13:00 GMT",
+  "etag": "\"17018af-d3b6c-64ee468f2dd90\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-April-1-2026-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "072cb08ba8b936f3356a59a31dd799c4b7620e87273f0d5cb8e3cd2ff3ce3a18",
+      "bytes": 867180,
+      "retrieved_utc": "2026-11-22T22:42:22+00:00",
+      "http_last_modified": "Tue, 07 Apr 2026 20:13:00 GMT"
+    }
+  ]
+}

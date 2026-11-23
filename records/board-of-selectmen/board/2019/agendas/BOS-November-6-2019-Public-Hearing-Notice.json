@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS November 6 2019 Public Hearing Notice (pdf)",
+  "filename": "BOS-November-6-2019-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/BOS-November-6-2019-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-23T02:06:54+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ead4443373b5bf9b1c49c465b950c4414b928d501b8a4fa9d97c551648e6e2f1",
+  "bytes": 62769,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Nov 2019 15:18:44 GMT",
+  "etag": "\"16c1ef8-f531-5964a7b4ddd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-November-6-2019-Public-Hearing-Notice--ead4443373b5.pdf",
+  "versions": [
+    {
+      "sha256": "ead4443373b5bf9b1c49c465b950c4414b928d501b8a4fa9d97c551648e6e2f1",
+      "bytes": 62769,
+      "retrieved_utc": "2026-11-23T02:06:54+00:00",
+      "http_last_modified": "Fri, 01 Nov 2019 15:18:44 GMT"
+    }
+  ]
+}

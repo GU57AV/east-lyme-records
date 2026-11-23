@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS October 6 2021 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-October-6-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/BOS-October-6-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-23T01:22:23+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "50164223bb9253e730df18b6af15f775462084058f3df2cb69c9a29d6c099099",
+  "bytes": 936624,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Oct 2021 16:38:35 GMT",
+  "etag": "\"16803b2-e4ab0-5ce52b5b918c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-October-6-2021-Minutes--50164223bb92.pdf",
+  "versions": [
+    {
+      "sha256": "50164223bb9253e730df18b6af15f775462084058f3df2cb69c9a29d6c099099",
+      "bytes": 936624,
+      "retrieved_utc": "2026-11-23T01:22:23+00:00",
+      "http_last_modified": "Thu, 14 Oct 2021 16:38:35 GMT"
+    }
+  ]
+}

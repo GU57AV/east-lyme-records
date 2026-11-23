@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS April 3 2024 Minutes (pdf)",
+  "filename": "BOS-April-3-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/04/BOS-April-3-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-04",
+  "first_seen_utc": "2026-11-22T23:54:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "68a3245396b0b45f3c615ad759a5f516b408152f5bf7c92c9a6e62635527e022",
+  "bytes": 267659,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Apr 2024 14:14:28 GMT",
+  "etag": "\"16809ce-4158b-615aa8a3ad900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-April-3-2024-Minutes--68a3245396b0.pdf",
+  "versions": [
+    {
+      "sha256": "68a3245396b0b45f3c615ad759a5f516b408152f5bf7c92c9a6e62635527e022",
+      "bytes": 267659,
+      "retrieved_utc": "2026-11-22T23:54:45+00:00",
+      "http_last_modified": "Tue, 09 Apr 2024 14:14:28 GMT"
+    }
+  ]
+}

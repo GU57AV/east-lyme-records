@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS October 7 2020 Second Amended Agenda (via zoom) (pdf)",
+  "filename": "BOS-October-7-2020-Second-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/BOS-October-7-2020-Second-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-23T01:36:27+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8e847a30f4d949ea4f149de4acc0f68f45b7c35cd6fa5113e6f8f08228eed409",
+  "bytes": 66426,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Oct 2020 14:42:36 GMT",
+  "etag": "\"16619ba-1037a-5b1019c204f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-October-7-2020-Second-Amended-Agenda--8e847a30f4d9.pdf",
+  "versions": [
+    {
+      "sha256": "8e847a30f4d949ea4f149de4acc0f68f45b7c35cd6fa5113e6f8f08228eed409",
+      "bytes": 66426,
+      "retrieved_utc": "2026-11-23T01:36:27+00:00",
+      "http_last_modified": "Tue, 06 Oct 2020 14:42:36 GMT"
+    }
+  ]
+}

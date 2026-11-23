@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS December 21 2022 Cancellation (pdf)",
+  "filename": "BOS-December-21-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/BOS-December-21-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-23T00:31:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "11ff634c2ba1ebe60f26c58d5b78013f52e1ee3ced5d9452ba045ca6b8dd4f5d",
+  "bytes": 24546,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Nov 2022 15:33:27 GMT",
+  "etag": "\"16a10a6-5fe2-5edac4f785fc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-December-21-2022-Cancellation--11ff634c2ba1.pdf",
+  "versions": [
+    {
+      "sha256": "11ff634c2ba1ebe60f26c58d5b78013f52e1ee3ced5d9452ba045ca6b8dd4f5d",
+      "bytes": 24546,
+      "retrieved_utc": "2026-11-23T00:31:39+00:00",
+      "http_last_modified": "Thu, 17 Nov 2022 15:33:27 GMT"
+    }
+  ]
+}

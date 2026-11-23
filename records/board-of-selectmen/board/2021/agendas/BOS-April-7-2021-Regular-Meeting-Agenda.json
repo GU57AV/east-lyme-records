@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS April 7 2021 Regular Meeting Agenda (via zoom) (pdf)",
+  "filename": "BOS-April-7-2021-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/BOS-April-7-2021-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-23T01:11:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "21a5e4b666e8299004cbc16fec2c0f8646d17ebb2676ed2f8d820facc333dd80",
+  "bytes": 67672,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Apr 2021 14:09:21 GMT",
+  "etag": "\"1680438-10858-5bee9c7206640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-April-7-2021-Regular-Meeting-Agenda--21a5e4b666e8.pdf",
+  "versions": [
+    {
+      "sha256": "21a5e4b666e8299004cbc16fec2c0f8646d17ebb2676ed2f8d820facc333dd80",
+      "bytes": 67672,
+      "retrieved_utc": "2026-11-23T01:11:06+00:00",
+      "http_last_modified": "Thu, 01 Apr 2021 14:09:21 GMT"
+    }
+  ]
+}

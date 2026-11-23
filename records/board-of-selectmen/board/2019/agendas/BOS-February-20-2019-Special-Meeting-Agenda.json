@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS February 20 2019 Special Meeting Agenda (pdf)",
+  "filename": "BOS-February-20-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/BOS-February-20-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-23T02:16:25+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "4b109a987e49435d555f0ec6a7059288c5d107a2ecfb4be1f01ffd797a28216e",
+  "bytes": 34931,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Feb 2019 20:51:15 GMT",
+  "etag": "\"16c1e05-8873-581ccb3e516c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-February-20-2019-Special-Meeting-Agenda--4b109a987e49.pdf",
+  "versions": [
+    {
+      "sha256": "4b109a987e49435d555f0ec6a7059288c5d107a2ecfb4be1f01ffd797a28216e",
+      "bytes": 34931,
+      "retrieved_utc": "2026-11-23T02:16:25+00:00",
+      "http_last_modified": "Wed, 13 Feb 2019 20:51:15 GMT"
+    }
+  ]
+}

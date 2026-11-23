@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS January 7 2026 Public Hearing Notice (With Draft Ordinance) (pdf)",
+  "filename": "BOS-January-7-2026-Public-Hearing-Notice-With-Draft-Ordinance-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/BOS-January-7-2026-Public-Hearing-Notice-With-Draft-Ordinance-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-22T22:36:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6490c5fe0a3999815d40123ab58aa0f091e52772f5706fb4dc6755bc6b780990",
+  "bytes": 555178,
+  "pages": 10,
+  "http_last_modified": "Tue, 23 Dec 2025 13:38:11 GMT",
+  "etag": "\"1a20085-878aa-6469ea7a5ad7e\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-January-7-2026-Public-Hearing-Notice-With-Draft-Ordinance-1.pdf",
+  "versions": [
+    {
+      "sha256": "6490c5fe0a3999815d40123ab58aa0f091e52772f5706fb4dc6755bc6b780990",
+      "bytes": 555178,
+      "retrieved_utc": "2026-11-22T22:36:12+00:00",
+      "http_last_modified": "Tue, 23 Dec 2025 13:38:11 GMT"
+    }
+  ]
+}

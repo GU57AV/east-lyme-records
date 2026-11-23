@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS February 17 2021 Special Meeting Minutes (pdf)",
+  "filename": "BOS-February-17-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/03/BOS-February-17-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-03",
+  "first_seen_utc": "2026-11-23T01:30:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "444088729432897cc9512f3a3e02cc637ea49f95b31f6225311adde73ed5f523",
+  "bytes": 370062,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Mar 2021 14:17:00 GMT",
+  "etag": "\"16635af-5a58e-5bc8e633eef00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-February-17-2021-Minutes--444088729432.pdf",
+  "versions": [
+    {
+      "sha256": "444088729432897cc9512f3a3e02cc637ea49f95b31f6225311adde73ed5f523",
+      "bytes": 370062,
+      "retrieved_utc": "2026-11-23T01:30:37+00:00",
+      "http_last_modified": "Tue, 02 Mar 2021 14:17:00 GMT"
+    }
+  ]
+}

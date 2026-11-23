@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS June 5 2019 Agenda (pdf)",
+  "filename": "BOS-June-5-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/BOS-June-5-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-23T02:11:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7d7f8040abda415acf3b4896315360b04fd95dae40309d788ce67e7250162ddf",
+  "bytes": 47056,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 May 2019 14:09:15 GMT",
+  "etag": "\"16c1a62-b7d0-58a2f8f4038c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-June-5-2019-Agenda--7d7f8040abda.pdf",
+  "versions": [
+    {
+      "sha256": "7d7f8040abda415acf3b4896315360b04fd95dae40309d788ce67e7250162ddf",
+      "bytes": 47056,
+      "retrieved_utc": "2026-11-23T02:11:40+00:00",
+      "http_last_modified": "Fri, 31 May 2019 14:09:15 GMT"
+    }
+  ]
+}

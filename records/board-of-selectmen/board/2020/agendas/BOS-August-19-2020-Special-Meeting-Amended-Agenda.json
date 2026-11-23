@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS August 19 2020 Special Meeting Amended Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-August-19-2020-Special-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/BOS-August-19-2020-Special-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-23T01:39:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "37c93c7d702698aa9f6af0d14602c2b2a79cdf94b564cbe473361e8ae0f18c51",
+  "bytes": 94653,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Aug 2020 17:43:49 GMT",
+  "etag": "\"1661a3e-171bd-5ad2a6dfbbf40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-August-19-2020-Special-Meeting-Amended-Agenda--37c93c7d7026.pdf",
+  "versions": [
+    {
+      "sha256": "37c93c7d702698aa9f6af0d14602c2b2a79cdf94b564cbe473361e8ae0f18c51",
+      "bytes": 94653,
+      "retrieved_utc": "2026-11-23T01:39:52+00:00",
+      "http_last_modified": "Tue, 18 Aug 2020 17:43:49 GMT"
+    }
+  ]
+}

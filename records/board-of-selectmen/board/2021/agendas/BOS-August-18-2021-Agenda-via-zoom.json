@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS August 18 2021 Agenda (via zoom) (pdf)",
+  "filename": "BOS-August-18-2021-Agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/BOS-August-18-2021-Agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-23T01:03:45+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ff77e59d98cc80ce58c509ba4744b8c87506ef854bc9928218dfabb93c64ce76",
+  "bytes": 48798,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Aug 2021 19:11:38 GMT",
+  "etag": "\"1680468-be9e-5c9b1f86f6e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-August-18-2021-Agenda-via-zoom--ff77e59d98cc.pdf",
+  "versions": [
+    {
+      "sha256": "ff77e59d98cc80ce58c509ba4744b8c87506ef854bc9928218dfabb93c64ce76",
+      "bytes": 48798,
+      "retrieved_utc": "2026-11-23T01:03:45+00:00",
+      "http_last_modified": "Mon, 16 Aug 2021 19:11:38 GMT"
+    }
+  ]
+}

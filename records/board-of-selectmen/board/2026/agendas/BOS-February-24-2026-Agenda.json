@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS February 24 2026 Special Meeting Agenda (pdf)",
+  "filename": "BOS-February-24-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/BOS-February-24-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-22T22:29:44+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5299343d81cf75013f2187f2103b5bd9e2b528aff01d74afed679f52d1ff3eff",
+  "bytes": 30380,
+  "pages": 1,
+  "http_last_modified": "Thu, 19 Feb 2026 19:00:32 GMT",
+  "etag": "\"170064d-76ac-64b31eb3bcd4b\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-February-24-2026-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "5299343d81cf75013f2187f2103b5bd9e2b528aff01d74afed679f52d1ff3eff",
+      "bytes": 30380,
+      "retrieved_utc": "2026-11-22T22:29:44+00:00",
+      "http_last_modified": "Thu, 19 Feb 2026 19:00:32 GMT"
+    }
+  ]
+}

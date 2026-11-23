@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS March 19 2025 Agenda (pdf)",
+  "filename": "BOS-March-19-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/BOS-March-19-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-22T23:03:12+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8a9495c63da88c55395cfa7a3e34782661e3f48a38c5a44a047d658a3fd03535",
+  "bytes": 45504,
+  "pages": 1,
+  "http_last_modified": "Fri, 14 Mar 2025 13:38:53 GMT",
+  "etag": "\"16a1523-b1c0-6304d8f2d7540\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-March-19-2025-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "8a9495c63da88c55395cfa7a3e34782661e3f48a38c5a44a047d658a3fd03535",
+      "bytes": 45504,
+      "retrieved_utc": "2026-11-22T23:03:12+00:00",
+      "http_last_modified": "Fri, 14 Mar 2025 13:38:53 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS February 3 2025 Special Budget Review Agenda (pdf)",
+  "filename": "BOS-February-3-2025-Special-Budget-Review-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/BOS-February-3-2025-Special-Budget-Review-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-22T23:10:20+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "99a532d0db2e0921ae5f971d25c4a08aef780bce7983452e8967df116321b110",
+  "bytes": 26735,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Jan 2025 19:48:03 GMT",
+  "etag": "\"16c0059-686f-62bafd6c882c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-February-3-2025-Special-Budget-Review-Agenda--99a532d0db2e.pdf",
+  "versions": [
+    {
+      "sha256": "99a532d0db2e0921ae5f971d25c4a08aef780bce7983452e8967df116321b110",
+      "bytes": 26735,
+      "retrieved_utc": "2026-11-22T23:10:20+00:00",
+      "http_last_modified": "Tue, 14 Jan 2025 19:48:03 GMT"
+    }
+  ]
+}

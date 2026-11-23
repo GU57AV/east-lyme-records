@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS September 21 2020 Special Meeting Minutes (pdf)",
+  "filename": "BOS-September-21-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/BOS-September-21-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-minutes/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-23T01:56:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "ecfc730e2b450cab0f2f2d19299ae70618b863e9ee04aa862c0c3ef1c11b3e1b",
+  "bytes": 224072,
+  "pages": 0,
+  "http_last_modified": "Fri, 25 Sep 2020 18:32:20 GMT",
+  "etag": "\"16618e4-36b48-5b02789765500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-September-21-2020-Minutes--ecfc730e2b45.pdf",
+  "versions": [
+    {
+      "sha256": "ecfc730e2b450cab0f2f2d19299ae70618b863e9ee04aa862c0c3ef1c11b3e1b",
+      "bytes": 224072,
+      "retrieved_utc": "2026-11-23T01:56:38+00:00",
+      "http_last_modified": "Fri, 25 Sep 2020 18:32:20 GMT"
+    }
+  ]
+}

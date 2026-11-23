@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS March 6 2024 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-March-6-2024-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/BOS-March-6-2024-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-22T23:55:47+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cda289f37ad2e9e22748a5f5dfb6c5a049ee4f58ed4c4069cb9edf19ac3a9512",
+  "bytes": 146278,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Mar 2024 14:52:44 GMT",
+  "etag": "\"16805be-23b66-613a00b354700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-March-6-2024-Regular-Meeting-Minutes--cda289f37ad2.pdf",
+  "versions": [
+    {
+      "sha256": "cda289f37ad2e9e22748a5f5dfb6c5a049ee4f58ed4c4069cb9edf19ac3a9512",
+      "bytes": 146278,
+      "retrieved_utc": "2026-11-22T23:55:47+00:00",
+      "http_last_modified": "Thu, 14 Mar 2024 14:52:44 GMT"
+    }
+  ]
+}

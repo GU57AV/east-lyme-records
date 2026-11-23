@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS August 5 2026 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-August-5-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/BOS-August-5-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-22T22:39:18+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "56dcb07204509e76e1a43f12c3fce8577c43eb8c6e75a44177a92b89be95d6ba",
+  "bytes": 2450855,
+  "pages": 39,
+  "http_last_modified": "Wed, 12 Aug 2026 15:43:06 GMT",
+  "etag": "\"16e0eb6-2565a7-658db71937782\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-August-5-2026-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "56dcb07204509e76e1a43f12c3fce8577c43eb8c6e75a44177a92b89be95d6ba",
+      "bytes": 2450855,
+      "retrieved_utc": "2026-11-22T22:39:18+00:00",
+      "http_last_modified": "Wed, 12 Aug 2026 15:43:06 GMT"
+    }
+  ]
+}

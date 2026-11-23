@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS April 29 2022 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-April-29-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BOS-April-29-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-23T00:40:30+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1d42a03ade6db6a261127f6f1750b557a8432992085186fedd34aa89967cbc70",
+  "bytes": 48929,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Apr 2022 12:21:09 GMT",
+  "etag": "\"16a1234-bf21-5ddb5f5f75740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-April-29-2022-Special-Meeting-Agenda-Via-Zoom--1d42a03ade6d.pdf",
+  "versions": [
+    {
+      "sha256": "1d42a03ade6db6a261127f6f1750b557a8432992085186fedd34aa89967cbc70",
+      "bytes": 48929,
+      "retrieved_utc": "2026-11-23T00:40:30+00:00",
+      "http_last_modified": "Thu, 28 Apr 2022 12:21:09 GMT"
+    }
+  ]
+}

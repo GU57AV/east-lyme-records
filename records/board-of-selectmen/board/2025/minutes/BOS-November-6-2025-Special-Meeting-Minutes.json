@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS November 6 2025 Special Meeting Minutes (pdf)",
+  "filename": "BOS-November-6-2025-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-November-6-2025-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T23:17:08+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "cbde12c6447121cdfb956c081c04206d00914f237ca98b63510b592851568945",
+  "bytes": 53255,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Nov 2025 15:19:43 GMT",
+  "etag": "\"1761df1-d007-64302b6108970\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-November-6-2025-Special-Meeting-Minutes--cbde12c64471.pdf",
+  "versions": [
+    {
+      "sha256": "cbde12c6447121cdfb956c081c04206d00914f237ca98b63510b592851568945",
+      "bytes": 53255,
+      "retrieved_utc": "2026-11-22T23:17:08+00:00",
+      "http_last_modified": "Fri, 07 Nov 2025 15:19:43 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS February 21 2024 Public Hearing Notice (Peddling Ordinance) (pdf)",
+  "filename": "BOS-February-21-2024-Public-Hearing-Notice-Peddling-Ordinance.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/BOS-February-21-2024-Public-Hearing-Notice-Peddling-Ordinance.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-22T23:44:10+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2ca155f48d60445b4a2e89bcd954cd61a53a8dd499af874d47ef8edc85264a11",
+  "bytes": 43146,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Feb 2024 14:08:23 GMT",
+  "etag": "\"1680812-a88a-610df582783c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-February-21-2024-Public-Hearing-Notice-Peddling-Ordinance--2ca155f48d60.pdf",
+  "versions": [
+    {
+      "sha256": "2ca155f48d60445b4a2e89bcd954cd61a53a8dd499af874d47ef8edc85264a11",
+      "bytes": 43146,
+      "retrieved_utc": "2026-11-22T23:44:10+00:00",
+      "http_last_modified": "Thu, 08 Feb 2024 14:08:23 GMT"
+    }
+  ]
+}

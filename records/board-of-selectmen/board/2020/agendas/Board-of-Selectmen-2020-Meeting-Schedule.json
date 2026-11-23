@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Board of Selectmen 2020 Meeting Schedule (pdf)",
+  "filename": "Board-of-Selectmen-2020-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/Board-of-Selectmen-2020-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-23T01:53:33+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5b5ffd4d66f03c571c4da977a45cba47a24301db72a31bc2bd87538a8ebe769a",
+  "bytes": 41638,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Nov 2019 16:10:52 GMT",
+  "etag": "\"16c1f38-a2a6-5982e01f05b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/Board-of-Selectmen-2020-Meeting-Schedule--5b5ffd4d66f0.pdf",
+  "versions": [
+    {
+      "sha256": "5b5ffd4d66f03c571c4da977a45cba47a24301db72a31bc2bd87538a8ebe769a",
+      "bytes": 41638,
+      "retrieved_utc": "2026-11-23T01:53:33+00:00",
+      "http_last_modified": "Mon, 25 Nov 2019 16:10:52 GMT"
+    }
+  ]
+}

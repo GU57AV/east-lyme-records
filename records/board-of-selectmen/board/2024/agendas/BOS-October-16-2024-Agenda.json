@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS October 16 2024 Agenda (pdf)",
+  "filename": "BOS-October-16-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/BOS-October-16-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-22T23:33:37+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "f513b9be43fec5d61f86d40b9933e0916c77309e817bb9420a20e14605d2d368",
+  "bytes": 50124,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 Oct 2024 15:21:09 GMT",
+  "etag": "\"1680980-c3cc-624350959a340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-October-16-2024-Agenda--f513b9be43fe.pdf",
+  "versions": [
+    {
+      "sha256": "f513b9be43fec5d61f86d40b9933e0916c77309e817bb9420a20e14605d2d368",
+      "bytes": 50124,
+      "retrieved_utc": "2026-11-22T23:33:37+00:00",
+      "http_last_modified": "Fri, 11 Oct 2024 15:21:09 GMT"
+    }
+  ]
+}

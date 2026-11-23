@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS November 19 2025 Amended Agenda (pdf)",
+  "filename": "BOS-November-19-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/BOS-November-19-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-22T22:49:35+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a920efcc314473d4bb5ce62c74aa653b5091418710a6d32ff48ab34ed77a2c65",
+  "bytes": 62130,
+  "pages": 1,
+  "http_last_modified": "Mon, 17 Nov 2025 17:20:56 GMT",
+  "etag": "\"176000e-f2b2-643cd91f59ec2\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-November-19-2025-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "a920efcc314473d4bb5ce62c74aa653b5091418710a6d32ff48ab34ed77a2c65",
+      "bytes": 62130,
+      "retrieved_utc": "2026-11-22T22:49:35+00:00",
+      "http_last_modified": "Mon, 17 Nov 2025 17:20:56 GMT"
+    }
+  ]
+}

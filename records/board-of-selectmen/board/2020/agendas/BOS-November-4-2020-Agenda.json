@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS November 4 2020 Agenda (via zoom) (pdf)",
+  "filename": "BOS-November-4-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/BOS-November-4-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-23T01:34:44+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "4ba245996c80f4d71a12744f197d7b41cb65da1ece47b57fa9411e1198a7883b",
+  "bytes": 67945,
+  "pages": 0,
+  "http_last_modified": "Fri, 30 Oct 2020 19:36:23 GMT",
+  "etag": "\"1661951-10969-5b2e882f7fbc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-November-4-2020-Agenda--4ba245996c80.pdf",
+  "versions": [
+    {
+      "sha256": "4ba245996c80f4d71a12744f197d7b41cb65da1ece47b57fa9411e1198a7883b",
+      "bytes": 67945,
+      "retrieved_utc": "2026-11-23T01:34:44+00:00",
+      "http_last_modified": "Fri, 30 Oct 2020 19:36:23 GMT"
+    }
+  ]
+}

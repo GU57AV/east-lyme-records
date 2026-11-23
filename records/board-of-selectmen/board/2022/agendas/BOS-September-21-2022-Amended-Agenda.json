@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS September 21 2022 Amended Agenda (pdf)",
+  "filename": "BOS-September-21-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/BOS-September-21-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-23T00:35:04+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "497d220a6d03277e725c078de9887beb47b0663b0ac01c60e675a830f1466dde",
+  "bytes": 50825,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Sep 2022 15:52:22 GMT",
+  "etag": "\"16a1185-c689-5e909b27bf980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-September-21-2022-Amended-Agenda--497d220a6d03.pdf",
+  "versions": [
+    {
+      "sha256": "497d220a6d03277e725c078de9887beb47b0663b0ac01c60e675a830f1466dde",
+      "bytes": 50825,
+      "retrieved_utc": "2026-11-23T00:35:04+00:00",
+      "http_last_modified": "Mon, 19 Sep 2022 15:52:22 GMT"
+    }
+  ]
+}

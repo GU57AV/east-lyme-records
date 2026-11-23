@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS November 3 2021 Minutes (pdf)",
+  "filename": "BOS-November-3-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/BOS-November-3-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-23T01:21:21+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a34fc02b524192d3ed8beb16e104967ff6cc60a7454d1a0199ef7fde59e1eab4",
+  "bytes": 419774,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Nov 2021 20:25:26 GMT",
+  "etag": "\"1680270-667be-5d115f5729980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-November-3-2021-Minutes--a34fc02b5241.pdf",
+  "versions": [
+    {
+      "sha256": "a34fc02b524192d3ed8beb16e104967ff6cc60a7454d1a0199ef7fde59e1eab4",
+      "bytes": 419774,
+      "retrieved_utc": "2026-11-23T01:21:21+00:00",
+      "http_last_modified": "Thu, 18 Nov 2021 20:25:26 GMT"
+    }
+  ]
+}

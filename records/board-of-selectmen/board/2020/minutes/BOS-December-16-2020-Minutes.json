@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS December 16 2020 Minutes (pdf)",
+  "filename": "BOS-December-16-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/BOS-December-16-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-23T01:54:14+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "6444d308f726f1ba177d69c061c85e320663d551acb62f836e5c75a2b2300640",
+  "bytes": 311309,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Dec 2020 20:32:23 GMT",
+  "etag": "\"1661538-4c00d-5b7a049b803c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-December-16-2020-Minutes--6444d308f726.pdf",
+  "versions": [
+    {
+      "sha256": "6444d308f726f1ba177d69c061c85e320663d551acb62f836e5c75a2b2300640",
+      "bytes": 311309,
+      "retrieved_utc": "2026-11-23T01:54:14+00:00",
+      "http_last_modified": "Tue, 29 Dec 2020 20:32:23 GMT"
+    }
+  ]
+}

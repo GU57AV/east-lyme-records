@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS March 27 2023 Special Meeting Minutes (pdf)",
+  "filename": "BOS-March-27-2023-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/03/BOS-March-27-2023-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-minutes/",
+  "upload_folder": "2023-03",
+  "first_seen_utc": "2026-11-23T00:27:32+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "aea1908cdf94215686c049fb63c1389ba75907d780d1373b6d410583347049a7",
+  "bytes": 69647,
+  "pages": 0,
+  "http_last_modified": "Mon, 27 Mar 2023 16:07:40 GMT",
+  "etag": "\"16c228a-1100f-5f7e3f1356b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-March-27-2023-Special-Meeting-Minutes--aea1908cdf94.pdf",
+  "versions": [
+    {
+      "sha256": "aea1908cdf94215686c049fb63c1389ba75907d780d1373b6d410583347049a7",
+      "bytes": 69647,
+      "retrieved_utc": "2026-11-23T00:27:32+00:00",
+      "http_last_modified": "Mon, 27 Mar 2023 16:07:40 GMT"
+    }
+  ]
+}

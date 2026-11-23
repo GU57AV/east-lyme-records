@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS October 7 2020 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-October-7-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/BOS-October-7-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-minutes/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-23T01:55:57+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "19a847870b43ee605cc805159ca037264593320be7b2fed0911bdd0428058f35",
+  "bytes": 284829,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Oct 2020 19:21:17 GMT",
+  "etag": "\"1661985-4589d-5b21f228dc540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-October-7-2020-Minutes--19a847870b43.pdf",
+  "versions": [
+    {
+      "sha256": "19a847870b43ee605cc805159ca037264593320be7b2fed0911bdd0428058f35",
+      "bytes": 284829,
+      "retrieved_utc": "2026-11-23T01:55:57+00:00",
+      "http_last_modified": "Tue, 20 Oct 2020 19:21:17 GMT"
+    }
+  ]
+}

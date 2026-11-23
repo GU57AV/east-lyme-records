@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS September 1 2021 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-September-1-2021-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/BOS-September-1-2021-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-23T01:03:04+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "c9fa11ad5b2866a7f4e7507a7252d645137386f0c22829880ffac12a4fb35694",
+  "bytes": 52922,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Aug 2021 18:29:28 GMT",
+  "etag": "\"168048a-ceba-5ca8ea9e3d200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-September-1-2021-Regular-Meeting-Agenda--c9fa11ad5b28.pdf",
+  "versions": [
+    {
+      "sha256": "c9fa11ad5b2866a7f4e7507a7252d645137386f0c22829880ffac12a4fb35694",
+      "bytes": 52922,
+      "retrieved_utc": "2026-11-23T01:03:04+00:00",
+      "http_last_modified": "Fri, 27 Aug 2021 18:29:28 GMT"
+    }
+  ]
+}

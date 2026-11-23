@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS February 5 2025 Third Amended Agenda (pdf)",
+  "filename": "BOS-February-5-2025-Third-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/BOS-February-5-2025-Third-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-22T23:08:18+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a28bbc1d2d2f5c7d680c498c1d4adf408de3cb1ab1e620391ed960884bf7881a",
+  "bytes": 49146,
+  "pages": 1,
+  "http_last_modified": "Tue, 04 Feb 2025 19:37:56 GMT",
+  "etag": "\"16c01ac-bffa-62d5625454d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-February-5-2025-Third-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "a28bbc1d2d2f5c7d680c498c1d4adf408de3cb1ab1e620391ed960884bf7881a",
+      "bytes": 49146,
+      "retrieved_utc": "2026-11-22T23:08:18+00:00",
+      "http_last_modified": "Tue, 04 Feb 2025 19:37:56 GMT"
+    }
+  ]
+}

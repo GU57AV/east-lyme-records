@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS March 4 2026 Special Meeting Amended Agenda (pdf)",
+  "filename": "BOS-March-4-2026-Special-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/BOS-March-4-2026-Special-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-22T22:26:20+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2e4e423de5f43fc6af358f6d60eeb344df327645c98aa9f4f0acb72fdc6e0c6f",
+  "bytes": 26724,
+  "pages": 1,
+  "http_last_modified": "Wed, 18 Feb 2026 16:42:02 GMT",
+  "etag": "\"1701a81-6864-64b1bde1d9edb\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-March-4-2026-Special-Meeting-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "2e4e423de5f43fc6af358f6d60eeb344df327645c98aa9f4f0acb72fdc6e0c6f",
+      "bytes": 26724,
+      "retrieved_utc": "2026-11-22T22:26:20+00:00",
+      "http_last_modified": "Wed, 18 Feb 2026 16:42:02 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS May 18 2022 Public Hearing Notice (pdf)",
+  "filename": "BOS-May-18-2022-Notice-of-Public-Hearing.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/BOS-May-18-2022-Notice-of-Public-Hearing.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-23T00:39:29+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bbc5e273e2210b1560d812c2d056c55fe971d4abf61671d032b844f603ee3866",
+  "bytes": 49245,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 May 2022 13:51:07 GMT",
+  "etag": "\"16a0b20-c05d-5de440899e8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-May-18-2022-Notice-of-Public-Hearing--bbc5e273e221.pdf",
+  "versions": [
+    {
+      "sha256": "bbc5e273e2210b1560d812c2d056c55fe971d4abf61671d032b844f603ee3866",
+      "bytes": 49245,
+      "retrieved_utc": "2026-11-23T00:39:29+00:00",
+      "http_last_modified": "Thu, 05 May 2022 13:51:07 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS November 4 Supporting Documentation (pdf)",
+  "filename": "BOS-November-4-Supporting-Documentation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/BOS-November-4-Supporting-Documentation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-23T01:34:24+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "312c0d3a750a345735d43a20d1033a7f97fa8d436cf5ff250a4d85c68fef5ba1",
+  "bytes": 8356701,
+  "pages": 0,
+  "http_last_modified": "Fri, 30 Oct 2020 20:41:50 GMT",
+  "etag": "\"16619b4-7f835d-5b2e96d093f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-November-4-Supporting-Documentation--312c0d3a750a.pdf",
+  "versions": [
+    {
+      "sha256": "312c0d3a750a345735d43a20d1033a7f97fa8d436cf5ff250a4d85c68fef5ba1",
+      "bytes": 8356701,
+      "retrieved_utc": "2026-11-23T01:34:24+00:00",
+      "http_last_modified": "Fri, 30 Oct 2020 20:41:50 GMT"
+    }
+  ]
+}

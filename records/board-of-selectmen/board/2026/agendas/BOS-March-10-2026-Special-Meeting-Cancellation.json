@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS March 10 2026 Special Meeting Cancellation (pdf)",
+  "filename": "BOS-March-10-2026-Special-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/BOS-March-10-2026-Special-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-22T22:24:18+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "a2caab2710984f3806893a5ead28cff36b633a32e64876570132adad9a5f2a46",
+  "bytes": 24466,
+  "pages": 1,
+  "http_last_modified": "Tue, 10 Mar 2026 16:30:32 GMT",
+  "etag": "\"1701a22-5f92-64cae09cdc0c2\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-March-10-2026-Special-Meeting-Cancellation.pdf",
+  "versions": [
+    {
+      "sha256": "a2caab2710984f3806893a5ead28cff36b633a32e64876570132adad9a5f2a46",
+      "bytes": 24466,
+      "retrieved_utc": "2026-11-22T22:24:18+00:00",
+      "http_last_modified": "Tue, 10 Mar 2026 16:30:32 GMT"
+    }
+  ]
+}

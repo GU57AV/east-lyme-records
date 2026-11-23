@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS June 5 2024 Amended Agenda (pdf)",
+  "filename": "BOS-June-5-2024-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/BOS-June-5-2024-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-22T23:38:02+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1d5af4c4d6237fd8a3b6513a76e92e218e73066564bb6a8be9ad081c8b409cb1",
+  "bytes": 118695,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Jun 2024 20:43:18 GMT",
+  "etag": "\"16807a5-1cfa7-61a167feb6580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-June-5-2024-Amended-Agenda--1d5af4c4d623.pdf",
+  "versions": [
+    {
+      "sha256": "1d5af4c4d6237fd8a3b6513a76e92e218e73066564bb6a8be9ad081c8b409cb1",
+      "bytes": 118695,
+      "retrieved_utc": "2026-11-22T23:38:02+00:00",
+      "http_last_modified": "Tue, 04 Jun 2024 20:43:18 GMT"
+    }
+  ]
+}

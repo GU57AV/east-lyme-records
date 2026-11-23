@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS March 5 2025 Special Meeting Amended Agenda (pdf)",
+  "filename": "BOS-March-5-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/BOS-March-5-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-22T23:04:54+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "47f83ffb7a6ddb085242fe4531311b77d26a2631ac8a7d1a30079e71709a4d56",
+  "bytes": 22632,
+  "pages": 1,
+  "http_last_modified": "Tue, 04 Mar 2025 14:47:14 GMT",
+  "etag": "\"16a1559-5868-62f8559340080\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-March-5-2025-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "47f83ffb7a6ddb085242fe4531311b77d26a2631ac8a7d1a30079e71709a4d56",
+      "bytes": 22632,
+      "retrieved_utc": "2026-11-22T23:04:54+00:00",
+      "http_last_modified": "Tue, 04 Mar 2025 14:47:14 GMT"
+    }
+  ]
+}

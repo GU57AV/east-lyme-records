@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS November 17 2021 Cancellation (pdf)",
+  "filename": "BOS-November-17-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/BOS-November-17-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-23T01:00:00+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "73b142ddb82c5f055ff1f1a44282b498cefca9c4db42740e18b4951807dcaeb2",
+  "bytes": 31261,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Nov 2021 20:01:40 GMT",
+  "etag": "\"16801a9-7a1d-5d09ced675100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-November-17-2021-Cancellation--73b142ddb82c.pdf",
+  "versions": [
+    {
+      "sha256": "73b142ddb82c5f055ff1f1a44282b498cefca9c4db42740e18b4951807dcaeb2",
+      "bytes": 31261,
+      "retrieved_utc": "2026-11-23T01:00:00+00:00",
+      "http_last_modified": "Fri, 12 Nov 2021 20:01:40 GMT"
+    }
+  ]
+}

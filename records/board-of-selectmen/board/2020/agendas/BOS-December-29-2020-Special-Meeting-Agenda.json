@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS December 29 2020 Special Meeting Agenda (pdf)",
+  "filename": "BOS-December-29-2020-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/BOS-December-29-2020-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-23T01:31:59+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "b040829805210b57df69b67f6127ae271eac0c24ed6cb56044404105f1681fc8",
+  "bytes": 81520,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Dec 2020 16:40:36 GMT",
+  "etag": "\"1661547-13e70-5b72459bfc900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-December-29-2020-Special-Meeting-Agenda--b04082980521.pdf",
+  "versions": [
+    {
+      "sha256": "b040829805210b57df69b67f6127ae271eac0c24ed6cb56044404105f1681fc8",
+      "bytes": 81520,
+      "retrieved_utc": "2026-11-23T01:31:59+00:00",
+      "http_last_modified": "Wed, 23 Dec 2020 16:40:36 GMT"
+    }
+  ]
+}

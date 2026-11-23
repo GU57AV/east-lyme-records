@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS April 2 2025 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-April-2-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/BOS-April-2-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-22T23:27:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "37c5eae96f22c679ede8d7c22a4a6f9217413c01050dd3b1b29587fff131740d",
+  "bytes": 171388,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Apr 2025 17:52:04 GMT",
+  "etag": "\"16c0238-29d7c-6324802aa1900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-April-2-2025-Minutes--37c5eae96f22.pdf",
+  "versions": [
+    {
+      "sha256": "37c5eae96f22c679ede8d7c22a4a6f9217413c01050dd3b1b29587fff131740d",
+      "bytes": 171388,
+      "retrieved_utc": "2026-11-22T23:27:06+00:00",
+      "http_last_modified": "Tue, 08 Apr 2025 17:52:04 GMT"
+    }
+  ]
+}

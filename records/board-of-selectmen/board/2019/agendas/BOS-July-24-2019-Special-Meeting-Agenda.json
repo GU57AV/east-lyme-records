@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOS July 24 2019 Special Meeting Agenda (pdf)",
+  "filename": "BOS-July-24-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/07/BOS-July-24-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2019-agendas/",
+  "upload_folder": "2019-07",
+  "first_seen_utc": "2026-11-23T02:10:38+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1cd223de2153487a48b7c35f80d2a7cedefe90b25361fabb0de43ac8b64b24ba",
+  "bytes": 27569,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Jul 2019 17:48:11 GMT",
+  "etag": "\"16c21ea-6bb1-58e5ccbce8cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2019/BOS-July-24-2019-Special-Meeting-Agenda--1cd223de2153.pdf",
+  "versions": [
+    {
+      "sha256": "1cd223de2153487a48b7c35f80d2a7cedefe90b25361fabb0de43ac8b64b24ba",
+      "bytes": 27569,
+      "retrieved_utc": "2026-11-23T02:10:38+00:00",
+      "http_last_modified": "Tue, 23 Jul 2019 17:48:11 GMT"
+    }
+  ]
+}

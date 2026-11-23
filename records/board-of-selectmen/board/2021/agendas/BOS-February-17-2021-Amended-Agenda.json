@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS February 17 2021 Amended Agenda (pdf)",
+  "filename": "BOS-February-17-2021-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOS-February-17-2021-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T01:16:34+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "766402bc12ebfd88874b5015daee7c45c934e929b5f50d9fc8f3edcb45be7b69",
+  "bytes": 69317,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Feb 2021 21:04:47 GMT",
+  "etag": "\"168014e-10ec5-5bb29fc72f9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-February-17-2021-Amended-Agenda--766402bc12eb.pdf",
+  "versions": [
+    {
+      "sha256": "766402bc12ebfd88874b5015daee7c45c934e929b5f50d9fc8f3edcb45be7b69",
+      "bytes": 69317,
+      "retrieved_utc": "2026-11-23T01:16:34+00:00",
+      "http_last_modified": "Fri, 12 Feb 2021 21:04:47 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS June 3 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "BOS-June-3-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/BOS-June-3-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-23T01:45:43+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "1a39189d55d4c10a2e21316df249f5606506a7558ef9b57f138e4d5be75b6aa6",
+  "bytes": 78863,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Jun 2020 13:59:32 GMT",
+  "etag": "\"1661751-1340f-5a7063442f900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-June-3-2020-Agenda--1a39189d55d4.pdf",
+  "versions": [
+    {
+      "sha256": "1a39189d55d4c10a2e21316df249f5606506a7558ef9b57f138e4d5be75b6aa6",
+      "bytes": 78863,
+      "retrieved_utc": "2026-11-23T01:45:43+00:00",
+      "http_last_modified": "Mon, 01 Jun 2020 13:59:32 GMT"
+    }
+  ]
+}

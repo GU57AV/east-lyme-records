@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS March 3 2021 Regular Meeting Agenda (via zoom) (pdf)",
+  "filename": "BOS-March-3-2021-Regular-Meeting-Agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOS-March-3-2021-Regular-Meeting-Agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-23T01:14:11+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "80e6df1250b34ff52c0acccb9094f9b77f7dd67b43d4f5696b75e7d28b892102",
+  "bytes": 67908,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Feb 2021 17:29:41 GMT",
+  "etag": "\"16800d4-10944-5bc409cf84b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-March-3-2021-Regular-Meeting-Agenda-via-zoom--80e6df1250b3.pdf",
+  "versions": [
+    {
+      "sha256": "80e6df1250b34ff52c0acccb9094f9b77f7dd67b43d4f5696b75e7d28b892102",
+      "bytes": 67908,
+      "retrieved_utc": "2026-11-23T01:14:11+00:00",
+      "http_last_modified": "Fri, 26 Feb 2021 17:29:41 GMT"
+    }
+  ]
+}

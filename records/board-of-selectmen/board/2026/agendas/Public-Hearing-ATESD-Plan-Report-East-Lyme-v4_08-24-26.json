@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Public Hearing - ATESD Plan Report - East Lyme - v4_08-24-26 (pdf)",
+  "filename": "Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-22T22:16:49+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bda605cd0122a028d3b5fd6b32fb8a0c91721462645d2ed60f5be2ebf25bd46d",
+  "bytes": 10349724,
+  "pages": 67,
+  "http_last_modified": "Mon, 14 Sep 2026 20:40:21 GMT",
+  "etag": "\"16e0f5e-9dec9c-65b777158c5eb\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/Public-Hearing-ATESD-Plan-Report-East-Lyme-v4_08-24-26.pdf",
+  "versions": [
+    {
+      "sha256": "bda605cd0122a028d3b5fd6b32fb8a0c91721462645d2ed60f5be2ebf25bd46d",
+      "bytes": 10349724,
+      "retrieved_utc": "2026-11-22T22:16:49+00:00",
+      "http_last_modified": "Mon, 14 Sep 2026 20:40:21 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOS November 16 2022 Amended Agenda (Hybrid) (pdf)",
+  "filename": "BOS-November-16-2022-Agenda-Hybrid.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/BOS-November-16-2022-Agenda-Hybrid.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-23T00:33:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "44568fde742c0bb22a28e1a7d708d5a2ff928409b72abae8073bf6606688d6d7",
+  "bytes": 91425,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Nov 2022 19:53:05 GMT",
+  "etag": "\"16a112d-16521-5ed739677aa40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2022/BOS-November-16-2022-Agenda-Hybrid--44568fde742c.pdf",
+  "versions": [
+    {
+      "sha256": "44568fde742c0bb22a28e1a7d708d5a2ff928409b72abae8073bf6606688d6d7",
+      "bytes": 91425,
+      "retrieved_utc": "2026-11-23T00:33:01+00:00",
+      "http_last_modified": "Mon, 14 Nov 2022 19:53:05 GMT"
+    }
+  ]
+}

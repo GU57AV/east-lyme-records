@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS September 20 2023 Amended Agenda (With Zoom Link) (pdf)",
+  "filename": "BOS-September-20-2023-Amended-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/BOS-September-20-2023-Amended-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-23T00:05:01+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "05181319c887930ab670beec466b299a3c1f39c2676622e4a58ec3c8094194cd",
+  "bytes": 140324,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Sep 2023 18:15:14 GMT",
+  "etag": "\"16e019e-22424-605a61fa6d080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-September-20-2023-Amended-Agenda-With-Zoom-Link--05181319c887.pdf",
+  "versions": [
+    {
+      "sha256": "05181319c887930ab670beec466b299a3c1f39c2676622e4a58ec3c8094194cd",
+      "bytes": 140324,
+      "retrieved_utc": "2026-11-23T00:05:01+00:00",
+      "http_last_modified": "Mon, 18 Sep 2023 18:15:14 GMT"
+    }
+  ]
+}

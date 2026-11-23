@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS October 15 2025 Second Amended Agenda (pdf)",
+  "filename": "BOS-October-15-2025-Second-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/BOS-October-15-2025-Second-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-22T22:52:39+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "2b8be9777995da52569ffd031cdefbabbb277c0a624723a211780d5786ba85d1",
+  "bytes": 52933,
+  "pages": 1,
+  "http_last_modified": "Tue, 14 Oct 2025 16:05:36 GMT",
+  "etag": "\"1720087-cec5-641208df61a27\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-October-15-2025-Second-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "2b8be9777995da52569ffd031cdefbabbb277c0a624723a211780d5786ba85d1",
+      "bytes": 52933,
+      "retrieved_utc": "2026-11-22T22:52:39+00:00",
+      "http_last_modified": "Tue, 14 Oct 2025 16:05:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS June 4 2025 Regular Meeting Amended Agenda (pdf)",
+  "filename": "BOS-June-4-2025-Regular-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/BOS-June-4-2025-Regular-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-22T22:58:46+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "bb55242cc3716853cd0bb7d740b1f5a8381f0a895a73ed3cc6274eab2409dad0",
+  "bytes": 48343,
+  "pages": 1,
+  "http_last_modified": "Mon, 02 Jun 2025 14:34:58 GMT",
+  "etag": "\"16c00f9-bcd7-63697ab0d4880\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2025/agendas/BOS-June-4-2025-Regular-Meeting-Amended-Agenda.pdf",
+  "versions": [
+    {
+      "sha256": "bb55242cc3716853cd0bb7d740b1f5a8381f0a895a73ed3cc6274eab2409dad0",
+      "bytes": 48343,
+      "retrieved_utc": "2026-11-22T22:58:46+00:00",
+      "http_last_modified": "Mon, 02 Jun 2025 14:34:58 GMT"
+    }
+  ]
+}

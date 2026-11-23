@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOS September 17 2025 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-September-17-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/BOS-September-17-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2025-minutes/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-22T23:19:52+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "7a6b5dd36e9ee6278aba00ffa089c7893135c7f159bd6312d1577f97dcbc922e",
+  "bytes": 216554,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 Sep 2025 15:56:56 GMT",
+  "etag": "\"1720025-34dea-63f8e1a21c5fa\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2025/BOS-September-17-2025-Minutes--7a6b5dd36e9e.pdf",
+  "versions": [
+    {
+      "sha256": "7a6b5dd36e9ee6278aba00ffa089c7893135c7f159bd6312d1577f97dcbc922e",
+      "bytes": 216554,
+      "retrieved_utc": "2026-11-22T23:19:52+00:00",
+      "http_last_modified": "Wed, 24 Sep 2025 15:56:56 GMT"
+    }
+  ]
+}

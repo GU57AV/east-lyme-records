@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOS August 2 2023 Agenda (pdf)",
+  "filename": "BOS-August-2-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/BOS-August-2-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-23T00:09:06+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8ac713252c7f058077466bd96b53236426ac855e94b01608e3958f28a5389df2",
+  "bytes": 47799,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jul 2023 17:33:40 GMT",
+  "etag": "\"16e0320-bab7-6017b5d688500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2023/BOS-August-2-2023-Agenda--8ac713252c7f.pdf",
+  "versions": [
+    {
+      "sha256": "8ac713252c7f058077466bd96b53236426ac855e94b01608e3958f28a5389df2",
+      "bytes": 47799,
+      "retrieved_utc": "2026-11-23T00:09:06+00:00",
+      "http_last_modified": "Thu, 27 Jul 2023 17:33:40 GMT"
+    }
+  ]
+}

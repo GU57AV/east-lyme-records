@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS June 2 2021 Site Walk Minutes (pdf)",
+  "filename": "BOS-June-2-2021-Site-Walk-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/BOS-June-2-2021-Site-Walk-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-minutes/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-23T01:26:09+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "159798eb629268fc07c9eee9c888a4c75161e04798800b543799b286a3b527f5",
+  "bytes": 39815,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Jun 2021 19:49:46 GMT",
+  "etag": "\"168006a-9b87-5c3f5fe652a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-June-2-2021-Site-Walk-Minutes--159798eb6292.pdf",
+  "versions": [
+    {
+      "sha256": "159798eb629268fc07c9eee9c888a4c75161e04798800b543799b286a3b527f5",
+      "bytes": 39815,
+      "retrieved_utc": "2026-11-23T01:26:09+00:00",
+      "http_last_modified": "Fri, 04 Jun 2021 19:49:46 GMT"
+    }
+  ]
+}

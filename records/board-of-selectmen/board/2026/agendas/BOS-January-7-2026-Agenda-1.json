@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS January 7 2026 Regular Meeting Agenda (pdf)",
+  "filename": "BOS-January-7-2026-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/BOS-January-7-2026-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-22T22:35:10+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "5ce65dc486709aedff3cba4fd944483f9b7704fbbc573d9ccd33ad64cc2c5533",
+  "bytes": 41431,
+  "pages": 1,
+  "http_last_modified": "Wed, 07 Jan 2026 13:37:30 GMT",
+  "etag": "\"170029a-a1d7-647cc64cc6ab3\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/agendas/BOS-January-7-2026-Agenda-1.pdf",
+  "versions": [
+    {
+      "sha256": "5ce65dc486709aedff3cba4fd944483f9b7704fbbc573d9ccd33ad64cc2c5533",
+      "bytes": 41431,
+      "retrieved_utc": "2026-11-22T22:35:10+00:00",
+      "http_last_modified": "Wed, 07 Jan 2026 13:37:30 GMT"
+    }
+  ]
+}

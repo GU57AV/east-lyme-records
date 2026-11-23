@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS November 4 2026 Minutes (pdf)",
+  "filename": "BOS-November-4-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/BOS-November-4-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-22T22:37:13+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "8a93295cae935294f133f354bf9b09de7b33400390f3e5a31d467f5f4e7c1f88",
+  "bytes": 3818848,
+  "pages": 57,
+  "http_last_modified": "Thu, 12 Nov 2026 16:59:07 GMT",
+  "etag": "\"17c005e-3a4560-660173ad79199\"",
+  "text_method": "pdftotext",
+  "original_copy": "records/board-of-selectmen/board/2026/minutes/BOS-November-4-2026-Minutes.pdf",
+  "versions": [
+    {
+      "sha256": "8a93295cae935294f133f354bf9b09de7b33400390f3e5a31d467f5f4e7c1f88",
+      "bytes": 3818848,
+      "retrieved_utc": "2026-11-22T22:37:13+00:00",
+      "http_last_modified": "Thu, 12 Nov 2026 16:59:07 GMT"
+    }
+  ]
+}

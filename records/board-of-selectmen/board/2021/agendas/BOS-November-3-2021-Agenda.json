@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOS November 3 2021 Agenda (pdf)",
+  "filename": "BOS-November-3-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/BOS-November-3-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2021-agendas/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-23T01:00:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "595488c9e1eac6e356ed9823111397647e73103175eaa764d0660ad8f3c9f103",
+  "bytes": 42427,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Oct 2021 19:31:49 GMT",
+  "etag": "\"16803cc-a5bb-5cf6ec3083340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2021/BOS-November-3-2021-Agenda--595488c9e1ea.pdf",
+  "versions": [
+    {
+      "sha256": "595488c9e1eac6e356ed9823111397647e73103175eaa764d0660ad8f3c9f103",
+      "bytes": 42427,
+      "retrieved_utc": "2026-11-23T01:00:40+00:00",
+      "http_last_modified": "Thu, 28 Oct 2021 19:31:49 GMT"
+    }
+  ]
+}

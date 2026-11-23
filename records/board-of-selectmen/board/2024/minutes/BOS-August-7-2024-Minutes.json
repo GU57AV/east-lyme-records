@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOS August 7 2024 Minutes (pdf)",
+  "filename": "BOS-August-7-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/BOS-August-7-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2024-minutes/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-22T23:51:40+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "85bee40545d552633cde02693df98b88d5af8d261c551f5060828061837a4cb4",
+  "bytes": 1158395,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Aug 2024 14:22:40 GMT",
+  "etag": "\"1680a63-11acfb-61f7d39b80c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2024/BOS-August-7-2024-Minutes--85bee40545d5.pdf",
+  "versions": [
+    {
+      "sha256": "85bee40545d552633cde02693df98b88d5af8d261c551f5060828061837a4cb4",
+      "bytes": 1158395,
+      "retrieved_utc": "2026-11-22T23:51:40+00:00",
+      "http_last_modified": "Mon, 12 Aug 2024 14:22:40 GMT"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOS March 2 2020 Special Meeting Agenda (pdf)",
+  "filename": "BOS-March-2-2020-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/BOS-March-2-2020-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-23T01:50:50+00:00",
+  "seen_in_initial_import": true,
+  "sha256": "024aec825d8c4b8ba35b77ce0fab62648456c286158ea538fe2c5956f5f9c90d",
+  "bytes": 33568,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Feb 2020 17:30:24 GMT",
+  "etag": "\"16617d1-8320-59e8c8f84ac00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2020/BOS-March-2-2020-Special-Meeting-Agenda--024aec825d8c.pdf",
+  "versions": [
+    {
+      "sha256": "024aec825d8c4b8ba35b77ce0fab62648456c286158ea538fe2c5956f5f9c90d",
+      "bytes": 33568,
+      "retrieved_utc": "2026-11-23T01:50:50+00:00",
+      "http_last_modified": "Fri, 14 Feb 2020 17:30:24 GMT"
+    }
+  ]
+}
