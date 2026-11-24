@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1997",
+  "subcommittee": false,
+  "link_text": "Zoning 1997 Index of Public Hearings (pdf)",
+  "filename": "Zoning-1997-Index-of-Public-Hearings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-1997-Index-of-Public-Hearings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1997-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:21:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d8b9504f585e8f11b647daff70525389cb70bbe21a71977f4742f1afaa8b1436",
+  "bytes": 55320,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Dec 2022 20:31:19 GMT",
+  "etag": "\"16a0999-d818-5f05c6f5433c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1997/2022-12-00_Zoning-1997-Index-of-Public-Hearings--d8b9504f585e.pdf",
+  "versions": [
+    {
+      "sha256": "d8b9504f585e8f11b647daff70525389cb70bbe21a71977f4742f1afaa8b1436",
+      "bytes": 55320,
+      "retrieved_utc": "2026-11-24T11:21:02+00:00",
+      "http_last_modified": "Wed, 21 Dec 2022 20:31:19 GMT"
+    }
+  ]
+}

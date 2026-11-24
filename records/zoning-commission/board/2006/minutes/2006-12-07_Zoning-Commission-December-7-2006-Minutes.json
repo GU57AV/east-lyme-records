@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2006",
+  "subcommittee": false,
+  "link_text": "Zoning Commission December 7 2006 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-December-7-2006-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-Commission-December-7-2006-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2006-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T07:59:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4daa325e640ff969eb3289f61347bcaf4af8bc239722917c857ab2631c111c6d",
+  "bytes": 1522502,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 20:29:55 GMT",
+  "etag": "\"16a0df1-173b46-5d6962e5f76c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2006/2006-12-07_Zoning-Commission-December-7-2006-Minutes--4daa325e640f.pdf",
+  "versions": [
+    {
+      "sha256": "4daa325e640ff969eb3289f61347bcaf4af8bc239722917c857ab2631c111c6d",
+      "bytes": 1522502,
+      "retrieved_utc": "2026-11-24T07:59:49+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 20:29:55 GMT"
+    }
+  ]
+}

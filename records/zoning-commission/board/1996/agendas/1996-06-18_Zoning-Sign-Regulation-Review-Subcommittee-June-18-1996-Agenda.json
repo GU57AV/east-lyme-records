@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning Sign Regulation Review Subcommittee June 18 1996 Agenda (pdf)",
+  "filename": "Zoning-Sign-Regulation-Review-Subcommittee-June-18-1996-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-Sign-Regulation-Review-Subcommittee-June-18-1996-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:34:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c44c34974854bf6d55b7c97a5cb4c1e58acace97fc19c48ad24ec24f67d6d43c",
+  "bytes": 33655,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 14:52:43 GMT",
+  "etag": "\"16c23f6-8377-5f1fe271184c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-06-18_Zoning-Sign-Regulation-Review-Subcommittee-June-18-1996-Agenda--c44c34974854.pdf",
+  "versions": [
+    {
+      "sha256": "c44c34974854bf6d55b7c97a5cb4c1e58acace97fc19c48ad24ec24f67d6d43c",
+      "bytes": 33655,
+      "retrieved_utc": "2026-11-24T11:34:16+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 14:52:43 GMT"
+    }
+  ]
+}

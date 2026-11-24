@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 3 2005 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-November-3-2005-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-November-3-2005-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-minutes/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:32:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3a592de87a6698689af62a3aaa086f37d01f4969bcdfed3de4761e4c82850112",
+  "bytes": 663971,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:36:01 GMT",
+  "etag": "\"16a1018-a21a3-5d6f92c3dc640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-11-03_Zoning-Commission-November-3-2005-Regular-Meeting-Minutes--3a592de87a66.pdf",
+  "versions": [
+    {
+      "sha256": "3a592de87a6698689af62a3aaa086f37d01f4969bcdfed3de4761e4c82850112",
+      "bytes": 663971,
+      "retrieved_utc": "2026-11-24T08:32:05+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:36:01 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2003",
+  "subcommittee": false,
+  "link_text": "Zoning February 20 2003 Minutes (pdf)",
+  "filename": "Zoning-February-20-2003-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-February-20-2003-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2003-minutes/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T09:34:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e3f8b1d3819bf538f6243094143bf46a887f17e4d59293cf95169bfc58fda151",
+  "bytes": 267467,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Apr 2022 17:54:25 GMT",
+  "etag": "\"16a1254-414cb-5dc2848fe9640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2003/2003-02-20_Zoning-February-20-2003-Minutes--e3f8b1d3819b.pdf",
+  "versions": [
+    {
+      "sha256": "e3f8b1d3819bf538f6243094143bf46a887f17e4d59293cf95169bfc58fda151",
+      "bytes": 267467,
+      "retrieved_utc": "2026-11-24T09:34:35+00:00",
+      "http_last_modified": "Fri, 08 Apr 2022 17:54:25 GMT"
+    }
+  ]
+}

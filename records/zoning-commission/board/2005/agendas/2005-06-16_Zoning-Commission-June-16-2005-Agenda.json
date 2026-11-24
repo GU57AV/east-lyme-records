@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 16 2005 Agenda (pdf)",
+  "filename": "Zoning-Commission-June-16-2005-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-June-16-2005-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:24:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "820e4fce3fe9302e250364ff5c32ac6a4bfd9e06dfc06ef113b9cf2a8e300092",
+  "bytes": 94065,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:50:42 GMT",
+  "etag": "\"16a0f98-16f71-5d6f960c0c480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-06-16_Zoning-Commission-June-16-2005-Agenda--820e4fce3fe9.pdf",
+  "versions": [
+    {
+      "sha256": "820e4fce3fe9302e250364ff5c32ac6a4bfd9e06dfc06ef113b9cf2a8e300092",
+      "bytes": 94065,
+      "retrieved_utc": "2026-11-24T08:24:58+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:50:42 GMT"
+    }
+  ]
+}

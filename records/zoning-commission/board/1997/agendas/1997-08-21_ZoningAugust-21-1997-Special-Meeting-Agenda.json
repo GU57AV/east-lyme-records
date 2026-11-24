@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1997",
+  "subcommittee": false,
+  "link_text": "Zoning August 21 1997 Special Meeting Agenda (pdf)",
+  "filename": "ZoningAugust-21-1997-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/ZoningAugust-21-1997-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1997-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:15:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "68bd28a4f81cc9c19d7d56e4c8201477db9ee6c8bde2bf7fbc293eb402c19f2a",
+  "bytes": 93828,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Dec 2022 20:34:21 GMT",
+  "etag": "\"16a08ec-16e84-5f05c7a2d4d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1997/1997-08-21_ZoningAugust-21-1997-Special-Meeting-Agenda--68bd28a4f81c.pdf",
+  "versions": [
+    {
+      "sha256": "68bd28a4f81cc9c19d7d56e4c8201477db9ee6c8bde2bf7fbc293eb402c19f2a",
+      "bytes": 93828,
+      "retrieved_utc": "2026-11-24T11:15:17+00:00",
+      "http_last_modified": "Wed, 21 Dec 2022 20:34:21 GMT"
+    }
+  ]
+}

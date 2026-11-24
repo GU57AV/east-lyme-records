@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Joint Zoning Planning & Economic Development August 8 1996 Special Meeting Agenda (pdf)",
+  "filename": "Joint-Zoning-Planning-Economic-Development-August-8-1996-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Joint-Zoning-Planning-Economic-Development-August-8-1996-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:32:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "38fa623619f09eca68264975607ebb4e4bd80ece3adc63ef0ceac2736f1a2161",
+  "bytes": 49353,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 14:58:05 GMT",
+  "etag": "\"16c2450-c0c9-5f1fe3a42d940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-08-08_Joint-Zoning-Planning-Economic-Development-August-8-1996-Special-Meeting-Agenda--38fa623619f0.pdf",
+  "versions": [
+    {
+      "sha256": "38fa623619f09eca68264975607ebb4e4bd80ece3adc63ef0ceac2736f1a2161",
+      "bytes": 49353,
+      "retrieved_utc": "2026-11-24T11:32:55+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 14:58:05 GMT"
+    }
+  ]
+}

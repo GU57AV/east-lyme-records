@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning June 28 1995 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-June-28-1995-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-June-28-1995-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:49:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "71a3f676af2c10175cba8003939ce544038dae0bce1722185aa302828500d3d0",
+  "bytes": 68360,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:24:51 GMT",
+  "etag": "\"16c24c3-10b08-5f3084ece8ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-06-28_Zoning-June-28-1995-Special-Meeting-Agenda--71a3f676af2c.pdf",
+  "versions": [
+    {
+      "sha256": "71a3f676af2c10175cba8003939ce544038dae0bce1722185aa302828500d3d0",
+      "bytes": 68360,
+      "retrieved_utc": "2026-11-24T11:49:51+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:24:51 GMT"
+    }
+  ]
+}

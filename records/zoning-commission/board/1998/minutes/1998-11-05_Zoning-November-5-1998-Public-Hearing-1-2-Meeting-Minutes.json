@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning November 5 1998 Public Hearing 1 & 2 Meeting Minutes (pdf)",
+  "filename": "Zoning-November-5-1998-Public-Hearing-1-2-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-November-5-1998-Public-Hearing-1-2-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:05:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a745fc0a88acf8150af7aa98b9bed7cd9add19374f223209d455ef1a20a4d988",
+  "bytes": 524683,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:17:49 GMT",
+  "etag": "\"16a0948-8018b-5efe1ded90d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-11-05_Zoning-November-5-1998-Public-Hearing-1-2-Meeting-Minutes--a745fc0a88ac.pdf",
+  "versions": [
+    {
+      "sha256": "a745fc0a88acf8150af7aa98b9bed7cd9add19374f223209d455ef1a20a4d988",
+      "bytes": 524683,
+      "retrieved_utc": "2026-11-24T11:05:07+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:17:49 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2002",
+  "subcommittee": false,
+  "link_text": "Zoning May 9 2002 Public Hearings I & II Minutes (pdf)",
+  "filename": "Zoning-May-9-2002-Public-Hearings-I-II-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-May-9-2002-Public-Hearings-I-II-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2002-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T09:56:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "560f817e08de1968af216d8d0ccb7ecd0d1f93785d16b6c219b561729cf6ab81",
+  "bytes": 293817,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Dec 2022 20:08:39 GMT",
+  "etag": "\"16a093d-47bb9-5f033e2957fc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2002/2002-05-09_Zoning-May-9-2002-Public-Hearings-I-II-Minutes--560f817e08de.pdf",
+  "versions": [
+    {
+      "sha256": "560f817e08de1968af216d8d0ccb7ecd0d1f93785d16b6c219b561729cf6ab81",
+      "bytes": 293817,
+      "retrieved_utc": "2026-11-24T09:56:38+00:00",
+      "http_last_modified": "Mon, 19 Dec 2022 20:08:39 GMT"
+    }
+  ]
+}

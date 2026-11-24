@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 7 2005 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-April-7-2005-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-April-7-2005-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-minutes/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:43:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4916abe779a9d544ba162d3dba6f1e3b108da152a78778ba6131dfcfb3aa41ce",
+  "bytes": 477162,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:15:26 GMT",
+  "etag": "\"16a0f8d-747ea-5d6f8e2a12b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-04-07_Zoning-Commission-April-7-2005-Meeting-Minutes--4916abe779a9.pdf",
+  "versions": [
+    {
+      "sha256": "4916abe779a9d544ba162d3dba6f1e3b108da152a78778ba6131dfcfb3aa41ce",
+      "bytes": 477162,
+      "retrieved_utc": "2026-11-24T08:43:59+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:15:26 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning January 5 1995 Minutes (pdf)",
+  "filename": "Zoning-January-5-1995-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-January-5-1995-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T12:06:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "571971fa0297fe859394bab19ac8722610165c455d412f19fab3d2af97565a8e",
+  "bytes": 156923,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:42:38 GMT",
+  "etag": "\"16c2420-264fb-5f3088e67ab80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-01-05_Zoning-January-5-1995-Minutes--571971fa0297.pdf",
+  "versions": [
+    {
+      "sha256": "571971fa0297fe859394bab19ac8722610165c455d412f19fab3d2af97565a8e",
+      "bytes": 156923,
+      "retrieved_utc": "2026-11-24T12:06:28+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:42:38 GMT"
+    }
+  ]
+}

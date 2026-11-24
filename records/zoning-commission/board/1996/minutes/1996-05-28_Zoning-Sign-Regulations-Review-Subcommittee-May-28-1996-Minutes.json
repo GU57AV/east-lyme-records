@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning Sign Regulation Review Subcommittee May 28 1996 Minutes (pdf)",
+  "filename": "Zoning-Sign-Regulations-Review-Subcommittee-May-28-1996-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-Sign-Regulations-Review-Subcommittee-May-28-1996-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:43:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b53e38331b2619b0fadf43bfa4f03ecd1198e373b1624ce6d20928d8d4e4a18b",
+  "bytes": 267332,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 19:11:07 GMT",
+  "etag": "\"16c23ee-41444-5f201c32dc8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-05-28_Zoning-Sign-Regulations-Review-Subcommittee-May-28-1996-Minutes--b53e38331b26.pdf",
+  "versions": [
+    {
+      "sha256": "b53e38331b2619b0fadf43bfa4f03ecd1198e373b1624ce6d20928d8d4e4a18b",
+      "bytes": 267332,
+      "retrieved_utc": "2026-11-24T11:43:25+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 19:11:07 GMT"
+    }
+  ]
+}

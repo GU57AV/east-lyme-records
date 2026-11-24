@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1999",
+  "subcommittee": false,
+  "link_text": "Zoning June 3 1999 Cancellation (pdf)",
+  "filename": "Zoning-June-3-1999-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-June-3-1999-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1999-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:39:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4366b29b697f0303b6b4645c116238a4afc3bd04163ab74a6877b188cf6b92cf",
+  "bytes": 49428,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Dec 2022 20:32:03 GMT",
+  "etag": "\"16a08b3-c114-5f048541c36c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1999/1999-06-03_Zoning-June-3-1999-Cancellation--4366b29b697f.pdf",
+  "versions": [
+    {
+      "sha256": "4366b29b697f0303b6b4645c116238a4afc3bd04163ab74a6877b188cf6b92cf",
+      "bytes": 49428,
+      "retrieved_utc": "2026-11-24T10:39:00+00:00",
+      "http_last_modified": "Tue, 20 Dec 2022 20:32:03 GMT"
+    }
+  ]
+}

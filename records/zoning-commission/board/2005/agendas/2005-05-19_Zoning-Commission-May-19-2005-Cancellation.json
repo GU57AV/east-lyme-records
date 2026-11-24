@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 19 2005 Cancellation (pdf)",
+  "filename": "Zoning-Commission-May-19-2005-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-May-19-2005-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:25:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c120779f7022c0d14d6202b67c026866094e390afe3fe67abf4b27cfa71b6e3c",
+  "bytes": 43663,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:50:15 GMT",
+  "etag": "\"16a0fbb-aa8f-5d6f95f24c7c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-05-19_Zoning-Commission-May-19-2005-Cancellation--c120779f7022.pdf",
+  "versions": [
+    {
+      "sha256": "c120779f7022c0d14d6202b67c026866094e390afe3fe67abf4b27cfa71b6e3c",
+      "bytes": 43663,
+      "retrieved_utc": "2026-11-24T08:25:59+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:50:15 GMT"
+    }
+  ]
+}

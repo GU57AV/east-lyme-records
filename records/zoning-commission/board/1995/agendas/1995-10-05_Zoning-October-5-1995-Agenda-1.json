@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning October 5 1995 Agenda (pdf)",
+  "filename": "Zoning-October-5-1995-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-October-5-1995-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:46:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5f39ea630f6479dfaac379e77a04702b79349c0dcb9c97ff9b8b2269cd31b689",
+  "bytes": 85555,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:27:06 GMT",
+  "etag": "\"16c23de-14e33-5f30856da7a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-10-05_Zoning-October-5-1995-Agenda-1--5f39ea630f64.pdf",
+  "versions": [
+    {
+      "sha256": "5f39ea630f6479dfaac379e77a04702b79349c0dcb9c97ff9b8b2269cd31b689",
+      "bytes": 85555,
+      "retrieved_utc": "2026-11-24T11:46:48+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:27:06 GMT"
+    }
+  ]
+}

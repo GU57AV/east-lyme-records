@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning Planning & Economic Development May 30 1996 Joint Special Meeting Minutes (pdf)",
+  "filename": "Zoning-Planning-Economic-Development-May-30-1996-Joint-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-Planning-Economic-Development-May-30-1996-Joint-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:43:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0c92b1274b4e9999b24d4e2761b2611f2d974e3e5e35c8d817bab117c9decc83",
+  "bytes": 352311,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 16:59:25 GMT",
+  "etag": "\"16c2440-56037-5f1ffec2ed540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-05-30_Zoning-Planning-Economic-Development-May-30-1996-Joint-Special-Meeting-Minutes--0c92b1274b4e.pdf",
+  "versions": [
+    {
+      "sha256": "0c92b1274b4e9999b24d4e2761b2611f2d974e3e5e35c8d817bab117c9decc83",
+      "bytes": 352311,
+      "retrieved_utc": "2026-11-24T11:43:04+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 16:59:25 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2001",
+  "subcommittee": false,
+  "link_text": "Zoning September 6 2001 Minutes (pdf)",
+  "filename": "Zoning-September-6-2001-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Zoning-September-6-2001-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2001-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T10:10:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9b1e500389bf442c08c09b05b1c1c35181b9401572440063b66a06113e724f8a",
+  "bytes": 304220,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jul 2022 19:39:22 GMT",
+  "etag": "\"16a1411-4a45c-5e469fda98e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2001/2001-09-06_Zoning-September-6-2001-Minutes--9b1e500389bf.pdf",
+  "versions": [
+    {
+      "sha256": "9b1e500389bf442c08c09b05b1c1c35181b9401572440063b66a06113e724f8a",
+      "bytes": 304220,
+      "retrieved_utc": "2026-11-24T10:10:32+00:00",
+      "http_last_modified": "Fri, 22 Jul 2022 19:39:22 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning May 4 1995 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-May-4-1995-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-May-4-1995-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T12:03:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9c7b6674497da6c1a647635e6d37612a9e2b9f3ebe8a4fada1e85ce0473edb47",
+  "bytes": 302601,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:52:26 GMT",
+  "etag": "\"16c2419-49e09-5f308b173d680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-05-04_Zoning-May-4-1995-Public-Hearing-Minutes--9c7b6674497d.pdf",
+  "versions": [
+    {
+      "sha256": "9c7b6674497da6c1a647635e6d37612a9e2b9f3ebe8a4fada1e85ce0473edb47",
+      "bytes": 302601,
+      "retrieved_utc": "2026-11-24T12:03:24+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:52:26 GMT"
+    }
+  ]
+}

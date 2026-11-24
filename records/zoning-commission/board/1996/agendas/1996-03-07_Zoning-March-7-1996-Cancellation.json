@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning March 7 1996 Cancellation (pdf)",
+  "filename": "Zoning-March-7-1996-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-March-7-1996-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:36:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7a84a1aed9ec2a51c81a80f55a5da9c9ce7e77d604be9c9c704a4dca81d1443",
+  "bytes": 55302,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 14:43:34 GMT",
+  "etag": "\"16c24e8-d806-5f1fe06587180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-03-07_Zoning-March-7-1996-Cancellation--f7a84a1aed9e.pdf",
+  "versions": [
+    {
+      "sha256": "f7a84a1aed9ec2a51c81a80f55a5da9c9ce7e77d604be9c9c704a4dca81d1443",
+      "bytes": 55302,
+      "retrieved_utc": "2026-11-24T11:36:58+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 14:43:34 GMT"
+    }
+  ]
+}

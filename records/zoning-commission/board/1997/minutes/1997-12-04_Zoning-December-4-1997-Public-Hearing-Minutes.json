@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1997",
+  "subcommittee": false,
+  "link_text": "Zoning December 4 1997 Public Hearing Meeting Minutes (pdf)",
+  "filename": "Zoning-December-4-1997-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-December-4-1997-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1997-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:21:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "57437202edbb4a49c7d3fff96fb20a396704569702c12bff0197c005df5d22f1",
+  "bytes": 124914,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Dec 2022 20:50:27 GMT",
+  "etag": "\"16a098d-1e7f2-5f05cb3c14ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1997/1997-12-04_Zoning-December-4-1997-Public-Hearing-Minutes--57437202edbb.pdf",
+  "versions": [
+    {
+      "sha256": "57437202edbb4a49c7d3fff96fb20a396704569702c12bff0197c005df5d22f1",
+      "bytes": 124914,
+      "retrieved_utc": "2026-11-24T11:21:43+00:00",
+      "http_last_modified": "Wed, 21 Dec 2022 20:50:27 GMT"
+    }
+  ]
+}

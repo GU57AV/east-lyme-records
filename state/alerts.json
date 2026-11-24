@@ -1,5 +1,7 @@
 {
- "flags": [],
+ "flags": [
+  "missing-minutes:board-of-selectmen:False:2025-01-09:meeting|No minutes found more than 8 days after the meeting"
+ ],
  "ordinances": {
   "2024-02-21|boardofpolicecommissioners": {
    "flags": [
@@ -311,6 +313,7 @@
   "executive session|https://eltownhall.com/wp-content/uploads/2022/04/BOS-April-6-2022-Amended-Agenda.pdf|b9749a51e3d1c4d0977ea964a79cad1996215680802d197fec20defab4f44305": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/04/BOS-April-6-2022-Minutes.pdf|2bff3917a949ed68fdf308c76310386aeebd2f03e253fa98adf2def150ea6b5d": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/04/BOS-May-4-2022-Agenda.pdf|41765d6b043e3fdede393d7bf2bbea8deff87749c18e74d74aa51de3ef4e7fc1": "2026-11-23T15:12:34+00:00",
+  "executive session|https://eltownhall.com/wp-content/uploads/2022/04/Zoning-December-4-2003-Minutes.pdf|76fbc8ae0274fb17c2e54dff3d6807baaa6d06ef2a04d44ca1247ea4cdae8eeb": "2026-11-24T12:07:10+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/05/BOS-June-1-2022-Agenda.pdf|ca52584885fb07e010432b8f0187424e1f222eff67da9aaf16ba908fdf7e53bd": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/05/BOS-June-1-2022-Amended-Agenda.pdf|133b91f71320efc4150d24687534f3a00c9bd2a8204ec94abcd6b1ef8568ff70": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/05/BOS-May-18-2022-Agenda.pdf|8f893986c50246ae3ee614f901842cf38a1ff2dbfdd6f2cbbb13b02848502d01": "2026-11-23T15:12:34+00:00",
@@ -342,6 +345,9 @@
   "executive session|https://eltownhall.com/wp-content/uploads/2022/12/BOS-December-7-2022-Amended-Agenda.pdf|94ae530f8c65abf165fd28fcf4dc4966b46473c03dcc40b27f58a0d036946c70": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/12/BOS-December-7-2022-Minutes.pdf|83d6bee5acddc48c488b57272dd1ff6440af089985495f28c659d610287202ea": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2022/12/BOS-January-4-2023-Agenda.pdf|eff679992c8aca2486cf1505e69cfa1cf69c9f7dd41c580fd0bdeb5462338d63": "2026-11-23T15:12:34+00:00",
+  "executive session|https://eltownhall.com/wp-content/uploads/2022/12/Zoning-June-6-2002-Regular-Meeting-Minutes.pdf|efccfc6929af2e2bc4a5ef1d05dd0d083e1aaaa97d1acdf100485565bc1002ab": "2026-11-24T12:07:10+00:00",
+  "executive session|https://eltownhall.com/wp-content/uploads/2022/12/Zoning-October-1-1998-Agenda.pdf|014b42808ec9c92b5369c42a1a20e25da613a5de21920e76acd139608602cc64": "2026-11-24T12:07:10+00:00",
+  "executive session|https://eltownhall.com/wp-content/uploads/2022/12/Zoning-October-1-1998-Minutes.pdf|3f069e3bd24c8b2b04ac7e773075b9c7b7c1ced3046ea88a6b3904f326d7c256": "2026-11-24T12:07:10+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2023/01/BOS-February-1-2023-Agenda.pdf|c3459d4e32de30802254163778a7aab9a41d509d2b10d335e65dd46fd93ba5a9": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2023/01/BOS-February-1-2023-Amended-Agenda.pdf|9c399ea24697c413c2c83524c175f99285e8b3c0bd4ab3c2c758b4a4339730c5": "2026-11-23T15:12:34+00:00",
   "executive session|https://eltownhall.com/wp-content/uploads/2023/01/BOS-January-18-2023-Agenda.pdf|fbcb1128783c052029661cd2281e3f13477bab65328a7954449b345e850d50d5": "2026-11-23T15:12:34+00:00",
@@ -719,6 +725,7 @@
   "surveillance|https://eltownhall.com/wp-content/uploads/2021/10/Special-Town-Meeting-October-6-2021-Supporting-Documents.pdf|16715205d48b88348769adaa54b20c6e6f8bcfd7e44e72bf409d9497cb3740ea": "2026-11-24T02:05:01+00:00",
   "surveillance|https://eltownhall.com/wp-content/uploads/2021/10/Zoning-Commission-October-21-2021-Minutes.pdf|c354cc632a1b7c05eacf6f2311a38a8ad4d32e666fba0bab72ab5031595b6848": "2026-11-24T02:05:01+00:00",
   "surveillance|https://eltownhall.com/wp-content/uploads/2022/03/Zoning-Commission-September-20-2007-Public-Hearing-I-II-Minutes.pdf|5591fb0962f91525ed2b99ba1332e19da3c073e6ecf23f6b2e895a1a6749dfcc": "2026-11-24T07:06:02+00:00",
+  "surveillance|https://eltownhall.com/wp-content/uploads/2022/04/Zoning-September-29-2004-Public-Hearing-I-Minutes.pdf|5a9a1c86013e16c40bc84ab0a911f9ff60605566d3331c294e03ff517b5fc487": "2026-11-24T12:07:10+00:00",
   "surveillance|https://eltownhall.com/wp-content/uploads/2023/12/BOS-December-20-2023-Supporting-Documentation.pdf|8261f8203627368a5ada3b04b0fb031a0ace520662e37a368febd5369bb7a1d5": "2026-11-23T15:12:34+00:00",
   "surveillance|https://eltownhall.com/wp-content/uploads/2026/01/BOS-January-7-2025-Supporting-Documentation.pdf|2a38cba92230ed7f7451947dbf7d99b334f56ab6cec542cdb4d940415994f033": "2026-11-23T15:12:34+00:00",
   "surveillance|https://eltownhall.com/wp-content/uploads/2026/04/BOS-April-1-2026-Minutes.pdf|072cb08ba8b936f3356a59a31dd799c4b7620e87273f0d5cb8e3cd2ff3ce3a18": "2026-11-23T15:12:34+00:00",

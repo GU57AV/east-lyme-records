@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2000",
+  "subcommittee": false,
+  "link_text": "Zoning June 1 2000 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-June-1-2000-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Zoning-June-1-2000-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2000-minutes/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T10:29:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cb546c4830f4b77b82a5ecaf3d16a9e139736bb4c524930e01bbc77fafaae930",
+  "bytes": 243535,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 15:27:59 GMT",
+  "etag": "\"16a0f00-3b74f-5e20afb67fdc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2000/2000-06-01_Zoning-June-1-2000-Regular-Meeting-Minutes--cb546c4830f4.pdf",
+  "versions": [
+    {
+      "sha256": "cb546c4830f4b77b82a5ecaf3d16a9e139736bb4c524930e01bbc77fafaae930",
+      "bytes": 243535,
+      "retrieved_utc": "2026-11-24T10:29:30+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 15:27:59 GMT"
+    }
+  ]
+}

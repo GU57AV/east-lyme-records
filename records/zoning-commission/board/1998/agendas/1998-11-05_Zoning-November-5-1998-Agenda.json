@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning November 5 1998 Agenda (pdf)",
+  "filename": "Zoning-November-5-1998-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-November-5-1998-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:55:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e2032745ac6ce9e0c5b1c9ddafe58cf459bb84d38c8c6067f6914578e5c37bee",
+  "bytes": 78833,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:05:44 GMT",
+  "etag": "\"16a099a-133f1-5efe1b3a26e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-11-05_Zoning-November-5-1998-Agenda--e2032745ac6c.pdf",
+  "versions": [
+    {
+      "sha256": "e2032745ac6ce9e0c5b1c9ddafe58cf459bb84d38c8c6067f6914578e5c37bee",
+      "bytes": 78833,
+      "retrieved_utc": "2026-11-24T10:55:17+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:05:44 GMT"
+    }
+  ]
+}

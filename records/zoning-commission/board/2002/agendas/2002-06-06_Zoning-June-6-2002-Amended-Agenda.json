@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2002",
+  "subcommittee": false,
+  "link_text": "Zoning June 6 2002 Amended Agenda (pdf)",
+  "filename": "Zoning-June-6-2002-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-June-6-2002-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2002-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T09:42:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75d4372b5f54d49fddbf83a7a90c3c6f1b32a1937a1453da9ff1a8c253f3248b",
+  "bytes": 77006,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Dec 2022 20:46:49 GMT",
+  "etag": "\"16a0927-12cce-5eff8118e0040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2002/2002-06-06_Zoning-June-6-2002-Amended-Agenda--75d4372b5f54.pdf",
+  "versions": [
+    {
+      "sha256": "75d4372b5f54d49fddbf83a7a90c3c6f1b32a1937a1453da9ff1a8c253f3248b",
+      "bytes": 77006,
+      "retrieved_utc": "2026-11-24T09:42:02+00:00",
+      "http_last_modified": "Fri, 16 Dec 2022 20:46:49 GMT"
+    }
+  ]
+}

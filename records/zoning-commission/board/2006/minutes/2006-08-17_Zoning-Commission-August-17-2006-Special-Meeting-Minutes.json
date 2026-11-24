@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2006",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 17 2006 Special Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-August-17-2006-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-Commission-August-17-2006-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2006-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T08:03:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3327cf18cf148e17b3e87cfe04614ac530b270e7ea7759e516fd0f398b18f29d",
+  "bytes": 887648,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 20:25:58 GMT",
+  "etag": "\"16a0e81-d8b60-5d696203f2180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2006/2006-08-17_Zoning-Commission-August-17-2006-Special-Meeting-Minutes--3327cf18cf14.pdf",
+  "versions": [
+    {
+      "sha256": "3327cf18cf148e17b3e87cfe04614ac530b270e7ea7759e516fd0f398b18f29d",
+      "bytes": 887648,
+      "retrieved_utc": "2026-11-24T08:03:55+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 20:25:58 GMT"
+    }
+  ]
+}

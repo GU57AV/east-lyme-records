@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning May 21 1998 Amended & Corrected Minutes (pdf)",
+  "filename": "Zoning-May-21-1998-Amended-Corrected-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-May-21-1998-Amended-Corrected-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:08:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92573d1d037be69b67e1900a03e70ce6b8110f6a45f79cfb7ae035d10cddb92b",
+  "bytes": 168562,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:12:11 GMT",
+  "etag": "\"16a09c5-29272-5efe1cab394c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-05-21_Zoning-May-21-1998-Amended-Corrected-Minutes--92573d1d037b.pdf",
+  "versions": [
+    {
+      "sha256": "92573d1d037be69b67e1900a03e70ce6b8110f6a45f79cfb7ae035d10cddb92b",
+      "bytes": 168562,
+      "retrieved_utc": "2026-11-24T11:08:30+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:12:11 GMT"
+    }
+  ]
+}

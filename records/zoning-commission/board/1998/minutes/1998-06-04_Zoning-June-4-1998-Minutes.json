@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning June 4 1998 Minutes (pdf)",
+  "filename": "Zoning-June-4-1998-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-June-4-1998-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:08:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "624b10100b27858294ba7caedab51d7ee6a23432c7fdff0c7ee8d14f5d5238b2",
+  "bytes": 131480,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:12:44 GMT",
+  "etag": "\"16a08fa-20198-5efe1ccab1f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-06-04_Zoning-June-4-1998-Minutes--624b10100b27.pdf",
+  "versions": [
+    {
+      "sha256": "624b10100b27858294ba7caedab51d7ee6a23432c7fdff0c7ee8d14f5d5238b2",
+      "bytes": 131480,
+      "retrieved_utc": "2026-11-24T11:08:10+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:12:44 GMT"
+    }
+  ]
+}

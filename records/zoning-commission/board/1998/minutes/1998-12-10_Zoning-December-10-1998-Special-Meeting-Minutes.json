@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning December 10 1998 Special Meeting Minutes (pdf)",
+  "filename": "Zoning-December-10-1998-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-December-10-1998-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:02:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3adb4ea910e16b209a468e14cdb23913c38bd88632386b8e6a8e9c5a764941a8",
+  "bytes": 95926,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:18:22 GMT",
+  "etag": "\"16a0941-176b6-5efe1e0d09780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-12-10_Zoning-December-10-1998-Special-Meeting-Minutes--3adb4ea910e1.pdf",
+  "versions": [
+    {
+      "sha256": "3adb4ea910e16b209a468e14cdb23913c38bd88632386b8e6a8e9c5a764941a8",
+      "bytes": 95926,
+      "retrieved_utc": "2026-11-24T11:02:44+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:18:22 GMT"
+    }
+  ]
+}

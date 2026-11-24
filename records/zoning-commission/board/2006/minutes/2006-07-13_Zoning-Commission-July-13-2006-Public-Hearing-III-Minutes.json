@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2006",
+  "subcommittee": false,
+  "link_text": "Zoning Commission July 13 2006 Public Hearing III Minutes (pdf)",
+  "filename": "Zoning-Commission-July-13-2006-Public-Hearing-III-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-Commission-July-13-2006-Public-Hearing-III-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2006-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T08:06:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "58919fb36a23c0fc007361090b17ca0177f04305ab9030746269de0dfc06262e",
+  "bytes": 61083,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 20:24:31 GMT",
+  "etag": "\"16a0eaa-ee9b-5d6961b0f9dc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2006/2006-07-13_Zoning-Commission-July-13-2006-Public-Hearing-III-Minutes--58919fb36a23.pdf",
+  "versions": [
+    {
+      "sha256": "58919fb36a23c0fc007361090b17ca0177f04305ab9030746269de0dfc06262e",
+      "bytes": 61083,
+      "retrieved_utc": "2026-11-24T08:06:58+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 20:24:31 GMT"
+    }
+  ]
+}

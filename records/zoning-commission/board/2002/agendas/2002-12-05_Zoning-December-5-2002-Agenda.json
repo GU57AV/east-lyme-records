@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2002",
+  "subcommittee": false,
+  "link_text": "Zoning December 5 2002 Agenda (pdf)",
+  "filename": "Zoning-December-5-2002-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-December-5-2002-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2002-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T09:37:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d42670b93dd612d52a18b6f22d49940f508927ad0772a26830776f71d8669d40",
+  "bytes": 80741,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Dec 2022 20:05:14 GMT",
+  "etag": "\"16a09b1-13b65-5f033d65d7280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2002/2002-12-05_Zoning-December-5-2002-Agenda--d42670b93dd6.pdf",
+  "versions": [
+    {
+      "sha256": "d42670b93dd612d52a18b6f22d49940f508927ad0772a26830776f71d8669d40",
+      "bytes": 80741,
+      "retrieved_utc": "2026-11-24T09:37:18+00:00",
+      "http_last_modified": "Mon, 19 Dec 2022 20:05:14 GMT"
+    }
+  ]
+}

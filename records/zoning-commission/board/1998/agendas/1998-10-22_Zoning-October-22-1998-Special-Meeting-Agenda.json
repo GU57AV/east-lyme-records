@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1998",
+  "subcommittee": false,
+  "link_text": "Zoning October 22 1998 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-October-22-1998-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-October-22-1998-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1998-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:55:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d307bd2731e7e86f31be721059c6860d5ef1d934a66e0943ca09c1b13a9afad",
+  "bytes": 61741,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2022 18:05:45 GMT",
+  "etag": "\"16a091c-f12d-5efe1b3b1b040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1998/1998-10-22_Zoning-October-22-1998-Special-Meeting-Agenda--8d307bd2731e.pdf",
+  "versions": [
+    {
+      "sha256": "8d307bd2731e7e86f31be721059c6860d5ef1d934a66e0943ca09c1b13a9afad",
+      "bytes": 61741,
+      "retrieved_utc": "2026-11-24T10:55:37+00:00",
+      "http_last_modified": "Thu, 15 Dec 2022 18:05:45 GMT"
+    }
+  ]
+}

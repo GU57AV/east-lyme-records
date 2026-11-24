@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 24, 2026 2:06 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 24, 2026 7:07 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (8)
 
@@ -101,7 +101,7 @@ _Updated Nov 24, 2026 2:06 AM ET. Every archived document that mentions each wat
 - 2025-01-07 — Board of Selectmen: [BOS January 7 2025 Supporting Documentation (pdf)](../records/board-of-selectmen/board/2026/agendas/2025-01-07_BOS-January-7-2025-Supporting-Documentation.md) — “…it was revealed to members and to the general public that there are a series of automatic license plate readers positioned around town. This fact was curiously left out of our conversation on 1…”
 - 2023-01-19 — Zoning Commission: [Zoning Commission January 19 2023 Minutes (pdf)](../records/zoning-commission/board/2023/minutes/2023-01-19_Zoning-January-19-2023-Public-Hearing-Regular-Meeting-Minutes.md) — “…Mr. Hoger detailed the two unmanned pay stations they will have as well as the associated license plate readers that will be available to recognize patrons with a membership plan. iijriir,,rMs…”
 
-## surveillance (15)
+## surveillance (16)
 
 - 2026-11-18 — Board of Selectmen: [BOS November 18 2026 Public Hearing Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-11-18_BOS-November-18-2026-Public-Hearing-Minutes.md) — “…rs, Sept 16 - Ordinance 974.02(f): a plate with its time and location is "Not surveillance" Nov 4 perso…”
 - 2026-09-02 — Board of Selectmen: [BOS September 2 2026 Regular Meeting Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-09-02_BOS-September-2-2026-Minutes.md) — “…rst Selectmen met with several residents on September 1,2026 to discuss issues related to surveillance technology within the Town. Among the several matters discussed, two specific matters wer…”
@@ -118,8 +118,9 @@ _Updated Nov 24, 2026 2:06 AM ET. Every archived document that mentions each wat
 - 2017-02-15 — Board of Selectmen: [BOS February 15 2017 Special Meeting Minutes (pdf)](../records/board-of-selectmen/board/2017/minutes/2017-02-15_BOS-February-15-2017-Special-Meeting-Minutes.md) — “…along with at their Station 2 facility next to Bridebrook Park © We installed new video surveillance systems at not only the new fueling station at Capitol Drive but also at the Town Hall an…”
 - 2010-05-20 — Zoning Commission: [ZC Public Hearing Minutes 05-20-2010 (pdf)](../records/zoning-commission/board/2010/minutes/2010-05-20_ZC-Minutes-of-May-20-2010-Public-Hearing.md) — “…is was a 24 hour facility and discussed the key-card security on premise, including video surveillance and emergency panic alarm systems. Mr. Mulholland asked to clarify that the operation wou…”
 - 2007-09-20 — Zoning Commission: [Zoning Commission September 20 2007 Public Hearing I & II Minutes (pdf)](../records/zoning-commission/board/2007/minutes/2007-09-20_Zoning-Commission-September-20-2007-Public-Hearing-I-II-Minutes.md) — “…2 Ms. Marocola sald that the doors arp lockable and that they also have surveillance cemeras throughout the faoility. Mr. Nickerson explalned the publlc portlon of the publi…”
+- 2004-09-29 — Zoning Commission: [Zoning September 29 2004 Public Hearing I Minutes (pdf)](../records/zoning-commission/board/2004/minutes/2004-09-29_Zoning-September-29-2004-Public-Hearing-I-Minutes.md) — “…ng the road. This stretgh of roadway is listed on ConnDOT's Suggested List of Surveillance Study Sites (SLOSSS). This publication lists roadways that have a higher than…”
 
-## executive session (443)
+## executive session (447)
 
 - 2026-11-18 — Board of Selectmen: [BOS November 18 2026 Amended Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Amended-Agenda.md) — “…Report 5 Communications 6 Public Comment 7 Selectman's Response 8 Executive Session - For the Purpose of Discussing Real Estate Matters - Oswegatchie Hills 9 Adj…”
 - 2026-10-07 — Board of Selectmen: [BOS October 7 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-10-07_BOS-October-7-2026-Agenda.md) — “…5. Communications 6 Public Comment 7 Selectman's Response 8 Executive Session - for the purpose of discussing potential litigation and real estate matters. 9…”

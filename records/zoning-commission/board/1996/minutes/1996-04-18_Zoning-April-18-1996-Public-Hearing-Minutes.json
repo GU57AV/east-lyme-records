@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning April 18 1996 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-April-18-1996-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-April-18-1996-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:44:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d81215bb441bb1e2a8c359d757e7eb40f5947a2d0997ef83cda43fa89d5d33b8",
+  "bytes": 140128,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 16:55:16 GMT",
+  "etag": "\"16c245c-22360-5f1ffdd576500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-04-18_Zoning-April-18-1996-Public-Hearing-Minutes--d81215bb441b.pdf",
+  "versions": [
+    {
+      "sha256": "d81215bb441bb1e2a8c359d757e7eb40f5947a2d0997ef83cda43fa89d5d33b8",
+      "bytes": 140128,
+      "retrieved_utc": "2026-11-24T11:44:26+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 16:55:16 GMT"
+    }
+  ]
+}

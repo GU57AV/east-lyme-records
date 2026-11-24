@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2001",
+  "subcommittee": false,
+  "link_text": "Zoning June 7 2001 Agenda (pdf)",
+  "filename": "Zoning-June-7-2001-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Zoning-June-7-2001-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2001-agendas/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T10:04:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2a4557ae2e1592ce27a635ccaa935d40b8b51f123223a039b087090c8cfdcb2",
+  "bytes": 54967,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jul 2022 19:28:11 GMT",
+  "etag": "\"16a1456-d6b7-5e469d5aae8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2001/2001-06-07_Zoning-June-7-2001-Agenda--b2a4557ae2e1.pdf",
+  "versions": [
+    {
+      "sha256": "b2a4557ae2e1592ce27a635ccaa935d40b8b51f123223a039b087090c8cfdcb2",
+      "bytes": 54967,
+      "retrieved_utc": "2026-11-24T10:04:05+00:00",
+      "http_last_modified": "Fri, 22 Jul 2022 19:28:11 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1997",
+  "subcommittee": false,
+  "link_text": "Zoning February 6 1997 Agenda (pdf)",
+  "filename": "Zoning-February-6-1997-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-February-6-1997-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1997-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:20:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a54a4011a5be20c61dfa2f2f1d5a529023966741713003d17c7a3b6a6d6ef59e",
+  "bytes": 89917,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Dec 2022 20:31:32 GMT",
+  "etag": "\"16a099e-15f3d-5f05c701a9100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1997/1997-02-06_Zoning-February-6-1997-Agenda--a54a4011a5be.pdf",
+  "versions": [
+    {
+      "sha256": "a54a4011a5be20c61dfa2f2f1d5a529023966741713003d17c7a3b6a6d6ef59e",
+      "bytes": 89917,
+      "retrieved_utc": "2026-11-24T11:20:01+00:00",
+      "http_last_modified": "Wed, 21 Dec 2022 20:31:32 GMT"
+    }
+  ]
+}

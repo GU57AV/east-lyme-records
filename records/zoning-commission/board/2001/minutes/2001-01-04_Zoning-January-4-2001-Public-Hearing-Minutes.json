@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2001",
+  "subcommittee": false,
+  "link_text": "Zoning January 4 2001 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-January-4-2001-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Zoning-January-4-2001-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2001-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T10:16:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f29a1cd97abc1ba9c4c5c71511c742d5328908590ac5e983cfe976822599c53",
+  "bytes": 323896,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jul 2022 19:34:19 GMT",
+  "etag": "\"16a145a-4f138-5e469eb9a24c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2001/2001-01-04_Zoning-January-4-2001-Public-Hearing-Minutes--7f29a1cd97ab.pdf",
+  "versions": [
+    {
+      "sha256": "7f29a1cd97abc1ba9c4c5c71511c742d5328908590ac5e983cfe976822599c53",
+      "bytes": 323896,
+      "retrieved_utc": "2026-11-24T10:16:38+00:00",
+      "http_last_modified": "Fri, 22 Jul 2022 19:34:19 GMT"
+    }
+  ]
+}

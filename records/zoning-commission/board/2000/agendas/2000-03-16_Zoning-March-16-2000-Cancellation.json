@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2000",
+  "subcommittee": false,
+  "link_text": "Zoning March 16 2000 Cancellation (pdf)",
+  "filename": "Zoning-March-16-2000-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Zoning-March-16-2000-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2000-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T10:22:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "14e5ac1dfd54e5b404d0f187ad4f8beff0a97dff093827a465e93cae785c55a1",
+  "bytes": 34277,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 14:58:04 GMT",
+  "etag": "\"16a0f37-85e5-5e20a906a7700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2000/2000-03-16_Zoning-March-16-2000-Cancellation--14e5ac1dfd54.pdf",
+  "versions": [
+    {
+      "sha256": "14e5ac1dfd54e5b404d0f187ad4f8beff0a97dff093827a465e93cae785c55a1",
+      "bytes": 34277,
+      "retrieved_utc": "2026-11-24T10:22:23+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 14:58:04 GMT"
+    }
+  ]
+}

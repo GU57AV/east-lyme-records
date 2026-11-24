@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1999",
+  "subcommittee": false,
+  "link_text": "Zoning June 17 1999 Minutes (pdf)",
+  "filename": "Zoning-June-17-1999-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-June-17-1999-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1999-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:49:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "64875f19de68db6530267c372993a6e73ad441e1adc5055c4a341a2eaa3608ea",
+  "bytes": 195764,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Dec 2022 20:44:00 GMT",
+  "etag": "\"16a09b9-2fcb4-5f0487ed8c400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1999/1999-06-17_Zoning-June-17-1999-Minutes--64875f19de68.pdf",
+  "versions": [
+    {
+      "sha256": "64875f19de68db6530267c372993a6e73ad441e1adc5055c4a341a2eaa3608ea",
+      "bytes": 195764,
+      "retrieved_utc": "2026-11-24T10:49:31+00:00",
+      "http_last_modified": "Tue, 20 Dec 2022 20:44:00 GMT"
+    }
+  ]
+}

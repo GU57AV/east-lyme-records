@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2000",
+  "subcommittee": false,
+  "link_text": "Zoning January 20 2000 Agenda (pdf)",
+  "filename": "Zoning-January-20-2000-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Zoning-January-20-2000-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2000-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T10:24:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3994581d26320f97b91f623b3bed5a4219f48b797500dcb508a0db722ecd6074",
+  "bytes": 60733,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 14:54:36 GMT",
+  "etag": "\"16a0f49-ed3d-5e20a8404a300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2000/2000-01-20_Zoning-January-20-2000-Agenda--3994581d2632.pdf",
+  "versions": [
+    {
+      "sha256": "3994581d26320f97b91f623b3bed5a4219f48b797500dcb508a0db722ecd6074",
+      "bytes": 60733,
+      "retrieved_utc": "2026-11-24T10:24:25+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 14:54:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2003",
+  "subcommittee": false,
+  "link_text": "Zoning March 20 2003 Agenda (pdf)",
+  "filename": "Zoning-March-20-2003-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-March-20-2003-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2003-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T09:18:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6501f04afa59be4cd31825e575302a99c51f640e181f81889e8f2351c58eed50",
+  "bytes": 60127,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Apr 2022 17:48:12 GMT",
+  "etag": "\"16a1292-eadf-5dc2832c30f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2003/2003-03-20_Zoning-March-20-2003-Agenda--6501f04afa59.pdf",
+  "versions": [
+    {
+      "sha256": "6501f04afa59be4cd31825e575302a99c51f640e181f81889e8f2351c58eed50",
+      "bytes": 60127,
+      "retrieved_utc": "2026-11-24T09:18:38+00:00",
+      "http_last_modified": "Fri, 08 Apr 2022 17:48:12 GMT"
+    }
+  ]
+}

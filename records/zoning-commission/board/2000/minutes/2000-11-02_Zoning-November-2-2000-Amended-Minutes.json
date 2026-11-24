@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2000",
+  "subcommittee": false,
+  "link_text": "Zoning November 2 2000 Amended Minutes (pdf)",
+  "filename": "Zoning-November-2-2000-Amended-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Zoning-November-2-2000-Amended-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2000-minutes/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T10:25:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5137e0dab5806b65117b01f5ae356e79b4d2f7f3bc0fac2118f2dc56329a742e",
+  "bytes": 330891,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 15:35:00 GMT",
+  "etag": "\"16a0edc-50c8b-5e20b147ff100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2000/2000-11-02_Zoning-November-2-2000-Amended-Minutes--5137e0dab580.pdf",
+  "versions": [
+    {
+      "sha256": "5137e0dab5806b65117b01f5ae356e79b4d2f7f3bc0fac2118f2dc56329a742e",
+      "bytes": 330891,
+      "retrieved_utc": "2026-11-24T10:25:46+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 15:35:00 GMT"
+    }
+  ]
+}

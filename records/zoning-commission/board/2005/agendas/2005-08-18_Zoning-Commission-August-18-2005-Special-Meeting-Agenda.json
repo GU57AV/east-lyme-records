@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 18 2005 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-Commission-August-18-2005-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-August-18-2005-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:23:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "77ac3747a3f1968d021f73a3b3a45b2264a2122ebdee8a098ebd66493e7bd612",
+  "bytes": 96824,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:53:59 GMT",
+  "etag": "\"16a0fd4-17a38-5d6f96c7ebfc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-08-18_Zoning-Commission-August-18-2005-Special-Meeting-Agenda--77ac3747a3f1.pdf",
+  "versions": [
+    {
+      "sha256": "77ac3747a3f1968d021f73a3b3a45b2264a2122ebdee8a098ebd66493e7bd612",
+      "bytes": 96824,
+      "retrieved_utc": "2026-11-24T08:23:36+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:53:59 GMT"
+    }
+  ]
+}

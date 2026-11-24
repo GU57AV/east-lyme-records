@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2001",
+  "subcommittee": false,
+  "link_text": "Zoning August 2 2001 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-August-2-2001-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Zoning-August-2-2001-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2001-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T10:11:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "626ac343d47679e143d0ea63514c6c35608ff11d1d6c7db6d62e88ddcdd3c47a",
+  "bytes": 212259,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jul 2022 19:38:12 GMT",
+  "etag": "\"16a13e7-33d23-5e469f97d7100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2001/2001-08-02_Zoning-August-2-2001-Meeting-Minutes--626ac343d476.pdf",
+  "versions": [
+    {
+      "sha256": "626ac343d47679e143d0ea63514c6c35608ff11d1d6c7db6d62e88ddcdd3c47a",
+      "bytes": 212259,
+      "retrieved_utc": "2026-11-24T10:11:12+00:00",
+      "http_last_modified": "Fri, 22 Jul 2022 19:38:12 GMT"
+    }
+  ]
+}

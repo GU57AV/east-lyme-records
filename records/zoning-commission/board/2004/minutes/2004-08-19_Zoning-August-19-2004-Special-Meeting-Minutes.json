@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2004",
+  "subcommittee": false,
+  "link_text": "Zoning August 19 2004 Special Meeting Minutes (pdf)",
+  "filename": "Zoning-August-19-2004-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-August-19-2004-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2004-minutes/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T09:04:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c018520e8021c7597b3b94437a6e24d1f61e6c5f33c19b70133b65a35150c19c",
+  "bytes": 99792,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Apr 2022 18:22:23 GMT",
+  "etag": "\"16a123f-185d0-5dc00715415c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2004/2004-08-19_Zoning-August-19-2004-Special-Meeting-Minutes--c018520e8021.pdf",
+  "versions": [
+    {
+      "sha256": "c018520e8021c7597b3b94437a6e24d1f61e6c5f33c19b70133b65a35150c19c",
+      "bytes": 99792,
+      "retrieved_utc": "2026-11-24T09:04:22+00:00",
+      "http_last_modified": "Wed, 06 Apr 2022 18:22:23 GMT"
+    }
+  ]
+}

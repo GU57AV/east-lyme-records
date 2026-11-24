@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2004",
+  "subcommittee": false,
+  "link_text": "Zoning July 8 2004 Agenda (pdf)",
+  "filename": "Zoning-July-8-2004-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-July-8-2004-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2004-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T08:55:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3dee016f1fce59689a8b6f797eeaaf07bb3a27b61fdf015f47234b6b791b3131",
+  "bytes": 78792,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Apr 2022 17:25:50 GMT",
+  "etag": "\"16a1322-133c8-5dbffa7170380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2004/2004-07-08_Zoning-July-8-2004-Agenda--3dee016f1fce.pdf",
+  "versions": [
+    {
+      "sha256": "3dee016f1fce59689a8b6f797eeaaf07bb3a27b61fdf015f47234b6b791b3131",
+      "bytes": 78792,
+      "retrieved_utc": "2026-11-24T08:55:11+00:00",
+      "http_last_modified": "Wed, 06 Apr 2022 17:25:50 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning September 5 1996 Cancellation (pdf)",
+  "filename": "Zoning-September-5-1996-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-September-5-1996-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:32:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b61ac9dfc0bcaabba42b56b808a53dcc1fcf06ed9986cdb08ce505630d5f2301",
+  "bytes": 31536,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 15:05:18 GMT",
+  "etag": "\"16c24a8-7b30-5f1fe5411e780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-09-05_Zoning-September-5-1996-Cancellation--b61ac9dfc0bc.pdf",
+  "versions": [
+    {
+      "sha256": "b61ac9dfc0bcaabba42b56b808a53dcc1fcf06ed9986cdb08ce505630d5f2301",
+      "bytes": 31536,
+      "retrieved_utc": "2026-11-24T11:32:14+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 15:05:18 GMT"
+    }
+  ]
+}

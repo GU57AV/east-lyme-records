@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1999",
+  "subcommittee": false,
+  "link_text": "Zoning May 20 1999 Agenda (pdf)",
+  "filename": "Zoning-May-20-1999-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-May-20-1999-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1999-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:39:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "42f742a21b75ff20108c4250818e8ca36f9188ef606eb13ba5b4ba3c86d76189",
+  "bytes": 75343,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Dec 2022 20:31:46 GMT",
+  "etag": "\"16a098e-1264f-5f0485318d080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1999/1999-05-20_Zoning-May-20-1999-Agenda--42f742a21b75.pdf",
+  "versions": [
+    {
+      "sha256": "42f742a21b75ff20108c4250818e8ca36f9188ef606eb13ba5b4ba3c86d76189",
+      "bytes": 75343,
+      "retrieved_utc": "2026-11-24T10:39:20+00:00",
+      "http_last_modified": "Tue, 20 Dec 2022 20:31:46 GMT"
+    }
+  ]
+}

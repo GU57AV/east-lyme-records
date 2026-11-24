@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1999",
+  "subcommittee": false,
+  "link_text": "Zoning March 4 1999 Minutes (pdf)",
+  "filename": "Zoning-March-4-1999-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-March-4-1999-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1999-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T10:52:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8c76f4a348fcae711763e881c58e6da7e03b4e8cc7c0c9f59f0e76c9726cadd6",
+  "bytes": 294354,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Dec 2022 20:42:40 GMT",
+  "etag": "\"16a095a-47dd2-5f0487a141000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1999/1999-03-04_Zoning-March-4-1999-Minutes--8c76f4a348fc.pdf",
+  "versions": [
+    {
+      "sha256": "8c76f4a348fcae711763e881c58e6da7e03b4e8cc7c0c9f59f0e76c9726cadd6",
+      "bytes": 294354,
+      "retrieved_utc": "2026-11-24T10:52:55+00:00",
+      "http_last_modified": "Tue, 20 Dec 2022 20:42:40 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2003",
+  "subcommittee": false,
+  "link_text": "Zoning May 15 2003 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-May-15-2003-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-May-15-2003-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2003-minutes/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T09:32:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e080320cd5382532b165bd4a888f14e33120f29c4d4cb6215b58a445a1437636",
+  "bytes": 511494,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Apr 2022 17:55:37 GMT",
+  "etag": "\"16a12a3-7ce06-5dc284d493840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2003/2003-05-15_Zoning-May-15-2003-Public-Hearing-Minutes--e080320cd538.pdf",
+  "versions": [
+    {
+      "sha256": "e080320cd5382532b165bd4a888f14e33120f29c4d4cb6215b58a445a1437636",
+      "bytes": 511494,
+      "retrieved_utc": "2026-11-24T09:32:12+00:00",
+      "http_last_modified": "Fri, 08 Apr 2022 17:55:37 GMT"
+    }
+  ]
+}

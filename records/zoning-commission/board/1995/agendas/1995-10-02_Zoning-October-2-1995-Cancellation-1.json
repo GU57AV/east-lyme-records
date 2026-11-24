@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning October 2 1995 Cancellation (pdf)",
+  "filename": "Zoning-October-2-1995-Cancellation-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-October-2-1995-Cancellation-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:47:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f52e58fd4c6f583314fffb31120d9a21478b6d5906270319a7958a51263851b0",
+  "bytes": 29080,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:27:05 GMT",
+  "etag": "\"16c24ac-7198-5f30856cb3840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-10-02_Zoning-October-2-1995-Cancellation-1--f52e58fd4c6f.pdf",
+  "versions": [
+    {
+      "sha256": "f52e58fd4c6f583314fffb31120d9a21478b6d5906270319a7958a51263851b0",
+      "bytes": 29080,
+      "retrieved_utc": "2026-11-24T11:47:08+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:27:05 GMT"
+    }
+  ]
+}

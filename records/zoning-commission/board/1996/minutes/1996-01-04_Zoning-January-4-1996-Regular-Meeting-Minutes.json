@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning January 4 1996 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-January-4-1996-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-January-4-1996-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:45:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5da8ea48497fb98136452db49b543297b9c4b3f62587465920db719ac7479347",
+  "bytes": 186961,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 16:54:37 GMT",
+  "etag": "\"16c24c6-2da51-5f1ffdb044d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-01-04_Zoning-January-4-1996-Regular-Meeting-Minutes--5da8ea48497f.pdf",
+  "versions": [
+    {
+      "sha256": "5da8ea48497fb98136452db49b543297b9c4b3f62587465920db719ac7479347",
+      "bytes": 186961,
+      "retrieved_utc": "2026-11-24T11:45:27+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 16:54:37 GMT"
+    }
+  ]
+}

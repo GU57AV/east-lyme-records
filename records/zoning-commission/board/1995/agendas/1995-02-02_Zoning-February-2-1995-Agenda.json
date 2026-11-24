@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1995",
+  "subcommittee": false,
+  "link_text": "Zoning February 2 1995 Agenda (pdf)",
+  "filename": "Zoning-February-2-1995-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-February-2-1995-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1995-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:54:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "332279a33b19d4ed4d77325c4b9d4e36d58510c13c5251f9946c225666d98868",
+  "bytes": 72392,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Jan 2023 20:14:25 GMT",
+  "etag": "\"16c23f8-11ac8-5f308297e8a40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1995/1995-02-02_Zoning-February-2-1995-Agenda--332279a33b19.pdf",
+  "versions": [
+    {
+      "sha256": "332279a33b19d4ed4d77325c4b9d4e36d58510c13c5251f9946c225666d98868",
+      "bytes": 72392,
+      "retrieved_utc": "2026-11-24T11:54:55+00:00",
+      "http_last_modified": "Tue, 24 Jan 2023 20:14:25 GMT"
+    }
+  ]
+}

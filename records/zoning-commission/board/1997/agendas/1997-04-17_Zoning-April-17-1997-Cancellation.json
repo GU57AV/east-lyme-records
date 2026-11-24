@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1997",
+  "subcommittee": false,
+  "link_text": "Zoning April 17 1997 Cancellation (pdf)",
+  "filename": "Zoning-April-17-1997-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-April-17-1997-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1997-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T11:17:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "18dedf1304b888c0438a53292653a6fa0a25f5d095650f0133d9fb4fb798d2b7",
+  "bytes": 31832,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Dec 2022 20:33:02 GMT",
+  "etag": "\"16a0982-7c58-5f05c7577db80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1997/1997-04-17_Zoning-April-17-1997-Cancellation--18dedf1304b8.pdf",
+  "versions": [
+    {
+      "sha256": "18dedf1304b888c0438a53292653a6fa0a25f5d095650f0133d9fb4fb798d2b7",
+      "bytes": 31832,
+      "retrieved_utc": "2026-11-24T11:17:39+00:00",
+      "http_last_modified": "Wed, 21 Dec 2022 20:33:02 GMT"
+    }
+  ]
+}

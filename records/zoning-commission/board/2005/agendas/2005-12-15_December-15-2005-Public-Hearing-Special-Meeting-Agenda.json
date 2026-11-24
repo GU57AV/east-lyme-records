@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2005",
+  "subcommittee": false,
+  "link_text": "Zoning Commission December 15 2005 Agenda (pdf)",
+  "filename": "December-15-2005-Public-Hearing-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/December-15-2005-Public-Hearing-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2005-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T08:20:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f26b699e3627c57adc1df33e555c7de76c91e885f051e75301b31e89b6cb9c7f",
+  "bytes": 76606,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Feb 2022 18:56:53 GMT",
+  "etag": "\"16a0fe1-12b3e-5d6f976ddc740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2005/2005-12-15_December-15-2005-Public-Hearing-Special-Meeting-Agenda--f26b699e3627.pdf",
+  "versions": [
+    {
+      "sha256": "f26b699e3627c57adc1df33e555c7de76c91e885f051e75301b31e89b6cb9c7f",
+      "bytes": 76606,
+      "retrieved_utc": "2026-11-24T08:20:13+00:00",
+      "http_last_modified": "Tue, 01 Feb 2022 18:56:53 GMT"
+    }
+  ]
+}

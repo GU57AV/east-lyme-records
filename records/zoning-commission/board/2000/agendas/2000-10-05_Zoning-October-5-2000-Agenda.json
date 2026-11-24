@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2000",
+  "subcommittee": false,
+  "link_text": "Zoning October 5 2000 Agenda (pdf)",
+  "filename": "Zoning-October-5-2000-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Zoning-October-5-2000-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2000-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T10:18:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2444d35430807c29c1758920bad127443a8d062b81f7f0f5c969a38ba5fbc4f",
+  "bytes": 51018,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Jun 2022 15:06:59 GMT",
+  "etag": "\"16a0f0c-c74a-5e20ab04deac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2000/2000-10-05_Zoning-October-5-2000-Agenda--b2444d354308.pdf",
+  "versions": [
+    {
+      "sha256": "b2444d35430807c29c1758920bad127443a8d062b81f7f0f5c969a38ba5fbc4f",
+      "bytes": 51018,
+      "retrieved_utc": "2026-11-24T10:18:20+00:00",
+      "http_last_modified": "Wed, 22 Jun 2022 15:06:59 GMT"
+    }
+  ]
+}

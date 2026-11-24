@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2001",
+  "subcommittee": false,
+  "link_text": "Zoning November 15 2001 Cancellation (pdf)",
+  "filename": "Zoning-November-15-2001-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Zoning-November-15-2001-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2001-agendas/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T10:00:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "469eb9d8a7810a981898ad74f50dbc6427659cae8d12863ac5719201b6850848",
+  "bytes": 38765,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Jul 2022 19:29:44 GMT",
+  "etag": "\"16a1459-976d-5e469db35fa00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2001/2001-11-15_Zoning-November-15-2001-Cancellation--469eb9d8a781.pdf",
+  "versions": [
+    {
+      "sha256": "469eb9d8a7810a981898ad74f50dbc6427659cae8d12863ac5719201b6850848",
+      "bytes": 38765,
+      "retrieved_utc": "2026-11-24T10:00:42+00:00",
+      "http_last_modified": "Fri, 22 Jul 2022 19:29:44 GMT"
+    }
+  ]
+}

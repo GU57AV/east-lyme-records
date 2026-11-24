@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1996",
+  "subcommittee": false,
+  "link_text": "Zoning April 18 1996 Agenda (pdf)",
+  "filename": "Zoning-April-18-1996-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-April-18-1996-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1996-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T11:36:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "20f2910a270dbcac1c6fee32e24a515365048c438e4c7b6b9999b6728910af47",
+  "bytes": 79368,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 14:51:16 GMT",
+  "etag": "\"16c24b9-13608-5f1fe21e20100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1996/1996-04-18_Zoning-April-18-1996-Agenda--20f2910a270d.pdf",
+  "versions": [
+    {
+      "sha256": "20f2910a270dbcac1c6fee32e24a515365048c438e4c7b6b9999b6728910af47",
+      "bytes": 79368,
+      "retrieved_utc": "2026-11-24T11:36:38+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 14:51:16 GMT"
+    }
+  ]
+}

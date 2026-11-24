@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2002",
+  "subcommittee": false,
+  "link_text": "Zoning December 5 2002 Cancellation (pdf)",
+  "filename": "Zoning-December-5-2002-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Zoning-December-5-2002-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2002-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T09:36:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4a379493baa4d61d3db7d3b295144397fb16ebc788b002224a9bdbf3cee8e3e3",
+  "bytes": 32614,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Dec 2022 20:05:14 GMT",
+  "etag": "\"16a0979-7f66-5f033d65d7280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2002/2002-12-05_Zoning-December-5-2002-Cancellation--4a379493baa4.pdf",
+  "versions": [
+    {
+      "sha256": "4a379493baa4d61d3db7d3b295144397fb16ebc788b002224a9bdbf3cee8e3e3",
+      "bytes": 32614,
+      "retrieved_utc": "2026-11-24T09:36:58+00:00",
+      "http_last_modified": "Mon, 19 Dec 2022 20:05:14 GMT"
+    }
+  ]
+}
