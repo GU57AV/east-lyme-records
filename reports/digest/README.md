@@ -1,0 +1,8 @@
+# Weekly digests
+
+What happened each week (Monday to Sunday) in East Lyme's boards and commissions, as seen by this archive: meetings on the Town calendar, documents newly posted, documents changed or removed, and alerts. Subscribe to new digests with the RSS feed [feeds/digest.xml](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml).
+
+| Week | At a glance |
+|---|---|
+| [Week of Nov 23–29, 2026](2026-W48.md) | 4 meetings on the calendar · 1 new document · 0 changed or removed · 2 alerts |
+| [Week of Nov 16–22, 2026](2026-W47.md) | 11 meetings on the calendar · 0 new documents · 0 changed or removed · 0 alerts |

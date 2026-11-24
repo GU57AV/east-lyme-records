@@ -1,6 +1,6 @@
 # Ordinance enactments: notice and publication check
 
-_Updated 2026-11-24 22:10 UTC._
+_Updated 2026-11-24 23:19 UTC._
 
 Every Board of Selectmen vote enacting an ordinance that the archive can read in the minutes, checked against the Charter:
 
@@ -169,12 +169,9 @@ Every Board of Selectmen vote enacting an ordinance that the archive can read in
 - **Hearing(s):** Mar 6, 2024
 - **Hearing notice / proposed text (§ 3.4.2):** [BOS March 6 2024 Public Hearing Notice (pdf)](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2024/agendas/2024-03-06_BOS-March-6-2024-Public-Hearing-Notice.md) — server file date Feb 22, 2024 (upload folder 2024-02)
 - **Notice of adoption (§ 3.4.3):** [Notice of Adoption Of Ordinance Establishing The East Lyme Grants Fund](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-finance/board/2024/other/2024-03-00_Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund.md) — server file date Mar 12, 2024 (upload folder 2024-03)
-- **Full text posted after adoption:** not found in the archive
+- **Full text posted after adoption:** [Notice of Adoption Of Ordinance Establishing The East Lyme Grants Fund](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-finance/board/2024/other/2024-03-00_Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund.md) — server file date Mar 12, 2024 (upload folder 2024-03)
 - **Earliest lawful effective date** (10 days after the notice above): Mar 22, 2024
 - **Overrule petition window** (§ 3.4.3, 200 electors, filed with the Town Clerk): within 10 days after publication, i.e. about Mar 22, 2024; confirm the exact date with the Clerk
-
-**To review:**
-- no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive
 
 ## February 21, 2024: PEDDLING
 

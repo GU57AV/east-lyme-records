@@ -197,7 +197,7 @@
       "Meetings"
     ],
     "_aliases_help": "Calendar title pattern (case-insensitive regex) -> board slug, checked in order. 'note' puts findings under 'For review' instead of flags (used for subcommittees whose agendas may be posted elsewhere).",
-    "exclude": "referendum|primary|election|\\bfair\\b|night out|parade|fireworks|lecture|seminar|stroll|craft show|celebrate|swearing|touch-a-truck|ballpark|potluck|awards|\\bband\\b",
+    "exclude": "referendum|primary|election|\\bfair\\b(?!\\s+rent)|night out|parade|fireworks|lecture|seminar|stroll|craft show|celebrate|swearing|touch-a-truck|ballpark|potluck|awards|\\bband\\b",
     "aliases": [
       [
         "\\bWELSCO\\b|Waterford.{0,6}East Lyme Shellfish",

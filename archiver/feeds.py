@@ -5,6 +5,7 @@
                        notices, documents changed or removed, new Code editions
   feeds/reminders.xml  heads-up reminders a day before a posting deadline
   feeds/calendar.xml   Town calendar changes: meetings added, rescheduled, cancelled or removed
+  feeds/digest.xml     a weekly digest, announced when each week (Monday to Sunday) ends
 
 Subscribe in any feed reader with the "raw" address, e.g.
 https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/documents.xml
@@ -33,6 +34,8 @@ FEEDS = {
                "documents. Automatic leads to review, not findings."),
     "reminders": ("East Lyme records: deadline reminders",
                   "Heads-up about a day before an agenda or minutes posting deadline that hasn't been met yet."),
+    "digest": ("East Lyme records: weekly digest",
+               "A weekly summary of meetings, newly posted documents, changes and alerts."),
     "calendar": ("East Lyme records: Town calendar changes",
                  "Meetings added to, changed on, or removed from the Town calendar."),
 }
@@ -113,7 +116,7 @@ def recorded(feed: str) -> list[str]:
 
 def main() -> int:
     write("documents", documents_feed())
-    for name in ("alerts", "reminders", "calendar"):
+    for name in ("alerts", "reminders", "calendar", "digest"):
         write(name, recorded(name))
     print("feeds: " + ", ".join(f"{p.name}" for p in sorted(OUT.glob("*.xml"))))
     return 0

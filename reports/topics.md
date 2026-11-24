@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 24, 2026 5:10 PM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 24, 2026 6:19 PM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (10)
 

@@ -13,7 +13,8 @@ remains the official source.
 | [Searchable database (SQLite)](https://github.com/GU57AV/east-lyme-records/releases/download/download/east-lyme-records.sqlite) | All of the above in one file with full-text search | Free [DB Browser for SQLite](https://sqlitebrowser.org) |
 
 **Want to follow along?** Paste one of these into any news-reader (RSS) app: [new documents](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/documents.xml) ·
-[alerts](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/alerts.xml) · [deadline reminders](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml) · [Town calendar changes](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml).
+[alerts](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/alerts.xml) · [deadline reminders](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml) · [Town calendar changes](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml) ·
+[weekly digest](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml).
 See [Getting updates](#getting-updates).
 
 ## Start here: how to use this archive (plain English)
@@ -223,6 +224,17 @@ Two automatic reports are built from what the archive records:
   The calendar isn't the legal notice of a meeting (that's the notice filed with the Town Clerk), and
   entries can change, so these are leads, not proof.
 
+- **[Weekly digest](https://github.com/GU57AV/east-lyme-records/tree/main/reports/digest).** One page per week (Monday to Sunday): the meetings on
+  the Town calendar with whether agendas and minutes are up, documents newly posted, documents the Town changed
+  or removed, the archive's alerts, and next week's meetings. The current week updates as it goes; each
+  finished week is announced in the [digest feed](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml).
+- **[Transparency scorecard](https://github.com/GU57AV/east-lyme-records/blob/main/reports/scorecard.md).** For each board whose history is fully
+  imported: how often an agenda was posted, how often it was up 24 hours ahead, how often minutes were posted,
+  how often within seven days, and the typical number of days to minutes, for the last 12 months and since
+  2024, with the specific meetings behind each miss. Older posting times come from the Town server's file
+  dates, which show when the file now online was uploaded, so draft minutes later replaced by a new file can
+  make a board look slower than it was.
+
 When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
 **issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
 [Getting updates](#getting-updates)), you get those by email.
@@ -262,6 +274,7 @@ first import of a large board takes a while.
   - **Deadline reminders:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/reminders.xml`, a heads-up about a day before an agenda or
     minutes deadline that hasn't been met yet.
   - **Town calendar changes:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml`, meetings added, moved, cancelled or removed.
+  - **Weekly digest:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml`, a summary of each week's meetings, new documents and alerts.
 
   The documents feed only lists documents posted after this archive started watching each board, so it
   starts out short. For every saved change, technical or not, there's also the

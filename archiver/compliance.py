@@ -276,20 +276,63 @@ def covered_boards(cfg: dict) -> set:
     return got
 
 
+def calendar_entries(cfg: dict, by_file: dict):
+    """Every current Town calendar meeting entry, matched to a board.
+
+    by_file maps lowercase archived file names to (sidecar, metadata), so an entry that links an
+    agenda the archive holds is assigned to that document's board. Shared by the calendar
+    cross-check and the scorecard so both count meetings the same way."""
+    import towncal
+    c = cfg.get("calendar") or {}
+    if not c:
+        return
+    aliases = c.get("aliases", [])
+    excl = re.compile(c.get("exclude", r"$^"), re.I)
+    cats = set(c.get("categories") or [])
+    for e in towncal.all_entries():
+        if e.get("removed_utc") or not e.get("begin"):
+            continue
+        title = e.get("title", "")
+        if (cats and e.get("category") not in cats) or excl.search(title):
+            continue
+        try:
+            begin = dt.datetime.strptime(e["begin"], "%Y-%m-%d %H:%M").replace(tzinfo=ET)
+        except ValueError:
+            continue
+        try:
+            added = dt.datetime.strptime(e["added"], "%Y-%m-%d %H:%M").replace(tzinfo=ET) if e.get("added") else None
+        except ValueError:
+            added = None
+        linkbase = (e.get("link") or "").rsplit("/", 1)[-1].lower()
+        linked = by_file.get(linkbase) if linkbase else None
+        slug, level = None, "flag"
+        for a in aliases:
+            if re.search(a[0], title, re.I):
+                slug, level = a[1], (a[2] if len(a) > 2 else "flag")
+                break
+        if linked:
+            slug = linked[1]["board"]
+        d = begin.date()
+        yield {"e": e, "title": title, "begin": begin, "added": added, "d": d, "linkbase": linkbase,
+               "linked": linked, "slug": slug, "level": level,
+               "cancelled": bool(re.search(r"cancel", title + " " + linkbase, re.I)),
+               "special": bool(re.search(r"special|emergency", title, re.I)),
+               "retro": bool(added and added.date() > d),
+               "hearing": bool(re.search(r"hearing", title, re.I)
+                               and not re.search(r"immed|follow|regular meeting|&", title, re.I)),
+               "link_only": bool(linkbase) and not linked and linkbase.endswith((".pdf", ".doc", ".docx"))}
+
+
 def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
     """Cross-check the Town calendar against posted agendas and minutes.
 
     Returns (flags, notes, upcoming_items, summary). A calendar entry is matched to a posted
     agenda first by the agenda file it links to, then by board and date. Entries created after
     their own meeting date are ignored (they are corrections or mistakes, not notice)."""
-    import towncal
     c = cfg.get("calendar") or {}
     if not c:
         return [], [], [], {}
     covered = covered_boards(cfg)
-    aliases = c.get("aliases", [])
-    excl = re.compile(c.get("exclude", r"$^"), re.I)
-    cats = set(c.get("categories") or [])
     since = dt.date.fromisoformat(c.get("flag_since", "2024-01-01"))
     today = now.astimezone(ET).date()
     name = lambda b: boards.get(b, b)
@@ -308,40 +351,17 @@ def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
             minutes.add((m["board"], d, mtype(m)))
     flags, notes, soon = [], [], []
     summary = {"entries": 0, "matched": 0, "unmatched": {}, "not_covered": {}, "retroactive": 0, "rows": []}
-    for e in towncal.all_entries():
-        if e.get("removed_utc") or not e.get("begin"):
-            continue
-        title = e.get("title", "")
-        if (cats and e.get("category") not in cats) or excl.search(title):
-            continue
-        try:
-            begin = dt.datetime.strptime(e["begin"], "%Y-%m-%d %H:%M").replace(tzinfo=ET)
-        except ValueError:
-            continue
-        try:
-            added = dt.datetime.strptime(e["added"], "%Y-%m-%d %H:%M").replace(tzinfo=ET) if e.get("added") else None
-        except ValueError:
-            added = None
-        d = begin.date()
+    for ce in calendar_entries(cfg, by_file):
+        e, title, begin, added, d = ce["e"], ce["title"], ce["begin"], ce["added"], ce["d"]
+        linkbase, linked, cancelled, special = ce["linkbase"], ce["linked"], ce["cancelled"], ce["special"]
+        slug, level, retro = ce["slug"], ce["level"], ce["retro"]
         summary["entries"] += 1
-        linkbase = (e.get("link") or "").rsplit("/", 1)[-1].lower()
-        linked = by_file.get(linkbase) if linkbase else None
-        cancelled = bool(re.search(r"cancel", title + " " + linkbase, re.I))
-        special = bool(re.search(r"special|emergency", title, re.I))
-        slug, level = None, "flag"
-        for a in aliases:
-            if re.search(a[0], title, re.I):
-                slug, level = a[1], (a[2] if len(a) > 2 else "flag")
-                break
-        if linked:
-            slug = linked[1]["board"]
         if not slug:
             summary["unmatched"][title] = summary["unmatched"].get(title, 0) + 1
             continue
         if slug not in covered:
             summary["not_covered"][name(slug)] = summary["not_covered"].get(name(slug), 0) + 1
             continue
-        retro = bool(added and added.date() > d)
         posted = linked or (agendas.get((slug, d)) or [None])[0]
         link_only = bool(linkbase) and not posted and linkbase.endswith((".pdf", ".doc", ".docx"))
         if posted or link_only:
@@ -573,6 +593,16 @@ def main() -> int:
             merged.append(r)
     soon = merged
     write_upcoming(soon, now)
+    try:
+        import scorecard
+        scorecard.write(scorecard.build(docs, boards, cfg, now, flags), now, cfg)
+    except Exception as e:  # noqa: BLE001  (reports are extras; never block the checks)
+        print(f"scorecard failed: {e}")
+    try:
+        import digest
+        digest.run(docs, boards, cfg, now, state)
+    except Exception as e:  # noqa: BLE001
+        print(f"digest failed: {e}")
     import ordinances
     ords = ordinances.run(docs, doc_text, now, repo_url() + "/blob/main/")
     hits = topic_hits(docs, topics)
