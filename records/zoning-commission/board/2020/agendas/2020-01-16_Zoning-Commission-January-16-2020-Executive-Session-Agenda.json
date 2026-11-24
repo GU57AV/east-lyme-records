@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning Commission January 16 2020 Executive Session Agenda (pdf)",
+  "filename": "Zoning-Commission-January-16-2020-Executive-Session-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Zoning-Commission-January-16-2020-Executive-Session-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T01:26:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6da18024157874418dc994cb41f68db301e3e7e317d761db842957cb647e28bc",
+  "bytes": 36036,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Jan 2020 18:23:48 GMT",
+  "etag": "\"16616e5-8cc4-59bcd3a0bb500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-01-16_Zoning-Commission-January-16-2020-Executive-Session-Agenda--6da180241578.pdf",
+  "versions": [
+    {
+      "sha256": "6da18024157874418dc994cb41f68db301e3e7e317d761db842957cb647e28bc",
+      "bytes": 36036,
+      "retrieved_utc": "2026-11-24T01:26:34+00:00",
+      "http_last_modified": "Fri, 10 Jan 2020 18:23:48 GMT"
+    }
+  ]
+}

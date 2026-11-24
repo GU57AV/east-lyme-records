@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting December 3 2025 Minutes (pdf)",
+  "filename": "Special-Town-Meeting-December-3-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Special-Town-Meeting-December-3-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2025-minutes/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-23T22:00:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3f9cb802a44553e97e12400bba54e28db5995f7f24477981e9ee17909cf8bca1",
+  "bytes": 53544,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Dec 2025 14:53:38 GMT",
+  "etag": "\"1a20010-d128-645217e7ecc95\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2025/2025-12-03_Special-Town-Meeting-December-3-2025-Minutes--3f9cb802a445.pdf",
+  "versions": [
+    {
+      "sha256": "3f9cb802a44553e97e12400bba54e28db5995f7f24477981e9ee17909cf8bca1",
+      "bytes": 53544,
+      "retrieved_utc": "2026-11-23T22:00:41+00:00",
+      "http_last_modified": "Thu, 04 Dec 2025 14:53:38 GMT"
+    }
+  ]
+}

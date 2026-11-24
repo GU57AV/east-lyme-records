@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission September 19 2024 Agenda (pdf)",
+  "filename": "Zoning-Commission-September-19-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/Zoning-Commission-September-19-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-24T00:13:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1efe1d83642b0d8b3f0fee3b86dc6c20cb6d3e0d33f3f1c53b093afdbe38da41",
+  "bytes": 72184,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Sep 2024 15:58:44 GMT",
+  "etag": "\"1680939-119f8-621ee2e5c5500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-09-19_Zoning-Commission-September-19-2024-Agenda--1efe1d83642b.pdf",
+  "versions": [
+    {
+      "sha256": "1efe1d83642b0d8b3f0fee3b86dc6c20cb6d3e0d33f3f1c53b093afdbe38da41",
+      "bytes": 72184,
+      "retrieved_utc": "2026-11-24T00:13:01+00:00",
+      "http_last_modified": "Thu, 12 Sep 2024 15:58:44 GMT"
+    }
+  ]
+}

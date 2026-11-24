@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 19 2023 Amended Agenda (pdf)",
+  "filename": "Zoning-October-19-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Zoning-October-19-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-24T00:34:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "781152cadabc590ce1bcd51ab84355e6724a1cf485ab6a6dd120c7eb93081a54",
+  "bytes": 92098,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 Oct 2023 12:01:42 GMT",
+  "etag": "\"16e0210-167c2-607e84930b580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2023/2023-10-19_Zoning-October-19-2023-Agenda--781152cadabc.pdf",
+  "versions": [
+    {
+      "sha256": "781152cadabc590ce1bcd51ab84355e6724a1cf485ab6a6dd120c7eb93081a54",
+      "bytes": 92098,
+      "retrieved_utc": "2026-11-24T00:34:03+00:00",
+      "http_last_modified": "Tue, 17 Oct 2023 12:01:42 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission September 5 2019 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-September-5-2019-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/09/Zoning-September-5-2019-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-minutes/",
+  "upload_folder": "2019-09",
+  "first_seen_utc": "2026-11-24T01:41:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d88532ffc28ba7ac6812997b7d13dd8efe7dbeff6bf2839d1a0ffdf6e9a29592",
+  "bytes": 793553,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Sep 2019 13:34:50 GMT",
+  "etag": "\"16c1f4b-c1bd1-5925b33a9d280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-09-05_Zoning-September-5-2019-Meeting-Minutes--d88532ffc28b.pdf",
+  "versions": [
+    {
+      "sha256": "d88532ffc28ba7ac6812997b7d13dd8efe7dbeff6bf2839d1a0ffdf6e9a29592",
+      "bytes": 793553,
+      "retrieved_utc": "2026-11-24T01:41:30+00:00",
+      "http_last_modified": "Thu, 12 Sep 2019 13:34:50 GMT"
+    }
+  ]
+}

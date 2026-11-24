@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 17 2022 Minutes (pdf)",
+  "filename": "Zoning-Commission-November-17-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Zoning-Commission-November-17-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2022-minutes/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T00:58:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e006d0c0e3e671e75769f81ba1336a0ff2eb24645737727a7815abff0981aa61",
+  "bytes": 89221,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Nov 2022 14:13:18 GMT",
+  "etag": "\"16a10cf-15c85-5ee9c96ed5b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2022/2022-11-17_Zoning-Commission-November-17-2022-Minutes--e006d0c0e3e6.pdf",
+  "versions": [
+    {
+      "sha256": "e006d0c0e3e671e75769f81ba1336a0ff2eb24645737727a7815abff0981aa61",
+      "bytes": 89221,
+      "retrieved_utc": "2026-11-24T00:58:27+00:00",
+      "http_last_modified": "Tue, 29 Nov 2022 14:13:18 GMT"
+    }
+  ]
+}

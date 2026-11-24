@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting April 20 2016 Amended Notice (pdf)",
+  "filename": "Special-Town-Meeting-Amended-Notice-April-20-2016.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Special-Town-Meeting-Amended-Notice-April-20-2016.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-23T22:43:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5ce5035d7e2f1799254ec9346665d1b354920d3ab33b8cd5c85fda5cc10dddc9",
+  "bytes": 51450,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Apr 2016 12:41:13 GMT",
+  "etag": "\"16e0581-c8fa-5305d17cdac40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2016/2016-04-20_Special-Town-Meeting-Amended-Notice-April-20-2016--5ce5035d7e2f.pdf",
+  "versions": [
+    {
+      "sha256": "5ce5035d7e2f1799254ec9346665d1b354920d3ab33b8cd5c85fda5cc10dddc9",
+      "bytes": 51450,
+      "retrieved_utc": "2026-11-23T22:43:22+00:00",
+      "http_last_modified": "Wed, 13 Apr 2016 12:41:13 GMT"
+    }
+  ]
+}

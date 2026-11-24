@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 16 2025 Cancellation (pdf)",
+  "filename": "Zoning-Commission-October-16-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/Zoning-Commission-October-16-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-23T23:50:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "981f0812ba08a3dc47aa6eaeb8170413b1e4893e769d2174f9f44b404244258a",
+  "bytes": 25467,
+  "pages": 0,
+  "http_last_modified": "Wed, 15 Oct 2025 14:51:47 GMT",
+  "etag": "\"172008f-637b-64133a3c671b4\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2025/2025-10-16_Zoning-Commission-October-16-2025-Cancellation--981f0812ba08.pdf",
+  "versions": [
+    {
+      "sha256": "981f0812ba08a3dc47aa6eaeb8170413b1e4893e769d2174f9f44b404244258a",
+      "bytes": 25467,
+      "retrieved_utc": "2026-11-23T23:50:39+00:00",
+      "http_last_modified": "Wed, 15 Oct 2025 14:51:47 GMT"
+    }
+  ]
+}

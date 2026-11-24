@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission January 7 2021 Amended Agenda (via zoom) (pdf)",
+  "filename": "Zoning-January-7-2021-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/Zoning-January-7-2021-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-24T01:12:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f283e45ba73f7e9ac2776a259cdd05c99140055e99a76a78652887161142fbc",
+  "bytes": 127515,
+  "pages": 0,
+  "http_last_modified": "Mon, 04 Jan 2021 18:38:33 GMT",
+  "etag": "\"166372e-1f21b-5b81765aabc40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-01-07_Zoning-January-7-2021-Amended-Agenda--0f283e45ba73.pdf",
+  "versions": [
+    {
+      "sha256": "0f283e45ba73f7e9ac2776a259cdd05c99140055e99a76a78652887161142fbc",
+      "bytes": 127515,
+      "retrieved_utc": "2026-11-24T01:12:01+00:00",
+      "http_last_modified": "Mon, 04 Jan 2021 18:38:33 GMT"
+    }
+  ]
+}

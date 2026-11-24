@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Zoning Commission January 9 2025 Agenda (pdf)",
+  "filename": "Zoning-Commission-January-9-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Zoning-Commission-January-9-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-24T00:00:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1a3a09350b177e09e3b0589fa300223f4c77f1c39a53f6e3125ad8c0088ad29c",
+  "bytes": 68156,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Jan 2025 17:21:49 GMT",
+  "etag": "\"16c0048-10a3c-62b20faec4540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2025/2025-01-09_Zoning-Commission-January-9-2025-Agenda--1a3a09350b17.pdf",
+  "versions": [
+    {
+      "sha256": "1a3a09350b177e09e3b0589fa300223f4c77f1c39a53f6e3125ad8c0088ad29c",
+      "bytes": 68156,
+      "retrieved_utc": "2026-11-24T00:00:07+00:00",
+      "http_last_modified": "Tue, 07 Jan 2025 17:21:49 GMT"
+    }
+  ]
+}

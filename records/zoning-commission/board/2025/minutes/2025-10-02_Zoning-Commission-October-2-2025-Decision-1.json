@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Zoning Commission Notice of October 2 2025 Decision (pdf)",
+  "filename": "Zoning-Commission-October-2-2025-Decision-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/Zoning-Commission-October-2-2025-Decision-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2025-minutes/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-24T00:02:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4c681d2b7d1cd7e7465264a8a9aa48f6ccf5e43d008bb1ebcac7fd12ef351464",
+  "bytes": 39813,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Oct 2025 13:12:32 GMT",
+  "etag": "\"1720043-9b85-64040dac2a698\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2025/2025-10-02_Zoning-Commission-October-2-2025-Decision-1--4c681d2b7d1c.pdf",
+  "versions": [
+    {
+      "sha256": "4c681d2b7d1cd7e7465264a8a9aa48f6ccf5e43d008bb1ebcac7fd12ef351464",
+      "bytes": 39813,
+      "retrieved_utc": "2026-11-24T00:02:29+00:00",
+      "http_last_modified": "Fri, 03 Oct 2025 13:12:32 GMT"
+    }
+  ]
+}

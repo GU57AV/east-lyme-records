@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 6 2019 Agenda (pdf)",
+  "filename": "Zoning-June-6-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/Zoning-June-6-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-agendas/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-24T01:35:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "592121120089a3f2ed409fbe4e5757ce2ad88de06e0c3ec8756ef5782dfd8ed6",
+  "bytes": 117505,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 May 2019 15:53:33 GMT",
+  "etag": "\"16c1a3e-1cb01-58a08c892f940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-06-06_Zoning-June-6-2019-Agenda--592121120089.pdf",
+  "versions": [
+    {
+      "sha256": "592121120089a3f2ed409fbe4e5757ce2ad88de06e0c3ec8756ef5782dfd8ed6",
+      "bytes": 117505,
+      "retrieved_utc": "2026-11-24T01:35:44+00:00",
+      "http_last_modified": "Wed, 29 May 2019 15:53:33 GMT"
+    }
+  ]
+}

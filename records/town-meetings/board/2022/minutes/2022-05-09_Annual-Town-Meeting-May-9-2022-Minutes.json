@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Annual Town Meeting May 9 2022 Minutes (pdf)",
+  "filename": "Annual-Town-Meeting-May-9-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/Annual-Town-Meeting-May-9-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2022-minutes/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-23T22:15:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6143077103468fdf9739b7bfe96e3adcf3ef958cf004e2dd923093ef7750bce7",
+  "bytes": 137416,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 May 2022 18:48:19 GMT",
+  "etag": "\"16a0b55-218c8-5deacc4ad82c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2022/2022-05-09_Annual-Town-Meeting-May-9-2022-Minutes--614307710346.pdf",
+  "versions": [
+    {
+      "sha256": "6143077103468fdf9739b7bfe96e3adcf3ef958cf004e2dd923093ef7750bce7",
+      "bytes": 137416,
+      "retrieved_utc": "2026-11-23T22:15:56+00:00",
+      "http_last_modified": "Tue, 10 May 2022 18:48:19 GMT"
+    }
+  ]
+}

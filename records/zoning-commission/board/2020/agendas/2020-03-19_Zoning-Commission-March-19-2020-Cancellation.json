@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 19 2020 Cancellation (pdf)",
+  "filename": "Zoning-Commission-March-19-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/Zoning-Commission-March-19-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-agendas/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-24T01:24:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3297258e10541824e1b46d8412238be958cb0994c0e73c62d9239ac07c83f819",
+  "bytes": 31408,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Mar 2020 15:50:01 GMT",
+  "etag": "\"166165d-7ab0-5a0fac5999c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-03-19_Zoning-Commission-March-19-2020-Cancellation--3297258e1054.pdf",
+  "versions": [
+    {
+      "sha256": "3297258e10541824e1b46d8412238be958cb0994c0e73c62d9239ac07c83f819",
+      "bytes": 31408,
+      "retrieved_utc": "2026-11-24T01:24:33+00:00",
+      "http_last_modified": "Mon, 16 Mar 2020 15:50:01 GMT"
+    }
+  ]
+}

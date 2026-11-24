@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting Minutes Aug 5 2015 (pdf)",
+  "filename": "Special-Town-Meeting-Minutes-Aug-5-20151.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Special-Town-Meeting-Minutes-Aug-5-20151.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meeting-2015-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T22:49:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "16e3e0ae8467e278610bc225eda86778822305a76db94476bfab6bc9740c35d7",
+  "bytes": 196324,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:55:24 GMT",
+  "etag": "\"166380f-2fee4-52082c60aff00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2015/2015-08-05_Special-Town-Meeting-Minutes-Aug-5-20151--16e3e0ae8467.pdf",
+  "versions": [
+    {
+      "sha256": "16e3e0ae8467e278610bc225eda86778822305a76db94476bfab6bc9740c35d7",
+      "bytes": 196324,
+      "retrieved_utc": "2026-11-23T22:49:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:55:24 GMT"
+    }
+  ]
+}

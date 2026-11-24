@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission December 9 2021 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-Commission-December-9-2021-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/Zoning-Commission-December-9-2021-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-agendas/",
+  "upload_folder": "2021-12",
+  "first_seen_utc": "2026-11-24T01:02:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e2de53440121ec526579f3dc678c21aee01bd0d00635a867c2805575b8549fa3",
+  "bytes": 37616,
+  "pages": 0,
+  "http_last_modified": "Wed, 01 Dec 2021 17:44:27 GMT",
+  "etag": "\"166354c-92f0-5d21939a9d4c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-12-09_Zoning-Commission-December-9-2021-Special-Meeting-Agenda--e2de53440121.pdf",
+  "versions": [
+    {
+      "sha256": "e2de53440121ec526579f3dc678c21aee01bd0d00635a867c2805575b8549fa3",
+      "bytes": 37616,
+      "retrieved_utc": "2026-11-24T01:02:52+00:00",
+      "http_last_modified": "Wed, 01 Dec 2021 17:44:27 GMT"
+    }
+  ]
+}

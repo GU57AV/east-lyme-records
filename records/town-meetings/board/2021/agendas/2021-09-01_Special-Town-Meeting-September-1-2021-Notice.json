@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting September 1 2021 Notice (pdf)",
+  "filename": "Special-Town-Meeting-September-1-2021-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/Special-Town-Meeting-September-1-2021-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-23T22:18:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "31e4f106f7e477536a0b3697ec072ed9917e59a3a6ea0f1b9956c56bcfb47f75",
+  "bytes": 57816,
+  "pages": 0,
+  "http_last_modified": "Wed, 18 Aug 2021 18:42:09 GMT",
+  "etag": "\"168047b-e1d8-5c9d9caad6240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2021/2021-09-01_Special-Town-Meeting-September-1-2021-Notice--31e4f106f7e4.pdf",
+  "versions": [
+    {
+      "sha256": "31e4f106f7e477536a0b3697ec072ed9917e59a3a6ea0f1b9956c56bcfb47f75",
+      "bytes": 57816,
+      "retrieved_utc": "2026-11-23T22:18:18+00:00",
+      "http_last_modified": "Wed, 18 Aug 2021 18:42:09 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 15 2023 Minutes (pdf)",
+  "filename": "Zoning-June-15-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/Zoning-June-15-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2023-minutes/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-24T00:45:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "17e4159b95430c89ffb4cfd16acfe1885c214f2e5bf9a4d7dced6bf814bc6efd",
+  "bytes": 365718,
+  "pages": 0,
+  "http_last_modified": "Thu, 22 Jun 2023 18:33:21 GMT",
+  "etag": "\"16e0070-59496-5febc1e681e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2023/2023-06-15_Zoning-June-15-2023-Minutes--17e4159b9543.pdf",
+  "versions": [
+    {
+      "sha256": "17e4159b95430c89ffb4cfd16acfe1885c214f2e5bf9a4d7dced6bf814bc6efd",
+      "bytes": 365718,
+      "retrieved_utc": "2026-11-24T00:45:35+00:00",
+      "http_last_modified": "Thu, 22 Jun 2023 18:33:21 GMT"
+    }
+  ]
+}

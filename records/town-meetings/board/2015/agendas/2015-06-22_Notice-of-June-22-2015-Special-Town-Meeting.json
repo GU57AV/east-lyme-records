@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting June 22 2015 Notice (pdf)",
+  "filename": "Notice-of-June-22-2015-Special-Town-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Notice-of-June-22-2015-Special-Town-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meeting-2015-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T22:47:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9fd8f5d74fdf8c824ef70e4de06a3864ee51cb11c352cf57553ff8b90932783",
+  "bytes": 185820,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:45 GMT",
+  "etag": "\"16614d2-2d5dc-52082b569cb40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2015/2015-06-22_Notice-of-June-22-2015-Special-Town-Meeting--d9fd8f5d74fd.pdf",
+  "versions": [
+    {
+      "sha256": "d9fd8f5d74fdf8c824ef70e4de06a3864ee51cb11c352cf57553ff8b90932783",
+      "bytes": 185820,
+      "retrieved_utc": "2026-11-23T22:47:42+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:45 GMT"
+    }
+  ]
+}

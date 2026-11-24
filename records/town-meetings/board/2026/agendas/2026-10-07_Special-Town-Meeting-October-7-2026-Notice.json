@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting October 7 2026 Notice (pdf)",
+  "filename": "Special-Town-Meeting-October-7-2026-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Special-Town-Meeting-October-7-2026-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-23T21:55:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6dfdc0e726ee22e84987ace1dcadb36cdc7b56556c3cf22f7c4ddefa22e2cbe0",
+  "bytes": 44318,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Sep 2026 14:43:36 GMT",
+  "etag": "\"16e0f6f-ad1e-65baecf0db315\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2026/2026-10-07_Special-Town-Meeting-October-7-2026-Notice--6dfdc0e726ee.pdf",
+  "versions": [
+    {
+      "sha256": "6dfdc0e726ee22e84987ace1dcadb36cdc7b56556c3cf22f7c4ddefa22e2cbe0",
+      "bytes": 44318,
+      "retrieved_utc": "2026-11-23T21:55:15+00:00",
+      "http_last_modified": "Thu, 17 Sep 2026 14:43:36 GMT"
+    }
+  ]
+}

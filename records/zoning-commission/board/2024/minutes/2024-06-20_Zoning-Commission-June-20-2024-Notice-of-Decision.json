@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 20 2024 Notice of Decision (pdf)",
+  "filename": "Zoning-Commission-June-20-2024-Notice-of-Decision.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/07/Zoning-Commission-June-20-2024-Notice-of-Decision.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-minutes/",
+  "upload_folder": "2024-07",
+  "first_seen_utc": "2026-11-24T00:26:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "81dff5e0ffed1747cc5d5adf792362e0f2592c3832f62e4039255e6caf9e5ff4",
+  "bytes": 46310,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Jul 2024 13:30:24 GMT",
+  "etag": "\"1680b36-b4e6-61c2f9976bc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-06-20_Zoning-Commission-June-20-2024-Notice-of-Decision--81dff5e0ffed.pdf",
+  "versions": [
+    {
+      "sha256": "81dff5e0ffed1747cc5d5adf792362e0f2592c3832f62e4039255e6caf9e5ff4",
+      "bytes": 46310,
+      "retrieved_utc": "2026-11-24T00:26:34+00:00",
+      "http_last_modified": "Mon, 01 Jul 2024 13:30:24 GMT"
+    }
+  ]
+}

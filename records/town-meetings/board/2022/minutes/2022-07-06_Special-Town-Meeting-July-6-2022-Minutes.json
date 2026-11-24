@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting July 6 2022 Minutes (pdf)",
+  "filename": "Special-Town-Meeting-July-6-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Special-Town-Meeting-July-6-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2022-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-23T22:15:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1181a8f10c5314e734d557a183d063256cdbb0b801e0b2184b8337815f59669e",
+  "bytes": 224770,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Jul 2022 12:37:40 GMT",
+  "etag": "\"16a13e9-36e02-5e39aef21ed00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2022/2022-07-06_Special-Town-Meeting-July-6-2022-Minutes--1181a8f10c53.pdf",
+  "versions": [
+    {
+      "sha256": "1181a8f10c5314e734d557a183d063256cdbb0b801e0b2184b8337815f59669e",
+      "bytes": 224770,
+      "retrieved_utc": "2026-11-23T22:15:15+00:00",
+      "http_last_modified": "Tue, 12 Jul 2022 12:37:40 GMT"
+    }
+  ]
+}

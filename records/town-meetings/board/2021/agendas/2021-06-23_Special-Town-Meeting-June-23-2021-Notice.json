@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting June 23 2021 Notice (pdf)",
+  "filename": "Special-Town-Meeting-June-23-2021-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/Special-Town-Meeting-June-23-2021-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2021-agendas/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-23T22:18:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "836ce064665417762baa58a6adc163f31292bfcadf32817375b5c07179eefaad",
+  "bytes": 123136,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jun 2021 16:11:07 GMT",
+  "etag": "\"168001b-1e100-5c4e456899cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2021/2021-06-23_Special-Town-Meeting-June-23-2021-Notice--836ce0646654.pdf",
+  "versions": [
+    {
+      "sha256": "836ce064665417762baa58a6adc163f31292bfcadf32817375b5c07179eefaad",
+      "bytes": 123136,
+      "retrieved_utc": "2026-11-23T22:18:59+00:00",
+      "http_last_modified": "Wed, 16 Jun 2021 16:11:07 GMT"
+    }
+  ]
+}

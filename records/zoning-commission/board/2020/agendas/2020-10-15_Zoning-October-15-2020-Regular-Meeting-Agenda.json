@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning October 15 2020 Regular Meeting Agenda (pdf)",
+  "filename": "Zoning-October-15-2020-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/Zoning-October-15-2020-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-24T01:20:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "82c275882155c764b2ecc77bf5b85756c7699dea6f32ce3e557c80e1016dab01",
+  "bytes": 133009,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Oct 2020 19:43:08 GMT",
+  "etag": "\"16619d6-20791-5b119ecc22b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-10-15_Zoning-October-15-2020-Regular-Meeting-Agenda--82c275882155.pdf",
+  "versions": [
+    {
+      "sha256": "82c275882155c764b2ecc77bf5b85756c7699dea6f32ce3e557c80e1016dab01",
+      "bytes": 133009,
+      "retrieved_utc": "2026-11-24T01:20:52+00:00",
+      "http_last_modified": "Wed, 07 Oct 2020 19:43:08 GMT"
+    }
+  ]
+}

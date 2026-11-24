@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission December 9 2021 Minutes (pdf)",
+  "filename": "Zoning-December-9-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-December-9-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T01:13:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "22039c3bf39798fc1e92d6fb531d369bd0c5a4e6bf3dc14e7d4d1dc412c43d3c",
+  "bytes": 69277,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Jan 2022 14:32:08 GMT",
+  "etag": "\"16a0de3-10e9d-5d4ae62a60a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-12-09_Zoning-December-9-2021-Minutes--22039c3bf397.pdf",
+  "versions": [
+    {
+      "sha256": "22039c3bf39798fc1e92d6fb531d369bd0c5a4e6bf3dc14e7d4d1dc412c43d3c",
+      "bytes": 69277,
+      "retrieved_utc": "2026-11-24T01:13:02+00:00",
+      "http_last_modified": "Mon, 03 Jan 2022 14:32:08 GMT"
+    }
+  ]
+}

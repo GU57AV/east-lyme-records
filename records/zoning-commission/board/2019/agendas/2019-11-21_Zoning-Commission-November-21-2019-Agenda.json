@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 21 2019 Agenda (pdf)",
+  "filename": "Zoning-Commission-November-21-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/Zoning-Commission-November-21-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-agendas/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-24T01:31:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "036876aa81ee78436f21c0c4a85120c65928cbf2cba44bc8fbff41fb48d6bad4",
+  "bytes": 53037,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Nov 2019 14:24:51 GMT",
+  "etag": "\"16c1f31-cf2d-597635c6172c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-11-21_Zoning-Commission-November-21-2019-Agenda--036876aa81ee.pdf",
+  "versions": [
+    {
+      "sha256": "036876aa81ee78436f21c0c4a85120c65928cbf2cba44bc8fbff41fb48d6bad4",
+      "bytes": 53037,
+      "retrieved_utc": "2026-11-24T01:31:40+00:00",
+      "http_last_modified": "Fri, 15 Nov 2019 14:24:51 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 7 2019 Agenda (pdf)",
+  "filename": "Zoning-Commission-January-7-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/Zoning-Commission-January-7-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-agendas/",
+  "upload_folder": "2019-01",
+  "first_seen_utc": "2026-11-24T01:38:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f2bb893ed755a11df745e5a498d2520848c6508fb081e31a31c63711457f938d",
+  "bytes": 128351,
+  "pages": 0,
+  "http_last_modified": "Wed, 30 Jan 2019 19:22:56 GMT",
+  "etag": "\"16c1c0c-1f55f-580b1d6458400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-01-07_Zoning-Commission-January-7-2019-Agenda--f2bb893ed755.pdf",
+  "versions": [
+    {
+      "sha256": "f2bb893ed755a11df745e5a498d2520848c6508fb081e31a31c63711457f938d",
+      "bytes": 128351,
+      "retrieved_utc": "2026-11-24T01:38:47+00:00",
+      "http_last_modified": "Wed, 30 Jan 2019 19:22:56 GMT"
+    }
+  ]
+}

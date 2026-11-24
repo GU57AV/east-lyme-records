@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Zoning Commission September 18 2025 Public Hearing Notice (pdf)",
+  "filename": "Zoning-Commission-September-18-2025-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/Zoning-Commission-September-18-2025-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-23T23:52:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8caf53af6dc052f0e9eccab5730081d5185a5e82fcbda5fdb96a25ffc3a7f4ed",
+  "bytes": 52776,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Aug 2025 20:00:17 GMT",
+  "etag": "\"16c2508-ce28-63ca9304ebaa4\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2025/2025-09-18_Zoning-Commission-September-18-2025-Public-Hearing-Notice--8caf53af6dc0.pdf",
+  "versions": [
+    {
+      "sha256": "8caf53af6dc052f0e9eccab5730081d5185a5e82fcbda5fdb96a25ffc3a7f4ed",
+      "bytes": 52776,
+      "retrieved_utc": "2026-11-23T23:52:00+00:00",
+      "http_last_modified": "Mon, 18 Aug 2025 20:00:17 GMT"
+    }
+  ]
+}

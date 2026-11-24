@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "March 4 2026 Special Town Meeting Minutes (pdf)",
+  "filename": "March-4-2026-Special-Town-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/March-4-2026-Special-Town-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2026-minutes/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-23T21:58:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0c283018f5bd489c625ae1cefcbaff20dc9cea24e05e437f1d227a0da37efb3f",
+  "bytes": 87254,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Mar 2026 13:52:12 GMT",
+  "etag": "\"1701ade-154d6-64c5b5c2bc2c8\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2026/2026-03-04_March-4-2026-Special-Town-Meeting-Minutes--0c283018f5bd.pdf",
+  "versions": [
+    {
+      "sha256": "0c283018f5bd489c625ae1cefcbaff20dc9cea24e05e437f1d227a0da37efb3f",
+      "bytes": 87254,
+      "retrieved_utc": "2026-11-23T21:58:18+00:00",
+      "http_last_modified": "Fri, 06 Mar 2026 13:52:12 GMT"
+    }
+  ]
+}

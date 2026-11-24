@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 15 2018 2nd Amended Agenda (pdf)",
+  "filename": "Zoning-Commission-November-15-2018-2nd-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/11/Zoning-Commission-November-15-2018-2nd-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-11",
+  "first_seen_utc": "2026-11-24T01:48:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2e44a8217878e899a0b15bf92f0db142ab301ae33dc6474ae34978ce7bd2d847",
+  "bytes": 74749,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Nov 2018 17:16:09 GMT",
+  "etag": "\"16c1152-123fd-57aa317140840\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-11-15_Zoning-Commission-November-15-2018-2nd-Amended-Agenda--2e44a8217878.pdf",
+  "versions": [
+    {
+      "sha256": "2e44a8217878e899a0b15bf92f0db142ab301ae33dc6474ae34978ce7bd2d847",
+      "bytes": 74749,
+      "retrieved_utc": "2026-11-24T01:48:01+00:00",
+      "http_last_modified": "Wed, 14 Nov 2018 17:16:09 GMT"
+    }
+  ]
+}

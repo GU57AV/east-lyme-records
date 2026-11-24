@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 2 2023 Cancellation (pdf)",
+  "filename": "Zoning-Commission-March-2-2023-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/Zoning-Commission-March-2-2023-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-24T00:41:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8b549a7b7607665540bb356ca0a68b31235fcf90928f293d75f0567af84d16d0",
+  "bytes": 40724,
+  "pages": 0,
+  "http_last_modified": "Tue, 28 Feb 2023 15:51:58 GMT",
+  "etag": "\"16e00f3-9f14-5f5c493588380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2023/2023-03-02_Zoning-Commission-March-2-2023-Cancellation--8b549a7b7607.pdf",
+  "versions": [
+    {
+      "sha256": "8b549a7b7607665540bb356ca0a68b31235fcf90928f293d75f0567af84d16d0",
+      "bytes": 40724,
+      "retrieved_utc": "2026-11-24T00:41:09+00:00",
+      "http_last_modified": "Tue, 28 Feb 2023 15:51:58 GMT"
+    }
+  ]
+}

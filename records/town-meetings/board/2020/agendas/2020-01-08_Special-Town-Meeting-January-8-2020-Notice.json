@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting January 8 2020 Notice (pdf)",
+  "filename": "Special-Town-Meeting-January-8-2020-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/Special-Town-Meeting-January-8-2020-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2020-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-23T22:21:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f9152d0311f6ebbdfe51fe3dc08e744a1c13c3d86af359a57ca0a369f5d0cfb6",
+  "bytes": 66140,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Dec 2019 14:17:04 GMT",
+  "etag": "\"16c186a-1025c-59a0f37265800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2020/2020-01-08_Special-Town-Meeting-January-8-2020-Notice--f9152d0311f6.pdf",
+  "versions": [
+    {
+      "sha256": "f9152d0311f6ebbdfe51fe3dc08e744a1c13c3d86af359a57ca0a369f5d0cfb6",
+      "bytes": 66140,
+      "retrieved_utc": "2026-11-23T22:21:42+00:00",
+      "http_last_modified": "Thu, 19 Dec 2019 14:17:04 GMT"
+    }
+  ]
+}

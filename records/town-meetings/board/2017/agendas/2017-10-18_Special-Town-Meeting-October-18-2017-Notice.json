@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting October 18 2017 Notice (pdf)",
+  "filename": "Special-Town-Meeting-October-18-2017-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Special-Town-Meeting-October-18-2017-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T22:33:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9a0d1cb217061dd96276d446572a521a9ca500d85165585c85ac7f54329d719",
+  "bytes": 60390,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Oct 2017 16:11:35 GMT",
+  "etag": "\"16625c1-ebe6-55acefa709bc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2017/2017-10-18_Special-Town-Meeting-October-18-2017-Notice--e9a0d1cb2170.pdf",
+  "versions": [
+    {
+      "sha256": "e9a0d1cb217061dd96276d446572a521a9ca500d85165585c85ac7f54329d719",
+      "bytes": 60390,
+      "retrieved_utc": "2026-11-23T22:33:13+00:00",
+      "http_last_modified": "Thu, 05 Oct 2017 16:11:35 GMT"
+    }
+  ]
+}

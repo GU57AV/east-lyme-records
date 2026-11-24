@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 6 2024 Public Hearing Notice (pdf)",
+  "filename": "Zoning-Commission-June-6-2024-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/05/Zoning-Commission-June-6-2024-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-agendas/",
+  "upload_folder": "2024-05",
+  "first_seen_utc": "2026-11-24T00:16:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cf73f33267801cd464724ae50910a192b64d9dfd47b06156719b2ec2d660bd93",
+  "bytes": 48594,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 May 2024 13:15:37 GMT",
+  "etag": "\"168065f-bdd2-6189207e4f040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-06-06_Zoning-Commission-June-6-2024-Public-Hearing-Notice--cf73f3326780.pdf",
+  "versions": [
+    {
+      "sha256": "cf73f33267801cd464724ae50910a192b64d9dfd47b06156719b2ec2d660bd93",
+      "bytes": 48594,
+      "retrieved_utc": "2026-11-24T00:16:24+00:00",
+      "http_last_modified": "Thu, 16 May 2024 13:15:37 GMT"
+    }
+  ]
+}

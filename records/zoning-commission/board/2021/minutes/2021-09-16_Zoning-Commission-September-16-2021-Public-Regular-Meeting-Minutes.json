@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission September 16 2021 Public Hearing & Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-September-16-2021-Public-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Zoning-Commission-September-16-2021-Public-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-24T01:15:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3c1a306b80254eb99c142b10cf8c2c1a9d030d62c9e18f9040ca7f64f961cc59",
+  "bytes": 1104568,
+  "pages": 0,
+  "http_last_modified": "Mon, 27 Sep 2021 15:00:58 GMT",
+  "etag": "\"16802db-10dab8-5ccfb5d50fe80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-09-16_Zoning-Commission-September-16-2021-Public-Regular-Meeting-Minutes--3c1a306b8025.pdf",
+  "versions": [
+    {
+      "sha256": "3c1a306b80254eb99c142b10cf8c2c1a9d030d62c9e18f9040ca7f64f961cc59",
+      "bytes": 1104568,
+      "retrieved_utc": "2026-11-24T01:15:45+00:00",
+      "http_last_modified": "Mon, 27 Sep 2021 15:00:58 GMT"
+    }
+  ]
+}

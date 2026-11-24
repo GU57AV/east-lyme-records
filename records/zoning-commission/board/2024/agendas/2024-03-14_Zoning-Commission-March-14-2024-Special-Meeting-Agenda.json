@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 14 2024 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-Commission-March-14-2024-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Zoning-Commission-March-14-2024-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-24T00:20:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f5504d1a5b9b998c9dd1da8c875ecddf0eb9ce1d9194cb2032197a5ada94a71e",
+  "bytes": 87333,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Mar 2024 16:04:21 GMT",
+  "etag": "\"1680594-15525-61364b1ce2b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-03-14_Zoning-Commission-March-14-2024-Special-Meeting-Agenda--f5504d1a5b9b.pdf",
+  "versions": [
+    {
+      "sha256": "f5504d1a5b9b998c9dd1da8c875ecddf0eb9ce1d9194cb2032197a5ada94a71e",
+      "bytes": 87333,
+      "retrieved_utc": "2026-11-24T00:20:07+00:00",
+      "http_last_modified": "Mon, 11 Mar 2024 16:04:21 GMT"
+    }
+  ]
+}

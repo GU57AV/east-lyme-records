@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting April 5 2023 Minutes (pdf)",
+  "filename": "Special-Town-Meeting-April-5-2023-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/Special-Town-Meeting-April-5-2023-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2023-minutes/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-23T22:10:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5e07a901a1c6676ff3fe8419219a7cccc1de78c382b752d049f3d79541914b62",
+  "bytes": 71157,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Apr 2023 12:07:29 GMT",
+  "etag": "\"16e0271-115f5-5f94aaf63c240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2023/2023-04-05_Special-Town-Meeting-April-5-2023-Minutes-1--5e07a901a1c6.pdf",
+  "versions": [
+    {
+      "sha256": "5e07a901a1c6676ff3fe8419219a7cccc1de78c382b752d049f3d79541914b62",
+      "bytes": 71157,
+      "retrieved_utc": "2026-11-23T22:10:10+00:00",
+      "http_last_modified": "Fri, 14 Apr 2023 12:07:29 GMT"
+    }
+  ]
+}

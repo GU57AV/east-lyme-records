@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 1 2024 Minutes (pdf)",
+  "filename": "Zoning-February-1-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/Zoning-February-1-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-minutes/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-24T00:31:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b9939513ddfdbaf8ab862cbb198948a1941850ccb9083fb84199089e20f0ebc9",
+  "bytes": 1773566,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Feb 2024 18:09:08 GMT",
+  "etag": "\"168082c-1b0ffe-610a65b9e9900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-02-01_Zoning-February-1-2024-Minutes--b9939513ddfd.pdf",
+  "versions": [
+    {
+      "sha256": "b9939513ddfdbaf8ab862cbb198948a1941850ccb9083fb84199089e20f0ebc9",
+      "bytes": 1773566,
+      "retrieved_utc": "2026-11-24T00:31:40+00:00",
+      "http_last_modified": "Mon, 05 Feb 2024 18:09:08 GMT"
+    }
+  ]
+}

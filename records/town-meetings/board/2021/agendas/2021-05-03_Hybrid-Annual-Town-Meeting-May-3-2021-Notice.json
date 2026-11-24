@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Hybrid Annual Town Meeting May 3 2021 Notice (pdf)",
+  "filename": "Hybrid-Annual-Town-Meeting-May-3-2021-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/Hybrid-Annual-Town-Meeting-May-3-2021-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-23T22:19:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "094f00d501b2549fd4967e1ac49c6594a66cdc09aaf2e0e4375df4bb7e9e928f",
+  "bytes": 125959,
+  "pages": 0,
+  "http_last_modified": "Thu, 22 Apr 2021 19:33:07 GMT",
+  "etag": "\"16803d8-1ec07-5c094bfac82c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2021/2021-05-03_Hybrid-Annual-Town-Meeting-May-3-2021-Notice--094f00d501b2.pdf",
+  "versions": [
+    {
+      "sha256": "094f00d501b2549fd4967e1ac49c6594a66cdc09aaf2e0e4375df4bb7e9e928f",
+      "bytes": 125959,
+      "retrieved_utc": "2026-11-23T22:19:19+00:00",
+      "http_last_modified": "Thu, 22 Apr 2021 19:33:07 GMT"
+    }
+  ]
+}

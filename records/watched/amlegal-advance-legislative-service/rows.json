@@ -1,0 +1,58 @@
+{
+  "list_sha256": "10adcc53b46f34cdff00cd153f7f48d395c317997e978996a0a67870a98c73e1",
+  "mapped": true,
+  "since": "April 17, 2025",
+  "rows": [
+    {
+      "number": null,
+      "adopted": "6/4/25",
+      "subject": "Establishing the East Lyme Climate Change and Coastal Resiliency Reserve Fund.",
+      "url": "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "9/4/25",
+      "subject": "Establishing moratoria on new sewer connections and applications.",
+      "url": "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "9/17/25",
+      "subject": "Amending \u00a7 150.015 regarding fees for buildings and demolition permits.",
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/2907_001.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "10/21/25",
+      "subject": "Repealing \u00a7\u00a7 31.25 and 31.26 regarding the School Building Committee.",
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/3126_001.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "1/7/26",
+      "subject": "Authorizing the use of automated traffic enforcement safety devices.",
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/3591_001.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "1/21/26",
+      "subject": "Amending \u00a7 52.21 regarding water charges.",
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/Ord_1-21-26.pdf"
+    },
+    {
+      "number": null,
+      "adopted": "11/30/26",
+      "subject": "Amending \u00a7 74.08 regarding use of automated traffic enforcement safety devices",
+      "url": "https://files.amlegal.com/pdffiles/EastLyme/Ord_74.08.pdf"
+    }
+  ],
+  "links_in_order": [
+    "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf",
+    "http://files.amlegal.com/pdffiles/EastLyme/ECRF_5-13-25.pdf",
+    "https://files.amlegal.com/pdffiles/EastLyme/2907_001.pdf",
+    "https://files.amlegal.com/pdffiles/EastLyme/3126_001.pdf",
+    "https://files.amlegal.com/pdffiles/EastLyme/3591_001.pdf",
+    "https://files.amlegal.com/pdffiles/EastLyme/Ord_1-21-26.pdf",
+    "https://files.amlegal.com/pdffiles/EastLyme/Ord_74.08.pdf"
+  ]
+}

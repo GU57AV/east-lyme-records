@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 3 2022 Cancellation (pdf)",
+  "filename": "Zoning-November-3-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Zoning-November-3-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T00:50:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a44c3e291f4ba0840a98d84fd1c68988ee7dbc327fa83d96fb124d137d84fe32",
+  "bytes": 28077,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Nov 2022 17:10:43 GMT",
+  "etag": "\"16a10ce-6dad-5ec6bcddcaac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2022/2022-11-03_Zoning-November-3-2022-Cancellation--a44c3e291f4b.pdf",
+  "versions": [
+    {
+      "sha256": "a44c3e291f4ba0840a98d84fd1c68988ee7dbc327fa83d96fb124d137d84fe32",
+      "bytes": 28077,
+      "retrieved_utc": "2026-11-24T00:50:00+00:00",
+      "http_last_modified": "Tue, 01 Nov 2022 17:10:43 GMT"
+    }
+  ]
+}

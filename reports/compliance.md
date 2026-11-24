@@ -1,6 +1,6 @@
 # Posting-deadline report
 
-_Updated Nov 23, 2026 10:58 AM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
+_Updated Nov 23, 2026 9:05 PM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
 
 **How this works.** For documents first seen after the archive started, the archive records the last check of the Town's page that did *not* show the document and the check that first did. A flag is raised only when the document was provably missing at a check made after its deadline. Documents already online when the archive started are not checked.
 
@@ -9,4 +9,12 @@ _Updated Nov 23, 2026 10:58 AM ET. Unofficial and automatic: each flag is a lead
 **Limits.** The archive sees only the board pages it watches; a document posted somewhere else, or a meeting that was cancelled, can produce a flag. Times are only as precise as the checks.
 
 No deadline flags so far.
+
+## For review (1)
+
+Amended agendas and cancellations posted late, agendas whose meeting time couldn't be read, and calendar cross-checks that need a person to look (see the [calendar report](calendar.md)).
+
+| Meeting date | Board | Document | Note |
+|---|---|---|---|
+| 2024-06-06 | Board of Selectmen | [BOS June 6 2024 Emergency Meeting Minutes (pdf)](../records/board-of-selectmen/board/2024/minutes/2024-06-06_BOS-June-6-2024-Emergency-Meeting-Minutes.md) | Minutes posted, but no agenda for that date on the board's page or the calendar (an emergency special meeting may be held without 24 hours' notice; its minutes must be posted within 72 hours and state the reason, CGS § 1-225(d)) |
 

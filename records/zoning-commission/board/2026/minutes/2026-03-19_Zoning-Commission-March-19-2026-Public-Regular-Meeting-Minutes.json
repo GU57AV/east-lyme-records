@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 19 2026 Public & Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-March-19-2026-Public-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/Zoning-Commission-March-19-2026-Public-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-minutes/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-23T23:45:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e84977262069f598027422a1b8cc40ac66c916b72b256e7e9548b543c4898226",
+  "bytes": 129205,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Mar 2026 13:35:31 GMT",
+  "etag": "\"1700240-1f8b5-64e520a8dd553\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-03-19_Zoning-Commission-March-19-2026-Public-Regular-Meeting-Minutes--e84977262069.pdf",
+  "versions": [
+    {
+      "sha256": "e84977262069f598027422a1b8cc40ac66c916b72b256e7e9548b543c4898226",
+      "bytes": 129205,
+      "retrieved_utc": "2026-11-23T23:45:54+00:00",
+      "http_last_modified": "Tue, 31 Mar 2026 13:35:31 GMT"
+    }
+  ]
+}

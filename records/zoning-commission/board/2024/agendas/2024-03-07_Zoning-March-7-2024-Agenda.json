@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 7 2024 Agenda (pdf)",
+  "filename": "Zoning-March-7-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/Zoning-March-7-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-agendas/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-24T00:20:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "73f8e9f86fda9e7a12131cd8501b399f6452db9dcdec7c34447cc29239d34f0b",
+  "bytes": 89272,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Feb 2024 16:40:20 GMT",
+  "etag": "\"1680804-15cb8-61287ea3cc500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-03-07_Zoning-March-7-2024-Agenda--73f8e9f86fda.pdf",
+  "versions": [
+    {
+      "sha256": "73f8e9f86fda9e7a12131cd8501b399f6452db9dcdec7c34447cc29239d34f0b",
+      "bytes": 89272,
+      "retrieved_utc": "2026-11-24T00:20:28+00:00",
+      "http_last_modified": "Thu, 29 Feb 2024 16:40:20 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 4 2018 Cancellation (pdf)",
+  "filename": "Zoning-Commission-October-4-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/Zoning-Commission-October-4-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-24T01:49:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a49cd8317d45a989b39306641e11c679558b4c8d51b98071c36bea3329905d76",
+  "bytes": 29399,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Oct 2018 19:09:49 GMT",
+  "etag": "\"16c1386-72d7-57757c83f3940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-10-04_Zoning-Commission-October-4-2018-Cancellation--a49cd8317d45.pdf",
+  "versions": [
+    {
+      "sha256": "a49cd8317d45a989b39306641e11c679558b4c8d51b98071c36bea3329905d76",
+      "bytes": 29399,
+      "retrieved_utc": "2026-11-24T01:49:43+00:00",
+      "http_last_modified": "Wed, 03 Oct 2018 19:09:49 GMT"
+    }
+  ]
+}

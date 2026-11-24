@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 15 2026 Minutes (pdf)",
+  "filename": "Zoning-Commission-October-15-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/10/Zoning-Commission-October-15-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-minutes/",
+  "upload_folder": "2026-10",
+  "first_seen_utc": "2026-11-23T23:40:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "769469be820dbf823e749b30d429773bfe1b5441b6b52e356eafba6af015bda4",
+  "bytes": 410658,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Oct 2026 12:22:14 GMT",
+  "etag": "\"1700de7-64422-65e309061792e\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-10-15_Zoning-Commission-October-15-2026-Minutes--769469be820d.pdf",
+  "versions": [
+    {
+      "sha256": "769469be820dbf823e749b30d429773bfe1b5441b6b52e356eafba6af015bda4",
+      "bytes": 410658,
+      "retrieved_utc": "2026-11-23T23:40:48+00:00",
+      "http_last_modified": "Mon, 19 Oct 2026 12:22:14 GMT"
+    }
+  ]
+}

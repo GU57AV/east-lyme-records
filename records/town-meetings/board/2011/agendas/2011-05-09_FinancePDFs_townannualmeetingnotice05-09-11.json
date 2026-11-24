@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Annual Town meeting Notice 05-09-11 (pdf)",
+  "filename": "FinancePDFs_townannualmeetingnotice05-09-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2011/04/FinancePDFs_townannualmeetingnotice05-09-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meeting-call-agendas-2011-2/",
+  "upload_folder": "2011-04",
+  "first_seen_utc": "2026-11-23T22:56:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a260e28efb9f6c5c7b35f3843253645bacfe3703a394cdd67223c3797b49a491",
+  "bytes": 43246,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 17:57:14 GMT",
+  "etag": "\"16c0455-a8ee-52081f605d280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2011/2011-05-09_FinancePDFs_townannualmeetingnotice05-09-11--a260e28efb9f.pdf",
+  "versions": [
+    {
+      "sha256": "a260e28efb9f6c5c7b35f3843253645bacfe3703a394cdd67223c3797b49a491",
+      "bytes": 43246,
+      "retrieved_utc": "2026-11-23T22:56:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 17:57:14 GMT"
+    }
+  ]
+}

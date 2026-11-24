@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 2 2018 Agenda (pdf)",
+  "filename": "Zoning-August-2-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/07/Zoning-August-2-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-07",
+  "first_seen_utc": "2026-11-24T01:50:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75464a755bd4438e511f8b9fe446a0da841be6f51773967e6aaf6670819d4541",
+  "bytes": 92428,
+  "pages": 0,
+  "http_last_modified": "Thu, 26 Jul 2018 13:30:30 GMT",
+  "etag": "\"16c17b1-1690c-571e6ffb4a980\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-08-02_Zoning-August-2-2018-Agenda--75464a755bd4.pdf",
+  "versions": [
+    {
+      "sha256": "75464a755bd4438e511f8b9fe446a0da841be6f51773967e6aaf6670819d4541",
+      "bytes": 92428,
+      "retrieved_utc": "2026-11-24T01:50:44+00:00",
+      "http_last_modified": "Thu, 26 Jul 2018 13:30:30 GMT"
+    }
+  ]
+}

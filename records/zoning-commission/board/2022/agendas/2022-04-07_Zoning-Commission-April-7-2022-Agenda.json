@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 7 2022 Agenda (pdf)",
+  "filename": "Zoning-Commission-April-7-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Zoning-Commission-April-7-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T00:54:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c14c6e50150fbbb13927c43b57a599a9953b70d562daffdaff6ef3414193fdc",
+  "bytes": 180489,
+  "pages": 0,
+  "http_last_modified": "Mon, 04 Apr 2022 13:15:36 GMT",
+  "etag": "\"16a1296-2c109-5dbd3ec80ce00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2022/2022-04-07_Zoning-Commission-April-7-2022-Agenda--5c14c6e50150.pdf",
+  "versions": [
+    {
+      "sha256": "5c14c6e50150fbbb13927c43b57a599a9953b70d562daffdaff6ef3414193fdc",
+      "bytes": 180489,
+      "retrieved_utc": "2026-11-24T00:54:44+00:00",
+      "http_last_modified": "Mon, 04 Apr 2022 13:15:36 GMT"
+    }
+  ]
+}

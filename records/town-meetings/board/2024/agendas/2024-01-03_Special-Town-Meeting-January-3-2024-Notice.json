@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting January 3 2024 Notice (pdf)",
+  "filename": "Special-Town-Meeting-January-3-2024-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/Special-Town-Meeting-January-3-2024-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2024-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-23T22:04:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "65de166e70d578fa38e62cb24283d95d97eb3d9adc06c1bb0a592b10c644efbe",
+  "bytes": 46426,
+  "pages": 0,
+  "http_last_modified": "Thu, 21 Dec 2023 19:53:06 GMT",
+  "etag": "\"16c222d-b55a-60d0a72bbac80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2024/2024-01-03_Special-Town-Meeting-January-3-2024-Notice--65de166e70d5.pdf",
+  "versions": [
+    {
+      "sha256": "65de166e70d578fa38e62cb24283d95d97eb3d9adc06c1bb0a592b10c644efbe",
+      "bytes": 46426,
+      "retrieved_utc": "2026-11-23T22:04:04+00:00",
+      "http_last_modified": "Thu, 21 Dec 2023 19:53:06 GMT"
+    }
+  ]
+}

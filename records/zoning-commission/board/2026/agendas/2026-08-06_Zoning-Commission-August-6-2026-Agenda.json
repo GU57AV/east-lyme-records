@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 6 2026 Agenda (pdf)",
+  "filename": "Zoning-Commission-August-6-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/07/Zoning-Commission-August-6-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-agendas/",
+  "upload_folder": "2026-07",
+  "first_seen_utc": "2026-11-23T23:32:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3ae3b9c93d41258c6a0ac65fee355317bc7ea7426af3346dad90ee13a44a3ffa",
+  "bytes": 57687,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Jul 2026 14:39:46 GMT",
+  "etag": "\"17006b5-e157-657e928f5323f\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-08-06_Zoning-Commission-August-6-2026-Agenda--3ae3b9c93d41.pdf",
+  "versions": [
+    {
+      "sha256": "3ae3b9c93d41258c6a0ac65fee355317bc7ea7426af3346dad90ee13a44a3ffa",
+      "bytes": 57687,
+      "retrieved_utc": "2026-11-23T23:32:00+00:00",
+      "http_last_modified": "Fri, 31 Jul 2026 14:39:46 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 18 2021 Agenda (via zoom) (pdf)",
+  "filename": "February-18-2021-Zoning-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/February-18-2021-Zoning-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-24T01:11:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "945fa526229d128b04097853c86d7b60164cca633dc091a133a30ba70cab5807",
+  "bytes": 134452,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Feb 2021 13:22:34 GMT",
+  "etag": "\"168006d-20d34-5bb23876efa80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-02-18_February-18-2021-Zoning-Agenda--945fa526229d.pdf",
+  "versions": [
+    {
+      "sha256": "945fa526229d128b04097853c86d7b60164cca633dc091a133a30ba70cab5807",
+      "bytes": 134452,
+      "retrieved_utc": "2026-11-24T01:11:00+00:00",
+      "http_last_modified": "Fri, 12 Feb 2021 13:22:34 GMT"
+    }
+  ]
+}

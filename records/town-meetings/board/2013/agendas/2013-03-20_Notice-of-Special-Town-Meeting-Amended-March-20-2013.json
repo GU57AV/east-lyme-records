@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Notice of Special Town Meeting Amended March 20 2013 (pdf)",
+  "filename": "Notice-of-Special-Town-Meeting-Amended-March-20-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Notice-of-Special-Town-Meeting-Amended-March-20-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meeting-2013-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-23T22:56:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7b8fca03d9beef561a4abcb942f3dcdf421301e04a8af0cef7e509f9e1bf5319",
+  "bytes": 351640,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:48 GMT",
+  "etag": "\"1663782-55d98-52082b5979200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2013/2013-03-20_Notice-of-Special-Town-Meeting-Amended-March-20-2013--7b8fca03d9be.pdf",
+  "versions": [
+    {
+      "sha256": "7b8fca03d9beef561a4abcb942f3dcdf421301e04a8af0cef7e509f9e1bf5319",
+      "bytes": 351640,
+      "retrieved_utc": "2026-11-23T22:56:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:48 GMT"
+    }
+  ]
+}

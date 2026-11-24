@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting October 6 2021 Supporting Documents (pdf)",
+  "filename": "Special-Town-Meeting-October-6-2021-Supporting-Documents.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/Special-Town-Meeting-October-6-2021-Supporting-Documents.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2021-agendas/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-23T22:17:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "16715205d48b88348769adaa54b20c6e6f8bcfd7e44e72bf409d9497cb3740ea",
+  "bytes": 4357385,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Oct 2021 14:09:39 GMT",
+  "etag": "\"168034b-427d09-5cd4b1d28aec0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2021/2021-10-06_Special-Town-Meeting-October-6-2021-Supporting-Documents--16715205d48b.pdf",
+  "versions": [
+    {
+      "sha256": "16715205d48b88348769adaa54b20c6e6f8bcfd7e44e72bf409d9497cb3740ea",
+      "bytes": 4357385,
+      "retrieved_utc": "2026-11-23T22:17:38+00:00",
+      "http_last_modified": "Fri, 01 Oct 2021 14:09:39 GMT"
+    }
+  ]
+}

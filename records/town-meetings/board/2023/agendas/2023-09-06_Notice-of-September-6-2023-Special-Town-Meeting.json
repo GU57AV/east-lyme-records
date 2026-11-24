@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting September 6 2023 Notice (pdf)",
+  "filename": "Notice-of-September-6-2023-Special-Town-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/Notice-of-September-6-2023-Special-Town-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-23T22:06:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "76355387cfa415b46c40f3473251982faa1e86726fae8188384888acda9b8291",
+  "bytes": 47244,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Aug 2023 20:40:40 GMT",
+  "etag": "\"16e02d9-b88c-60389020be200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2023/2023-09-06_Notice-of-September-6-2023-Special-Town-Meeting--76355387cfa4.pdf",
+  "versions": [
+    {
+      "sha256": "76355387cfa415b46c40f3473251982faa1e86726fae8188384888acda9b8291",
+      "bytes": 47244,
+      "retrieved_utc": "2026-11-23T22:06:26+00:00",
+      "http_last_modified": "Tue, 22 Aug 2023 20:40:40 GMT"
+    }
+  ]
+}

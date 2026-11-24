@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 3 2018 Agenda (pdf)",
+  "filename": "Zoning-Commission-May-3-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/Zoning-Commission-May-3-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-04",
+  "first_seen_utc": "2026-11-24T01:53:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "74ff61d8d44f4e2ac30e124126d7614caaa04ed1945300809251eb0e2d97edd6",
+  "bytes": 108064,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Apr 2018 14:44:57 GMT",
+  "etag": "\"16c15c4-1a620-56ad58c3dec40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-05-03_Zoning-Commission-May-3-2018-Agenda--74ff61d8d44f.pdf",
+  "versions": [
+    {
+      "sha256": "74ff61d8d44f4e2ac30e124126d7614caaa04ed1945300809251eb0e2d97edd6",
+      "bytes": 108064,
+      "retrieved_utc": "2026-11-24T01:53:06+00:00",
+      "http_last_modified": "Fri, 27 Apr 2018 14:44:57 GMT"
+    }
+  ]
+}

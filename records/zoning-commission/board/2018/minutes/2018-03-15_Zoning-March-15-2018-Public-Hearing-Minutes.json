@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 15 2018 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-March-15-2018-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/Zoning-March-15-2018-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-minutes/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-24T02:03:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "48a24b8a588955587e9c0aabb0d2538c311ea36e1cfdbdc72e912c342a655c2e",
+  "bytes": 925893,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Mar 2018 14:10:32 GMT",
+  "etag": "\"16c082c-e20c5-567ecc107a600\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-03-15_Zoning-March-15-2018-Public-Hearing-Minutes--48a24b8a5889.pdf",
+  "versions": [
+    {
+      "sha256": "48a24b8a588955587e9c0aabb0d2538c311ea36e1cfdbdc72e912c342a655c2e",
+      "bytes": 925893,
+      "retrieved_utc": "2026-11-24T02:03:37+00:00",
+      "http_last_modified": "Wed, 21 Mar 2018 14:10:32 GMT"
+    }
+  ]
+}

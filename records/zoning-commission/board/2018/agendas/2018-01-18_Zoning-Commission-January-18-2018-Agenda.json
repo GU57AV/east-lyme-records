@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission January 18 2018 Agenda (pdf)",
+  "filename": "Zoning-Commission-January-18-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/Zoning-Commission-January-18-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-24T01:55:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9ae4bc8157fb3e7208b275eeb6701fec0627ca2d09d46ad6f7879ce88044bf4d",
+  "bytes": 51671,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Jan 2018 15:57:51 GMT",
+  "etag": "\"16c0e59-c9d7-56296539d7dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-01-18_Zoning-Commission-January-18-2018-Agenda--9ae4bc8157fb.pdf",
+  "versions": [
+    {
+      "sha256": "9ae4bc8157fb3e7208b275eeb6701fec0627ca2d09d46ad6f7879ce88044bf4d",
+      "bytes": 51671,
+      "retrieved_utc": "2026-11-24T01:55:48+00:00",
+      "http_last_modified": "Fri, 12 Jan 2018 15:57:51 GMT"
+    }
+  ]
+}

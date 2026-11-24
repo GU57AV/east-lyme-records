@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission 2019 Meeting Schedule (pdf)",
+  "filename": "Zoning-Commission-2019-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Zoning-Commission-2019-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-24T01:39:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8f91e570b84a1330ea80ac62b557e9dc6400598abc15a3dba891601b2d868831",
+  "bytes": 41884,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Dec 2018 18:39:59 GMT",
+  "etag": "\"16c0690-a39c-57c72f13d5dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2018-12-00_Zoning-Commission-2019-Meeting-Schedule--8f91e570b84a.pdf",
+  "versions": [
+    {
+      "sha256": "8f91e570b84a1330ea80ac62b557e9dc6400598abc15a3dba891601b2d868831",
+      "bytes": 41884,
+      "retrieved_utc": "2026-11-24T01:39:48+00:00",
+      "http_last_modified": "Fri, 07 Dec 2018 18:39:59 GMT"
+    }
+  ]
+}

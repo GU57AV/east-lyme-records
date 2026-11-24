@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting Minutes June 20 2018 (pdf)",
+  "filename": "Special-Town-Meeting-Minutes-June-20-2018.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Special-Town-Meeting-Minutes-June-20-2018.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-23T22:31:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "861066efda6600061bffac4583ad253a58dcffb65d899b92ef0090d236ee53bc",
+  "bytes": 167451,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Jun 2018 14:35:59 GMT",
+  "etag": "\"16c0f30-28e1b-56f784ccfd1c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2018/2018-06-20_Special-Town-Meeting-Minutes-June-20-2018--861066efda66.pdf",
+  "versions": [
+    {
+      "sha256": "861066efda6600061bffac4583ad253a58dcffb65d899b92ef0090d236ee53bc",
+      "bytes": 167451,
+      "retrieved_utc": "2026-11-23T22:31:31+00:00",
+      "http_last_modified": "Mon, 25 Jun 2018 14:35:59 GMT"
+    }
+  ]
+}

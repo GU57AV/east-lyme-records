@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 4 2021 Agenda (via zoom) (pdf)",
+  "filename": "Zoning-Commission-March-4-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/Zoning-Commission-March-4-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-24T01:10:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0d02b204f9e6716f0bf571b0f109074a7b5ed634af366ff5fb7c8ef7547764ea",
+  "bytes": 131383,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Feb 2021 20:43:01 GMT",
+  "etag": "\"16800f4-20137-5bc06f6dc1f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-03-04_Zoning-Commission-March-4-2021-Agenda--0d02b204f9e6.pdf",
+  "versions": [
+    {
+      "sha256": "0d02b204f9e6716f0bf571b0f109074a7b5ed634af366ff5fb7c8ef7547764ea",
+      "bytes": 131383,
+      "retrieved_utc": "2026-11-24T01:10:40+00:00",
+      "http_last_modified": "Tue, 23 Feb 2021 20:43:01 GMT"
+    }
+  ]
+}

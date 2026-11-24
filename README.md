@@ -417,6 +417,7 @@ and its time, on a public Bitcoin block explorer.
 <!-- proofs:start -->
 | Manifest | Documents | Bitcoin block | Block time | Proof |
 |---|---|---|---|---|
+| [2026-11-24T020501Z](manifests/2026-11-24T020501Z.txt) | 2405 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-24T020501Z.txt.ots) |
 | [2026-11-23T092110Z](manifests/2026-11-23T092110Z.txt) | 1728 | [977,180](https://mempool.space/block/977180) | 2026-11-23 09:53 UTC | [.ots](manifests/2026-11-23T092110Z.txt.ots) |
 | [2026-11-23T074334Z](manifests/2026-11-23T074334Z.txt) | 1450 | [977,170](https://mempool.space/block/977170) | 2026-11-23 07:52 UTC | [.ots](manifests/2026-11-23T074334Z.txt.ots) |
 | [2026-11-23T024535Z](manifests/2026-11-23T024535Z.txt) | 726 | [977,170](https://mempool.space/block/977170) | 2026-11-23 07:52 UTC | [.ots](manifests/2026-11-23T024535Z.txt.ots) |

@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting July 2 2025 Notice (pdf)",
+  "filename": "Special-Town-Meeting-July-2-2025-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/Special-Town-Meeting-July-2-2025-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-23T21:58:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d55548ade861fba45fe5bcc3018f4ab1b02bb87595678dec84e703eb9a022509",
+  "bytes": 127090,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Jun 2025 14:01:56 GMT",
+  "etag": "\"16c00af-1f072-637ed3037bd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2025/2025-07-02_Special-Town-Meeting-July-2-2025-Notice--d55548ade861.pdf",
+  "versions": [
+    {
+      "sha256": "d55548ade861fba45fe5bcc3018f4ab1b02bb87595678dec84e703eb9a022509",
+      "bytes": 127090,
+      "retrieved_utc": "2026-11-23T21:58:59+00:00",
+      "http_last_modified": "Thu, 19 Jun 2025 14:01:56 GMT"
+    }
+  ]
+}

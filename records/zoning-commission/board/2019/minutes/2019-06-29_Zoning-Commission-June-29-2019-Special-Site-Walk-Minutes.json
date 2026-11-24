@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 29 2019 Special Site Walk Minutes (pdf)",
+  "filename": "Zoning-Commission-June-29-2019-Special-Site-Walk-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/07/Zoning-Commission-June-29-2019-Special-Site-Walk-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-minutes/",
+  "upload_folder": "2019-07",
+  "first_seen_utc": "2026-11-24T01:42:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e5a9a7cb6ceba58ff26d90a0cc59157856b603564036fe47848d14bc9202441e",
+  "bytes": 81039,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Jul 2019 13:56:00 GMT",
+  "etag": "\"16c21d4-13c8f-58c9efcf21c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-06-29_Zoning-Commission-June-29-2019-Special-Site-Walk-Minutes--e5a9a7cb6ceb.pdf",
+  "versions": [
+    {
+      "sha256": "e5a9a7cb6ceba58ff26d90a0cc59157856b603564036fe47848d14bc9202441e",
+      "bytes": 81039,
+      "retrieved_utc": "2026-11-24T01:42:32+00:00",
+      "http_last_modified": "Mon, 01 Jul 2019 13:56:00 GMT"
+    }
+  ]
+}

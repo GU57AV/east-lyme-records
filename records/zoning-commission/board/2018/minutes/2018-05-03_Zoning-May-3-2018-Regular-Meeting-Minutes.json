@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 3 2018 Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-May-3-2018-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/Zoning-May-3-2018-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-minutes/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-24T02:01:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "225b7a436b871ba5df4f6ab8ced91d8c7bfe6911d0ef5b72bb9b19cfc224b175",
+  "bytes": 247370,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 May 2018 19:42:02 GMT",
+  "etag": "\"16c0ac9-3c64a-56bcb18ca5680\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-05-03_Zoning-May-3-2018-Regular-Meeting-Minutes--225b7a436b87.pdf",
+  "versions": [
+    {
+      "sha256": "225b7a436b871ba5df4f6ab8ced91d8c7bfe6911d0ef5b72bb9b19cfc224b175",
+      "bytes": 247370,
+      "retrieved_utc": "2026-11-24T02:01:55+00:00",
+      "http_last_modified": "Wed, 09 May 2018 19:42:02 GMT"
+    }
+  ]
+}

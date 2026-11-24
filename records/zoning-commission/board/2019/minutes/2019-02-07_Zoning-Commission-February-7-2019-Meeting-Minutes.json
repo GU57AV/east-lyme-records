@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 7 2019 Public & Regular Minutes (pdf)",
+  "filename": "Zoning-Commission-February-7-2019-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/Zoning-Commission-February-7-2019-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-minutes/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-24T01:45:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cef50abab0c0f78e856d198a307e1a774ff1f6aafce911645f41775ed2d19973",
+  "bytes": 196326,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Feb 2019 14:27:55 GMT",
+  "etag": "\"16c1e09-2fee6-581c758fcf0c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-02-07_Zoning-Commission-February-7-2019-Meeting-Minutes--cef50abab0c0.pdf",
+  "versions": [
+    {
+      "sha256": "cef50abab0c0f78e856d198a307e1a774ff1f6aafce911645f41775ed2d19973",
+      "bytes": 196326,
+      "retrieved_utc": "2026-11-24T01:45:56+00:00",
+      "http_last_modified": "Wed, 13 Feb 2019 14:27:55 GMT"
+    }
+  ]
+}

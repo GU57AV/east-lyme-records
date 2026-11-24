@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 7 2026 Minutes (pdf)",
+  "filename": "Minutes-of-East-Lyme-Zoning-Commission-May-7th-2026-Special-Meeting-Minutes-050726.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/Minutes-of-East-Lyme-Zoning-Commission-May-7th-2026-Special-Meeting-Minutes-050726.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-minutes/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-23T23:44:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d8b5dccf135f5546816f72dc059e330b275fd74da17cfcb64ef1068ac419894e",
+  "bytes": 83643,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Jun 2026 16:34:44 GMT",
+  "etag": "\"17006cc-146bb-65347e377a093\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-05-07_Minutes-of-East-Lyme-Zoning-Commission-May-7th-2026-Special-Meeting-Minutes-050726--d8b5dccf135f.pdf",
+  "versions": [
+    {
+      "sha256": "d8b5dccf135f5546816f72dc059e330b275fd74da17cfcb64ef1068ac419894e",
+      "bytes": 83643,
+      "retrieved_utc": "2026-11-23T23:44:12+00:00",
+      "http_last_modified": "Tue, 02 Jun 2026 16:34:44 GMT"
+    }
+  ]
+}

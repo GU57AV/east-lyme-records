@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting March 1 2017 Minutes (pdf)",
+  "filename": "Special-Town-Meeting-March-1-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Special-Town-Meeting-March-1-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-23T22:39:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ac927f7e2dd1c954aaea6a48bc2a0fa19d95c38fdaf0d099084338fef7f7a0b3",
+  "bytes": 359247,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Mar 2017 13:39:04 GMT",
+  "etag": "\"16629d2-57b4f-54a1004cc8e00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2017/2017-03-01_Special-Town-Meeting-March-1-2017-Minutes--ac927f7e2dd1.pdf",
+  "versions": [
+    {
+      "sha256": "ac927f7e2dd1c954aaea6a48bc2a0fa19d95c38fdaf0d099084338fef7f7a0b3",
+      "bytes": 359247,
+      "retrieved_utc": "2026-11-23T22:39:39+00:00",
+      "http_last_modified": "Mon, 06 Mar 2017 13:39:04 GMT"
+    }
+  ]
+}

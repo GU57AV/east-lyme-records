@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Annual Town Meeting May 13 2019 Amended Notice (pdf)",
+  "filename": "Annual-Town-Meeting-May-13-2019-Amended-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/Annual-Town-Meeting-May-13-2019-Amended-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2019-agendas/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-23T22:24:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "339c15c312a5fb536822f1137d7292031d9d1d5727b1d45e4823b0d755465679",
+  "bytes": 58158,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 May 2019 12:36:39 GMT",
+  "etag": "\"16c1ac4-e32e-587e6e2b083c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2019/2019-05-13_Annual-Town-Meeting-May-13-2019-Amended-Notice--339c15c312a5.pdf",
+  "versions": [
+    {
+      "sha256": "339c15c312a5fb536822f1137d7292031d9d1d5727b1d45e4823b0d755465679",
+      "bytes": 58158,
+      "retrieved_utc": "2026-11-23T22:24:04+00:00",
+      "http_last_modified": "Thu, 02 May 2019 12:36:39 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 19 2026 Public Hearing Notice (#2) (pdf)",
+  "filename": "Zoning-Commission-November-19-2026-Public-Hearing-Notice-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Zoning-Commission-November-19-2026-Public-Hearing-Notice-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-23T23:28:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01b901e5b674623bf5597296730471bbb7d83f222650a135b0ec644e6d7298a8",
+  "bytes": 43429,
+  "pages": 0,
+  "http_last_modified": "Tue, 03 Nov 2026 16:26:00 GMT",
+  "etag": "\"17c0009-a9a5-65f61b7cab5c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-11-19_Zoning-Commission-November-19-2026-Public-Hearing-Notice-2--01b901e5b674.pdf",
+  "versions": [
+    {
+      "sha256": "01b901e5b674623bf5597296730471bbb7d83f222650a135b0ec644e6d7298a8",
+      "bytes": 43429,
+      "retrieved_utc": "2026-11-23T23:28:16+00:00",
+      "http_last_modified": "Tue, 03 Nov 2026 16:26:00 GMT"
+    }
+  ]
+}

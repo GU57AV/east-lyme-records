@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 5 2020 Public Hearing & Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-November-5-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/Zoning-Commission-November-5-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-minutes/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-24T01:28:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fe98e81f6020ba5ccbffa10036976129647eaf8a5bcc7685f188128a082298ce",
+  "bytes": 22370017,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Nov 2020 14:35:29 GMT",
+  "etag": "\"166184a-15556e1-5b3e9d2cdae40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-11-05_Zoning-Commission-November-5-2020-Minutes--fe98e81f6020.pdf",
+  "versions": [
+    {
+      "sha256": "fe98e81f6020ba5ccbffa10036976129647eaf8a5bcc7685f188128a082298ce",
+      "bytes": 22370017,
+      "retrieved_utc": "2026-11-24T01:28:37+00:00",
+      "http_last_modified": "Thu, 12 Nov 2020 14:35:29 GMT"
+    }
+  ]
+}

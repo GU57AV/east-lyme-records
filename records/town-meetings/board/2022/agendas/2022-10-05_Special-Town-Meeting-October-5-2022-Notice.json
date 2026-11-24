@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting October 5 2022 Notice (pdf)",
+  "filename": "Special-Town-Meeting-October-5-2022-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/Special-Town-Meeting-October-5-2022-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2022-agendas/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-23T22:11:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1e076d3cd9773ca4e2b4b83a8f4c4d4a1f549b0d3d9675c6dcb6bcefe2c3c1b",
+  "bytes": 78593,
+  "pages": 0,
+  "http_last_modified": "Thu, 22 Sep 2022 19:33:42 GMT",
+  "etag": "\"16a1173-13301-5e949238ed180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2022/2022-10-05_Special-Town-Meeting-October-5-2022-Notice--b1e076d3cd97.pdf",
+  "versions": [
+    {
+      "sha256": "b1e076d3cd9773ca4e2b4b83a8f4c4d4a1f549b0d3d9675c6dcb6bcefe2c3c1b",
+      "bytes": 78593,
+      "retrieved_utc": "2026-11-23T22:11:11+00:00",
+      "http_last_modified": "Thu, 22 Sep 2022 19:33:42 GMT"
+    }
+  ]
+}

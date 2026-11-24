@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 19 2026 Notice of Decision (pdf)",
+  "filename": "Zoning-Commission-March-19-2026-Notice-of-Decision.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/Zoning-Commission-March-19-2026-Notice-of-Decision.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-minutes/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-23T23:45:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "45f5316ab47902b80433b8749bf1c0573295d64bee82fd43017dd049b2a80547",
+  "bytes": 43881,
+  "pages": 0,
+  "http_last_modified": "Wed, 01 Apr 2026 18:13:48 GMT",
+  "etag": "\"170188d-ab69-64e6a0b944669\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-03-19_Zoning-Commission-March-19-2026-Notice-of-Decision--45f5316ab479.pdf",
+  "versions": [
+    {
+      "sha256": "45f5316ab47902b80433b8749bf1c0573295d64bee82fd43017dd049b2a80547",
+      "bytes": 43881,
+      "retrieved_utc": "2026-11-23T23:45:33+00:00",
+      "http_last_modified": "Wed, 01 Apr 2026 18:13:48 GMT"
+    }
+  ]
+}

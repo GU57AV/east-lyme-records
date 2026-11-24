@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 13 2020 Public Hearing & Special Meeting Minutes (pdf)",
+  "filename": "Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-minutes/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-24T01:29:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ada15b8196ddbe2ac62b417aa38d7814348de2319590f2578f03ff83b9c77574",
+  "bytes": 1394796,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Aug 2020 16:50:32 GMT",
+  "etag": "\"1661ac4-15486c-5ad51eb1c2600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-08-13_Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes--ada15b8196dd.pdf",
+  "versions": [
+    {
+      "sha256": "ada15b8196ddbe2ac62b417aa38d7814348de2319590f2578f03ff83b9c77574",
+      "bytes": 1394796,
+      "retrieved_utc": "2026-11-24T01:29:58+00:00",
+      "http_last_modified": "Thu, 20 Aug 2020 16:50:32 GMT"
+    }
+  ]
+}

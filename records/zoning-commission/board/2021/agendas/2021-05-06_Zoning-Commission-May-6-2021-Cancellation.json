@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 6 2021 Cancellation (pdf)",
+  "filename": "Zoning-Commission-May-6-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/05/Zoning-Commission-May-6-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2021-agendas/",
+  "upload_folder": "2021-05",
+  "first_seen_utc": "2026-11-24T01:08:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a1cf82eac86b8288e87eec78cefcb758a2fb6d451d22f26c577aade5fbcbb546",
+  "bytes": 29317,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 May 2021 15:35:46 GMT",
+  "etag": "\"16636b8-7285-5c196f2c7f880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2021/2021-05-06_Zoning-Commission-May-6-2021-Cancellation--a1cf82eac86b.pdf",
+  "versions": [
+    {
+      "sha256": "a1cf82eac86b8288e87eec78cefcb758a2fb6d451d22f26c577aade5fbcbb546",
+      "bytes": 29317,
+      "retrieved_utc": "2026-11-24T01:08:37+00:00",
+      "http_last_modified": "Wed, 05 May 2021 15:35:46 GMT"
+    }
+  ]
+}

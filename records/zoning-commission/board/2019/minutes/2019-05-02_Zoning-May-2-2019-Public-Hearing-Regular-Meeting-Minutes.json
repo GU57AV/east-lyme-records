@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 2 2019 Public Hearing & Regular Meeting Minutes (pdf)",
+  "filename": "Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2019-minutes/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-24T01:43:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0ba3e272d208436b82b4e0cd6de62c7e9658190c23b9bc801bcb5abc68ce2fac",
+  "bytes": 383778,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 May 2019 16:58:24 GMT",
+  "etag": "\"16c1a44-5db22-588633dd40c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2019/2019-05-02_Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes--0ba3e272d208.pdf",
+  "versions": [
+    {
+      "sha256": "0ba3e272d208436b82b4e0cd6de62c7e9658190c23b9bc801bcb5abc68ce2fac",
+      "bytes": 383778,
+      "retrieved_utc": "2026-11-24T01:43:54+00:00",
+      "http_last_modified": "Wed, 08 May 2019 16:58:24 GMT"
+    }
+  ]
+}

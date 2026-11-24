@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 5 2020 Minutes (pdf)",
+  "filename": "Zoning-Commission-March-5-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/Zoning-Commission-March-5-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2020-minutes/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-24T01:30:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2fb4749e7900d4e25627b00c2d04b743a0f734e579bd6468d7603118edc61ff9",
+  "bytes": 155179,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Mar 2020 19:30:57 GMT",
+  "etag": "\"16615fc-25e2b-5a08528abde40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2020/2020-03-05_Zoning-Commission-March-5-2020-Minutes--2fb4749e7900.pdf",
+  "versions": [
+    {
+      "sha256": "2fb4749e7900d4e25627b00c2d04b743a0f734e579bd6468d7603118edc61ff9",
+      "bytes": 155179,
+      "retrieved_utc": "2026-11-24T01:30:19+00:00",
+      "http_last_modified": "Tue, 10 Mar 2020 19:30:57 GMT"
+    }
+  ]
+}

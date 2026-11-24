@@ -1,0 +1,29 @@
+{
+  "board": "town-meetings",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Special Town Meeting June 5 2024 Minutes (pdf)",
+  "filename": "Special-Town-Meeting-June-5-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Special-Town-Meeting-June-5-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/town-meetings/town-meetings-2024-minutes/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-23T22:04:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "df482a4f0b0c5353dc07ac6aa101897afcc8c0880b4b1a223fbb9937ad46ef2d",
+  "bytes": 105081,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Jun 2024 13:19:37 GMT",
+  "etag": "\"16807b2-19a79-61a3888ddec40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/town-meetings-2024/2024-06-05_Special-Town-Meeting-June-5-2024-Minutes--df482a4f0b0c.pdf",
+  "versions": [
+    {
+      "sha256": "df482a4f0b0c5353dc07ac6aa101897afcc8c0880b4b1a223fbb9937ad46ef2d",
+      "bytes": 105081,
+      "retrieved_utc": "2026-11-23T22:04:45+00:00",
+      "http_last_modified": "Thu, 06 Jun 2024 13:19:37 GMT"
+    }
+  ]
+}

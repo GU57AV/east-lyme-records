@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 4 2023 Agenda (pdf)",
+  "filename": "Zoning-May-4-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/Zoning-May-4-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2023-agendas/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-24T00:39:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7cbaea4e2812bff02b0bfd14364f59558ed85281368dd236ccd1d95e4e061ffe",
+  "bytes": 85890,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Apr 2023 13:34:02 GMT",
+  "etag": "\"16e0234-14f82-5fa6586b1e680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2023/2023-05-04_Zoning-May-4-2023-Agenda--7cbaea4e2812.pdf",
+  "versions": [
+    {
+      "sha256": "7cbaea4e2812bff02b0bfd14364f59558ed85281368dd236ccd1d95e4e061ffe",
+      "bytes": 85890,
+      "retrieved_utc": "2026-11-24T00:39:07+00:00",
+      "http_last_modified": "Fri, 28 Apr 2023 13:34:02 GMT"
+    }
+  ]
+}

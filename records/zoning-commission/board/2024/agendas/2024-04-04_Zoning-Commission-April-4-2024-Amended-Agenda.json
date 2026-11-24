@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 4 2024 Amended Agenda (pdf)",
+  "filename": "Zoning-Commission-April-4-2024-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/04/Zoning-Commission-April-4-2024-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2024-agendas/",
+  "upload_folder": "2024-04",
+  "first_seen_utc": "2026-11-24T00:18:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0725e32aca52f40e919cac054629278826b401b90b76cb6f94ccc49b77051902",
+  "bytes": 182710,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Apr 2024 16:50:24 GMT",
+  "etag": "\"16809e7-2c9b6-6151fe7007400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2024/2024-04-04_Zoning-Commission-April-4-2024-Amended-Agenda--0725e32aca52.pdf",
+  "versions": [
+    {
+      "sha256": "0725e32aca52f40e919cac054629278826b401b90b76cb6f94ccc49b77051902",
+      "bytes": 182710,
+      "retrieved_utc": "2026-11-24T00:18:05+00:00",
+      "http_last_modified": "Tue, 02 Apr 2024 16:50:24 GMT"
+    }
+  ]
+}

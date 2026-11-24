@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Zoning Commission May 17 2018 Public Hearing & Regular Meeting (pdf)",
+  "filename": "Zoning-May-17-2018-Public-Hearing-Regular-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/Zoning-May-17-2018-Public-Hearing-Regular-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-24T01:52:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7c32e0735ba24813511541281d25d923efacbfe3796503e4aa0bd1430d7f733e",
+  "bytes": 74111,
+  "pages": 0,
+  "http_last_modified": "Thu, 10 May 2018 15:13:50 GMT",
+  "etag": "\"16c0ad1-1217f-56bdb77794780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2018/2018-05-17_Zoning-May-17-2018-Public-Hearing-Regular-Meeting--7c32e0735ba2.pdf",
+  "versions": [
+    {
+      "sha256": "7c32e0735ba24813511541281d25d923efacbfe3796503e4aa0bd1430d7f733e",
+      "bytes": 74111,
+      "retrieved_utc": "2026-11-24T01:52:25+00:00",
+      "http_last_modified": "Thu, 10 May 2018 15:13:50 GMT"
+    }
+  ]
+}
