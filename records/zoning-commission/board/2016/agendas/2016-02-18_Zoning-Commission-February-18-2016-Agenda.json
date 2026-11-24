@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 18 2016 Agenda (pdf)",
+  "filename": "Zoning-Commission-February-18-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-February-18-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:24:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6957c74df1c3a3063b9533f2aaca55b7aba27dd428f36dd0a110d40aa791fe32",
+  "bytes": 73100,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Feb 2016 15:26:48 GMT",
+  "etag": "\"16e0635-11d8c-52b944ba7de00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-02-18_Zoning-Commission-February-18-2016-Agenda--6957c74df1c3.pdf",
+  "versions": [
+    {
+      "sha256": "6957c74df1c3a3063b9533f2aaca55b7aba27dd428f36dd0a110d40aa791fe32",
+      "bytes": 73100,
+      "retrieved_utc": "2026-11-24T03:24:07+00:00",
+      "http_last_modified": "Fri, 12 Feb 2016 15:26:48 GMT"
+    }
+  ]
+}

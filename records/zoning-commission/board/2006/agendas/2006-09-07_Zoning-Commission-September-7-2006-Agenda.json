@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2006",
+  "subcommittee": false,
+  "link_text": "Zoning Commission September 7 2006 Agenda (pdf)",
+  "filename": "Zoning-Commission-September-7-2006-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-Commission-September-7-2006-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2006-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T07:03:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a8c41cca935fa6cc13b849da9c64fbe6d05566a2833701fd01ccb00ce1195ad1",
+  "bytes": 128407,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 20:12:25 GMT",
+  "etag": "\"16a0e1a-1f597-5d695efc9bc40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2006/2006-09-07_Zoning-Commission-September-7-2006-Agenda--a8c41cca935f.pdf",
+  "versions": [
+    {
+      "sha256": "a8c41cca935fa6cc13b849da9c64fbe6d05566a2833701fd01ccb00ce1195ad1",
+      "bytes": 128407,
+      "retrieved_utc": "2026-11-24T07:03:00+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 20:12:25 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 10-17-2013 (pdf)",
+  "filename": "ZC-Oct-17-2013-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Oct-17-2013-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:22:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8188ecfa19a565a7c9982d947a4eb0eadf6db150d216516bd74cfb1c8a481245",
+  "bytes": 27651,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:39 GMT",
+  "etag": "\"1663e4c-6c03-52082d1aa75c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-10-17_ZC-Oct-17-2013-Cancellation--8188ecfa19a5.pdf",
+  "versions": [
+    {
+      "sha256": "8188ecfa19a565a7c9982d947a4eb0eadf6db150d216516bd74cfb1c8a481245",
+      "bytes": 27651,
+      "retrieved_utc": "2026-11-24T04:22:22+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:39 GMT"
+    }
+  ]
+}

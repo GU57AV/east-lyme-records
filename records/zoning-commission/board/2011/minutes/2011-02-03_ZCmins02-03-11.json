@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Regular Meeting Minutes 02-03-2011 (pdf)",
+  "filename": "ZCmins02-03-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCmins02-03-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:19:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b53174d2983c2b398c9a6d99a6d797ec21176927529c8e9587fb435166ea6711",
+  "bytes": 116117,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 12:59:12 GMT",
+  "etag": "\"1661e08-1c595-50228cd6d6800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-02-03_ZCmins02-03-11--b53174d2983c.pdf",
+  "versions": [
+    {
+      "sha256": "b53174d2983c2b398c9a6d99a6d797ec21176927529c8e9587fb435166ea6711",
+      "bytes": 116117,
+      "retrieved_utc": "2026-11-24T05:19:03+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 12:59:12 GMT"
+    }
+  ]
+}

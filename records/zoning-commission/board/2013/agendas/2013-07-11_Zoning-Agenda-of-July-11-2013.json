@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 07-11-2013 (pdf)",
+  "filename": "Zoning-Agenda-of-July-11-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Agenda-of-July-11-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:24:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ca91a919c8f0d35f39964051b88217a73c8d73e4b694d2696b17e20908224719",
+  "bytes": 92795,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT",
+  "etag": "\"16614ef-16a7b-52082d622de80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-07-11_Zoning-Agenda-of-July-11-2013--ca91a919c8f0.pdf",
+  "versions": [
+    {
+      "sha256": "ca91a919c8f0d35f39964051b88217a73c8d73e4b694d2696b17e20908224719",
+      "bytes": 92795,
+      "retrieved_utc": "2026-11-24T04:24:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT"
+    }
+  ]
+}

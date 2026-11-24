@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 19 2017 Agenda (pdf)",
+  "filename": "Zoning-Commission-October-19-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Zoning-Commission-October-19-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T02:57:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "254a0bd44c25a3cbabea02316ca6e448cc9b64e0993bfc661360318d241112cf",
+  "bytes": 75890,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Oct 2017 16:45:37 GMT",
+  "etag": "\"16623cc-12872-55b7062e20e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2017/2017-10-19_Zoning-Commission-October-19-2017-Agenda--254a0bd44c25.pdf",
+  "versions": [
+    {
+      "sha256": "254a0bd44c25a3cbabea02316ca6e448cc9b64e0993bfc661360318d241112cf",
+      "bytes": 75890,
+      "retrieved_utc": "2026-11-24T02:57:23+00:00",
+      "http_last_modified": "Fri, 13 Oct 2017 16:45:37 GMT"
+    }
+  ]
+}

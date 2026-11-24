@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Regular Meeting Minutes 10-21-2010 (pdf)",
+  "filename": "ZCmin10-21-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCmin10-21-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:30:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "059c2b81a2d6817ad5278c03d7639aa1bd38f424cfa31dcbc7690bc1ef247c76",
+  "bytes": 128957,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 17:51:28 GMT",
+  "etag": "\"1661f91-1f7bd-501c84d72a800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-10-21_ZCmin10-21-10--059c2b81a2d6.pdf",
+  "versions": [
+    {
+      "sha256": "059c2b81a2d6817ad5278c03d7639aa1bd38f424cfa31dcbc7690bc1ef247c76",
+      "bytes": 128957,
+      "retrieved_utc": "2026-11-24T05:30:44+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 17:51:28 GMT"
+    }
+  ]
+}

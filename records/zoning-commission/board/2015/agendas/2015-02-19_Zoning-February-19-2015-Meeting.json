@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning February 19 2015 Meeting (pdf)",
+  "filename": "Zoning-February-19-2015-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-February-19-2015-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T03:45:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "653f919bb5a8a819271fc0c23b5a1c46e5922bf2f23de31cf3826743c64b0dba",
+  "bytes": 88374,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 19:00:18 GMT",
+  "etag": "\"16637bb-15936-52082d7911480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-02-19_Zoning-February-19-2015-Meeting--653f919bb5a8.pdf",
+  "versions": [
+    {
+      "sha256": "653f919bb5a8a819271fc0c23b5a1c46e5922bf2f23de31cf3826743c64b0dba",
+      "bytes": 88374,
+      "retrieved_utc": "2026-11-24T03:45:51+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 19:00:18 GMT"
+    }
+  ]
+}

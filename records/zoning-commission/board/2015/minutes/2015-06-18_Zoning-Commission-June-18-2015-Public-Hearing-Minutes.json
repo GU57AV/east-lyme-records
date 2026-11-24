@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning Commission June 18 2015 Public Hearing Minutes (pdf)",
+  "filename": "Zoning-Commission-June-18-2015-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Commission-June-18-2015-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T03:53:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "10044bdc1e52ab000053729cebc7b819f14bc8b3265b69e92e565929087bc20b",
+  "bytes": 379346,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 19:00:05 GMT",
+  "etag": "\"16614d5-5c9d2-52082d6cab740\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-06-18_Zoning-Commission-June-18-2015-Public-Hearing-Minutes--10044bdc1e52.pdf",
+  "versions": [
+    {
+      "sha256": "10044bdc1e52ab000053729cebc7b819f14bc8b3265b69e92e565929087bc20b",
+      "bytes": 379346,
+      "retrieved_utc": "2026-11-24T03:53:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 19:00:05 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission 2016 Meeting Schedule (pdf)",
+  "filename": "Zoning-Commission-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:26:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "15923a5f4029f2e52559f2768224310255620b55b5acf1911264c4a46ecfb07b",
+  "bytes": 43777,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Dec 2015 20:33:56 GMT",
+  "etag": "\"16e052a-ab01-52668e4861500\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2015-12-00_Zoning-Commission-2016-Meeting-Schedule--15923a5f4029.pdf",
+  "versions": [
+    {
+      "sha256": "15923a5f4029f2e52559f2768224310255620b55b5acf1911264c4a46ecfb07b",
+      "bytes": 43777,
+      "retrieved_utc": "2026-11-24T03:26:08+00:00",
+      "http_last_modified": "Tue, 08 Dec 2015 20:33:56 GMT"
+    }
+  ]
+}

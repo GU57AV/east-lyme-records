@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning Mixed Use Sub-Committee December 10 2015 Minutes (pdf)",
+  "filename": "Zoning-Mixed-Use-Sub-Committee-December-10-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/Zoning-Mixed-Use-Sub-Committee-December-10-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-24T03:47:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ffd87911c974a20afa3710d38a43b85650b595997d72207cf07709f26773abaa",
+  "bytes": 35608,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Dec 2015 14:03:37 GMT",
+  "etag": "\"1663070-8b18-526f041882040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-12-10_Zoning-Mixed-Use-Sub-Committee-December-10-2015-Minutes--ffd87911c974.pdf",
+  "versions": [
+    {
+      "sha256": "ffd87911c974a20afa3710d38a43b85650b595997d72207cf07709f26773abaa",
+      "bytes": 35608,
+      "retrieved_utc": "2026-11-24T03:47:51+00:00",
+      "http_last_modified": "Tue, 15 Dec 2015 14:03:37 GMT"
+    }
+  ]
+}

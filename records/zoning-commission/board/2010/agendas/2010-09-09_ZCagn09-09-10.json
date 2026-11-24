@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 09-09-2010 (pdf)",
+  "filename": "ZCagn09-09-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCagn09-09-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:22:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "899a1b972d3954ab112adc77ce305a4cdef41f83b53945f05dc05dad5e8e82a0",
+  "bytes": 109325,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 18:59:10 GMT",
+  "etag": "\"1663a60-1ab0d-501c93f8fdb80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-09-09_ZCagn09-09-10--899a1b972d39.pdf",
+  "versions": [
+    {
+      "sha256": "899a1b972d3954ab112adc77ce305a4cdef41f83b53945f05dc05dad5e8e82a0",
+      "bytes": 109325,
+      "retrieved_utc": "2026-11-24T05:22:43+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 18:59:10 GMT"
+    }
+  ]
+}

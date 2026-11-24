@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Zoning April 3 2014 Minutes (pdf)",
+  "filename": "1307_Zoning-Regular-Meeting-Minutes-04032014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/06/1307_Zoning-Regular-Meeting-Minutes-04032014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-minutes-2014/",
+  "upload_folder": "2014-06",
+  "first_seen_utc": "2026-11-24T04:18:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5e7b004418156da0e7bb4d987989a31b3ca62d0795731e5f16e8327ac0ed3d90",
+  "bytes": 140243,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:18:26 GMT",
+  "etag": "\"16633ae-223d3-5208241d70080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2014/2014-04-03_1307_Zoning-Regular-Meeting-Minutes-04032014--5e7b00441815.pdf",
+  "versions": [
+    {
+      "sha256": "5e7b004418156da0e7bb4d987989a31b3ca62d0795731e5f16e8327ac0ed3d90",
+      "bytes": 140243,
+      "retrieved_utc": "2026-11-24T04:18:21+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:18:26 GMT"
+    }
+  ]
+}

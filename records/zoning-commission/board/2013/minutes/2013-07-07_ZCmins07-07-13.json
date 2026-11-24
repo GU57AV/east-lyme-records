@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Public Hearing Minutes 07-07-2013 (pdf)",
+  "filename": "ZCmins07-07-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCmins07-07-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:32:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ddf0f30e2c348ded28b96e58b87a80cd60388171d8994c49e324effda6fecd34",
+  "bytes": 53782,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Sep 2014 14:16:22 GMT",
+  "etag": "\"1663f72-d216-5023dff3cf980\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-07-07_ZCmins07-07-13--ddf0f30e2c34.pdf",
+  "versions": [
+    {
+      "sha256": "ddf0f30e2c348ded28b96e58b87a80cd60388171d8994c49e324effda6fecd34",
+      "bytes": 53782,
+      "retrieved_utc": "2026-11-24T04:32:43+00:00",
+      "http_last_modified": "Thu, 04 Sep 2014 14:16:22 GMT"
+    }
+  ]
+}

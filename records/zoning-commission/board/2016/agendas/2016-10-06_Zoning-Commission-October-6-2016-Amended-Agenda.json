@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission October 6 2016 Amended Agenda (pdf)",
+  "filename": "Zoning-Commission-October-6-2016-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-October-6-2016-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:17:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f36360d75e6766c690bdaf7526ee82131939e58c78bd393c42ced8742cadfda",
+  "bytes": 60838,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Oct 2016 12:24:38 GMT",
+  "etag": "\"16e0373-eda6-53e0924e26d80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-10-06_Zoning-Commission-October-6-2016-Amended-Agenda--7f36360d75e6.pdf",
+  "versions": [
+    {
+      "sha256": "7f36360d75e6766c690bdaf7526ee82131939e58c78bd393c42ced8742cadfda",
+      "bytes": 60838,
+      "retrieved_utc": "2026-11-24T03:17:46+00:00",
+      "http_last_modified": "Tue, 04 Oct 2016 12:24:38 GMT"
+    }
+  ]
+}

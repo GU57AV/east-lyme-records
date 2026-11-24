@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Executive Session Minutes 07-08-2010 (pdf)",
+  "filename": "ZC-Executive-Session-Minutes-7-8-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Executive-Session-Minutes-7-8-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:33:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ce39157b2f4e4d99c59972f0da9e1146c01311b345d6fcb26f2afcbc353ab599",
+  "bytes": 48230,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:22 GMT",
+  "etag": "\"1661f1b-bc66-52082d0a70f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-07-08_ZC-Executive-Session-Minutes-7-8-10--ce39157b2f4e.pdf",
+  "versions": [
+    {
+      "sha256": "ce39157b2f4e4d99c59972f0da9e1146c01311b345d6fcb26f2afcbc353ab599",
+      "bytes": 48230,
+      "retrieved_utc": "2026-11-24T05:33:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:22 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Special Meeting Agenda 7-29-2010 (pdf)",
+  "filename": "ZC-Special-Meeting-Agenda-7-29-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Special-Meeting-Agenda-7-29-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:23:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e08cef20387127f6eb7d98512c6b71dfee7db68d1edc2c804058054d41c0b892",
+  "bytes": 72105,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:38 GMT",
+  "etag": "\"1663ac8-119a9-52082d52eba80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-07-29_ZC-Special-Meeting-Agenda-7-29-10--e08cef203871.pdf",
+  "versions": [
+    {
+      "sha256": "e08cef20387127f6eb7d98512c6b71dfee7db68d1edc2c804058054d41c0b892",
+      "bytes": 72105,
+      "retrieved_utc": "2026-11-24T05:23:23+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:38 GMT"
+    }
+  ]
+}

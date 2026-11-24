@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 11-15-2012 (pdf)",
+  "filename": "ZC-Agenda-11-15-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Agenda-11-15-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:40:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ab254e8713937425dd51ae574fdf07ff77d1b96c1f8e4b27f7793924d7a99ebc",
+  "bytes": 142735,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 15:58:06 GMT",
+  "etag": "\"1663b68-22d8f-5022b4d393f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2012/2012-11-15_ZC-Agenda-11-15-2012--ab254e871393.pdf",
+  "versions": [
+    {
+      "sha256": "ab254e8713937425dd51ae574fdf07ff77d1b96c1f8e4b27f7793924d7a99ebc",
+      "bytes": 142735,
+      "retrieved_utc": "2026-11-24T04:40:45+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 15:58:06 GMT"
+    }
+  ]
+}

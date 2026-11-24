@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning October 15 2015 Cancellation (pdf)",
+  "filename": "Zoning-October-15-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/10/Zoning-October-15-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2015/",
+  "upload_folder": "2015-10",
+  "first_seen_utc": "2026-11-24T03:38:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3c0067947183780ebf8bb643aab5f12ab7353cefdf45679c7d74d306eaa5c1d3",
+  "bytes": 25826,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Oct 2015 23:22:25 GMT",
+  "etag": "\"16e088a-64e2-52218d5cb8e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-10-15_Zoning-October-15-2015-Cancellation--3c0067947183.pdf",
+  "versions": [
+    {
+      "sha256": "3c0067947183780ebf8bb643aab5f12ab7353cefdf45679c7d74d306eaa5c1d3",
+      "bytes": 25826,
+      "retrieved_utc": "2026-11-24T03:38:30+00:00",
+      "http_last_modified": "Wed, 14 Oct 2015 23:22:25 GMT"
+    }
+  ]
+}

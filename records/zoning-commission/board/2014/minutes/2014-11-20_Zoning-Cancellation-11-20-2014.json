@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Zoning November 20 2014 Cancellation (pdf)",
+  "filename": "Zoning-Cancellation-11-20-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Cancellation-11-20-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:10:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5f2219ffbb7b60a61da4ad8f66ed43c086f1021ae5336df59f1144bfda16f1ea",
+  "bytes": 29420,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:58 GMT",
+  "etag": "\"1663ed4-72ec-52082d65fe780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2014/2014-11-20_Zoning-Cancellation-11-20-2014--5f2219ffbb7b.pdf",
+  "versions": [
+    {
+      "sha256": "5f2219ffbb7b60a61da4ad8f66ed43c086f1021ae5336df59f1144bfda16f1ea",
+      "bytes": 29420,
+      "retrieved_utc": "2026-11-24T04:10:00+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:58 GMT"
+    }
+  ]
+}

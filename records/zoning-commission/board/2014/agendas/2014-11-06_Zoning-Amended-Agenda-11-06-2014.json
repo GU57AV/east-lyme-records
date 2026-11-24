@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Zoning Amended Agenda 11-06-2014 (pdf)",
+  "filename": "Zoning-Amended-Agenda-11-06-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Amended-Agenda-11-06-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:00:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ba48cbed4a2428d01d708bd551fbc86be110b135c04682d028c78cf32ceb19e3",
+  "bytes": 55713,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT",
+  "etag": "\"1663985-d9a1-52082d622de80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2014/2014-11-06_Zoning-Amended-Agenda-11-06-2014--ba48cbed4a24.pdf",
+  "versions": [
+    {
+      "sha256": "ba48cbed4a2428d01d708bd551fbc86be110b135c04682d028c78cf32ceb19e3",
+      "bytes": 55713,
+      "retrieved_utc": "2026-11-24T04:00:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT"
+    }
+  ]
+}

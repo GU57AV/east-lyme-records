@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 09-22-2011 (pdf)",
+  "filename": "ZC-Agenda-of-September-22-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Agenda-of-September-22-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:02:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6186d44802fb1a20e1ffd781df9380ebf68ce2e4ed9126936604fa08b65afff3",
+  "bytes": 70369,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:15 GMT",
+  "etag": "\"1661eb4-112e1-52082d03c3fc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-09-22_ZC-Agenda-of-September-22-2011--6186d44802fb.pdf",
+  "versions": [
+    {
+      "sha256": "6186d44802fb1a20e1ffd781df9380ebf68ce2e4ed9126936604fa08b65afff3",
+      "bytes": 70369,
+      "retrieved_utc": "2026-11-24T05:02:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:15 GMT"
+    }
+  ]
+}

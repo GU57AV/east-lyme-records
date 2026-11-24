@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2007",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 26 2007 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-Commission-April-26-2007-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-April-26-2007-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2007-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T06:39:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "045bb1bdffd07742e943810c89b33ab46e12e3cf075b240fa8c9a49280b61c83",
+  "bytes": 49459,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Feb 2022 19:16:57 GMT",
+  "etag": "\"16a0fb6-c133-5d83b9c175c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2007/2007-04-26_Zoning-Commission-April-26-2007-Special-Meeting-Agenda--045bb1bdffd0.pdf",
+  "versions": [
+    {
+      "sha256": "045bb1bdffd07742e943810c89b33ab46e12e3cf075b240fa8c9a49280b61c83",
+      "bytes": 49459,
+      "retrieved_utc": "2026-11-24T06:39:37+00:00",
+      "http_last_modified": "Thu, 17 Feb 2022 19:16:57 GMT"
+    }
+  ]
+}

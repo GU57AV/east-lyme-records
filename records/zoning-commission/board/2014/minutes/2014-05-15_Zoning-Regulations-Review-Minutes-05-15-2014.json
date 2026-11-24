@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Zoning Regulations Review May 15 2014 Minutes (pdf)",
+  "filename": "Zoning-Regulations-Review-Minutes-05-15-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Regulations-Review-Minutes-05-15-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:17:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "91f7480c64ba97f7c22103983d483cd88e09f68a5d645c13642e8efd69c5625c",
+  "bytes": 44814,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 19:01:16 GMT",
+  "etag": "\"16640e6-af0e-52082db061700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2014/2014-05-15_Zoning-Regulations-Review-Minutes-05-15-2014--91f7480c64ba.pdf",
+  "versions": [
+    {
+      "sha256": "91f7480c64ba97f7c22103983d483cd88e09f68a5d645c13642e8efd69c5625c",
+      "bytes": 44814,
+      "retrieved_utc": "2026-11-24T04:17:21+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 19:01:16 GMT"
+    }
+  ]
+}

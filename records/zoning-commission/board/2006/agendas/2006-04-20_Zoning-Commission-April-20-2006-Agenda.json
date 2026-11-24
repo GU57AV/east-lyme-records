@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2006",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 20 2006 Agenda (pdf)",
+  "filename": "Zoning-Commission-April-20-2006-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Zoning-Commission-April-20-2006-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2006-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T07:05:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f91c0cee00b731c245748787f56dc9353cfa20da266a3fa0d4b84929974577e8",
+  "bytes": 124729,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 20:08:33 GMT",
+  "etag": "\"16a0e10-1e739-5d695e1f5b240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2006/2006-04-20_Zoning-Commission-April-20-2006-Agenda--f91c0cee00b7.pdf",
+  "versions": [
+    {
+      "sha256": "f91c0cee00b731c245748787f56dc9353cfa20da266a3fa0d4b84929974577e8",
+      "bytes": 124729,
+      "retrieved_utc": "2026-11-24T07:05:41+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 20:08:33 GMT"
+    }
+  ]
+}

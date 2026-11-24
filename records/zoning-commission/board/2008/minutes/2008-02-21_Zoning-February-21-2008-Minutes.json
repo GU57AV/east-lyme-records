@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Zoning February 21 2008 Minutes (pdf)",
+  "filename": "Zoning-February-21-2008-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Zoning-February-21-2008-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2008-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T06:27:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d749e39047fd7241a05d1e205be6ce6ac91d5debb028d0649d363922a474e0a4",
+  "bytes": 206426,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2022 13:38:57 GMT",
+  "etag": "\"16a0a39-3265a-5da6a26dd9e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2008/2008-02-21_Zoning-February-21-2008-Minutes--d749e39047fd.pdf",
+  "versions": [
+    {
+      "sha256": "d749e39047fd7241a05d1e205be6ce6ac91d5debb028d0649d363922a474e0a4",
+      "bytes": 206426,
+      "retrieved_utc": "2026-11-24T06:27:55+00:00",
+      "http_last_modified": "Thu, 17 Mar 2022 13:38:57 GMT"
+    }
+  ]
+}

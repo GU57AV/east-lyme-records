@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZC Public Hearing Minutes 12-06-2012 (pdf)",
+  "filename": "ZC-Public-Hearing-Minutes-12-06-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Public-Hearing-Minutes-12-06-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:49:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d6e9a93fb4cb4f03fa45bb1b05cfd59f2e47d9e6775ba069195345df38fb344b",
+  "bytes": 116164,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:49 GMT",
+  "etag": "\"1664051-1c5c4-52082d2430c40\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2012/2012-12-06_ZC-Public-Hearing-Minutes-12-06-2012--d6e9a93fb4cb.pdf",
+  "versions": [
+    {
+      "sha256": "d6e9a93fb4cb4f03fa45bb1b05cfd59f2e47d9e6775ba069195345df38fb344b",
+      "bytes": 116164,
+      "retrieved_utc": "2026-11-24T04:49:38+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:49 GMT"
+    }
+  ]
+}

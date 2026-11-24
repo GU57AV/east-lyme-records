@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Zoning Agenda 10-02-2014 (pdf)",
+  "filename": "Zoning-Agenda-10-02-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Agenda-10-02-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:02:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "66ff95316790167f59cd93a993a8f92fbe7ebc718d2468c11d4b9d252affc6b3",
+  "bytes": 56366,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:52 GMT",
+  "etag": "\"1661d6f-dc2e-52082d6045a00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2014/2014-10-02_Zoning-Agenda-10-02-2014--66ff95316790.pdf",
+  "versions": [
+    {
+      "sha256": "66ff95316790167f59cd93a993a8f92fbe7ebc718d2468c11d4b9d252affc6b3",
+      "bytes": 56366,
+      "retrieved_utc": "2026-11-24T04:02:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:52 GMT"
+    }
+  ]
+}

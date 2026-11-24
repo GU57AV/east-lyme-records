@@ -1,0 +1,180 @@
+---
+title: "ZC Special Meeting Minutes 07-26-2011 (pdf)"
+board: zoning-commission
+kind: minutes
+source_url: https://eltownhall.com/wp-content/uploads/Zoning-Special-Meeting-Minutes-July-26-2011.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2011/
+sha256: 248be37430169679a28af45b319350149d0e991030d7790ea9691c035c183ee5
+text_method: pdftotext
+first_seen_utc: 2026-11-24T05:13:02+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-07-26_Zoning-Special-Meeting-Minutes-July-26-2011--248be3743016.pdf
+
+```text
+                                  EAST LYME ZONING COMMISSION
+                                         SPECIAL MEETING
+                                     DARROW POND SITE VISIT
+                                 TOUR OF DARROW POND PROPERTY
+                                      Tuesday, JULY 26th, 2011
+                                             MINUTES
+
+The East Lyme Zoning Commission held a Special Meeting on Tuesday, July 26, 2011 commencing at 6
+PM at Town Hall, taking visitors to the Darrow Pond property on Mostowy Road for a site tour and
+returning to Town Hall on or about 7:30 PM.
+
+PRESENT:              Marc Salerno, Chairman, William Dwyer, Alternate
+
+ALSO PRESENT:         Darci Schofield, Project Manager from The Trust for Public Land
+                      Paul Formica, First Selectman
+                      Michael Giannattasio, Public Works Director
+                      Brad Kargl, Municipal Utility Engineer
+                      Anna Johnson, Finance Director
+
+The assembly of Board and Commission members and visitors left the Town Hall at 6 PM and arrived at
+the Darrow Pond property just as a violent thunderstorm hit. After a brief introduction to the property,
+everyone went back to the Town Hall meeting room to continue the presentation session.
+
+Mr. Formica thanked everyone for coming and apologized for the unfortunate weather. He then gave an
+overview of the property stating that it was approved for a 600 unit Special Use Elderly Master Plan
+project with wells to be dug on site by the developer and then turned over to the Town. There are many
+gallons of water in the bedrock wells on site and they have looked at this property for the location of a
+water storage tank which is part of the regional interconnection project and also as a way to conserve the
+property. The Trust for Public Land has worked with Webster Bank who foreclosed on the property in
+2008. The hope is to purchase and preserve some of the land for open space, to place the water storage
+tank here and use the well field for additional water.
+
+Mr. Kargl said that this property offers the possibility of having tanks at various elevations and provides
+them with options.
+
+Ms. Schofield of the Trust for Public Land thanked everyone for coming and said that they are a national
+non-profit organization designed to protect the land for people and aid the cities and Towns in so doing.
+The aim here is for conservation of the land and the well and tank use. She said that she has been out to
+this property many times and has seen many people already using this land for passive recreation. The
+property sits between the Yale Sheffield property and the Nehantic State Forest allowing for a contiguous
+open space parcel. This parcel is also part of the Towns’ Open Space plan and part of a 50 mile walking
+trail. It is adjacent to the aquifer protection area and also protects the water quality of Darrow Pond. This
+is an exciting opportunity. She said that the property is 301 acres and as they were not able to walk the
+property due to the rain, she said that they are having a ‘Community Tour Day’ on Saturday, August 13,
+2011 where people can stop in and walk the property, ask questions and enjoy and learn about the area.
+She said that she would be happy to answer any questions that they might have.
+
+Mr. Hart asked if they were looking to put three tanks on the property.
+Mr. Formica said that they are contemplating one tank.
+
+Mr. Hart asked the size of the water tank.
+Mr. Kargl and Mr. Formica said that it would be a 1.5M gallon tank.
+
+Mr. Mingo asked if the State Review Commission did a review of the property.
+Ms. Schofield said that there are no endangered species on the land.
+Mr. Mingo asked if there was evidence of Indians.
+Ms. Schofield said that she would check the information.
+
+Mr. DiGiovanna asked if the walking trails were marked.
+Ms. Schofield said no, and added that there is the opportunity with a small amount of clearing to have
+noted paths.
+Mr. Carlson noted that the reason why this property was not listed in the first open space plan was
+because it was actively being developed. It has been added as it is no longer under development.
+Ms. Schofield said that the acquisition of this property would provide for the only park on that side of I-95.
+
+Mr. Formica explained that they would propose to divide the 301 acres with 40-70 acres for the utility side
+and the rest as open space.
+
+Mr. DiGiovanna asked what type of recreation could be put there; ball fields? Stands?
+Ms. Schofield said yes, quite possibly but that would have to be negotiated prior to the easements along
+with the transmission line for the water. There could also possibly be a dog park here. People have asked
+her about a school being built here and one could not be located here.
+
+Mr. Salerno asked about pond access and potential uses.
+Ms. Schofield said that the property is encumbered with an easement stating that the public cannot enter
+the water or use it so there would not be any fishing or canoeing. The easement is split amongst the
+neighboring property owners. If they were to purchase this property, they could look at it as they would be
+one of the owners.
+
+Mr. Larcen asked who the easement belongs to.
+Mr. Formica said that there are forty individuals.
+
+Mr. Larcen asked how many of the 301 acres is taken up by the pond.
+Ms. Schofield said that there are 35 acres and added that the burden of maintaining the dam is the
+responsibility of the easement holders. She added that this is a DEP Class A pond which is one of high
+quality.
+
+Ms. Johnston asked who put the easement on.
+Ms. Schofield said that it was the previous property owner and that it runs with the title forever unless it is
+extinguished.
+
+Mr. Formica asked Ms. Schofield about grant possibilities.
+Ms. Schofield said that they work with communities to try to obtain grants to help supplement the
+purchase price. She said that they have evaluated many however the bank would like to close on this
+property as soon as possible and with the current economy the timing is off. They will continue to look.
+
+Mr. Larcen asked who pays their fee.
+Ms. Schofield said that they are funded as a non-profit organization.
+
+Ms. Bodenhofer asked Ms. Schofield what was meant by moving ‘quickly’.
+Ms. Schofield said that the bank wants to close by the end of October as there are others interested in
+the property.
+Mr. Formica outlined the potential sequence of events – this would go to the Board of Selectmen on
+August 3; a Public Hearing on August 10; a public site walk on August 13; Town Meeting on August 17
+where it would go to referendum for a vote. He said that this would bring them before Labor Day.
+
+Ms. Picarazzi asked how many appraisals were done on this property.
+Mr. Formica said that the bank is required to do one annually. In 2009 it was appraised at $6M; and in
+November of 2010 it was appraised at $4.3M and the Trust for Public Land will get one.
+
+East Lyme Zoning Commission Special Meeting Minutes – July 26, 2011                                           2
+Ms. Picarazzi asked if it would be prudent to get another appraisal as the prices have changed with the
+economy.
+Mr. Formica and Ms. Schofield said that the Trust would be getting one.
+
+Mr. Harney asked if they were having it appraised as open space or land for 600 living units.
+Ms. Schofield said that the last appraisal was not for 600 units as there is no market for that. It was
+appraised as a large parcel of land. They are buying land and it is based on the fair market value and
+comparable sales of large parcels of land of this type.
+
+Mr. Schutt asked how deep the water in the pond is.
+Mr. Mingo said that it is 12’ to 15’ deep.
+Mr. Schutt commented that it is deep enough for passive recreation.
+
+Ms. Lozanov asked what type of accessibility improvements would be done for the public to have access
+– such as parking lots, rest rooms.
+Mr. Formica said that there would be some gravel roads for access to the tank. He noted that there are a
+lot of trails there that are already established.
+
+Ms. Lozanov asked if they had looked into ADA funding for the property.
+Ms. Schofield clarified that they are there to aid the Town in being able to purchase the property and that
+after that, the Town could apply for potential ADA money.
+
+Ms. Johnston asked if the property has been divided on paper yet as she thinks that the price could be a
+potential shock at a Town Meeting.
+Ms. Schofield said that the opportunity that they have with the bank is for the property in its entire form.
+Mr. Formica said that he does not think that the bank is interested in dividing the property.
+Ms. Schofield noted that in discussions with the bank that there are other people who are interested in
+this property in its entirety – so this is a one time opportunity.
+
+Mr. Larcen said that the tank would not require 300 acres – he asked what other alternatives they have
+and what that cost would be.
+Mr. Formica said that he would provide that at a later time.
+
+Mr. Larcen noted that Stonington recently announced that they are getting some grant money.
+Ms. Schofield said that was from last year’s available money. She added that they do investigate all
+arenas and also that this property is not along the coast and therefore does not qualify for many of the
+grants.
+
+Mr. Formica and Ms. Schofield thanked everyone for coming.
+Ms. Schofield said that they would be conducting site walks on the property on Saturday August 13, 2011
+and answering any questions that the public might have.
+This session adjourned at 7:20 PM.
+
+Respectfully submitted,
+
+
+
+Karen Zmitruk,
+Recording Secretary, Pro Tem
+
+
+
+
+East Lyme Zoning Commission Special Meeting Minutes – July 26, 2011                                            3
+```

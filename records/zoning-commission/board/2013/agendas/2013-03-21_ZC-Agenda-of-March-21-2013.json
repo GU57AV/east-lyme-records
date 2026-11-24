@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 03-21-2013 (pdf)",
+  "filename": "ZC-Agenda-of-March-21-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Agenda-of-March-21-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:27:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92a479b6448938c41782bbe912fa46a4dc7a1312bf2e0d6b80417369328dc8e2",
+  "bytes": 101785,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:13 GMT",
+  "etag": "\"1663bd9-18d99-52082d01dbb40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-03-21_ZC-Agenda-of-March-21-2013--92a479b64489.pdf",
+  "versions": [
+    {
+      "sha256": "92a479b6448938c41782bbe912fa46a4dc7a1312bf2e0d6b80417369328dc8e2",
+      "bytes": 101785,
+      "retrieved_utc": "2026-11-24T04:27:23+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:13 GMT"
+    }
+  ]
+}

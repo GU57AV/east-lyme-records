@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning August 6 2015 Regular Meeting Agenda (pdf)",
+  "filename": "ZC-August-6-2015-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-August-6-2015-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T03:40:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5353e36304e12478cf4d26949cd1b62753f81d1e226d20eab7824a8c49d08084",
+  "bytes": 106100,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:19 GMT",
+  "etag": "\"1664008-19e74-52082d07948c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-08-06_ZC-August-6-2015-Regular-Meeting-Agenda--5353e36304e1.pdf",
+  "versions": [
+    {
+      "sha256": "5353e36304e12478cf4d26949cd1b62753f81d1e226d20eab7824a8c49d08084",
+      "bytes": 106100,
+      "retrieved_utc": "2026-11-24T03:40:30+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:19 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Zoning September 4 2008 Public Hearing II Minutes (pdf)",
+  "filename": "Zoning-September-4-2008-Public-Hearing-II-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Zoning-September-4-2008-Public-Hearing-II-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2008-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T06:16:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "497ea350bb367189b60b94e7b4f4712e1f5b16fa8cd8f55a8f05237318757c7f",
+  "bytes": 93421,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2022 13:53:34 GMT",
+  "etag": "\"16a0a21-16ced-5da6a5b239380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2008/2008-09-04_Zoning-September-4-2008-Public-Hearing-II-Minutes--497ea350bb36.pdf",
+  "versions": [
+    {
+      "sha256": "497ea350bb367189b60b94e7b4f4712e1f5b16fa8cd8f55a8f05237318757c7f",
+      "bytes": 93421,
+      "retrieved_utc": "2026-11-24T06:16:13+00:00",
+      "http_last_modified": "Thu, 17 Mar 2022 13:53:34 GMT"
+    }
+  ]
+}

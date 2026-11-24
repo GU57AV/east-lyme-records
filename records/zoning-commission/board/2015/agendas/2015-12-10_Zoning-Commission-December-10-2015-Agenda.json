@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning December 10 2015 Agenda (pdf)",
+  "filename": "Zoning-Commission-December-10-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/Zoning-Commission-December-10-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-24T03:36:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f6a98ef641787f14982807a5a0474ee32bf50ec8d864ec208998930aff7bef28",
+  "bytes": 57480,
+  "pages": 0,
+  "http_last_modified": "Mon, 30 Nov 2015 19:09:32 GMT",
+  "etag": "\"16633cc-e088-525c6c7f49300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-12-10_Zoning-Commission-December-10-2015-Agenda--f6a98ef64178.pdf",
+  "versions": [
+    {
+      "sha256": "f6a98ef641787f14982807a5a0474ee32bf50ec8d864ec208998930aff7bef28",
+      "bytes": 57480,
+      "retrieved_utc": "2026-11-24T03:36:49+00:00",
+      "http_last_modified": "Mon, 30 Nov 2015 19:09:32 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 03-04-2010 (pdf)",
+  "filename": "ZCagn03-04-10cancel.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCagn03-04-10cancel.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:26:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "05bcd6bb4c0c3e5d33f8e23d6a65f67c949c9e5c16283566aee8f2f4228f0446",
+  "bytes": 27203,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 18:58:36 GMT",
+  "etag": "\"1663f6a-6a43-501c93d890f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-03-04_ZCagn03-04-10cancel--05bcd6bb4c0c.pdf",
+  "versions": [
+    {
+      "sha256": "05bcd6bb4c0c3e5d33f8e23d6a65f67c949c9e5c16283566aee8f2f4228f0446",
+      "bytes": 27203,
+      "retrieved_utc": "2026-11-24T05:26:44+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 18:58:36 GMT"
+    }
+  ]
+}

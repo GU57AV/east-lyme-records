@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Zoning July 9 2015 Amended Agenda (pdf)",
+  "filename": "ZC-July-9-2015-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-July-9-2015-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T03:41:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b628de6996b1080355c1a8264e1d159260138b0da48c0a954a6a3b8dcec14dcf",
+  "bytes": 104560,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:24 GMT",
+  "etag": "\"16640f8-19870-52082d0c59400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2015/2015-07-09_ZC-July-9-2015-Amended-Agenda--b628de6996b1.pdf",
+  "versions": [
+    {
+      "sha256": "b628de6996b1080355c1a8264e1d159260138b0da48c0a954a6a3b8dcec14dcf",
+      "bytes": 104560,
+      "retrieved_utc": "2026-11-24T03:41:50+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:24 GMT"
+    }
+  ]
+}

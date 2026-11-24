@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2007",
+  "subcommittee": false,
+  "link_text": "Zoning Commission February 1 2007 Minutes (pdf)",
+  "filename": "Zoning-Commission-February-1-2007-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-February-1-2007-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2007-minutes/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T06:58:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56f7ab0c91e58e5f3ebb3d6e4625998e053d641daed0c6efd03f2fdc1569f777",
+  "bytes": 332590,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Feb 2022 19:27:51 GMT",
+  "etag": "\"16a0f9f-5132e-5d83bc3129bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2007/2007-02-01_Zoning-Commission-February-1-2007-Minutes--56f7ab0c91e5.pdf",
+  "versions": [
+    {
+      "sha256": "56f7ab0c91e58e5f3ebb3d6e4625998e053d641daed0c6efd03f2fdc1569f777",
+      "bytes": 332590,
+      "retrieved_utc": "2026-11-24T06:58:40+00:00",
+      "http_last_modified": "Thu, 17 Feb 2022 19:27:51 GMT"
+    }
+  ]
+}

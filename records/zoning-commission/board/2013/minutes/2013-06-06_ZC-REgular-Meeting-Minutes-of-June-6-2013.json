@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Regular Meeting Minutes 06-06-2013 (pdf)",
+  "filename": "ZC-REgular-Meeting-Minutes-of-June-6-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-REgular-Meeting-Minutes-of-June-6-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:33:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e5f18262b89c6623be4009c380b7d93ba2233b21c615f639f81561be1a9435b7",
+  "bytes": 458901,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:23 GMT",
+  "etag": "\"1663826-70095-52082d449d8c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-06-06_ZC-REgular-Meeting-Minutes-of-June-6-2013--e5f18262b89c.pdf",
+  "versions": [
+    {
+      "sha256": "e5f18262b89c6623be4009c380b7d93ba2233b21c615f639f81561be1a9435b7",
+      "bytes": 458901,
+      "retrieved_utc": "2026-11-24T04:33:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:23 GMT"
+    }
+  ]
+}

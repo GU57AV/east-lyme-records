@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission Beekeeping Sub-Committee June 2 2016 Minutes (pdf)",
+  "filename": "Zoning-Commission-Beekeeping-Sub-Committee-June-2-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-Beekeeping-Sub-Committee-June-2-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:31:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "28f1b14e2d2a42b382cdf0b5b7c41076791c45473cd436d481aeb748b5c4a88b",
+  "bytes": 96894,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jun 2016 13:01:11 GMT",
+  "etag": "\"16e045c-17a7e-5349baaa3f3c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-06-02_Zoning-Commission-Beekeeping-Sub-Committee-June-2-2016-Minutes--28f1b14e2d2a.pdf",
+  "versions": [
+    {
+      "sha256": "28f1b14e2d2a42b382cdf0b5b7c41076791c45473cd436d481aeb748b5c4a88b",
+      "bytes": 96894,
+      "retrieved_utc": "2026-11-24T03:31:08+00:00",
+      "http_last_modified": "Mon, 06 Jun 2016 13:01:11 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 11-03-2011 (pdf)",
+  "filename": "Zoning-Agenda-of-November-3-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Zoning-Agenda-of-November-3-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:01:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e1bf66edc16f51f9ba558a538f1c00d2839394b9e1a6bb78781ffacf45fa35e3",
+  "bytes": 57002,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT",
+  "etag": "\"166376e-deaa-52082d622de80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-11-03_Zoning-Agenda-of-November-3-2011--e1bf66edc16f.pdf",
+  "versions": [
+    {
+      "sha256": "e1bf66edc16f51f9ba558a538f1c00d2839394b9e1a6bb78781ffacf45fa35e3",
+      "bytes": 57002,
+      "retrieved_utc": "2026-11-24T05:01:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:54 GMT"
+    }
+  ]
+}

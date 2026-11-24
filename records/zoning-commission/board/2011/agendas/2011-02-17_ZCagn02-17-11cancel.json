@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 02-17-2011 (pdf)",
+  "filename": "ZCagn02-17-11cancel.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCagn02-17-11cancel.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:08:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cee43ebec5584e82dfc49027c55389eba5471e57ed37108a436eb73f6bfc6a2c",
+  "bytes": 22145,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 12:31:16 GMT",
+  "etag": "\"1663d21-5681-502286987ad00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-02-17_ZCagn02-17-11cancel--cee43ebec558.pdf",
+  "versions": [
+    {
+      "sha256": "cee43ebec5584e82dfc49027c55389eba5471e57ed37108a436eb73f6bfc6a2c",
+      "bytes": 22145,
+      "retrieved_utc": "2026-11-24T05:08:01+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 12:31:16 GMT"
+    }
+  ]
+}

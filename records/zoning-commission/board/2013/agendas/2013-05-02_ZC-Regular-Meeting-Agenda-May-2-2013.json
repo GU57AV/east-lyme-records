@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Agenda 05-02-2013 (pdf)",
+  "filename": "ZC-Regular-Meeting-Agenda-May-2-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Regular-Meeting-Agenda-May-2-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:25:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2719d37ad7b5b96d87e8f6bb57f82786721ff1440e219e54a996d05cfc43347",
+  "bytes": 97536,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:59 GMT",
+  "etag": "\"1663fa7-17d00-52082d2dba2c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-05-02_ZC-Regular-Meeting-Agenda-May-2-2013--b2719d37ad7b.pdf",
+  "versions": [
+    {
+      "sha256": "b2719d37ad7b5b96d87e8f6bb57f82786721ff1440e219e54a996d05cfc43347",
+      "bytes": 97536,
+      "retrieved_utc": "2026-11-24T04:25:42+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:59 GMT"
+    }
+  ]
+}

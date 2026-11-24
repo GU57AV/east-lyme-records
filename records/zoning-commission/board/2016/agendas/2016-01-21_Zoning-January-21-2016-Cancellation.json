@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission January 21 2016 Cancellation (pdf)",
+  "filename": "Zoning-January-21-2016-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-January-21-2016-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:25:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1a8e7498c0720fc8b7458313a0484cdff2cc2ee3a465e3608d61807b9fd08f9e",
+  "bytes": 32487,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 Jan 2016 16:38:26 GMT",
+  "etag": "\"16e035f-7ee7-529c69d7c8480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-01-21_Zoning-January-21-2016-Cancellation--1a8e7498c072.pdf",
+  "versions": [
+    {
+      "sha256": "1a8e7498c0720fc8b7458313a0484cdff2cc2ee3a465e3608d61807b9fd08f9e",
+      "bytes": 32487,
+      "retrieved_utc": "2026-11-24T03:25:07+00:00",
+      "http_last_modified": "Wed, 20 Jan 2016 16:38:26 GMT"
+    }
+  ]
+}

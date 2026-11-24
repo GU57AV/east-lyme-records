@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 08-01-2013 (pdf)",
+  "filename": "ZC-Cancellation-of-August-1-2013-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Cancellation-of-August-1-2013-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:23:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a308c82c932965c71b1763f21c6c7f3c49649f2cea26b1415b709f51f4b9c196",
+  "bytes": 31388,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:21 GMT",
+  "etag": "\"1663833-7a9c-52082d097cd40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-08-01_ZC-Cancellation-of-August-1-2013-Meeting--a308c82c9329.pdf",
+  "versions": [
+    {
+      "sha256": "a308c82c932965c71b1763f21c6c7f3c49649f2cea26b1415b709f51f4b9c196",
+      "bytes": 31388,
+      "retrieved_utc": "2026-11-24T04:23:42+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:21 GMT"
+    }
+  ]
+}

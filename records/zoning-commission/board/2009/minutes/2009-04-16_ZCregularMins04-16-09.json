@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "ZC Regular Meeting Minutes 04-16-2009 (pdf)",
+  "filename": "ZCregularMins04-16-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCregularMins04-16-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-meeting-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:56:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fe2865461ef4c22418f4703211a1c819f1c8efc6bb7a30e41605e2af50e723e2",
+  "bytes": 125870,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 13:36:04 GMT",
+  "etag": "\"1663f0a-1ebae-501c4bc10f900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2009/2009-04-16_ZCregularMins04-16-09--fe2865461ef4.pdf",
+  "versions": [
+    {
+      "sha256": "fe2865461ef4c22418f4703211a1c819f1c8efc6bb7a30e41605e2af50e723e2",
+      "bytes": 125870,
+      "retrieved_utc": "2026-11-24T05:56:29+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 13:36:04 GMT"
+    }
+  ]
+}

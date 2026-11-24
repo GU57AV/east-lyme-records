@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "ZC Amended Agenda 03-21-2013 (pdf)",
+  "filename": "ZCagn03-21-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCagn03-21-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:27:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5dcc6dde11ccfbbf3cbf4d1725370db21ab7d5a24f4bc1ae25b945e4b99d5363",
+  "bytes": 111556,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Sep 2014 13:25:42 GMT",
+  "etag": "\"1661495-1b3c4-5023d4a0a4180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2013/2013-03-21_ZCagn03-21-13--5dcc6dde11cc.pdf",
+  "versions": [
+    {
+      "sha256": "5dcc6dde11ccfbbf3cbf4d1725370db21ab7d5a24f4bc1ae25b945e4b99d5363",
+      "bytes": 111556,
+      "retrieved_utc": "2026-11-24T04:27:03+00:00",
+      "http_last_modified": "Thu, 04 Sep 2014 13:25:42 GMT"
+    }
+  ]
+}

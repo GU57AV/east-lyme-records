@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZC Regular Meeting Minutes 09-06-2012 (pdf)",
+  "filename": "ZC-Regular-Meeting-Minutes-09-06-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Regular-Meeting-Minutes-09-06-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:52:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "68b297a91db87cd0e39d39d009a791bd188ef29263ab03ffe9587c06f1fc9d3a",
+  "bytes": 322002,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:59:05 GMT",
+  "etag": "\"1663913-4e9d2-52082d3373040\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2012/2012-09-06_ZC-Regular-Meeting-Minutes-09-06-2012--68b297a91db8.pdf",
+  "versions": [
+    {
+      "sha256": "68b297a91db87cd0e39d39d009a791bd188ef29263ab03ffe9587c06f1fc9d3a",
+      "bytes": 322002,
+      "retrieved_utc": "2026-11-24T04:52:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:59:05 GMT"
+    }
+  ]
+}

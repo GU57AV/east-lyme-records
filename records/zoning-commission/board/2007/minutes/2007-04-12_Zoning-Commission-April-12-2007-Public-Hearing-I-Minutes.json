@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2007",
+  "subcommittee": false,
+  "link_text": "Zoning Commission April 12 2007 Public Hearing I Minutes (pdf)",
+  "filename": "Zoning-Commission-April-12-2007-Public-Hearing-I-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-April-12-2007-Public-Hearing-I-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2007-minutes/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T06:55:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "289942dfa73f7ad6bf82218cbc9a02d93b2b7d44374be00da70f22909df242e7",
+  "bytes": 758429,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Feb 2022 20:26:18 GMT",
+  "etag": "\"16a0fb1-b929d-5d83c941b2e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2007/2007-04-12_Zoning-Commission-April-12-2007-Public-Hearing-I-Minutes--289942dfa73f.pdf",
+  "versions": [
+    {
+      "sha256": "289942dfa73f7ad6bf82218cbc9a02d93b2b7d44374be00da70f22909df242e7",
+      "bytes": 758429,
+      "retrieved_utc": "2026-11-24T06:55:59+00:00",
+      "http_last_modified": "Thu, 17 Feb 2022 20:26:18 GMT"
+    }
+  ]
+}

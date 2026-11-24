@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission August 4 2016 Agenda (pdf)",
+  "filename": "Zoning-Commission-August-4-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-August-4-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:19:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3f645dda3dc12ee082969d9f1c2eed008169fea6141903ad90a05f707d85f79b",
+  "bytes": 71710,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 Jul 2016 18:14:23 GMT",
+  "etag": "\"16e068b-1181e-538a1fca33dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-08-04_Zoning-Commission-August-4-2016-Agenda--3f645dda3dc1.pdf",
+  "versions": [
+    {
+      "sha256": "3f645dda3dc12ee082969d9f1c2eed008169fea6141903ad90a05f707d85f79b",
+      "bytes": 71710,
+      "retrieved_utc": "2026-11-24T03:19:27+00:00",
+      "http_last_modified": "Wed, 27 Jul 2016 18:14:23 GMT"
+    }
+  ]
+}

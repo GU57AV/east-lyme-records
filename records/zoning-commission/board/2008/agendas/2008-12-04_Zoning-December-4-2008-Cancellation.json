@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Zoning December 4 2008 Cancellation (pdf)",
+  "filename": "Zoning-December-4-2008-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Zoning-December-4-2008-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2008-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T06:03:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ba1b9f64fcb51046e461f0e81d2b70497eaea49260a5757f0f4ee4c442c104ad",
+  "bytes": 45435,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2022 13:35:23 GMT",
+  "etag": "\"16a0afa-b17b-5da6a1a1c3cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2008/2008-12-04_Zoning-December-4-2008-Cancellation--ba1b9f64fcb5.pdf",
+  "versions": [
+    {
+      "sha256": "ba1b9f64fcb51046e461f0e81d2b70497eaea49260a5757f0f4ee4c442c104ad",
+      "bytes": 45435,
+      "retrieved_utc": "2026-11-24T06:03:31+00:00",
+      "http_last_modified": "Thu, 17 Mar 2022 13:35:23 GMT"
+    }
+  ]
+}

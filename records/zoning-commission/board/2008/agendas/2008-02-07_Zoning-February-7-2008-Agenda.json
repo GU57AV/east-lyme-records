@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Zoning February 7 2008 Agenda (pdf)",
+  "filename": "Zoning-February-7-2008-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Zoning-February-7-2008-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2008-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T06:12:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "111ae5bc01841971887ce7a95a376fb3087193cb61854ae0eb500a34064ee4b8",
+  "bytes": 118332,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2022 13:23:52 GMT",
+  "etag": "\"16a0a22-1ce3c-5da69f0ec6a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2008/2008-02-07_Zoning-February-7-2008-Agenda--111ae5bc0184.pdf",
+  "versions": [
+    {
+      "sha256": "111ae5bc01841971887ce7a95a376fb3087193cb61854ae0eb500a34064ee4b8",
+      "bytes": 118332,
+      "retrieved_utc": "2026-11-24T06:12:32+00:00",
+      "http_last_modified": "Thu, 17 Mar 2022 13:23:52 GMT"
+    }
+  ]
+}

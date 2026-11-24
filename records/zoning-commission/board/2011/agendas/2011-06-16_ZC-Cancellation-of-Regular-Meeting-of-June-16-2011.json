@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 06-16-2011 (pdf)",
+  "filename": "ZC-Cancellation-of-Regular-Meeting-of-June-16-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Cancellation-of-Regular-Meeting-of-June-16-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:04:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "133626d6232eebb8fad1f848eaf1fcccac8fb400dbe4d121694c9249ffd9a043",
+  "bytes": 29752,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:22 GMT",
+  "etag": "\"166378e-7438-52082d0a70f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-06-16_ZC-Cancellation-of-Regular-Meeting-of-June-16-2011--133626d6232e.pdf",
+  "versions": [
+    {
+      "sha256": "133626d6232eebb8fad1f848eaf1fcccac8fb400dbe4d121694c9249ffd9a043",
+      "bytes": 29752,
+      "retrieved_utc": "2026-11-24T05:04:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:22 GMT"
+    }
+  ]
+}

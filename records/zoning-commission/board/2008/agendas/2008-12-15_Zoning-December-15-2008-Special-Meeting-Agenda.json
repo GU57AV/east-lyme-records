@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Zoning December 15 2008 Special Meeting Agenda (pdf)",
+  "filename": "Zoning-December-15-2008-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Zoning-December-15-2008-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2008-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T06:03:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0bcc5c387359f3d93568b29bb66249dd8b2d5cb4207090ec2402e38e6f6fe782",
+  "bytes": 58495,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2022 13:35:23 GMT",
+  "etag": "\"16a0aca-e47f-5da6a1a1c3cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2008/2008-12-15_Zoning-December-15-2008-Special-Meeting-Agenda--0bcc5c387359.pdf",
+  "versions": [
+    {
+      "sha256": "0bcc5c387359f3d93568b29bb66249dd8b2d5cb4207090ec2402e38e6f6fe782",
+      "bytes": 58495,
+      "retrieved_utc": "2026-11-24T06:03:11+00:00",
+      "http_last_modified": "Thu, 17 Mar 2022 13:35:23 GMT"
+    }
+  ]
+}

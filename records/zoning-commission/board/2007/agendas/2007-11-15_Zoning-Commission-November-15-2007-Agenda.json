@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2007",
+  "subcommittee": false,
+  "link_text": "Zoning Commission November 15 2007 Agenda (pdf)",
+  "filename": "Zoning-Commission-November-15-2007-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-November-15-2007-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2007-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T06:32:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f829d35579673b6cbce48a63f5370ee37ca812df5b5e8d9791e380cc2cc2033",
+  "bytes": 117854,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Feb 2022 19:26:18 GMT",
+  "etag": "\"16a0f68-1cc5e-5d83bbd878a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2007/2007-11-15_Zoning-Commission-November-15-2007-Agenda--0f829d355796.pdf",
+  "versions": [
+    {
+      "sha256": "0f829d35579673b6cbce48a63f5370ee37ca812df5b5e8d9791e380cc2cc2033",
+      "bytes": 117854,
+      "retrieved_utc": "2026-11-24T06:32:35+00:00",
+      "http_last_modified": "Thu, 17 Feb 2022 19:26:18 GMT"
+    }
+  ]
+}

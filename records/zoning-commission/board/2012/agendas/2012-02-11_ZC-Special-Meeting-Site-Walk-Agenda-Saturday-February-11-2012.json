@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZC Special Meeting Site Walk Agenda 02-11-2012 (pdf)",
+  "filename": "ZC-Special-Meeting-Site-Walk-Agenda-Saturday-February-11-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Special-Meeting-Site-Walk-Agenda-Saturday-February-11-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:47:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bb0fb1361fda70ddb6592c959bc807db97a6156fe043d350ac89273049729e5f",
+  "bytes": 28632,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 14:20:20 GMT",
+  "etag": "\"1663b97-6fd8-50229ef953100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2012/2012-02-11_ZC-Special-Meeting-Site-Walk-Agenda-Saturday-February-11-2012--bb0fb1361fda.pdf",
+  "versions": [
+    {
+      "sha256": "bb0fb1361fda70ddb6592c959bc807db97a6156fe043d350ac89273049729e5f",
+      "bytes": 28632,
+      "retrieved_utc": "2026-11-24T04:47:26+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 14:20:20 GMT"
+    }
+  ]
+}

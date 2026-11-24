@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Executive Session Minutes 06-17-2010 (pdf)",
+  "filename": "ZC-Minutes-of-Executive-Session-June-17-2010.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZC-Minutes-of-Executive-Session-June-17-2010.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:34:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01cb092a480e41d1805042b48c170e6a610e14fb3722e61c41886cf3e1f9ae7f",
+  "bytes": 43117,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:31 GMT",
+  "etag": "\"1661dc2-a86d-52082d13063c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-06-17_ZC-Minutes-of-Executive-Session-June-17-2010--01cb092a480e.pdf",
+  "versions": [
+    {
+      "sha256": "01cb092a480e41d1805042b48c170e6a610e14fb3722e61c41886cf3e1f9ae7f",
+      "bytes": 43117,
+      "retrieved_utc": "2026-11-24T05:34:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:31 GMT"
+    }
+  ]
+}

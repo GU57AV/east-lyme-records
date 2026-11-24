@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZC Cancellation 04-05-2012 (pdf)",
+  "filename": "ZCagn04-05-12cancel.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCagn04-05-12cancel.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T04:45:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7414e7c21771fbc2a45110b2e154a6b9f388127723d028be47b341b547774094",
+  "bytes": 28089,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 14:20:24 GMT",
+  "etag": "\"1663e86-6db9-50229efd23a00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2012/2012-04-05_ZCagn04-05-12cancel--7414e7c21771.pdf",
+  "versions": [
+    {
+      "sha256": "7414e7c21771fbc2a45110b2e154a6b9f388127723d028be47b341b547774094",
+      "bytes": 28089,
+      "retrieved_utc": "2026-11-24T04:45:46+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 14:20:24 GMT"
+    }
+  ]
+}

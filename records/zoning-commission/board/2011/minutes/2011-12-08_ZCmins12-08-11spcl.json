@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "ZC Special Meeting Minutes 12-08-2011 (pdf)",
+  "filename": "ZCmins12-08-11spcl.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCmins12-08-11spcl.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:09:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a1f332281656afc4a628c4af4f295db695721c2855c32993cc8d087e184f96fa",
+  "bytes": 102448,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2014 13:00:18 GMT",
+  "etag": "\"1664122-19030-50228d15c7c80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2011/2011-12-08_ZCmins12-08-11spcl--a1f332281656.pdf",
+  "versions": [
+    {
+      "sha256": "a1f332281656afc4a628c4af4f295db695721c2855c32993cc8d087e184f96fa",
+      "bytes": 102448,
+      "retrieved_utc": "2026-11-24T05:09:01+00:00",
+      "http_last_modified": "Wed, 03 Sep 2014 13:00:18 GMT"
+    }
+  ]
+}

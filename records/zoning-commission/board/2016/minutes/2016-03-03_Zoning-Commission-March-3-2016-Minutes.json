@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Zoning Commission March 3 2016 Minutes (pdf)",
+  "filename": "Zoning-Commission-March-3-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-March-3-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T03:35:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e150b29429246a312dcadf879ed1ea59354b87c38f2376b9bf3074fabd8a360e",
+  "bytes": 251181,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Mar 2016 17:56:12 GMT",
+  "etag": "\"16e051e-3d52d-52d792e24a700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2016/2016-03-03_Zoning-Commission-March-3-2016-Minutes--e150b2942924.pdf",
+  "versions": [
+    {
+      "sha256": "e150b29429246a312dcadf879ed1ea59354b87c38f2376b9bf3074fabd8a360e",
+      "bytes": 251181,
+      "retrieved_utc": "2026-11-24T03:35:09+00:00",
+      "http_last_modified": "Mon, 07 Mar 2016 17:56:12 GMT"
+    }
+  ]
+}

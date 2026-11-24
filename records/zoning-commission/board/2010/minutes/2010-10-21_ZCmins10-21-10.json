@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZC Public Hearing Minutes 10-21-2010 (pdf)",
+  "filename": "ZCmins10-21-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZCmins10-21-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T05:30:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4d9be4f7c257a8d73d92cbd3440175be9bb5f5921f82a222e9bb013900154b7",
+  "bytes": 89422,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 17:51:52 GMT",
+  "etag": "\"1663907-15d4e-501c84ee0de00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2010/2010-10-21_ZCmins10-21-10--a4d9be4f7c25.pdf",
+  "versions": [
+    {
+      "sha256": "a4d9be4f7c257a8d73d92cbd3440175be9bb5f5921f82a222e9bb013900154b7",
+      "bytes": 89422,
+      "retrieved_utc": "2026-11-24T05:30:24+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 17:51:52 GMT"
+    }
+  ]
+}
