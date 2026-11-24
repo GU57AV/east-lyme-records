@@ -353,7 +353,8 @@ def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
         # Public hearings have their own minutes; an entry for a hearing followed by a meeting counts as a meeting.
         mt = "hearing" if re.search(r"hearing", title, re.I) and not re.search(
             r"immed|follow|regular meeting|&", title, re.I) else "meeting"
-        has_min = (slug, d, mt) in minutes
+        has_min = ((slug, d, mt) in minutes if mt == "meeting"
+                   else any((slug, d, x) in minutes for x in ("hearing", "meeting")))
         if abs((d - today).days) <= 30:
             summary["rows"].append({"begin": begin, "title": title, "board": name(slug), "cancelled": cancelled,
                                     "agenda": ("posted" if posted else "linked on calendar" if link_only
@@ -547,6 +548,12 @@ def main() -> int:
     cur = now.astimezone(ET).strftime("%Y-%m")
     backfilling = (not st.get("calendar_initialized")
                    or st.get("calendar_backfill_next", "0000-00") < towncal.add_months(cur, -1))
+    newly_covered = covered_boards(cfg) - set(state.get("calendar_covered", []))
+    names_new = {boards.get(b, b) for b in newly_covered}
+    if csum and newly_covered and not backfilling:
+        state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in cflags
+                                                       if f["board"] in names_new})
+    state["calendar_covered"] = sorted(covered_boards(cfg))
     if csum and (backfilling or "calendar_seeded" not in state):
         state["flags"] = sorted(set(state["flags"]) | {f"{f['key']}|{f['rule']}" for f in cflags})
         if not backfilling:
@@ -580,7 +587,7 @@ def main() -> int:
                 new_hits.append((t, side, m, snip))
             state["topic_docs"].setdefault(k, now.isoformat(timespec="seconds"))
 
-    blob = repo_url()
+    blob = repo_url() + "/blob/main/"
     if args.open_issues and new_flags:
         body = ["New posting-deadline flags. These are leads to review, not findings; see "
                 f"[the report]({blob}reports/compliance.md) for how they're determined.", ""]

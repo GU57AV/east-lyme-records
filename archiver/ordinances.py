@@ -167,6 +167,7 @@ def candidates(docs, doc_text) -> list[dict]:
                         or re.search(r"notice\W+of\W+(adoption|enactment|passage)|return\W+of\W+posting", top, re.I)),
                     "hearing": bool(re.search(r"hearing\W+notice|notice\W+of\W+(a\W+)?public\W+hearing", name + " " + top, re.I)),
                     "body": len(re.findall(r"(?:^|\n)\s*(?:Section|Sec\.|§)\s*\d", t)) >= 2
+                            or len(re.findall(r"(?m)^\s*\d{1,2}\.\s+[A-Z]", t)) >= 3
                             or bool(re.search(r"be it (?:hereby )?ordained|is hereby (?:enacted|amended|adopted)", t, re.I)),
                     "posted": posted(m)})
     return out
