@@ -31,6 +31,11 @@
       "url": "https://eltownhall.com/government/boards-commissions/board-of-finance/"
     },
     {
+      "slug": "police-commission",
+      "name": "East Lyme Board of Police Commissioners",
+      "url": "https://eltownhall.com/government/boards-commissions/police-commission/"
+    },
+    {
       "slug": "zoning-board-of-appeals",
       "name": "East Lyme Zoning Board of Appeals",
       "url": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/"
@@ -39,11 +44,6 @@
       "slug": "inland-wetlands-agency",
       "name": "East Lyme Inland Wetlands Agency",
       "url": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/"
-    },
-    {
-      "slug": "police-commission",
-      "name": "East Lyme Board of Police Commissioners",
-      "url": "https://eltownhall.com/government/boards-commissions/police-commission/"
     },
     {
       "slug": "water-sewer-commission",
