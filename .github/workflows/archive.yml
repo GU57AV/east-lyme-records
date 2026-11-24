@@ -34,7 +34,7 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq poppler-utils tesseract-ocr ocrmypdf
-          pip install --quiet requests beautifulsoup4 opentimestamps-client
+          pip install --quiet requests beautifulsoup4 opentimestamps-client markdown
 
       - name: Run archiver
         env:

@@ -275,6 +275,8 @@ first import of a large board takes a while.
     minutes deadline that hasn't been met yet.
   - **Town calendar changes:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml`, meetings added, moved, cancelled or removed.
   - **Weekly digest:** `https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml`, a summary of each week's meetings, new documents and alerts.
+    The full digest is in each item, so you can also **get it by email**: sign up with a free
+    RSS-to-email service such as [follow.it](https://follow.it), giving it this address and your email.
 
   The documents feed only lists documents posted after this archive started watching each board, so it
   starts out short. For every saved change, technical or not, there's also the

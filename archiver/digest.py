@@ -171,6 +171,21 @@ def build_week(docs, boards: dict, cfg: dict, monday: dt.date, now: dt.datetime)
     return "\n".join(L), glance
 
 
+def to_html(text: str) -> str | None:
+    """The digest as email-friendly HTML with absolute links, for the RSS item (and so for RSS-to-email
+    services, which send the item's content)."""
+    try:
+        import markdown
+    except ImportError:
+        return None
+    import os
+    repo = os.environ.get("GITHUB_REPOSITORY", "GU57AV/east-lyme-records")
+    html = markdown.markdown(text, extensions=["tables"])
+    html = html.replace('href="../../', f'href="https://github.com/{repo}/blob/main/')
+    html = html.replace('href="../', f'href="https://github.com/{repo}/blob/main/reports/')
+    return html
+
+
 def write_index() -> None:
     rows = []
     for p in sorted(OUT.glob("20*-W*.md"), reverse=True):
@@ -184,6 +199,9 @@ def write_index() -> None:
          "archive: meetings on the Town calendar, documents newly posted, documents changed or removed, and "
          "alerts. Subscribe to new digests with the RSS feed "
          "[feeds/digest.xml](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml).", "",
+         "**Get it by email:** sign up with a free RSS-to-email service such as [follow.it](https://follow.it), "
+         "giving it the feed address above and your email address. Each finished week's full digest will be "
+         "emailed to you. You can stop at any time from the service.", "",
          "| Week | At a glance |", "|---|---|"] + rows) + "\n", encoding="utf-8")
 
 
@@ -198,6 +216,7 @@ def run(docs, boards: dict, cfg: dict, now: dt.datetime, state: dict) -> None:
     write_index()
     last = this_monday - dt.timedelta(days=7)
     if state.get("digest_announced") != week_id(last) and (OUT / f"{week_id(last)}.md").exists():
-        _, glance = build_week(docs, boards, cfg, last, now)
-        record(f"Weekly digest: {span(last)}", glance, repo_url(f"reports/digest/{week_id(last)}.md"), feed="digest")
+        text, glance = build_week(docs, boards, cfg, last, now)
+        record(f"Weekly digest: {span(last)}", to_html(text) or glance,
+               repo_url(f"reports/digest/{week_id(last)}.md"), feed="digest")
         state["digest_announced"] = week_id(last)
