@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF November 14 2022 Special Meeting Agenda (pdf)",
+  "filename": "BOF-November-14-2022-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/BOF-November-14-2022-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T20:25:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b9e820b2a73c064bea90a6148c8b38071e999df434e49f4c9582ae98369a82ed",
+  "bytes": 26145,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Nov 2022 18:30:43 GMT",
+  "etag": "\"16a10b6-6621-5ed726fe6bac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-11-14_BOF-November-14-2022-Special-Meeting-Agenda--b9e820b2a73c.pdf",
+  "versions": [
+    {
+      "sha256": "b9e820b2a73c064bea90a6148c8b38071e999df434e49f4c9582ae98369a82ed",
+      "bytes": 26145,
+      "retrieved_utc": "2026-11-24T20:25:03+00:00",
+      "http_last_modified": "Mon, 14 Nov 2022 18:30:43 GMT"
+    }
+  ]
+}

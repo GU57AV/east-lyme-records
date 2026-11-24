@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF 2025 Meeting Schedule (pdf)",
+  "filename": "BOF-2025-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/BOF-2025-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-24T19:38:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "23c1d429e4780dd2304f405c7d410b20b4f430eb9e93683be3355b5ce047d7f6",
+  "bytes": 30105,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Dec 2024 20:22:24 GMT",
+  "etag": "\"1680548-7599-628778a228000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2024-12-00_BOF-2025-Meeting-Schedule--23c1d429e478.pdf",
+  "versions": [
+    {
+      "sha256": "23c1d429e4780dd2304f405c7d410b20b4f430eb9e93683be3355b5ce047d7f6",
+      "bytes": 30105,
+      "retrieved_utc": "2026-11-24T19:38:24+00:00",
+      "http_last_modified": "Wed, 04 Dec 2024 20:22:24 GMT"
+    }
+  ]
+}

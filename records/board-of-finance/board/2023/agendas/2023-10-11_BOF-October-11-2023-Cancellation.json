@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF October 11 2023 Cancellation (pdf)",
+  "filename": "BOF-October-11-2023-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/BOF-October-11-2023-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-24T20:06:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c2f422bd33471293364a0f01ca651f67ac54284cedff420ac1011be7d4a66d63",
+  "bytes": 29845,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Oct 2023 20:00:40 GMT",
+  "etag": "\"16e020e-7495-60776470f8a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-10-11_BOF-October-11-2023-Cancellation--c2f422bd3347.pdf",
+  "versions": [
+    {
+      "sha256": "c2f422bd33471293364a0f01ca651f67ac54284cedff420ac1011be7d4a66d63",
+      "bytes": 29845,
+      "retrieved_utc": "2026-11-24T20:06:38+00:00",
+      "http_last_modified": "Wed, 11 Oct 2023 20:00:40 GMT"
+    }
+  ]
+}

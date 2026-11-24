@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF February 20 2020 Special Meeting Amended Agenda (pdf)",
+  "filename": "BOF-February-20-2020-Special-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/BOF-February-20-2020-Special-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-24T21:11:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b0240b140a8a08605f63c17fef18b353202f9ceabc28fa2ba3893b0318415ac",
+  "bytes": 28557,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Feb 2020 19:44:25 GMT",
+  "etag": "\"16617d0-6f8d-59e66331dd840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-02-20_BOF-February-20-2020-Special-Meeting-Amended-Agenda--0b0240b140a8.pdf",
+  "versions": [
+    {
+      "sha256": "0b0240b140a8a08605f63c17fef18b353202f9ceabc28fa2ba3893b0318415ac",
+      "bytes": 28557,
+      "retrieved_utc": "2026-11-24T21:11:04+00:00",
+      "http_last_modified": "Wed, 12 Feb 2020 19:44:25 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF August 14 2024 Agenda (Hybrid) (pdf)",
+  "filename": "BOF-August-14-2024-Agenda-Hybrid.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/BOF-August-14-2024-Agenda-Hybrid.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-24T19:47:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fad21482fe8f82be403c6b5159b8c12258c5ee58bbf7c3a98b6b673d693238a7",
+  "bytes": 72566,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Aug 2024 19:32:58 GMT",
+  "etag": "\"1680a9d-11b76-61f818f702e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-08-14_BOF-August-14-2024-Agenda-Hybrid--fad21482fe8f.pdf",
+  "versions": [
+    {
+      "sha256": "fad21482fe8f82be403c6b5159b8c12258c5ee58bbf7c3a98b6b673d693238a7",
+      "bytes": 72566,
+      "retrieved_utc": "2026-11-24T19:47:36+00:00",
+      "http_last_modified": "Mon, 12 Aug 2024 19:32:58 GMT"
+    }
+  ]
+}

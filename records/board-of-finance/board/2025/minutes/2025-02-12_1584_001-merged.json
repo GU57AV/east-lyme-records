@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF February 12 2025 Minutes (pdf)",
+  "filename": "1584_001-merged.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/1584_001-merged.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-minutes/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-24T19:44:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f90f694549ed99561c21573289a64cca40095ece6800ae0db0d5da8881783600",
+  "bytes": 92367,
+  "pages": 0,
+  "http_last_modified": "Sat, 01 Mar 2025 00:10:47 GMT",
+  "etag": "\"16c01ca-168cf-62f3cc13fefc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-02-12_1584_001-merged--f90f694549ed.pdf",
+  "versions": [
+    {
+      "sha256": "f90f694549ed99561c21573289a64cca40095ece6800ae0db0d5da8881783600",
+      "bytes": 92367,
+      "retrieved_utc": "2026-11-24T19:44:53+00:00",
+      "http_last_modified": "Sat, 01 Mar 2025 00:10:47 GMT"
+    }
+  ]
+}

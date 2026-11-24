@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD August 19 2020 Subcommittee Special Meeting Cancellation (pdf)",
+  "filename": "POCD-Subcommittee-August-19-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/POCD-Subcommittee-August-19-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-24T18:38:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "045de8a1712d5df68100e43a82a0ca5683710a296aba086f67f1825eb4e98e76",
+  "bytes": 36671,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Aug 2020 12:38:06 GMT",
+  "etag": "\"1661aa6-8f3f-5ad2628a7c780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-08-19_POCD-Subcommittee-August-19-2020-Cancellation--045de8a1712d.pdf",
+  "versions": [
+    {
+      "sha256": "045de8a1712d5df68100e43a82a0ca5683710a296aba086f67f1825eb4e98e76",
+      "bytes": 36671,
+      "retrieved_utc": "2026-11-24T18:38:51+00:00",
+      "http_last_modified": "Tue, 18 Aug 2020 12:38:06 GMT"
+    }
+  ]
+}

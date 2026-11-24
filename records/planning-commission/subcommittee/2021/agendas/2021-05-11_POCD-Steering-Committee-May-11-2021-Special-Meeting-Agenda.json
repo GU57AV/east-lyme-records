@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "POCD Steering Committee May 11 2021 Special Meeting Agenda (pdf)",
+  "filename": "POCD-Steering-Committee-May-11-2021-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/05/POCD-Steering-Committee-May-11-2021-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2021-agendas/",
+  "upload_folder": "2021-05",
+  "first_seen_utc": "2026-11-24T18:35:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "50c8320a27c685c43dc5f13a40a6bf371aa16222a29b036b2e50f2ffd3abd2cb",
+  "bytes": 171134,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 May 2021 13:37:24 GMT",
+  "etag": "\"1663683-29c7e-5c1812da0ad00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-05-11_POCD-Steering-Committee-May-11-2021-Special-Meeting-Agenda--50c8320a27c6.pdf",
+  "versions": [
+    {
+      "sha256": "50c8320a27c685c43dc5f13a40a6bf371aa16222a29b036b2e50f2ffd3abd2cb",
+      "bytes": 171134,
+      "retrieved_utc": "2026-11-24T18:35:47+00:00",
+      "http_last_modified": "Tue, 04 May 2021 13:37:24 GMT"
+    }
+  ]
+}

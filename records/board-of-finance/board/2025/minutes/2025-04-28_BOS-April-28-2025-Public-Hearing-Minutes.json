@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF April 28 2025 Public Hearing Minutes (pdf)",
+  "filename": "BOS-April-28-2025-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/BOS-April-28-2025-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-minutes/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-24T19:41:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "432fb40fa220a7b6120e81e379debf6f6e6cde1ca8b12882b40c7a631e0bec9d",
+  "bytes": 1912012,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 May 2025 12:33:31 GMT",
+  "etag": "\"16a1578-1d2ccc-63476d2ff5cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-04-28_BOS-April-28-2025-Public-Hearing-Minutes--432fb40fa220.pdf",
+  "versions": [
+    {
+      "sha256": "432fb40fa220a7b6120e81e379debf6f6e6cde1ca8b12882b40c7a631e0bec9d",
+      "bytes": 1912012,
+      "retrieved_utc": "2026-11-24T19:41:49+00:00",
+      "http_last_modified": "Tue, 06 May 2025 12:33:31 GMT"
+    }
+  ]
+}

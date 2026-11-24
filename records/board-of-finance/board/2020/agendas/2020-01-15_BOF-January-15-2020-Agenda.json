@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF January 15 2020 Agenda (pdf)",
+  "filename": "BOF-January-15-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/BOF-January-15-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T21:12:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "20c094be7856d7357a04f1565f1e225d9b2efe258b52918f93059ed6dce8080b",
+  "bytes": 46841,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Jan 2020 20:19:08 GMT",
+  "etag": "\"166170c-b6f9-59bbab8ab2700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-01-15_BOF-January-15-2020-Agenda--20c094be7856.pdf",
+  "versions": [
+    {
+      "sha256": "20c094be7856d7357a04f1565f1e225d9b2efe258b52918f93059ed6dce8080b",
+      "bytes": 46841,
+      "retrieved_utc": "2026-11-24T21:12:06+00:00",
+      "http_last_modified": "Thu, 09 Jan 2020 20:19:08 GMT"
+    }
+  ]
+}

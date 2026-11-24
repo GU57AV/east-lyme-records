@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Notice of Adoption Of Ordinance Establishing The East Lyme Grants Fund",
+  "filename": "Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-24T19:07:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9b2d36a590cf35f0988b342ae3def571dbdb89f8a5e768a5ff5e59f0e23a5ca8",
+  "bytes": 102599,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Mar 2024 15:53:03 GMT",
+  "etag": "\"1680626-190c7-61378a73c15c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-03-00_Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund--9b2d36a590cf.pdf",
+  "versions": [
+    {
+      "sha256": "9b2d36a590cf35f0988b342ae3def571dbdb89f8a5e768a5ff5e59f0e23a5ca8",
+      "bytes": 102599,
+      "retrieved_utc": "2026-11-24T19:07:29+00:00",
+      "http_last_modified": "Tue, 12 Mar 2024 15:53:03 GMT"
+    }
+  ]
+}

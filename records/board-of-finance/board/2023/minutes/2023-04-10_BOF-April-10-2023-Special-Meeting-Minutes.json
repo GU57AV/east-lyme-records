@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF April 10 2023 Special Meeting Minutes (pdf)",
+  "filename": "BOF-April-10-2023-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/BOF-April-10-2023-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-minutes/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-24T20:21:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "faf7e4ed9464d1243cb4d68023a895469ae7250115884c1846caf65f5d0ca246",
+  "bytes": 240425,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Apr 2023 18:42:28 GMT",
+  "etag": "\"16e0265-3ab29-5f927f8470d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-04-10_BOF-April-10-2023-Special-Meeting-Minutes--faf7e4ed9464.pdf",
+  "versions": [
+    {
+      "sha256": "faf7e4ed9464d1243cb4d68023a895469ae7250115884c1846caf65f5d0ca246",
+      "bytes": 240425,
+      "retrieved_utc": "2026-11-24T20:21:37+00:00",
+      "http_last_modified": "Wed, 12 Apr 2023 18:42:28 GMT"
+    }
+  ]
+}

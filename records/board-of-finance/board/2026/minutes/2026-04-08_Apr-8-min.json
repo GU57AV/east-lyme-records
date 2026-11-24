@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF April 8 2026 Meeting Minutes (pdf)",
+  "filename": "Apr-8-min.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/Apr-8-min.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-minutes/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-24T19:25:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4d87abf3a9552e50fe04a8941931744fdf3c6c101be112a1ba66a886e1b660d7",
+  "bytes": 165468,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Apr 2026 13:12:41 GMT",
+  "etag": "\"1701435-2865c-64fe40db0f641\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-04-08_Apr-8-min--4d87abf3a955.pdf",
+  "versions": [
+    {
+      "sha256": "4d87abf3a9552e50fe04a8941931744fdf3c6c101be112a1ba66a886e1b660d7",
+      "bytes": 165468,
+      "retrieved_utc": "2026-11-24T19:25:29+00:00",
+      "http_last_modified": "Mon, 20 Apr 2026 13:12:41 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Steering Committee October 21 2020 Agenda (pdf)",
+  "filename": "POCD-Steering-Committee-October-21-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/POCD-Steering-Committee-October-21-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-24T18:37:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1833a615df8914457782dca64076c8ff9396b57de84fa496974f73ea5d59c251",
+  "bytes": 174495,
+  "pages": 0,
+  "http_last_modified": "Tue, 13 Oct 2020 17:46:51 GMT",
+  "etag": "\"1661975-2a99f-5b190fff1d8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-10-21_POCD-Steering-Committee-October-21-2020-Agenda--1833a615df89.pdf",
+  "versions": [
+    {
+      "sha256": "1833a615df8914457782dca64076c8ff9396b57de84fa496974f73ea5d59c251",
+      "bytes": 174495,
+      "retrieved_utc": "2026-11-24T18:37:30+00:00",
+      "http_last_modified": "Tue, 13 Oct 2020 17:46:51 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF June 10 2020 Minutes (pdf)",
+  "filename": "BOF-June-10-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/BOF-June-10-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-minutes/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-24T21:15:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c52b559e5c7b771528b5e27e11a148859c07662d161a169c4e5b91dfa7ac98bb",
+  "bytes": 1366114,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Jun 2020 15:34:16 GMT",
+  "etag": "\"1661721-14d862-5a83546ac8e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-06-10_BOF-June-10-2020-Minutes--c52b559e5c7b.pdf",
+  "versions": [
+    {
+      "sha256": "c52b559e5c7b771528b5e27e11a148859c07662d161a169c4e5b91dfa7ac98bb",
+      "bytes": 1366114,
+      "retrieved_utc": "2026-11-24T21:15:32+00:00",
+      "http_last_modified": "Tue, 16 Jun 2020 15:34:16 GMT"
+    }
+  ]
+}

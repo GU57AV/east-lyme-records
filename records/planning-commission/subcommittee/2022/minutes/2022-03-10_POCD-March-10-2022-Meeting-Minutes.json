@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee March 10 2022 Minutes (pdf)",
+  "filename": "POCD-March-10-2022-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/POCD-March-10-2022-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T18:32:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9c222e51580012b1ea3a5c2fb01d2b668d8feb84779532bc854501cb328225b5",
+  "bytes": 86497,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Mar 2022 15:18:51 GMT",
+  "etag": "\"16a0a49-151e1-5dad02157acc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-03-10_POCD-March-10-2022-Meeting-Minutes--9c222e515800.pdf",
+  "versions": [
+    {
+      "sha256": "9c222e51580012b1ea3a5c2fb01d2b668d8feb84779532bc854501cb328225b5",
+      "bytes": 86497,
+      "retrieved_utc": "2026-11-24T18:32:04+00:00",
+      "http_last_modified": "Tue, 22 Mar 2022 15:18:51 GMT"
+    }
+  ]
+}

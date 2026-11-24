@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF December 9 2024 Special Meeting Minutes (pdf)",
+  "filename": "BOF-December-9-2024-Special-Meeting-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/BOF-December-9-2024-Special-Meeting-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-minutes/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-24T19:57:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "301586eb0c64f0faf7c071008eeaefb75211f9375fe6d89e500731afc51046ee",
+  "bytes": 59919,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Dec 2024 17:50:05 GMT",
+  "etag": "\"168054d-ea0f-629a329070d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-12-09_BOF-December-9-2024-Special-Meeting-Minutes-1--301586eb0c64.pdf",
+  "versions": [
+    {
+      "sha256": "301586eb0c64f0faf7c071008eeaefb75211f9375fe6d89e500731afc51046ee",
+      "bytes": 59919,
+      "retrieved_utc": "2026-11-24T19:57:46+00:00",
+      "http_last_modified": "Thu, 19 Dec 2024 17:50:05 GMT"
+    }
+  ]
+}

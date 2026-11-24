@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF October 8 2025 Minutes (pdf)",
+  "filename": "BOF-October-8-2025-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/BOF-October-8-2025-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-minutes/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-24T19:39:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7e56493be0746838e1104dd1bbbbc065b82244e8371761c01d74ac88c9fbb7f5",
+  "bytes": 69457,
+  "pages": 0,
+  "http_last_modified": "Tue, 21 Oct 2025 13:26:18 GMT",
+  "etag": "\"172009c-10f51-641ab2523cfdd\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-10-08_BOF-October-8-2025-Minutes-1--7e56493be074.pdf",
+  "versions": [
+    {
+      "sha256": "7e56493be0746838e1104dd1bbbbc065b82244e8371761c01d74ac88c9fbb7f5",
+      "bytes": 69457,
+      "retrieved_utc": "2026-11-24T19:39:25+00:00",
+      "http_last_modified": "Tue, 21 Oct 2025 13:26:18 GMT"
+    }
+  ]
+}

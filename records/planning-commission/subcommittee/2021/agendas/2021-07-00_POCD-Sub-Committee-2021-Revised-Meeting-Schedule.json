@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee 2021 Revised Meeting Schedule (pdf)",
+  "filename": "POCD-Sub-Committee-2021-Revised-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/POCD-Sub-Committee-2021-Revised-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2021-agendas/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-24T18:36:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3137e6b0092148bc5af936693e1bff606eb2e6a0b221f2a48352a9174d66a1c5",
+  "bytes": 29599,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Jul 2021 13:15:18 GMT",
+  "etag": "\"16804f5-739f-5c6ece9a46580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-07-00_POCD-Sub-Committee-2021-Revised-Meeting-Schedule--3137e6b00921.pdf",
+  "versions": [
+    {
+      "sha256": "3137e6b0092148bc5af936693e1bff606eb2e6a0b221f2a48352a9174d66a1c5",
+      "bytes": 29599,
+      "retrieved_utc": "2026-11-24T18:36:08+00:00",
+      "http_last_modified": "Mon, 12 Jul 2021 13:15:18 GMT"
+    }
+  ]
+}

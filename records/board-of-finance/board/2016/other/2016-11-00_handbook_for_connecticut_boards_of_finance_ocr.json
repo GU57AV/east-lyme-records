@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "other",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Handbook for Connecticut Boards of Finance",
+  "filename": "handbook_for_connecticut_boards_of_finance_ocr.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/handbook_for_connecticut_boards_of_finance_ocr.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T19:07:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ea1bd2158d44654d56e6436419d91dedd94a6bd3fa017129882c08555108059a",
+  "bytes": 1415273,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Nov 2016 14:14:45 GMT",
+  "etag": "\"16625a8-159869-540dee0fabf40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-11-00_handbook_for_connecticut_boards_of_finance_ocr--ea1bd2158d44.pdf",
+  "versions": [
+    {
+      "sha256": "ea1bd2158d44654d56e6436419d91dedd94a6bd3fa017129882c08555108059a",
+      "bytes": 1415273,
+      "retrieved_utc": "2026-11-24T19:07:09+00:00",
+      "http_last_modified": "Wed, 09 Nov 2016 14:14:45 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF May 8 2024 Agenda (pdf)",
+  "filename": "BOF-May-8-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/05/BOF-May-8-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-05",
+  "first_seen_utc": "2026-11-24T19:49:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "53dc03ca9f9d7c4397a43d8de0e095c9900533fbd2209488197dd7ccc5d0e122",
+  "bytes": 43175,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 May 2024 19:29:50 GMT",
+  "etag": "\"1680673-a8a7-617ce17c8c780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-05-08_BOF-May-8-2024-Agenda--53dc03ca9f9d.pdf",
+  "versions": [
+    {
+      "sha256": "53dc03ca9f9d7c4397a43d8de0e095c9900533fbd2209488197dd7ccc5d0e122",
+      "bytes": 43175,
+      "retrieved_utc": "2026-11-24T19:49:38+00:00",
+      "http_last_modified": "Mon, 06 May 2024 19:29:50 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee March 27 2019 Cancellation (pdf)",
+  "filename": "POCD-Sub-Committee-March-27-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/POCD-Sub-Committee-March-27-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/plan-of-conservation-and-development-subcommittee-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-24T18:49:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e4a2842168ea1d337a4df606b105958d021bc3a228e3b78a57db39be7459d83b",
+  "bytes": 28191,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Mar 2019 15:58:06 GMT",
+  "etag": "\"16c19f0-6e1f-5853dbc86bf80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-03-27_POCD-Sub-Committee-March-27-2019-Cancellation--e4a2842168ea.pdf",
+  "versions": [
+    {
+      "sha256": "e4a2842168ea1d337a4df606b105958d021bc3a228e3b78a57db39be7459d83b",
+      "bytes": 28191,
+      "retrieved_utc": "2026-11-24T18:49:24+00:00",
+      "http_last_modified": "Fri, 29 Mar 2019 15:58:06 GMT"
+    }
+  ]
+}

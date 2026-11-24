@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF April 21 2021 Special Meeting Amended Agenda (via zoom) (pdf)",
+  "filename": "BOF-April-21-2021-Amended-Agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/BOF-April-21-2021-Amended-Agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-24T20:45:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9b94f0af3afeb59688c32e1fd9d79003beed89acfe2ac74b8d6c3eac7fd1f26",
+  "bytes": 18013,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Apr 2021 15:06:30 GMT",
+  "etag": "\"16803ed-465d-5c068ca7ee980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-04-21_BOF-April-21-2021-Amended-Agenda-via-zoom--d9b94f0af3af.pdf",
+  "versions": [
+    {
+      "sha256": "d9b94f0af3afeb59688c32e1fd9d79003beed89acfe2ac74b8d6c3eac7fd1f26",
+      "bytes": 18013,
+      "retrieved_utc": "2026-11-24T20:45:30+00:00",
+      "http_last_modified": "Tue, 20 Apr 2021 15:06:30 GMT"
+    }
+  ]
+}

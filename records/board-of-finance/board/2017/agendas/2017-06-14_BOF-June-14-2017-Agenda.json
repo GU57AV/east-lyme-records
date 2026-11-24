@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF June 14 2017 Agenda (pdf)",
+  "filename": "BOF-June-14-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOF-June-14-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T22:00:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "486185b7d37dfe535cb074aa351e72d0b92fc67edf10dda146e308936eb4a2c0",
+  "bytes": 53693,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Jun 2017 18:36:45 GMT",
+  "etag": "\"166289b-d1bd-55177227b0940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-06-14_BOF-June-14-2017-Agenda--486185b7d37d.pdf",
+  "versions": [
+    {
+      "sha256": "486185b7d37dfe535cb074aa351e72d0b92fc67edf10dda146e308936eb4a2c0",
+      "bytes": 53693,
+      "retrieved_utc": "2026-11-24T22:00:49+00:00",
+      "http_last_modified": "Thu, 08 Jun 2017 18:36:45 GMT"
+    }
+  ]
+}

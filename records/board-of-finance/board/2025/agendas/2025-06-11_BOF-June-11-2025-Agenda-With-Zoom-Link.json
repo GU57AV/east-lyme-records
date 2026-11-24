@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF June 11 2025 Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-June-11-2025-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/BOF-June-11-2025-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-24T19:31:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "84a5a7e5546345d746f193443b31e952dbe46330e6a226d7b2aa119a705198df",
+  "bytes": 214266,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Jun 2025 19:03:16 GMT",
+  "etag": "\"16c0066-344fa-636c3a6400500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-06-11_BOF-June-11-2025-Agenda-With-Zoom-Link--84a5a7e55463.pdf",
+  "versions": [
+    {
+      "sha256": "84a5a7e5546345d746f193443b31e952dbe46330e6a226d7b2aa119a705198df",
+      "bytes": 214266,
+      "retrieved_utc": "2026-11-24T19:31:36+00:00",
+      "http_last_modified": "Wed, 04 Jun 2025 19:03:16 GMT"
+    }
+  ]
+}

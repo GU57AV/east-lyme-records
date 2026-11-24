@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Fund Balance Policy",
+  "filename": "Town-of-East-Lyme-Fund-Balance-Policy-Adopted-10-26-2023.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Town-of-East-Lyme-Fund-Balance-Policy-Adopted-10-26-2023.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-24T19:06:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1d623373c5220d881be89c73db601f34cc865471c1917218558ed50f5728b3e",
+  "bytes": 843759,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Oct 2023 21:27:33 GMT",
+  "etag": "\"16e020c-cdfef-60909d29b1b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-10-26_Town-of-East-Lyme-Fund-Balance-Policy-Adopted-10-26-2023--b1d623373c52.pdf",
+  "versions": [
+    {
+      "sha256": "b1d623373c5220d881be89c73db601f34cc865471c1917218558ed50f5728b3e",
+      "bytes": 843759,
+      "retrieved_utc": "2026-11-24T19:06:48+00:00",
+      "http_last_modified": "Tue, 31 Oct 2023 21:27:33 GMT"
+    }
+  ]
+}

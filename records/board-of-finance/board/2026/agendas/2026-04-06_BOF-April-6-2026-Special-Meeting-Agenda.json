@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF April 6 2026 Special Meeting Agenda (pdf)",
+  "filename": "BOF-April-6-2026-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/BOF-April-6-2026-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-24T19:16:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0e707d2958c96a2bc924330e6b5781732b0670480c6f16bbbae0148c34329a17",
+  "bytes": 27365,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 Mar 2026 16:08:39 GMT",
+  "etag": "\"1701819-6ae5-64db33f781bd5\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-04-06_BOF-April-6-2026-Special-Meeting-Agenda--0e707d2958c9.pdf",
+  "versions": [
+    {
+      "sha256": "0e707d2958c96a2bc924330e6b5781732b0670480c6f16bbbae0148c34329a17",
+      "bytes": 27365,
+      "retrieved_utc": "2026-11-24T19:16:37+00:00",
+      "http_last_modified": "Mon, 23 Mar 2026 16:08:39 GMT"
+    }
+  ]
+}

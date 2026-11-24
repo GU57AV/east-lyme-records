@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF July 13 2022 Agenda (pdf)",
+  "filename": "BOF-July-13-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/BOF-July-13-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-24T20:27:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "aff750cf113d80bf480dee9fba415799d0538779cf3c50051fc49c2ba21484c9",
+  "bytes": 52277,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Jul 2022 17:42:49 GMT",
+  "etag": "\"16a13df-cc35-5e33a9d3a3840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-07-13_BOF-July-13-2022-Agenda--aff750cf113d.pdf",
+  "versions": [
+    {
+      "sha256": "aff750cf113d80bf480dee9fba415799d0538779cf3c50051fc49c2ba21484c9",
+      "bytes": 52277,
+      "retrieved_utc": "2026-11-24T20:27:26+00:00",
+      "http_last_modified": "Thu, 07 Jul 2022 17:42:49 GMT"
+    }
+  ]
+}

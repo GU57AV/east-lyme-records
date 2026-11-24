@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF May 21 2026 Special Meeting Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-May-21-2026-Special-Meeting-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/BOF-May-21-2026-Special-Meeting-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-24T19:12:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0ac535e03db5416eb7c8e4f0f4b3aad5b0e07719175ccac199e3c3159b5e34ab",
+  "bytes": 140488,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 May 2026 12:42:21 GMT",
+  "etag": "\"1700a40-224c8-65216e4c4853f\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-05-21_BOF-May-21-2026-Special-Meeting-Agenda-With-Zoom-Link--0ac535e03db5.pdf",
+  "versions": [
+    {
+      "sha256": "0ac535e03db5416eb7c8e4f0f4b3aad5b0e07719175ccac199e3c3159b5e34ab",
+      "bytes": 140488,
+      "retrieved_utc": "2026-11-24T19:12:32+00:00",
+      "http_last_modified": "Mon, 18 May 2026 12:42:21 GMT"
+    }
+  ]
+}

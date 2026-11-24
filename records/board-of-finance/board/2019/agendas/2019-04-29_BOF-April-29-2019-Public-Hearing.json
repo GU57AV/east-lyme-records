@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF April 29 2019 Public Hearing (pdf)",
+  "filename": "BOF-April-29-2019-Public-Hearing.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/BOF-April-29-2019-Public-Hearing.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-24T21:24:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1724b28c77044b8c59abdfde3ae5aa58b647ed3aca343b336e9fa89b7a223934",
+  "bytes": 44361,
+  "pages": 0,
+  "http_last_modified": "Mon, 22 Apr 2019 19:40:44 GMT",
+  "etag": "\"16c20ab-ad49-58723a4eaa700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-04-29_BOF-April-29-2019-Public-Hearing--1724b28c7704.pdf",
+  "versions": [
+    {
+      "sha256": "1724b28c77044b8c59abdfde3ae5aa58b647ed3aca343b336e9fa89b7a223934",
+      "bytes": 44361,
+      "retrieved_utc": "2026-11-24T21:24:05+00:00",
+      "http_last_modified": "Mon, 22 Apr 2019 19:40:44 GMT"
+    }
+  ]
+}

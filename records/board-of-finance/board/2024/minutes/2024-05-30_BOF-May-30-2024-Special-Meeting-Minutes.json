@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF May 30 2024 Special Hybrid Meeting (pdf)",
+  "filename": "BOF-May-30-2024-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/BOF-May-30-2024-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-minutes/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-24T19:59:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5a51fb5af02df1f4acfe8483743a3f072babdcd304934b180cdf8a4690caba2c",
+  "bytes": 67404,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Jun 2024 12:52:12 GMT",
+  "etag": "\"168073c-1074c-61a889e2eb700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-05-30_BOF-May-30-2024-Special-Meeting-Minutes--5a51fb5af02d.pdf",
+  "versions": [
+    {
+      "sha256": "5a51fb5af02df1f4acfe8483743a3f072babdcd304934b180cdf8a4690caba2c",
+      "bytes": 67404,
+      "retrieved_utc": "2026-11-24T19:59:50+00:00",
+      "http_last_modified": "Mon, 10 Jun 2024 12:52:12 GMT"
+    }
+  ]
+}

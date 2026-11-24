@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF October 12 2022 Agenda (pdf)",
+  "filename": "BOF-October-12-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/BOF-October-12-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-24T20:25:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6fca70784ddf1d05981650b11de86090afe87eae262267735f10fbed21527419",
+  "bytes": 38530,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Oct 2022 17:56:24 GMT",
+  "etag": "\"16a1209-9682-5ea758734a200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-10-12_BOF-October-12-2022-Agenda--6fca70784ddf.pdf",
+  "versions": [
+    {
+      "sha256": "6fca70784ddf1d05981650b11de86090afe87eae262267735f10fbed21527419",
+      "bytes": 38530,
+      "retrieved_utc": "2026-11-24T20:25:44+00:00",
+      "http_last_modified": "Fri, 07 Oct 2022 17:56:24 GMT"
+    }
+  ]
+}

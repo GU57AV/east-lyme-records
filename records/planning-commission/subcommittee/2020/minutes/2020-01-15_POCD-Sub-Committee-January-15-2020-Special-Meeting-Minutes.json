@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee January 15 2020 Special Meeting Minutes (pdf)",
+  "filename": "POCD-Sub-Committee-January-15-2020-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/POCD-Sub-Committee-January-15-2020-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-minutes/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-24T18:45:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "040a5362934020dc0c5167cb884a4f003e8910853becf6c19b753ed0ffb5bab6",
+  "bytes": 101867,
+  "pages": 0,
+  "http_last_modified": "Tue, 25 Feb 2020 15:28:45 GMT",
+  "etag": "\"16617ee-18deb-59f6824b7e540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-01-15_POCD-Sub-Committee-January-15-2020-Special-Meeting-Minutes--040a53629340.pdf",
+  "versions": [
+    {
+      "sha256": "040a5362934020dc0c5167cb884a4f003e8910853becf6c19b753ed0ffb5bab6",
+      "bytes": 101867,
+      "retrieved_utc": "2026-11-24T18:45:20+00:00",
+      "http_last_modified": "Tue, 25 Feb 2020 15:28:45 GMT"
+    }
+  ]
+}

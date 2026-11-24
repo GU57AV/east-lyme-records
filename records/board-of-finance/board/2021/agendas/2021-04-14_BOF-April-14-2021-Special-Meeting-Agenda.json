@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF April 14 2021 Agenda (via zoom) (pdf)",
+  "filename": "BOF-April-14-2021-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/BOF-April-14-2021-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-24T20:46:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "62383641531d5eedca32825d9dc81c5f50e52432ea4224678a7dfebba24449af",
+  "bytes": 87969,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Apr 2021 18:55:44 GMT",
+  "etag": "\"1680401-157a1-5bf7a9833cc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-04-14_BOF-April-14-2021-Special-Meeting-Agenda--62383641531d.pdf",
+  "versions": [
+    {
+      "sha256": "62383641531d5eedca32825d9dc81c5f50e52432ea4224678a7dfebba24449af",
+      "bytes": 87969,
+      "retrieved_utc": "2026-11-24T20:46:52+00:00",
+      "http_last_modified": "Thu, 08 Apr 2021 18:55:44 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF April 29 2024 Public Hearing Legal Ad (pdf)",
+  "filename": "BOF-April-29-2024-Public-Hearing-Legal-Ad.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/04/BOF-April-29-2024-Public-Hearing-Legal-Ad.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-04",
+  "first_seen_utc": "2026-11-24T19:50:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56fb863f1c40cb60aba6a7cee1ee53adcbaa92f99d8b0ada799bb33fac3c9f7a",
+  "bytes": 26047,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Apr 2024 15:47:57 GMT",
+  "etag": "\"16809d0-65bf-61638a9710540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-04-29_BOF-April-29-2024-Public-Hearing-Legal-Ad--56fb863f1c40.pdf",
+  "versions": [
+    {
+      "sha256": "56fb863f1c40cb60aba6a7cee1ee53adcbaa92f99d8b0ada799bb33fac3c9f7a",
+      "bytes": 26047,
+      "retrieved_utc": "2026-11-24T19:50:39+00:00",
+      "http_last_modified": "Tue, 16 Apr 2024 15:47:57 GMT"
+    }
+  ]
+}

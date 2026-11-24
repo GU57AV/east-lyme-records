@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "POCD Steering Committee May 19 2021 Cancellation (pdf)",
+  "filename": "POCD-Subcommittee-Steering-Committee-May-19-2021-Cancellation-.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/05/POCD-Subcommittee-Steering-Committee-May-19-2021-Cancellation-.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2021-agendas/",
+  "upload_folder": "2021-05",
+  "first_seen_utc": "2026-11-24T18:35:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "db2736c16dadcf3227ac4690c6f6858f768164fde7bdb50f85cb245c1fe5b839",
+  "bytes": 142973,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 May 2021 13:53:21 GMT",
+  "etag": "\"1663685-22e7d-5c18166ab5640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-05-19_POCD-Subcommittee-Steering-Committee-May-19-2021-Cancellation--db2736c16dad.pdf",
+  "versions": [
+    {
+      "sha256": "db2736c16dadcf3227ac4690c6f6858f768164fde7bdb50f85cb245c1fe5b839",
+      "bytes": 142973,
+      "retrieved_utc": "2026-11-24T18:35:27+00:00",
+      "http_last_modified": "Tue, 04 May 2021 13:53:21 GMT"
+    }
+  ]
+}

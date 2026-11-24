@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Affordable Housing Sub-Committee July 11 2022 Minutes (pdf)",
+  "filename": "Planning-Commission-Affordable-Housing-Subcommittee-July-11-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Planning-Commission-Affordable-Housing-Subcommittee-July-11-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-minutes/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-24T18:30:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "47508648c68fad536bdb74998cc419d08d864984175536899c10d89fdf5eda10",
+  "bytes": 113474,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Aug 2022 12:47:33 GMT",
+  "etag": "\"16a1353-1bb42-5e72451564340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-07-11_Planning-Commission-Affordable-Housing-Subcommittee-July-11-2022-Minutes--47508648c68f.pdf",
+  "versions": [
+    {
+      "sha256": "47508648c68fad536bdb74998cc419d08d864984175536899c10d89fdf5eda10",
+      "bytes": 113474,
+      "retrieved_utc": "2026-11-24T18:30:42+00:00",
+      "http_last_modified": "Fri, 26 Aug 2022 12:47:33 GMT"
+    }
+  ]
+}

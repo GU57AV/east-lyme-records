@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF August 12 2026 Hybrid Agenda (with Zoom Link) (pdf)",
+  "filename": "August-12-2026-Board-of-Finance-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/August-12-2026-Board-of-Finance-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-24T19:09:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9d791a7ef140a277f00dac33fdb8fce4aea7ecf5dcfeb36b7663cbfae0484c74",
+  "bytes": 140191,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Aug 2026 19:51:41 GMT",
+  "etag": "\"16e0e82-2239f-6585219af308d\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-08-12_August-12-2026-Board-of-Finance-Agenda--9d791a7ef140.pdf",
+  "versions": [
+    {
+      "sha256": "9d791a7ef140a277f00dac33fdb8fce4aea7ecf5dcfeb36b7663cbfae0484c74",
+      "bytes": 140191,
+      "retrieved_utc": "2026-11-24T19:09:11+00:00",
+      "http_last_modified": "Wed, 05 Aug 2026 19:51:41 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF June 10th, 2026, Cancellation (pdf)",
+  "filename": "BOF-June-10th-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/BOF-June-10th-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-24T19:10:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "076b779691c911360c9b44a3339b4bf2465bd84477d0ea9e9078038a20b3641b",
+  "bytes": 23736,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Jun 2026 17:11:40 GMT",
+  "etag": "\"17006c0-5cb8-653d538718373\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-06-10_BOF-June-10th-2026-Cancellation--076b779691c9.pdf",
+  "versions": [
+    {
+      "sha256": "076b779691c911360c9b44a3339b4bf2465bd84477d0ea9e9078038a20b3641b",
+      "bytes": 23736,
+      "retrieved_utc": "2026-11-24T19:10:13+00:00",
+      "http_last_modified": "Tue, 09 Jun 2026 17:11:40 GMT"
+    }
+  ]
+}

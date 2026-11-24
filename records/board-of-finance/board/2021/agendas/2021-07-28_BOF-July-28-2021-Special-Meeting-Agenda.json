@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF July 28 2021 Special Meeting Agenda (pdf)",
+  "filename": "BOF-July-28-2021-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/BOF-July-28-2021-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-24T20:43:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cbec3df865b3d43ffb27771f7dd2c949fa7ba3a89a85115246000a54e2fc3520",
+  "bytes": 36455,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Jul 2021 13:24:03 GMT",
+  "etag": "\"168050b-8e67-5c73d804cc2c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-07-28_BOF-July-28-2021-Special-Meeting-Agenda--cbec3df865b3.pdf",
+  "versions": [
+    {
+      "sha256": "cbec3df865b3d43ffb27771f7dd2c949fa7ba3a89a85115246000a54e2fc3520",
+      "bytes": 36455,
+      "retrieved_utc": "2026-11-24T20:43:08+00:00",
+      "http_last_modified": "Fri, 16 Jul 2021 13:24:03 GMT"
+    }
+  ]
+}

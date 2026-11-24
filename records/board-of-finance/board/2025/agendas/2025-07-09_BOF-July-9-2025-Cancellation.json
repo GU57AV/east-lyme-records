@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF July 9 2025 Cancellation (pdf)",
+  "filename": "BOF-July-9-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/BOF-July-9-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-24T19:30:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0d74b111fdf4dce60c306870485ee10c26b7c37efa2cfe2a8c2a4381729d0ad6",
+  "bytes": 24260,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Jul 2025 18:03:02 GMT",
+  "etag": "\"16c0305-5ec4-6396ec5718180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-07-09_BOF-July-9-2025-Cancellation--0d74b111fdf4.pdf",
+  "versions": [
+    {
+      "sha256": "0d74b111fdf4dce60c306870485ee10c26b7c37efa2cfe2a8c2a4381729d0ad6",
+      "bytes": 24260,
+      "retrieved_utc": "2026-11-24T19:30:56+00:00",
+      "http_last_modified": "Tue, 08 Jul 2025 18:03:02 GMT"
+    }
+  ]
+}

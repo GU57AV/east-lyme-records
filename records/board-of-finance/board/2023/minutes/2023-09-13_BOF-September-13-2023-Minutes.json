@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF September 13 2023 Minutes (pdf)",
+  "filename": "BOF-September-13-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/BOF-September-13-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-minutes/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-24T20:18:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd883f56609ac9d2378489806d1f4313a621fb24734ee7b462b621e1fdc1224b",
+  "bytes": 77308,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 Sep 2023 12:17:06 GMT",
+  "etag": "\"16e01c4-12dfc-606562b705480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-09-13_BOF-September-13-2023-Minutes--bd883f56609a.pdf",
+  "versions": [
+    {
+      "sha256": "bd883f56609ac9d2378489806d1f4313a621fb24734ee7b462b621e1fdc1224b",
+      "bytes": 77308,
+      "retrieved_utc": "2026-11-24T20:18:53+00:00",
+      "http_last_modified": "Wed, 27 Sep 2023 12:17:06 GMT"
+    }
+  ]
+}

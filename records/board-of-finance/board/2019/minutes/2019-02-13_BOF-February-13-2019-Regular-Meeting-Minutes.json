@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF February 13 2019 Regular Meeting Minutes (pdf)",
+  "filename": "BOF-February-13-2019-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/BOF-February-13-2019-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-minutes/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-24T21:37:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dbb51d664367a5ad3e01da08e3a498b5859d0779e11301f3e4e8f28971e217e9",
+  "bytes": 630284,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Feb 2019 16:38:47 GMT",
+  "etag": "\"16c1e76-99e0c-58241e00d33c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-02-13_BOF-February-13-2019-Regular-Meeting-Minutes--dbb51d664367.pdf",
+  "versions": [
+    {
+      "sha256": "dbb51d664367a5ad3e01da08e3a498b5859d0779e11301f3e4e8f28971e217e9",
+      "bytes": 630284,
+      "retrieved_utc": "2026-11-24T21:37:24+00:00",
+      "http_last_modified": "Tue, 19 Feb 2019 16:38:47 GMT"
+    }
+  ]
+}

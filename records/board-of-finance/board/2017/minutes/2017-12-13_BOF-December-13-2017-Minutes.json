@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF December 13 2017 Minutes (pdf)",
+  "filename": "BOF-December-13-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/BOF-December-13-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-minutes/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-24T22:07:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37feb56a952b2bb1736254d1635b3d0ef6fa79126fbb082eb19c5ad4515da1f3",
+  "bytes": 568979,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Dec 2017 15:35:25 GMT",
+  "etag": "\"16a00c9-8ae93-560b337322940\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-12-13_BOF-December-13-2017-Minutes--37feb56a952b.pdf",
+  "versions": [
+    {
+      "sha256": "37feb56a952b2bb1736254d1635b3d0ef6fa79126fbb082eb19c5ad4515da1f3",
+      "bytes": 568979,
+      "retrieved_utc": "2026-11-24T22:07:57+00:00",
+      "http_last_modified": "Tue, 19 Dec 2017 15:35:25 GMT"
+    }
+  ]
+}

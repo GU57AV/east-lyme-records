@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF June 14 2023 Agenda (pdf)",
+  "filename": "BOF-June-14-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/BOF-June-14-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-24T20:09:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ef2158a66266a7ad92fd107e612b1fa67039c9ead0f3f2c1b04993961bb4e49a",
+  "bytes": 74740,
+  "pages": 0,
+  "http_last_modified": "Fri, 09 Jun 2023 16:42:30 GMT",
+  "etag": "\"16e0092-123f4-5fdb50e0a0980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-06-14_BOF-June-14-2023-Agenda--ef2158a66266.pdf",
+  "versions": [
+    {
+      "sha256": "ef2158a66266a7ad92fd107e612b1fa67039c9ead0f3f2c1b04993961bb4e49a",
+      "bytes": 74740,
+      "retrieved_utc": "2026-11-24T20:09:01+00:00",
+      "http_last_modified": "Fri, 09 Jun 2023 16:42:30 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF April 25 2022 Public Hearing & Special Meeting Agenda (pdf)",
+  "filename": "BOF-April-25-2022-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BOF-April-25-2022-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-24T20:29:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "47e2a81b299aaabdce49ac55f0e1ae2b9da36c1515c830407673991ab14d8131",
+  "bytes": 49475,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Apr 2022 13:50:39 GMT",
+  "etag": "\"16a129e-c143-5dc10c36029c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-04-25_BOF-April-25-2022-Public-Hearing-Agenda--47e2a81b299a.pdf",
+  "versions": [
+    {
+      "sha256": "47e2a81b299aaabdce49ac55f0e1ae2b9da36c1515c830407673991ab14d8131",
+      "bytes": 49475,
+      "retrieved_utc": "2026-11-24T20:29:28+00:00",
+      "http_last_modified": "Thu, 07 Apr 2022 13:50:39 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF April 28 2025 Special Meeting Agenda (pdf)",
+  "filename": "BOF-April-28-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/BOF-April-28-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-24T19:32:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "86a1e7a27142705b8fb9cff2d129963a5292dd592dfbe9ce79905cd1fde82f6c",
+  "bytes": 29094,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Apr 2025 17:53:57 GMT",
+  "etag": "\"16c01e9-71a6-63389e6dc5740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-04-28_BOF-April-28-2025-Special-Meeting-Agenda--86a1e7a27142.pdf",
+  "versions": [
+    {
+      "sha256": "86a1e7a27142705b8fb9cff2d129963a5292dd592dfbe9ce79905cd1fde82f6c",
+      "bytes": 29094,
+      "retrieved_utc": "2026-11-24T19:32:38+00:00",
+      "http_last_modified": "Thu, 24 Apr 2025 17:53:57 GMT"
+    }
+  ]
+}

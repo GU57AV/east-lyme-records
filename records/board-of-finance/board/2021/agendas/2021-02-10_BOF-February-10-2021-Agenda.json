@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF February 10 2021 Agenda (via zoom) (pdf)",
+  "filename": "BOF-February-10-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOF-February-10-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-24T20:48:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f503624a8d6e15711deb31144734afd2307d72b110d36578fb4bae648103ee67",
+  "bytes": 76337,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Feb 2021 20:27:14 GMT",
+  "etag": "\"168011f-12a31-5ba88876dec80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-02-10_BOF-February-10-2021-Agenda--f503624a8d6e.pdf",
+  "versions": [
+    {
+      "sha256": "f503624a8d6e15711deb31144734afd2307d72b110d36578fb4bae648103ee67",
+      "bytes": 76337,
+      "retrieved_utc": "2026-11-24T20:48:13+00:00",
+      "http_last_modified": "Thu, 04 Feb 2021 20:27:14 GMT"
+    }
+  ]
+}

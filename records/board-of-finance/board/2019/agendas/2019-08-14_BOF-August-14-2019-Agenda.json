@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF August 14 2019 Agenda (pdf)",
+  "filename": "BOF-August-14-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/08/BOF-August-14-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-08",
+  "first_seen_utc": "2026-11-24T21:21:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0a1df5aa74dc2ff06c9766288bf544b4e7c9997dce56e8346f797820ba15d62d",
+  "bytes": 38710,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Aug 2019 18:55:51 GMT",
+  "etag": "\"16c21a9-9736-58f9f9b433bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-08-14_BOF-August-14-2019-Agenda--0a1df5aa74dc.pdf",
+  "versions": [
+    {
+      "sha256": "0a1df5aa74dc2ff06c9766288bf544b4e7c9997dce56e8346f797820ba15d62d",
+      "bytes": 38710,
+      "retrieved_utc": "2026-11-24T21:21:42+00:00",
+      "http_last_modified": "Thu, 08 Aug 2019 18:55:51 GMT"
+    }
+  ]
+}

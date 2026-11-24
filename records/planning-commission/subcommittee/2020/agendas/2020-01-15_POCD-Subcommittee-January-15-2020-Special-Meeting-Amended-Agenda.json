@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee January 15 2020 Special Meeting Amended Agenda (pdf)",
+  "filename": "POCD-Subcommittee-January-15-2020-Special-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/POCD-Subcommittee-January-15-2020-Special-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T18:43:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9502c5f7d068040af238582c2ff906bf5889dcef515ca5e9f30bd99357925e08",
+  "bytes": 53716,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Jan 2020 18:24:00 GMT",
+  "etag": "\"16616f1-d1d4-59c1db2205000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-01-15_POCD-Subcommittee-January-15-2020-Special-Meeting-Amended-Agenda--9502c5f7d068.pdf",
+  "versions": [
+    {
+      "sha256": "9502c5f7d068040af238582c2ff906bf5889dcef515ca5e9f30bd99357925e08",
+      "bytes": 53716,
+      "retrieved_utc": "2026-11-24T18:43:17+00:00",
+      "http_last_modified": "Tue, 14 Jan 2020 18:24:00 GMT"
+    }
+  ]
+}

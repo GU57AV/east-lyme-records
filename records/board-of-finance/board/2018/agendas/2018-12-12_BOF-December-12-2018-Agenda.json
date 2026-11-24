@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOF December 12 2018 Agenda (pdf)",
+  "filename": "BOF-December-12-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/BOF-December-12-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-24T21:38:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b7755b36d830e276ad17b2a07e4239f80df5edefb993df9672416da1dac99a18",
+  "bytes": 38222,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Dec 2018 19:25:36 GMT",
+  "etag": "\"16c06fb-954e-57c5f76894c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2018/2018-12-12_BOF-December-12-2018-Agenda--b7755b36d830.pdf",
+  "versions": [
+    {
+      "sha256": "b7755b36d830e276ad17b2a07e4239f80df5edefb993df9672416da1dac99a18",
+      "bytes": 38222,
+      "retrieved_utc": "2026-11-24T21:38:25+00:00",
+      "http_last_modified": "Thu, 06 Dec 2018 19:25:36 GMT"
+    }
+  ]
+}

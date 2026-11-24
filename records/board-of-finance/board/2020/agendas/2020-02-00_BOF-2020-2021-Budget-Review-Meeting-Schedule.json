@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF 2020-2021 Budget Review Meeting Schedule (pdf)",
+  "filename": "BOF-2020-2021-Budget-Review-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/BOF-2020-2021-Budget-Review-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-24T21:10:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d5a214fd87676e0037a456bdabbb4250ad0e0bc23bb01c05b3c76fd957f2519",
+  "bytes": 94433,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Feb 2020 15:45:48 GMT",
+  "etag": "\"16617c7-170e1-59edb90ce0300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-02-00_BOF-2020-2021-Budget-Review-Meeting-Schedule--8d5a214fd876.pdf",
+  "versions": [
+    {
+      "sha256": "8d5a214fd87676e0037a456bdabbb4250ad0e0bc23bb01c05b3c76fd957f2519",
+      "bytes": 94433,
+      "retrieved_utc": "2026-11-24T21:10:44+00:00",
+      "http_last_modified": "Tue, 18 Feb 2020 15:45:48 GMT"
+    }
+  ]
+}

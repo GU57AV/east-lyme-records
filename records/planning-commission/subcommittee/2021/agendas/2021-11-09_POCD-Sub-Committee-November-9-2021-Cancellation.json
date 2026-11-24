@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee November 9 2021 Cancellation (pdf)",
+  "filename": "POCD-Sub-Committee-November-9-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/POCD-Sub-Committee-November-9-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2021-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-24T18:33:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3b6cffc837d6326106a68f0da001693a45d942003bfa08d3e6582ba9d27b76f3",
+  "bytes": 36783,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Nov 2021 18:42:05 GMT",
+  "etag": "\"16801d1-8faf-5d05f77447940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-11-09_POCD-Sub-Committee-November-9-2021-Cancellation--3b6cffc837d6.pdf",
+  "versions": [
+    {
+      "sha256": "3b6cffc837d6326106a68f0da001693a45d942003bfa08d3e6582ba9d27b76f3",
+      "bytes": 36783,
+      "retrieved_utc": "2026-11-24T18:33:24+00:00",
+      "http_last_modified": "Tue, 09 Nov 2021 18:42:05 GMT"
+    }
+  ]
+}

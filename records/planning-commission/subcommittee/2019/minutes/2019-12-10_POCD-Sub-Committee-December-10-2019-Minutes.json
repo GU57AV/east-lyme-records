@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee December 10 2019 Minutes (pdf)",
+  "filename": "POCD-Sub-Committee-December-10-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/POCD-Sub-Committee-December-10-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/plan-of-conservation-and-development-subcommittee-2019-minutes/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T18:51:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d848b31518431c21b697804019ea31d07db01bc5d0bd05d3b49fad95e4d3f69",
+  "bytes": 176520,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Jan 2020 19:14:24 GMT",
+  "etag": "\"16616d9-2b188-59b2d00466400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-12-10_POCD-Sub-Committee-December-10-2019-Minutes--5d848b315184.pdf",
+  "versions": [
+    {
+      "sha256": "5d848b31518431c21b697804019ea31d07db01bc5d0bd05d3b49fad95e4d3f69",
+      "bytes": 176520,
+      "retrieved_utc": "2026-11-24T18:51:27+00:00",
+      "http_last_modified": "Thu, 02 Jan 2020 19:14:24 GMT"
+    }
+  ]
+}

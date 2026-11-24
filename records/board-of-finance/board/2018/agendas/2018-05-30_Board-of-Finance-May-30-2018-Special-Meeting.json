@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOF May 30 2018 Special Meeting Agenda (pdf)",
+  "filename": "Board-of-Finance-May-30-2018-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/Board-of-Finance-May-30-2018-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-24T21:41:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "35c726ff0c1c7acec04ea186a48f9ee4602b1adfa61828606563759ef304e8b1",
+  "bytes": 29753,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 May 2018 18:45:58 GMT",
+  "etag": "\"16c099a-7439-56ccfd437a580\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2018/2018-05-30_Board-of-Finance-May-30-2018-Special-Meeting--35c726ff0c1c.pdf",
+  "versions": [
+    {
+      "sha256": "35c726ff0c1c7acec04ea186a48f9ee4602b1adfa61828606563759ef304e8b1",
+      "bytes": 29753,
+      "retrieved_utc": "2026-11-24T21:41:08+00:00",
+      "http_last_modified": "Tue, 22 May 2018 18:45:58 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF May 7 2020 Special Meeting Amended Agenda (Via Zoom) (pdf)",
+  "filename": "2020-05-07-EL-BoF-Spec-MtgAgenda_Rev.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/2020-05-07-EL-BoF-Spec-MtgAgenda_Rev.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-24T21:03:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9cda702b89f6db07cbe8a41cc4f232bea2005a5f5aa789bdcccf34aeb5d548aa",
+  "bytes": 90222,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 May 2020 15:46:53 GMT",
+  "etag": "\"16616b3-1606e-5a510ca247540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-05-07_2020-05-07-EL-BoF-Spec-MtgAgenda_Rev--9cda702b89f6.pdf",
+  "versions": [
+    {
+      "sha256": "9cda702b89f6db07cbe8a41cc4f232bea2005a5f5aa789bdcccf34aeb5d548aa",
+      "bytes": 90222,
+      "retrieved_utc": "2026-11-24T21:03:16+00:00",
+      "http_last_modified": "Thu, 07 May 2020 15:46:53 GMT"
+    }
+  ]
+}

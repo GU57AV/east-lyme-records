@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF April 9 2025 Regular Meeting Agenda (pdf)",
+  "filename": "BOF-April-9-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/BOF-April-9-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-24T19:33:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5bc9d9bd8d35793c2c40b0f78b6eb2ca690c81fbe56c1c59ce49bf397e0bacd7",
+  "bytes": 32928,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Apr 2025 16:31:53 GMT",
+  "etag": "\"16c0268-80a0-63246e3e81040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-04-09_BOF-April-9-2025-Agenda--5bc9d9bd8d35.pdf",
+  "versions": [
+    {
+      "sha256": "5bc9d9bd8d35793c2c40b0f78b6eb2ca690c81fbe56c1c59ce49bf397e0bacd7",
+      "bytes": 32928,
+      "retrieved_utc": "2026-11-24T19:33:59+00:00",
+      "http_last_modified": "Tue, 08 Apr 2025 16:31:53 GMT"
+    }
+  ]
+}

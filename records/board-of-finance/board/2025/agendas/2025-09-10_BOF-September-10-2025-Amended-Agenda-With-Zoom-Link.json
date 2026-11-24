@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF September 10 2025 Amended Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-September-10-2025-Amended-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/BOF-September-10-2025-Amended-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-24T19:29:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ad36a8dec6819ae7ff04a6163ffbd9fbbf31702d8ffb611e60d5e68993f8fbcf",
+  "bytes": 136013,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Sep 2025 15:32:58 GMT",
+  "etag": "\"1721ea0-2134d-63e6004c5ab05\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-09-10_BOF-September-10-2025-Amended-Agenda-With-Zoom-Link--ad36a8dec681.pdf",
+  "versions": [
+    {
+      "sha256": "ad36a8dec6819ae7ff04a6163ffbd9fbbf31702d8ffb611e60d5e68993f8fbcf",
+      "bytes": 136013,
+      "retrieved_utc": "2026-11-24T19:29:55+00:00",
+      "http_last_modified": "Tue, 09 Sep 2025 15:32:58 GMT"
+    }
+  ]
+}

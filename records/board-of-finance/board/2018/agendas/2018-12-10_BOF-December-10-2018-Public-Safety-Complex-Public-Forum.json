@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOF December 10 2018 Public Safety Complex Public Forum (pdf)",
+  "filename": "BOF-December-10-2018-Public-Safety-Complex-Public-Forum.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/BOF-December-10-2018-Public-Safety-Complex-Public-Forum.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-24T21:38:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "107a33c282d94eebd52767869e9fcfa56f00d07c04a615e5ab4ddd22fe1f8dcd",
+  "bytes": 27732,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Dec 2018 17:10:30 GMT",
+  "etag": "\"16c0708-6c54-57c71b138ed80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2018/2018-12-10_BOF-December-10-2018-Public-Safety-Complex-Public-Forum--107a33c282d9.pdf",
+  "versions": [
+    {
+      "sha256": "107a33c282d94eebd52767869e9fcfa56f00d07c04a615e5ab4ddd22fe1f8dcd",
+      "bytes": 27732,
+      "retrieved_utc": "2026-11-24T21:38:45+00:00",
+      "http_last_modified": "Fri, 07 Dec 2018 17:10:30 GMT"
+    }
+  ]
+}

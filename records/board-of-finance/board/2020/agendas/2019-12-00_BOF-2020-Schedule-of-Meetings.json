@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF 2020 Schedule of Meetings (pdf)",
+  "filename": "BOF-2020-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/BOF-2020-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-24T21:12:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "97793630136f32d0190d18eb260c5b145fd45c5e1bf64f8204c7fa92c7307e28",
+  "bytes": 44441,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Dec 2019 16:09:44 GMT",
+  "etag": "\"16c186c-ad99-599d4708da200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2019-12-00_BOF-2020-Schedule-of-Meetings--97793630136f.pdf",
+  "versions": [
+    {
+      "sha256": "97793630136f32d0190d18eb260c5b145fd45c5e1bf64f8204c7fa92c7307e28",
+      "bytes": 44441,
+      "retrieved_utc": "2026-11-24T21:12:26+00:00",
+      "http_last_modified": "Mon, 16 Dec 2019 16:09:44 GMT"
+    }
+  ]
+}

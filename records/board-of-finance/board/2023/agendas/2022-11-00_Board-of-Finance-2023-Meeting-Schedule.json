@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Board of Finance 2023 Meeting Schedule (pdf)",
+  "filename": "Board-of-Finance-2023-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Board-of-Finance-2023-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T20:16:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "243ee52b6e39a035e2175541df7706859518700afd656fbc28ef98dd7a937314",
+  "bytes": 37188,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Nov 2022 14:03:42 GMT",
+  "etag": "\"16a1110-9144-5ee0fa3b4ab80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2022-11-00_Board-of-Finance-2023-Meeting-Schedule--243ee52b6e39.pdf",
+  "versions": [
+    {
+      "sha256": "243ee52b6e39a035e2175541df7706859518700afd656fbc28ef98dd7a937314",
+      "bytes": 37188,
+      "retrieved_utc": "2026-11-24T20:16:50+00:00",
+      "http_last_modified": "Tue, 22 Nov 2022 14:03:42 GMT"
+    }
+  ]
+}

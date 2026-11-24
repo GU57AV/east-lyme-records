@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF July 8 2020 Amended Agenda (Via Zoom) (pdf)",
+  "filename": "2020-07-08-EL-BoF-Regular-MtgAgenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/2020-07-08-EL-BoF-Regular-MtgAgenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-24T20:58:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f95592f5696cf78c4130d8f9954e8f38743df4c34a96ea55a9e2d4fcded169a1",
+  "bytes": 77401,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Jul 2020 14:32:46 GMT",
+  "etag": "\"1661b63-12e59-5a9eefb3ddf80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-07-08_2020-07-08-EL-BoF-Regular-MtgAgenda--f95592f5696c.pdf",
+  "versions": [
+    {
+      "sha256": "f95592f5696cf78c4130d8f9954e8f38743df4c34a96ea55a9e2d4fcded169a1",
+      "bytes": 77401,
+      "retrieved_utc": "2026-11-24T20:58:51+00:00",
+      "http_last_modified": "Wed, 08 Jul 2020 14:32:46 GMT"
+    }
+  ]
+}

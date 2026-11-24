@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Finance April 23 2026 Public Hearing Notice (pdf)",
+  "filename": "Board-of-Finance-April-23-2026-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/Board-of-Finance-April-23-2026-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-24T19:15:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dbcd1a25b71a6cbb97320ca5c6eda05051c205c01127bb1165dea6f687eb8554",
+  "bytes": 28031,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Apr 2026 16:24:31 GMT",
+  "etag": "\"1701442-6d7f-64fe6bbc27603\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-04-23_Board-of-Finance-April-23-2026-Public-Hearing-Notice--dbcd1a25b71a.pdf",
+  "versions": [
+    {
+      "sha256": "dbcd1a25b71a6cbb97320ca5c6eda05051c205c01127bb1165dea6f687eb8554",
+      "bytes": 28031,
+      "retrieved_utc": "2026-11-24T19:15:35+00:00",
+      "http_last_modified": "Mon, 20 Apr 2026 16:24:31 GMT"
+    }
+  ]
+}

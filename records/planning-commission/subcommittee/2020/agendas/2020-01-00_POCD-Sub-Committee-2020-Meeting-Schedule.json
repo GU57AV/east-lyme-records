@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee 2020 Meeting Schedule (pdf)",
+  "filename": "POCD-Sub-Committee-2020-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/POCD-Sub-Committee-2020-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T18:43:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "61e0742256ae3636ecae95d0e2d7dd5808341246d97a173f6a9bfe84db208151",
+  "bytes": 38824,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Jan 2020 17:09:56 GMT",
+  "etag": "\"1661705-97a8-59b3f60fd2100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-01-00_POCD-Sub-Committee-2020-Meeting-Schedule--61e0742256ae.pdf",
+  "versions": [
+    {
+      "sha256": "61e0742256ae3636ecae95d0e2d7dd5808341246d97a173f6a9bfe84db208151",
+      "bytes": 38824,
+      "retrieved_utc": "2026-11-24T18:43:58+00:00",
+      "http_last_modified": "Fri, 03 Jan 2020 17:09:56 GMT"
+    }
+  ]
+}

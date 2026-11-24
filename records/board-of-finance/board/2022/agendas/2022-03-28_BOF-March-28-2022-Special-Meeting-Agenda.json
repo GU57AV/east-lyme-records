@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF March 28 2022 Special Meeting Agenda (pdf)",
+  "filename": "BOF-March-28-2022-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BOF-March-28-2022-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T20:31:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eb033383aa263f74dbae893ff8a8724b02f61ff6d95ebf4b6efbf2170ac63497",
+  "bytes": 32605,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Mar 2022 15:50:51 GMT",
+  "etag": "\"16a0a3d-7f5d-5d9a2d429ecc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-03-28_BOF-March-28-2022-Special-Meeting-Agenda--eb033383aa26.pdf",
+  "versions": [
+    {
+      "sha256": "eb033383aa263f74dbae893ff8a8724b02f61ff6d95ebf4b6efbf2170ac63497",
+      "bytes": 32605,
+      "retrieved_utc": "2026-11-24T20:31:10+00:00",
+      "http_last_modified": "Mon, 07 Mar 2022 15:50:51 GMT"
+    }
+  ]
+}

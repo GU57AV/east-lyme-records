@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Affordable Housing Sub-Committee March 7 2022 Agenda (pdf)",
+  "filename": "Affordable-Housing-Sub-Committee-March-7-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Affordable-Housing-Sub-Committee-March-7-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T18:27:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f5cb85cd0c174a4d98d840f8d541634f5a71afb00c55acc1138656291dde6df",
+  "bytes": 35272,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Mar 2022 19:52:46 GMT",
+  "etag": "\"16a0a41-89c8-5d92d8246ff80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-03-07_Affordable-Housing-Sub-Committee-March-7-2022-Agenda--7f5cb85cd0c1.pdf",
+  "versions": [
+    {
+      "sha256": "7f5cb85cd0c174a4d98d840f8d541634f5a71afb00c55acc1138656291dde6df",
+      "bytes": 35272,
+      "retrieved_utc": "2026-11-24T18:27:17+00:00",
+      "http_last_modified": "Tue, 01 Mar 2022 19:52:46 GMT"
+    }
+  ]
+}

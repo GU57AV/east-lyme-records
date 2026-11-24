@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF October 2 2023 Special Hybrid Agenda (pdf)",
+  "filename": "BOF-October-2-2023-Hybrid-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/BOF-October-2-2023-Hybrid-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-24T20:07:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "293f982bb88bef2e657db1111ee589a667556f6b96f436977113868cb01e1326",
+  "bytes": 340167,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 Sep 2023 15:08:49 GMT",
+  "etag": "\"16e0187-530c7-60658918ba240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-10-02_BOF-October-2-2023-Hybrid-Agenda--293f982bb88b.pdf",
+  "versions": [
+    {
+      "sha256": "293f982bb88bef2e657db1111ee589a667556f6b96f436977113868cb01e1326",
+      "bytes": 340167,
+      "retrieved_utc": "2026-11-24T20:07:19+00:00",
+      "http_last_modified": "Wed, 27 Sep 2023 15:08:49 GMT"
+    }
+  ]
+}

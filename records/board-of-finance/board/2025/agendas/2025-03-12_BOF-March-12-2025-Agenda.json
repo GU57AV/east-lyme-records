@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2025 Agenda (pdf)",
+  "filename": "BOF-March-12-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/BOF-March-12-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-24T19:37:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6ad2259311f589c24a2f20e877d2e6241362b20d54b4c4c8de454bcb6e28b134",
+  "bytes": 43960,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Mar 2025 16:32:42 GMT",
+  "etag": "\"16a14de-abb8-62fc32be7be80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-03-12_BOF-March-12-2025-Agenda--6ad2259311f5.pdf",
+  "versions": [
+    {
+      "sha256": "6ad2259311f589c24a2f20e877d2e6241362b20d54b4c4c8de454bcb6e28b134",
+      "bytes": 43960,
+      "retrieved_utc": "2026-11-24T19:37:02+00:00",
+      "http_last_modified": "Fri, 07 Mar 2025 16:32:42 GMT"
+    }
+  ]
+}

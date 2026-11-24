@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "POCD Sub-committee June 19 2019 Special Meeting Agenda (pdf)",
+  "filename": "Planning-POCD-Subcommittee-June-19-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/06/Planning-POCD-Subcommittee-June-19-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/plan-of-conservation-and-development-subcommittee-2019-agendas/",
+  "upload_folder": "2019-06",
+  "first_seen_utc": "2026-11-24T18:48:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "610eb04e9a9c819ad2da46ce2773c83cb24d4cff8601060b2d11e6f0cd20947a",
+  "bytes": 48992,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Jun 2019 19:48:28 GMT",
+  "etag": "\"16c1da9-bf60-58b9e65871b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-06-19_Planning-POCD-Subcommittee-June-19-2019-Special-Meeting-Agenda--610eb04e9a9c.pdf",
+  "versions": [
+    {
+      "sha256": "610eb04e9a9c819ad2da46ce2773c83cb24d4cff8601060b2d11e6f0cd20947a",
+      "bytes": 48992,
+      "retrieved_utc": "2026-11-24T18:48:23+00:00",
+      "http_last_modified": "Tue, 18 Jun 2019 19:48:28 GMT"
+    }
+  ]
+}

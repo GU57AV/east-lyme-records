@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOF June 13 2018 Minutes (pdf)",
+  "filename": "BOF-June-13-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/BOF-June-13-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-24T21:49:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "13da4e381ae1e01714357b05393b8c54dac204340a28cade84034d38b5ecd5b4",
+  "bytes": 983253,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Jun 2018 15:03:23 GMT",
+  "etag": "\"16c0f58-f00d5-56efffbc104c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2018/2018-06-13_BOF-June-13-2018-Minutes--13da4e381ae1.pdf",
+  "versions": [
+    {
+      "sha256": "13da4e381ae1e01714357b05393b8c54dac204340a28cade84034d38b5ecd5b4",
+      "bytes": 983253,
+      "retrieved_utc": "2026-11-24T21:49:19+00:00",
+      "http_last_modified": "Tue, 19 Jun 2018 15:03:23 GMT"
+    }
+  ]
+}

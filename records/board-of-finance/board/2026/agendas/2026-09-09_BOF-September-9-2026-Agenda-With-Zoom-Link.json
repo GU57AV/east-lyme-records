@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF September 9, 2026 Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-September-9-2026-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/BOF-September-9-2026-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-24T19:08:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b9346c452a7a3f32a7f05d40561a71dd27dfb99de8551d9e911350672147abad",
+  "bytes": 127740,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Sep 2026 19:31:44 GMT",
+  "etag": "\"16e0f3e-1f2fc-65afdc8ea5651\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-09-09_BOF-September-9-2026-Agenda-With-Zoom-Link--b9346c452a7a.pdf",
+  "versions": [
+    {
+      "sha256": "b9346c452a7a3f32a7f05d40561a71dd27dfb99de8551d9e911350672147abad",
+      "bytes": 127740,
+      "retrieved_utc": "2026-11-24T19:08:51+00:00",
+      "http_last_modified": "Tue, 08 Sep 2026 19:31:44 GMT"
+    }
+  ]
+}

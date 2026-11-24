@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF September 11 2019 Agenda (pdf)",
+  "filename": "BOF-September-11-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/09/BOF-September-11-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-09",
+  "first_seen_utc": "2026-11-24T21:21:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "924121c2cc27bcf4f4fe0c18169b83fb485ebf3d20782e27f0148642b996490a",
+  "bytes": 36829,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Sep 2019 12:12:02 GMT",
+  "etag": "\"16c1f75-8fdd-591e1587fe880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-09-11_BOF-September-11-2019-Agenda--924121c2cc27.pdf",
+  "versions": [
+    {
+      "sha256": "924121c2cc27bcf4f4fe0c18169b83fb485ebf3d20782e27f0148642b996490a",
+      "bytes": 36829,
+      "retrieved_utc": "2026-11-24T21:21:21+00:00",
+      "http_last_modified": "Fri, 06 Sep 2019 12:12:02 GMT"
+    }
+  ]
+}

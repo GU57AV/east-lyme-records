@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF May 28 2026 Public Hearing Agenda (pdf)",
+  "filename": "BOF-May-28-2026-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/BOF-May-28-2026-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-24T19:11:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c70e958f5598fbd5eea2711e3b325e721dbcf857c8613df998aa398d67d06ff7",
+  "bytes": 29356,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 May 2026 12:26:43 GMT",
+  "etag": "\"1700a58-72ac-65267244577a3\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-05-28_BOF-May-28-2026-Public-Hearing-Agenda--c70e958f5598.pdf",
+  "versions": [
+    {
+      "sha256": "c70e958f5598fbd5eea2711e3b325e721dbcf857c8613df998aa398d67d06ff7",
+      "bytes": 29356,
+      "retrieved_utc": "2026-11-24T19:11:51+00:00",
+      "http_last_modified": "Fri, 22 May 2026 12:26:43 GMT"
+    }
+  ]
+}

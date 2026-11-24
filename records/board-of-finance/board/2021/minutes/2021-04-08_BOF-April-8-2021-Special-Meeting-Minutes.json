@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF April 8 2021 Special Meeting Minutes (pdf)",
+  "filename": "BOF-April-8-2021-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/BOF-April-8-2021-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-minutes/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-24T20:55:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3da9ea3bd1833c8741086579230d57276d3a478404e4f605f3b6c05999855e9c",
+  "bytes": 3228080,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Apr 2021 14:42:01 GMT",
+  "etag": "\"1680426-3141b0-5c003ddbae040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-04-08_BOF-April-8-2021-Special-Meeting-Minutes--3da9ea3bd183.pdf",
+  "versions": [
+    {
+      "sha256": "3da9ea3bd1833c8741086579230d57276d3a478404e4f605f3b6c05999855e9c",
+      "bytes": 3228080,
+      "retrieved_utc": "2026-11-24T20:55:06+00:00",
+      "http_last_modified": "Thu, 15 Apr 2021 14:42:01 GMT"
+    }
+  ]
+}

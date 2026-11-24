@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF November 12 2026 Special Meeting Minutes (pdf)",
+  "filename": "BOF-Cover-combined.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/BOF-Cover-combined.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-24T19:20:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "de716d484ef95ada040d964c8631dbf8a5b1a3aed5b844d4d89e02a21b083c81",
+  "bytes": 85106,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 Nov 2026 14:52:45 GMT",
+  "etag": "\"17c017b-14c72-660f2bf25f03a\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-11-12_BOF-Cover-combined--de716d484ef9.pdf",
+  "versions": [
+    {
+      "sha256": "de716d484ef95ada040d964c8631dbf8a5b1a3aed5b844d4d89e02a21b083c81",
+      "bytes": 85106,
+      "retrieved_utc": "2026-11-24T19:20:01+00:00",
+      "http_last_modified": "Mon, 23 Nov 2026 14:52:45 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF April 24 2017 Public Hearing and Special Meeting Agenda (pdf)",
+  "filename": "BOF-April-24-2017-Public-Hearing-and-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOF-April-24-2017-Public-Hearing-and-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T22:01:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c0bc6495f432fc28b40bc129e95953042282aed7c2c6e72a60ab0dea909173f2",
+  "bytes": 43569,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Apr 2017 18:49:21 GMT",
+  "etag": "\"1662d94-aa31-54d755da28e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-04-24_BOF-April-24-2017-Public-Hearing-and-Special-Meeting-Agenda--c0bc6495f432.pdf",
+  "versions": [
+    {
+      "sha256": "c0bc6495f432fc28b40bc129e95953042282aed7c2c6e72a60ab0dea909173f2",
+      "bytes": 43569,
+      "retrieved_utc": "2026-11-24T22:01:50+00:00",
+      "http_last_modified": "Tue, 18 Apr 2017 18:49:21 GMT"
+    }
+  ]
+}

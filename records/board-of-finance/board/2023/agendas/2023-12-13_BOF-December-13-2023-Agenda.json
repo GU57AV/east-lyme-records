@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF December 13 2023 Agenda (pdf)",
+  "filename": "BOF-December-13-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/BOF-December-13-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-24T20:05:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9c23304f788e9b3a597aea1f6a110205f10efdcb2ff2a9d04462e76c0de9c24e",
+  "bytes": 38692,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Dec 2023 20:22:37 GMT",
+  "etag": "\"16c2249-9724-60c41b1e13d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-12-13_BOF-December-13-2023-Agenda--9c23304f788e.pdf",
+  "versions": [
+    {
+      "sha256": "9c23304f788e9b3a597aea1f6a110205f10efdcb2ff2a9d04462e76c0de9c24e",
+      "bytes": 38692,
+      "retrieved_utc": "2026-11-24T20:05:37+00:00",
+      "http_last_modified": "Mon, 11 Dec 2023 20:22:37 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF May 13 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "2020-05-13-EL-BoF-Regular-MtgAgenda-FINAL.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/2020-05-13-EL-BoF-Regular-MtgAgenda-FINAL.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-24T21:01:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "50ad4eb25db54226fb30abae361c66b477649404366b43c84a14f454e00f8d48",
+  "bytes": 77440,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 May 2020 20:07:49 GMT",
+  "etag": "\"1661690-12e80-5a564e6ad8f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-05-13_2020-05-13-EL-BoF-Regular-MtgAgenda-FINAL--50ad4eb25db5.pdf",
+  "versions": [
+    {
+      "sha256": "50ad4eb25db54226fb30abae361c66b477649404366b43c84a14f454e00f8d48",
+      "bytes": 77440,
+      "retrieved_utc": "2026-11-24T21:01:55+00:00",
+      "http_last_modified": "Mon, 11 May 2020 20:07:49 GMT"
+    }
+  ]
+}

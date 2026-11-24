@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF August 12 2020 Agenda (pdf)",
+  "filename": "BOF-August-12-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/BOF-August-12-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-24T20:58:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "47a4dea236318bdaa1a1070a6bf59e0bae1e722a3b0ec8c50c8d098ebcb3daac",
+  "bytes": 76168,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Aug 2020 13:32:01 GMT",
+  "etag": "\"1661a6f-12988-5ac49a138d640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-08-12_BOF-August-12-2020-Agenda--47a4dea23631.pdf",
+  "versions": [
+    {
+      "sha256": "47a4dea236318bdaa1a1070a6bf59e0bae1e722a3b0ec8c50c8d098ebcb3daac",
+      "bytes": 76168,
+      "retrieved_utc": "2026-11-24T20:58:10+00:00",
+      "http_last_modified": "Fri, 07 Aug 2020 13:32:01 GMT"
+    }
+  ]
+}

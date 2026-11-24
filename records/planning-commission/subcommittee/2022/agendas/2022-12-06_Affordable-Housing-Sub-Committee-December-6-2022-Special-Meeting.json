@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Affordable Housing Sub-Committee December 6 2022 Special Meeting (pdf)",
+  "filename": "Affordable-Housing-Sub-Committee-December-6-2022-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Affordable-Housing-Sub-Committee-December-6-2022-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T18:21:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2a040acbc40125313b8d919851679e465f7ea1c833263efa210e508a1b6e4e61",
+  "bytes": 49551,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Nov 2022 19:58:13 GMT",
+  "etag": "\"16a10c6-c18f-5edc42030df40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-12-06_Affordable-Housing-Sub-Committee-December-6-2022-Special-Meeting--2a040acbc401.pdf",
+  "versions": [
+    {
+      "sha256": "2a040acbc40125313b8d919851679e465f7ea1c833263efa210e508a1b6e4e61",
+      "bytes": 49551,
+      "retrieved_utc": "2026-11-24T18:21:31+00:00",
+      "http_last_modified": "Fri, 18 Nov 2022 19:58:13 GMT"
+    }
+  ]
+}

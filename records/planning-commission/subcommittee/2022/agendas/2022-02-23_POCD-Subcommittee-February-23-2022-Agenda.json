@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee February 23 2022 Agenda (pdf)",
+  "filename": "POCD-Subcommittee-February-23-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/POCD-Subcommittee-February-23-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-24T18:27:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8c16f4c2f41c5ab031ac337d83798616a186ffec430941a7ef3745a732b0b6da",
+  "bytes": 37874,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Feb 2022 20:26:08 GMT",
+  "etag": "\"16a0fab-93f2-5d80039fc7800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-02-23_POCD-Subcommittee-February-23-2022-Agenda--8c16f4c2f41c.pdf",
+  "versions": [
+    {
+      "sha256": "8c16f4c2f41c5ab031ac337d83798616a186ffec430941a7ef3745a732b0b6da",
+      "bytes": 37874,
+      "retrieved_utc": "2026-11-24T18:27:58+00:00",
+      "http_last_modified": "Mon, 14 Feb 2022 20:26:08 GMT"
+    }
+  ]
+}

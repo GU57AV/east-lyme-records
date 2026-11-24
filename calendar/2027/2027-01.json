@@ -1,7 +1,7 @@
 {
  "month": "2027-01",
  "source_url": "https://eltownhall.com/wp-json/my-calendar/v1/events?from=2027-01-01&to=2027-01-31",
- "sha256": "9b5e851dc8a2b9c97cf2ef6cbbd94852d4b18bfbe7443a3b11d0e971cfcc8d44",
+ "sha256": "b5f24d7610849d623513e8111782b97eb9a159f9786852e1786ab5cab6dbd584",
  "note": "Unofficial snapshot of the Town of East Lyme calendar. Times are local (America/New_York).",
  "events": {
   "5310": {
@@ -42,6 +42,18 @@
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
    "seen_in_backfill": true
+  },
+  "5740": {
+   "occur_id": "5740",
+   "event_id": "5014",
+   "title": "Zoning Commission",
+   "begin": "2027-01-07 19:30",
+   "end": "2027-01-07 20:30",
+   "added": "2026-11-24 07:45",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-24T17:11:39+00:00"
   },
   "5667": {
    "occur_id": "5667",
@@ -133,6 +145,18 @@
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
    "seen_in_backfill": true
+  },
+  "5741": {
+   "occur_id": "5741",
+   "event_id": "5015",
+   "title": "Zoning Commission",
+   "begin": "2027-01-21 19:30",
+   "end": "2027-01-21 20:30",
+   "added": "2026-11-24 07:45",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-24T17:11:39+00:00"
   },
   "5678": {
    "occur_id": "5678",

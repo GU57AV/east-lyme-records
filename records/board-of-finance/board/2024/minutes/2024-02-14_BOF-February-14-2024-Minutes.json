@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF February 14 2024 Minutes (pdf)",
+  "filename": "BOF-February-14-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/BOF-February-14-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-minutes/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-24T20:04:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fb328e99e7669f7bcf9629de40aba9f3b4dc6bff2f85a5ce947272f8b602412b",
+  "bytes": 3708696,
+  "pages": 0,
+  "http_last_modified": "Thu, 22 Feb 2024 18:44:50 GMT",
+  "etag": "\"168081a-389718-611fcd6984c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-02-14_BOF-February-14-2024-Minutes--fb328e99e766.pdf",
+  "versions": [
+    {
+      "sha256": "fb328e99e7669f7bcf9629de40aba9f3b4dc6bff2f85a5ce947272f8b602412b",
+      "bytes": 3708696,
+      "retrieved_utc": "2026-11-24T20:04:16+00:00",
+      "http_last_modified": "Thu, 22 Feb 2024 18:44:50 GMT"
+    }
+  ]
+}

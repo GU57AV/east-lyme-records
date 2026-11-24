@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF August 14 2019 Meeting Minutes (pdf)",
+  "filename": "BOF-August-14-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/08/BOF-August-14-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-minutes/",
+  "upload_folder": "2019-08",
+  "first_seen_utc": "2026-11-24T21:32:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c9447d2a34b0e84b3307fcdc02397f8b34ee303bb0fb3d51df091b11188dbd82",
+  "bytes": 853583,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Aug 2019 14:46:45 GMT",
+  "etag": "\"16c219e-d064f-5908d8681df40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-08-14_BOF-August-14-2019-Minutes--c9447d2a34b0.pdf",
+  "versions": [
+    {
+      "sha256": "c9447d2a34b0e84b3307fcdc02397f8b34ee303bb0fb3d51df091b11188dbd82",
+      "bytes": 853583,
+      "retrieved_utc": "2026-11-24T21:32:16+00:00",
+      "http_last_modified": "Tue, 20 Aug 2019 14:46:45 GMT"
+    }
+  ]
+}

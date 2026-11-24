@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF May 10 2023 Agenda (pdf)",
+  "filename": "BOF-May-10-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/BOF-May-10-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-24T20:09:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "542aceca055ce471269db39d715f8cd0c81c3e521bca8c3397ca194d39439da0",
+  "bytes": 35749,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 May 2023 16:51:54 GMT",
+  "etag": "\"16c23a3-8ba5-5faf51b35de80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-05-10_BOF-May-10-2023-Agenda--542aceca055c.pdf",
+  "versions": [
+    {
+      "sha256": "542aceca055ce471269db39d715f8cd0c81c3e521bca8c3397ca194d39439da0",
+      "bytes": 35749,
+      "retrieved_utc": "2026-11-24T20:09:42+00:00",
+      "http_last_modified": "Fri, 05 May 2023 16:51:54 GMT"
+    }
+  ]
+}

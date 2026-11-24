@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF July 10 2024 Amended Agenda (pdf)",
+  "filename": "BOF-July-10-2024-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/07/BOF-July-10-2024-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-07",
+  "first_seen_utc": "2026-11-24T19:47:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "51d13624b30d90725979a5eae59cda62faf45a68876d059eab91630e2904af94",
+  "bytes": 32383,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Jul 2024 20:59:07 GMT",
+  "etag": "\"1680abd-7e7f-61cc2af16bcc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-07-10_BOF-July-10-2024-Amended-Agenda--51d13624b30d.pdf",
+  "versions": [
+    {
+      "sha256": "51d13624b30d90725979a5eae59cda62faf45a68876d059eab91630e2904af94",
+      "bytes": 32383,
+      "retrieved_utc": "2026-11-24T19:47:56+00:00",
+      "http_last_modified": "Mon, 08 Jul 2024 20:59:07 GMT"
+    }
+  ]
+}

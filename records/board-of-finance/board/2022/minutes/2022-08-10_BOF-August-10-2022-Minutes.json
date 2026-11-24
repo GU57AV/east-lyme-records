@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF August 10 2022 Minutes (pdf)",
+  "filename": "BOF-August-10-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/BOF-August-10-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-minutes/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-24T20:35:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a594236fef03a96a4dcf3383328448de43ba6318871ec9ece2cc6908aa6840ee",
+  "bytes": 213219,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Aug 2022 19:28:02 GMT",
+  "etag": "\"16a135a-340e3-5e688fad8b480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-08-10_BOF-August-10-2022-Minutes--a594236fef03.pdf",
+  "versions": [
+    {
+      "sha256": "a594236fef03a96a4dcf3383328448de43ba6318871ec9ece2cc6908aa6840ee",
+      "bytes": 213219,
+      "retrieved_utc": "2026-11-24T20:35:16+00:00",
+      "http_last_modified": "Thu, 18 Aug 2022 19:28:02 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee June 29 2020 Agenda (pdf)",
+  "filename": "POCD-Steering-Committee-June-29-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/POCD-Steering-Committee-June-29-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-24T18:40:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "142e9e0dcb1e1b50aab4616e178f84b2eee0b9c78b21093749991c421a287992",
+  "bytes": 176784,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 Jun 2020 12:40:06 GMT",
+  "etag": "\"1661745-2b290-5a8d3c6893580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-06-29_POCD-Steering-Committee-June-29-2020-Agenda--142e9e0dcb1e.pdf",
+  "versions": [
+    {
+      "sha256": "142e9e0dcb1e1b50aab4616e178f84b2eee0b9c78b21093749991c421a287992",
+      "bytes": 176784,
+      "retrieved_utc": "2026-11-24T18:40:33+00:00",
+      "http_last_modified": "Wed, 24 Jun 2020 12:40:06 GMT"
+    }
+  ]
+}

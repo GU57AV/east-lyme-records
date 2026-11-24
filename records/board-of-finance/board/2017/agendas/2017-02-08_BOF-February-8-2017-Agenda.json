@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF February 8 2017 Agenda (pdf)",
+  "filename": "BOF-February-8-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOF-February-8-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T22:06:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1f185fbe89236934ede82f241fc6349b7c1142214d2cccc7d85c4b7f083ea543",
+  "bytes": 41328,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Feb 2017 19:29:44 GMT",
+  "etag": "\"16629c8-a170-547a54dccda00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-02-08_BOF-February-8-2017-Agenda--1f185fbe8923.pdf",
+  "versions": [
+    {
+      "sha256": "1f185fbe89236934ede82f241fc6349b7c1142214d2cccc7d85c4b7f083ea543",
+      "bytes": 41328,
+      "retrieved_utc": "2026-11-24T22:06:35+00:00",
+      "http_last_modified": "Fri, 03 Feb 2017 19:29:44 GMT"
+    }
+  ]
+}

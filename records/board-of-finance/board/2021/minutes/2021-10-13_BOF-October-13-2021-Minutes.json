@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF October 13 2021 Regular Meeting Minutes (pdf)",
+  "filename": "BOF-October-13-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/BOF-October-13-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-minutes/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-24T20:50:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7bafe686faae880be67cee3df1db021fde80320c0c95fab1b5d981b3ac12e194",
+  "bytes": 1518384,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 Oct 2021 13:50:53 GMT",
+  "etag": "\"168037e-172b30-5cef14cb62940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-10-13_BOF-October-13-2021-Minutes--7bafe686faae.pdf",
+  "versions": [
+    {
+      "sha256": "7bafe686faae880be67cee3df1db021fde80320c0c95fab1b5d981b3ac12e194",
+      "bytes": 1518384,
+      "retrieved_utc": "2026-11-24T20:50:16+00:00",
+      "http_last_modified": "Fri, 22 Oct 2021 13:50:53 GMT"
+    }
+  ]
+}

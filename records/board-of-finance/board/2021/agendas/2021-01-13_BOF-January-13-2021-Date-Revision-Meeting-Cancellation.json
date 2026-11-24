@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF January 13 2021 Date Revision Meeting Cancellation (pdf)",
+  "filename": "BOF-January-13-2021-Date-Revision-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/BOF-January-13-2021-Date-Revision-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-24T20:48:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8f2375f501dbdf4ba1cf3ca02947bec60a028b7f2a6b161a75d50bbfa3eff27b",
+  "bytes": 28800,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Jan 2021 16:20:15 GMT",
+  "etag": "\"1663738-7080-5b8a247f4edc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-01-13_BOF-January-13-2021-Date-Revision-Meeting-Cancellation--8f2375f501db.pdf",
+  "versions": [
+    {
+      "sha256": "8f2375f501dbdf4ba1cf3ca02947bec60a028b7f2a6b161a75d50bbfa3eff27b",
+      "bytes": 28800,
+      "retrieved_utc": "2026-11-24T20:48:34+00:00",
+      "http_last_modified": "Mon, 11 Jan 2021 16:20:15 GMT"
+    }
+  ]
+}

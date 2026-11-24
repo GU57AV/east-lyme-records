@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee December 16 2020 Cancellation (pdf)",
+  "filename": "POCD-December-16-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/POCD-December-16-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-24T18:36:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4a38d04fc1576db45152f2e2e1a438d8188e1b52fd844f2f0482719ec9092ff5",
+  "bytes": 39685,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Dec 2020 18:39:54 GMT",
+  "etag": "\"1661596-9b05-5b69933829280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-12-16_POCD-December-16-2020-Cancellation--4a38d04fc157.pdf",
+  "versions": [
+    {
+      "sha256": "4a38d04fc1576db45152f2e2e1a438d8188e1b52fd844f2f0482719ec9092ff5",
+      "bytes": 39685,
+      "retrieved_utc": "2026-11-24T18:36:48+00:00",
+      "http_last_modified": "Wed, 16 Dec 2020 18:39:54 GMT"
+    }
+  ]
+}

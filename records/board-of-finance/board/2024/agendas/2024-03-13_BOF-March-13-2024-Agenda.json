@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF March 13 2024 Agenda (pdf)",
+  "filename": "BOF-March-13-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/BOF-March-13-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-24T19:56:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "65b6c95c3605db70ff1999a7b6550608fc53aabe8e31696d013edf5520f77355",
+  "bytes": 31299,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Mar 2024 14:40:31 GMT",
+  "etag": "\"16805de-7a43-613272c7855c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-03-13_BOF-March-13-2024-Agenda--65b6c95c3605.pdf",
+  "versions": [
+    {
+      "sha256": "65b6c95c3605db70ff1999a7b6550608fc53aabe8e31696d013edf5520f77355",
+      "bytes": 31299,
+      "retrieved_utc": "2026-11-24T19:56:05+00:00",
+      "http_last_modified": "Fri, 08 Mar 2024 14:40:31 GMT"
+    }
+  ]
+}

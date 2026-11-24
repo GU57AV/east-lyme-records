@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Affordable Housing Sub-Committee October 17 2022 Agenda (pdf)",
+  "filename": "Affordable-Housing-Plan-October-17-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Affordable-Housing-Plan-October-17-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-24T18:22:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dee3f240b780af57a9b14148af08f0333336702752e862f2b90d8b531309235d",
+  "bytes": 42359,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Oct 2022 15:11:32 GMT",
+  "etag": "\"16a1190-a577-5eb000a7c5100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-10-17_Affordable-Housing-Plan-October-17-2022-Agenda--dee3f240b780.pdf",
+  "versions": [
+    {
+      "sha256": "dee3f240b780af57a9b14148af08f0333336702752e862f2b90d8b531309235d",
+      "bytes": 42359,
+      "retrieved_utc": "2026-11-24T18:22:11+00:00",
+      "http_last_modified": "Fri, 14 Oct 2022 15:11:32 GMT"
+    }
+  ]
+}

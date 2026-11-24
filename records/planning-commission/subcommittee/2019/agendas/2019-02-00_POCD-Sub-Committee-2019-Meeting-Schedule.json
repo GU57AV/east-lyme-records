@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee 2019 Meeting Schedule (pdf)",
+  "filename": "POCD-Sub-Committee-2019-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/POCD-Sub-Committee-2019-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/plan-of-conservation-and-development-subcommittee-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-24T18:51:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d88bfcc9791d521883b4301e87382cd183c93a6bd74943bcb188ea1c2e263ba6",
+  "bytes": 30365,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Feb 2019 18:32:09 GMT",
+  "etag": "\"16c1e0e-769d-581cac26f3c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-02-00_POCD-Sub-Committee-2019-Meeting-Schedule--d88bfcc9791d.pdf",
+  "versions": [
+    {
+      "sha256": "d88bfcc9791d521883b4301e87382cd183c93a6bd74943bcb188ea1c2e263ba6",
+      "bytes": 30365,
+      "retrieved_utc": "2026-11-24T18:51:06+00:00",
+      "http_last_modified": "Wed, 13 Feb 2019 18:32:09 GMT"
+    }
+  ]
+}

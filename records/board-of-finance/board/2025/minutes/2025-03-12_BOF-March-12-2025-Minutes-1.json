@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2025 Minutes (pdf)",
+  "filename": "BOF-March-12-2025-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/BOF-March-12-2025-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-minutes/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-24T19:44:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e74f270fc4bded864f23259787d2f5d88e2238a141fa462a875898edfc1a7dbb",
+  "bytes": 79523,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Mar 2025 15:38:36 GMT",
+  "etag": "\"16a151d-136a3-6311865bb1700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-03-12_BOF-March-12-2025-Minutes-1--e74f270fc4bd.pdf",
+  "versions": [
+    {
+      "sha256": "e74f270fc4bded864f23259787d2f5d88e2238a141fa462a875898edfc1a7dbb",
+      "bytes": 79523,
+      "retrieved_utc": "2026-11-24T19:44:32+00:00",
+      "http_last_modified": "Mon, 24 Mar 2025 15:38:36 GMT"
+    }
+  ]
+}

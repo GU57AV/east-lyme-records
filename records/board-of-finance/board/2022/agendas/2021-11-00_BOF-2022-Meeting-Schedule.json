@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF 2022 Meeting Schedule (pdf)",
+  "filename": "BOF-2022-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/BOF-2022-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-24T20:33:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0da325ff578eedc24cbb7d483a618a00933eb9a47227c68417e377c3419b1f62",
+  "bytes": 35745,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Nov 2021 16:23:43 GMT",
+  "etag": "\"168018a-8ba1-5d1772a3541c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2021-11-00_BOF-2022-Meeting-Schedule--0da325ff578e.pdf",
+  "versions": [
+    {
+      "sha256": "0da325ff578eedc24cbb7d483a618a00933eb9a47227c68417e377c3419b1f62",
+      "bytes": 35745,
+      "retrieved_utc": "2026-11-24T20:33:33+00:00",
+      "http_last_modified": "Tue, 23 Nov 2021 16:23:43 GMT"
+    }
+  ]
+}

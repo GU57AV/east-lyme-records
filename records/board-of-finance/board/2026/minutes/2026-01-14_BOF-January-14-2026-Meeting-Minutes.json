@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF January 14 2026 Meeting Minutes (pdf)",
+  "filename": "BOF-January-14-2026-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/BOF-January-14-2026-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-minutes/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-24T19:28:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "722ec0cb6b86a3e6c86b206f7bea50a4046c286f0eb161daaccff6245b14be6c",
+  "bytes": 113996,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Jan 2026 13:44:57 GMT",
+  "etag": "\"17002cc-1bd4c-648e621432135\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-01-14_BOF-January-14-2026-Meeting-Minutes--722ec0cb6b86.pdf",
+  "versions": [
+    {
+      "sha256": "722ec0cb6b86a3e6c86b206f7bea50a4046c286f0eb161daaccff6245b14be6c",
+      "bytes": 113996,
+      "retrieved_utc": "2026-11-24T19:28:33+00:00",
+      "http_last_modified": "Wed, 21 Jan 2026 13:44:57 GMT"
+    }
+  ]
+}

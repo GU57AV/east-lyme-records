@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF April 24 2023 Special Meeting Agenda (pdf)",
+  "filename": "BOF-April-24-2023-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/BOF-April-24-2023-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-24T20:10:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "98ada8b13af5963f80f1eaef1ee4a36d232594ebf990896c2d40dd935e632081",
+  "bytes": 29553,
+  "pages": 0,
+  "http_last_modified": "Wed, 19 Apr 2023 17:57:15 GMT",
+  "etag": "\"16e0267-7371-5f9b4277594c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-04-24_BOF-April-24-2023-Special-Meeting-Agenda--98ada8b13af5.pdf",
+  "versions": [
+    {
+      "sha256": "98ada8b13af5963f80f1eaef1ee4a36d232594ebf990896c2d40dd935e632081",
+      "bytes": 29553,
+      "retrieved_utc": "2026-11-24T20:10:02+00:00",
+      "http_last_modified": "Wed, 19 Apr 2023 17:57:15 GMT"
+    }
+  ]
+}

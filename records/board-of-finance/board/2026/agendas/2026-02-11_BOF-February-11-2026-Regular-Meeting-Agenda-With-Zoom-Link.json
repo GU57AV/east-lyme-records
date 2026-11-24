@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF February 11 2026 Regular Meeting Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-February-11-2026-Regular-Meeting-Agenda-With-Zoom-Link.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/BOF-February-11-2026-Regular-Meeting-Agenda-With-Zoom-Link.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-24T19:18:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b53960cfb477db1d9eee781e78fa6731777f24d80af78080e40d06551bed132",
+  "bytes": 140014,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Feb 2026 21:37:45 GMT",
+  "etag": "\"170055c-222ee-64a932ec4d169\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-02-11_BOF-February-11-2026-Regular-Meeting-Agenda-With-Zoom-Link--0b53960cfb47.pdf",
+  "versions": [
+    {
+      "sha256": "0b53960cfb477db1d9eee781e78fa6731777f24d80af78080e40d06551bed132",
+      "bytes": 140014,
+      "retrieved_utc": "2026-11-24T19:18:59+00:00",
+      "http_last_modified": "Wed, 11 Feb 2026 21:37:45 GMT"
+    }
+  ]
+}

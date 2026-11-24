@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Affordable Housing Sub-Committee November 21 2022 Cancellation (pdf)",
+  "filename": "Affordable-Housing-Sub-Committee-November-21-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Affordable-Housing-Sub-Committee-November-21-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-24T18:21:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7222f72258d486d91af9b94f3f34139123b90a88f3ea9c2125c7a5e52ff7b69",
+  "bytes": 43662,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Nov 2022 20:50:45 GMT",
+  "etag": "\"16a10bb-aa8e-5edc4dc109340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-11-21_Affordable-Housing-Sub-Committee-November-21-2022-Cancellation--f7222f72258d.pdf",
+  "versions": [
+    {
+      "sha256": "f7222f72258d486d91af9b94f3f34139123b90a88f3ea9c2125c7a5e52ff7b69",
+      "bytes": 43662,
+      "retrieved_utc": "2026-11-24T18:21:51+00:00",
+      "http_last_modified": "Fri, 18 Nov 2022 20:50:45 GMT"
+    }
+  ]
+}

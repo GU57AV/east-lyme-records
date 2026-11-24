@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF September 9 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "BOF-September-9-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/BOF-September-9-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-24T20:57:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d93e5c77782516d6ea95ca9ed1c9ef022026c7a17096f3cb77e7390f0a7314a",
+  "bytes": 77098,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Sep 2020 14:51:44 GMT",
+  "etag": "\"1661934-12d2a-5ae7e01de2000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-09-09_BOF-September-9-2020-Agenda--5d93e5c77782.pdf",
+  "versions": [
+    {
+      "sha256": "5d93e5c77782516d6ea95ca9ed1c9ef022026c7a17096f3cb77e7390f0a7314a",
+      "bytes": 77098,
+      "retrieved_utc": "2026-11-24T20:57:49+00:00",
+      "http_last_modified": "Fri, 04 Sep 2020 14:51:44 GMT"
+    }
+  ]
+}

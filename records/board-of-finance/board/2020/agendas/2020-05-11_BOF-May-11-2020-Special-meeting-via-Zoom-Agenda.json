@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF May 11 2020 Special Meeting Agenda (via Zoom) (pdf)",
+  "filename": "BOF-May-11-2020-Special-meeting-via-Zoom-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/BOF-May-11-2020-Special-meeting-via-Zoom-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-24T21:02:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "45dba63de5ba9166754ef21797282bc36b47d2e1856794eae5144125f979f05a",
+  "bytes": 108638,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 May 2020 13:39:41 GMT",
+  "etag": "\"16616b6-1a85e-5a55f7a9ae140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-05-11_BOF-May-11-2020-Special-meeting-via-Zoom-Agenda--45dba63de5ba.pdf",
+  "versions": [
+    {
+      "sha256": "45dba63de5ba9166754ef21797282bc36b47d2e1856794eae5144125f979f05a",
+      "bytes": 108638,
+      "retrieved_utc": "2026-11-24T21:02:36+00:00",
+      "http_last_modified": "Mon, 11 May 2020 13:39:41 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF March 23 & 26 2020 Cancellation (pdf)",
+  "filename": "BOF-March-23-26-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/BOF-March-23-26-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-24T21:06:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "70bdcf44e40b5411d00ba368cbae45d5ed87a99f0ed629cedce3ce567b281f26",
+  "bytes": 30443,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Mar 2020 17:28:51 GMT",
+  "etag": "\"1661616-76eb-5a0fc270e3ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2026-03-23_BOF-March-23-26-2020-Cancellation--70bdcf44e40b.pdf",
+  "versions": [
+    {
+      "sha256": "70bdcf44e40b5411d00ba368cbae45d5ed87a99f0ed629cedce3ce567b281f26",
+      "bytes": 30443,
+      "retrieved_utc": "2026-11-24T21:06:20+00:00",
+      "http_last_modified": "Mon, 16 Mar 2020 17:28:51 GMT"
+    }
+  ]
+}

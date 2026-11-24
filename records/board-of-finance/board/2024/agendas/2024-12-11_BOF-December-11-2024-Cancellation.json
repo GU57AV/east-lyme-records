@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF December 11 2024 Cancellation (pdf)",
+  "filename": "BOF-December-11-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/BOF-December-11-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-24T19:45:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1df4fa093bc117b0fe92b35ad2dc5542583e9feeae867686b51e892913af53dd",
+  "bytes": 22838,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Dec 2024 16:42:28 GMT",
+  "etag": "\"1680534-5936-628ed2aa3c500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-12-11_BOF-December-11-2024-Cancellation--1df4fa093bc1.pdf",
+  "versions": [
+    {
+      "sha256": "1df4fa093bc117b0fe92b35ad2dc5542583e9feeae867686b51e892913af53dd",
+      "bytes": 22838,
+      "retrieved_utc": "2026-11-24T19:45:34+00:00",
+      "http_last_modified": "Tue, 10 Dec 2024 16:42:28 GMT"
+    }
+  ]
+}

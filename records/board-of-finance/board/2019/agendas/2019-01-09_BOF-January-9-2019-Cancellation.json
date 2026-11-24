@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF January 9 2019 Cancellation (pdf)",
+  "filename": "BOF-January-9-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/BOF-January-9-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-01",
+  "first_seen_utc": "2026-11-24T21:30:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "933e5710c7c36c28199d8c2ac7275cefd998e74f499a8b646c954607c7cc1476",
+  "bytes": 25252,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Jan 2019 16:31:40 GMT",
+  "etag": "\"16c1b35-62a4-57e904c0f1300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-01-09_BOF-January-9-2019-Cancellation--933e5710c7c3.pdf",
+  "versions": [
+    {
+      "sha256": "933e5710c7c36c28199d8c2ac7275cefd998e74f499a8b646c954607c7cc1476",
+      "bytes": 25252,
+      "retrieved_utc": "2026-11-24T21:30:11+00:00",
+      "http_last_modified": "Thu, 03 Jan 2019 16:31:40 GMT"
+    }
+  ]
+}

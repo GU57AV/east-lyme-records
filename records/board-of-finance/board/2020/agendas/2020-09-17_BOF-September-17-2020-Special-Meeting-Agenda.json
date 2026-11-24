@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BOF September 17 2020 Special Meeting Agenda (pdf)",
+  "filename": "BOF-September-17-2020-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/BOF-September-17-2020-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-24T20:57:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "902398d962b0c0c7eff771c8b89d4d486a4bf0de4c3038d0ad5f10e227b6a300",
+  "bytes": 70991,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Sep 2020 17:46:53 GMT",
+  "etag": "\"16618b7-1154f-5af5dbc81dd40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2020/2020-09-17_BOF-September-17-2020-Special-Meeting-Agenda--902398d962b0.pdf",
+  "versions": [
+    {
+      "sha256": "902398d962b0c0c7eff771c8b89d4d486a4bf0de4c3038d0ad5f10e227b6a300",
+      "bytes": 70991,
+      "retrieved_utc": "2026-11-24T20:57:29+00:00",
+      "http_last_modified": "Tue, 15 Sep 2020 17:46:53 GMT"
+    }
+  ]
+}

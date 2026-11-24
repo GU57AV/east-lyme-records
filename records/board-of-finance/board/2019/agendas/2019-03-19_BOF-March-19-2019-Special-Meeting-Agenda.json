@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF March 19 2019 Special Meeting Agenda (pdf)",
+  "filename": "BOF-March-19-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/BOF-March-19-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-24T21:27:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bfd14a4534cc006321f6cdaff137549274b5ffec4a5e00114820b5192625d1a6",
+  "bytes": 34584,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Mar 2019 19:41:57 GMT",
+  "etag": "\"16c1922-8718-5835e10e28b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-03-19_BOF-March-19-2019-Special-Meeting-Agenda--bfd14a4534cc.pdf",
+  "versions": [
+    {
+      "sha256": "bfd14a4534cc006321f6cdaff137549274b5ffec4a5e00114820b5192625d1a6",
+      "bytes": 34584,
+      "retrieved_utc": "2026-11-24T21:27:08+00:00",
+      "http_last_modified": "Tue, 05 Mar 2019 19:41:57 GMT"
+    }
+  ]
+}

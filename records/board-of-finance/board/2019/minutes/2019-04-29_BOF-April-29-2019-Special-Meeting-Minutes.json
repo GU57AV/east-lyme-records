@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF April 29 2019 Special Meeting Minutes (pdf)",
+  "filename": "BOF-April-29-2019-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/BOF-April-29-2019-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-minutes/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-24T21:34:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "297cc757a4302dd29f8a9d64b622e7269426b53180a3d2c124c21ff3bf2173de",
+  "bytes": 295213,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 May 2019 14:26:43 GMT",
+  "etag": "\"16c1ae9-4812d-587e86c518ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-04-29_BOF-April-29-2019-Special-Meeting-Minutes--297cc757a430.pdf",
+  "versions": [
+    {
+      "sha256": "297cc757a4302dd29f8a9d64b622e7269426b53180a3d2c124c21ff3bf2173de",
+      "bytes": 295213,
+      "retrieved_utc": "2026-11-24T21:34:19+00:00",
+      "http_last_modified": "Thu, 02 May 2019 14:26:43 GMT"
+    }
+  ]
+}

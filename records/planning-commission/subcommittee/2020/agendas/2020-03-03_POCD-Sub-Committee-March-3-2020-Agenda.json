@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "POCD Sub-Committee March 3 2020 Special Meeting Agenda (pdf)",
+  "filename": "POCD-Sub-Committee-March-3-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/POCD-Sub-Committee-March-3-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-24T18:42:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "521c201e20f6a9523697c99151bacbc20510888db4673b35e252d1bdf4d3760e",
+  "bytes": 81542,
+  "pages": 0,
+  "http_last_modified": "Tue, 25 Feb 2020 19:42:12 GMT",
+  "etag": "\"16617a6-13e86-59f6baf204d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-03-03_POCD-Sub-Committee-March-3-2020-Agenda--521c201e20f6.pdf",
+  "versions": [
+    {
+      "sha256": "521c201e20f6a9523697c99151bacbc20510888db4673b35e252d1bdf4d3760e",
+      "bytes": 81542,
+      "retrieved_utc": "2026-11-24T18:42:16+00:00",
+      "http_last_modified": "Tue, 25 Feb 2020 19:42:12 GMT"
+    }
+  ]
+}

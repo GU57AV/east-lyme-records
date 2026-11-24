@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF August 13 2025 Regular Meeting Agenda (With Zoom Link) (pdf)",
+  "filename": "BOF-August-13-2025-Regular-Meeting-Agenda-With-Zoom-Link-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/BOF-August-13-2025-Regular-Meeting-Agenda-With-Zoom-Link-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-24T19:30:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c9f1b2933ebe74c27124429d8f6cd8546e46bf08e288bdaf7490676e5a69fb3b",
+  "bytes": 135883,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Aug 2025 12:02:13 GMT",
+  "etag": "\"16c0292-212cb-63bd958249b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-08-13_BOF-August-13-2025-Regular-Meeting-Agenda-With-Zoom-Link-1--c9f1b2933ebe.pdf",
+  "versions": [
+    {
+      "sha256": "c9f1b2933ebe74c27124429d8f6cd8546e46bf08e288bdaf7490676e5a69fb3b",
+      "bytes": 135883,
+      "retrieved_utc": "2026-11-24T19:30:35+00:00",
+      "http_last_modified": "Fri, 08 Aug 2025 12:02:13 GMT"
+    }
+  ]
+}

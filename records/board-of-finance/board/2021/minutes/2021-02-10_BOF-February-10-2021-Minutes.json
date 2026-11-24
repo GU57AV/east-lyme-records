@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF February 10 2021 Minutes (pdf)",
+  "filename": "BOF-February-10-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BOF-February-10-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-minutes/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-24T20:55:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a7b0a229f7323a32fe832acab5e78131cf5331e347b65f6f95520db96001f6d8",
+  "bytes": 540583,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Feb 2021 16:26:51 GMT",
+  "etag": "\"16800c2-83fa7-5bb9ecd87a8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-02-10_BOF-February-10-2021-Minutes--a7b0a229f732.pdf",
+  "versions": [
+    {
+      "sha256": "a7b0a229f7323a32fe832acab5e78131cf5331e347b65f6f95520db96001f6d8",
+      "bytes": 540583,
+      "retrieved_utc": "2026-11-24T20:55:47+00:00",
+      "http_last_modified": "Thu, 18 Feb 2021 16:26:51 GMT"
+    }
+  ]
+}

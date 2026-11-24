@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2025 Amended Agenda (Via Zoom) (pdf)",
+  "filename": "BOF-March-12-2025-Amended-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/BOF-March-12-2025-Amended-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-24T19:36:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f8ea77f46b47842efeb725e0a777368acf356fb8cb4e3e2507c8db8fb343c6cc",
+  "bytes": 76466,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Mar 2025 12:32:00 GMT",
+  "etag": "\"16a1527-12ab2-62ffc289e7000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-03-12_BOF-March-12-2025-Amended-Agenda-Via-Zoom--f8ea77f46b47.pdf",
+  "versions": [
+    {
+      "sha256": "f8ea77f46b47842efeb725e0a777368acf356fb8cb4e3e2507c8db8fb343c6cc",
+      "bytes": 76466,
+      "retrieved_utc": "2026-11-24T19:36:42+00:00",
+      "http_last_modified": "Mon, 10 Mar 2025 12:32:00 GMT"
+    }
+  ]
+}

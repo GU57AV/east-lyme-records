@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BOF Budget Review Meeting Schedule 2018 (pdf)",
+  "filename": "BOF-Budget-Review-Meeting-Schedule-2018.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/02/BOF-Budget-Review-Meeting-Schedule-2018.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2018-agendas/",
+  "upload_folder": "2018-02",
+  "first_seen_utc": "2026-11-24T21:46:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ca63e83ed86cbc23a8a6a1269529f14b08145a9737ac70e4665332a74fc14ebf",
+  "bytes": 79294,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Feb 2018 19:45:37 GMT",
+  "etag": "\"16c10f1-135be-565aa0dfbba40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2018/2018-02-00_BOF-Budget-Review-Meeting-Schedule-2018--ca63e83ed86c.pdf",
+  "versions": [
+    {
+      "sha256": "ca63e83ed86cbc23a8a6a1269529f14b08145a9737ac70e4665332a74fc14ebf",
+      "bytes": 79294,
+      "retrieved_utc": "2026-11-24T21:46:14+00:00",
+      "http_last_modified": "Tue, 20 Feb 2018 19:45:37 GMT"
+    }
+  ]
+}

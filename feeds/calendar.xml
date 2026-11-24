@@ -7,5 +7,19 @@
     <atom:link href="https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/calendar.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <ttl>180</ttl>
+    <item>
+      <title>Added: Zoning Commission</title>
+      <link>https://github.com/GU57AV/east-lyme-records/blob/main/reports/calendar.md</link>
+      <description>Added: Zoning Commission — Thu Jan 21, 2027 7:30 PM</description>
+      <guid isPermaLink="false">163ab7a1b06377eb</guid>
+      <pubDate>Tue, 24 Nov 2026 17:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Added: Zoning Commission</title>
+      <link>https://github.com/GU57AV/east-lyme-records/blob/main/reports/calendar.md</link>
+      <description>Added: Zoning Commission — Thu Jan 7, 2027 7:30 PM</description>
+      <guid isPermaLink="false">9d4287c76a39a389</guid>
+      <pubDate>Tue, 24 Nov 2026 17:13:02 +0000</pubDate>
+    </item>
   </channel>
 </rss>

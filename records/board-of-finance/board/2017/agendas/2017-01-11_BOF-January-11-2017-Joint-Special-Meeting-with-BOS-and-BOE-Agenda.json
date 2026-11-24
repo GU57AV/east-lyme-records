@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF January 11 2017 Joint Special Meeting with BOS and BOE Agenda (pdf)",
+  "filename": "BOF-January-11-2017-Joint-Special-Meeting-with-BOS-and-BOE-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOF-January-11-2017-Joint-Special-Meeting-with-BOS-and-BOE-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T22:07:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "018f6bb7a8af3088924abc295f9187437e19a892e1e9d2bf3ebe793aca329ef6",
+  "bytes": 28065,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Jan 2017 19:58:35 GMT",
+  "etag": "\"16628b8-6da1-54572716b50c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-01-11_BOF-January-11-2017-Joint-Special-Meeting-with-BOS-and-BOE-Agenda--018f6bb7a8af.pdf",
+  "versions": [
+    {
+      "sha256": "018f6bb7a8af3088924abc295f9187437e19a892e1e9d2bf3ebe793aca329ef6",
+      "bytes": 28065,
+      "retrieved_utc": "2026-11-24T22:07:16+00:00",
+      "http_last_modified": "Fri, 06 Jan 2017 19:58:35 GMT"
+    }
+  ]
+}

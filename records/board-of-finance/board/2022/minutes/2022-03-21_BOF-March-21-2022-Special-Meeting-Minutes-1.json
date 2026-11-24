@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF March 21 2022 Special Meeting Minutes (pdf)",
+  "filename": "BOF-March-21-2022-Special-Meeting-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BOF-March-21-2022-Special-Meeting-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T20:39:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "95d7f4f89bca77787f8452386af724eceabe4853befc3c4025f1fae422ca770e",
+  "bytes": 2217487,
+  "pages": 0,
+  "http_last_modified": "Mon, 28 Mar 2022 19:23:07 GMT",
+  "etag": "\"16a0aac-21d60f-5db4c3df4bcc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-03-21_BOF-March-21-2022-Special-Meeting-Minutes-1--95d7f4f89bca.pdf",
+  "versions": [
+    {
+      "sha256": "95d7f4f89bca77787f8452386af724eceabe4853befc3c4025f1fae422ca770e",
+      "bytes": 2217487,
+      "retrieved_utc": "2026-11-24T20:39:02+00:00",
+      "http_last_modified": "Mon, 28 Mar 2022 19:23:07 GMT"
+    }
+  ]
+}

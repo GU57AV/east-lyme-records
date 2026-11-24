@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "BOF April 10 2019 Regular Meeting Agenda (pdf)",
+  "filename": "BOF-April-10-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/BOF-April-10-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-24T21:25:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e1aa8b77dc919012e03b035ee6d9417078a4880321be4790c2b4d6c05194e653",
+  "bytes": 44696,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Apr 2019 18:34:30 GMT",
+  "etag": "\"16c2037-ae98-585b89ee77980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2019/2019-04-10_BOF-April-10-2019-Agenda--e1aa8b77dc91.pdf",
+  "versions": [
+    {
+      "sha256": "e1aa8b77dc919012e03b035ee6d9417078a4880321be4790c2b4d6c05194e653",
+      "bytes": 44696,
+      "retrieved_utc": "2026-11-24T21:25:26+00:00",
+      "http_last_modified": "Thu, 04 Apr 2019 18:34:30 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BOF December 14 2022 Agenda (pdf)",
+  "filename": "BOF-December-14-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/BOF-December-14-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2022-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T20:24:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fa6ddeb114bce6ed63de2f07b3643c78bb699c0ef547533000e9cb41346bb6c1",
+  "bytes": 40970,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Dec 2022 18:40:18 GMT",
+  "etag": "\"16a08c6-a00a-5efa5d5bb0880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2022/2022-12-14_BOF-December-14-2022-Agenda--fa6ddeb114bc.pdf",
+  "versions": [
+    {
+      "sha256": "fa6ddeb114bce6ed63de2f07b3643c78bb699c0ef547533000e9cb41346bb6c1",
+      "bytes": 40970,
+      "retrieved_utc": "2026-11-24T20:24:43+00:00",
+      "http_last_modified": "Mon, 12 Dec 2022 18:40:18 GMT"
+    }
+  ]
+}

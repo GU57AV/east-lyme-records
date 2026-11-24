@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BOF September 8 2021 Agenda (Via Zoom) (pdf)",
+  "filename": "BOF-September-8-2021-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/BOF-September-8-2021-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-24T20:41:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4051303947b76d57284b95f0ff2c53bd093b9a8255d492b04a639852444bfde7",
+  "bytes": 81642,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Sep 2021 12:59:53 GMT",
+  "etag": "\"168030b-13eea-5cb02c2418440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2021/2021-09-08_BOF-September-8-2021-Agenda-Via-Zoom--4051303947b7.pdf",
+  "versions": [
+    {
+      "sha256": "4051303947b76d57284b95f0ff2c53bd093b9a8255d492b04a639852444bfde7",
+      "bytes": 81642,
+      "retrieved_utc": "2026-11-24T20:41:46+00:00",
+      "http_last_modified": "Thu, 02 Sep 2021 12:59:53 GMT"
+    }
+  ]
+}

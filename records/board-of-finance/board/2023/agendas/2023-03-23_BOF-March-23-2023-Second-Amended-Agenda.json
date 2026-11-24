@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BOF March 23 2023 Special Meeting Second Amended Agenda (pdf)",
+  "filename": "BOF-March-23-2023-Second-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/03/BOF-March-23-2023-Second-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2023-agendas/",
+  "upload_folder": "2023-03",
+  "first_seen_utc": "2026-11-24T20:13:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "be84dd8ee5e76edbaac99f8ca3cdf426c40bbedc09dafcfbb224750c315d4d29",
+  "bytes": 34465,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Mar 2023 16:33:19 GMT",
+  "etag": "\"16c22c2-86a1-5f70704af91c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2023/2023-03-23_BOF-March-23-2023-Second-Amended-Agenda--be84dd8ee5e7.pdf",
+  "versions": [
+    {
+      "sha256": "be84dd8ee5e76edbaac99f8ca3cdf426c40bbedc09dafcfbb224750c315d4d29",
+      "bytes": 34465,
+      "retrieved_utc": "2026-11-24T20:13:47+00:00",
+      "http_last_modified": "Thu, 16 Mar 2023 16:33:19 GMT"
+    }
+  ]
+}

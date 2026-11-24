@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOF May 4th 2026 Special Meeting Minutes (pdf)",
+  "filename": "BOF-May-4th-2026-Special-Meeting-050426.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/BOF-May-4th-2026-Special-Meeting-050426.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2026-minutes/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-24T19:23:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ab3319b097cbbb4d65e41d84655057f829ef8919e050441d6bae1d1f5260adf8",
+  "bytes": 45135,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 May 2026 12:14:02 GMT",
+  "etag": "\"1700a3c-b04f-6523ebb39906b\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2026/2026-05-04_BOF-May-4th-2026-Special-Meeting-050426--ab3319b097cb.pdf",
+  "versions": [
+    {
+      "sha256": "ab3319b097cbbb4d65e41d84655057f829ef8919e050441d6bae1d1f5260adf8",
+      "bytes": 45135,
+      "retrieved_utc": "2026-11-24T19:23:26+00:00",
+      "http_last_modified": "Wed, 20 May 2026 12:14:02 GMT"
+    }
+  ]
+}

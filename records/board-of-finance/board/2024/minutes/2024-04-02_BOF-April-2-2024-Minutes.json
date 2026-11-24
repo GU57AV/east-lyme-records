@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BOF April 2 2024 Special Meeting Minutes (pdf)",
+  "filename": "BOF-April-2-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/04/BOF-April-2-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2024-minutes/",
+  "upload_folder": "2024-04",
+  "first_seen_utc": "2026-11-24T20:02:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cf719084a62421458d08a949dd8df8c9d2e6e7f1b53e090b2d27fd2526747af2",
+  "bytes": 394990,
+  "pages": 0,
+  "http_last_modified": "Wed, 10 Apr 2024 12:09:19 GMT",
+  "etag": "\"1680a4f-606ee-615bce87ff9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2024/2024-04-02_BOF-April-2-2024-Minutes--cf719084a624.pdf",
+  "versions": [
+    {
+      "sha256": "cf719084a62421458d08a949dd8df8c9d2e6e7f1b53e090b2d27fd2526747af2",
+      "bytes": 394990,
+      "retrieved_utc": "2026-11-24T20:02:13+00:00",
+      "http_last_modified": "Wed, 10 Apr 2024 12:09:19 GMT"
+    }
+  ]
+}

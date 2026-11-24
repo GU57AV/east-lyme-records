@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BOF April 28 2025 Special Meeting Minutes (pdf)",
+  "filename": "BOS-April-28-2025-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/BOS-April-28-2025-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2025-minutes/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-24T19:41:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "988145c08f1d37113266a49c291a4a39ec545aa201c683793a8934baf8562e32",
+  "bytes": 537949,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 May 2025 12:33:47 GMT",
+  "etag": "\"16a158b-8355d-63476d3f380c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2025/2025-04-28_BOS-April-28-2025-Special-Meeting-Minutes--988145c08f1d.pdf",
+  "versions": [
+    {
+      "sha256": "988145c08f1d37113266a49c291a4a39ec545aa201c683793a8934baf8562e32",
+      "bytes": 537949,
+      "retrieved_utc": "2026-11-24T19:41:28+00:00",
+      "http_last_modified": "Tue, 06 May 2025 12:33:47 GMT"
+    }
+  ]
+}
