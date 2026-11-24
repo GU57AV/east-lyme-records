@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 4 2018 Cancellation (pdf)",
+  "filename": "Planning-September-4-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Planning-September-4-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-24T15:00:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cc25376d319a113740504ca94fbbc50126aaef127f1968ca68b310733a194e1e",
+  "bytes": 40142,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Aug 2018 19:39:41 GMT",
+  "etag": "\"16c16b0-9cce-574ac3c743940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-09-04_Planning-September-4-2018-Cancellation--cc25376d319a.pdf",
+  "versions": [
+    {
+      "sha256": "cc25376d319a113740504ca94fbbc50126aaef127f1968ca68b310733a194e1e",
+      "bytes": 40142,
+      "retrieved_utc": "2026-11-24T15:00:40+00:00",
+      "http_last_modified": "Thu, 30 Aug 2018 19:39:41 GMT"
+    }
+  ]
+}

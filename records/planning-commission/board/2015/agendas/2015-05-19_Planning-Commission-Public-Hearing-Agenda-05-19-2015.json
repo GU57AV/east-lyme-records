@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning May 19 2015 Public Hearing Agenda (pdf)",
+  "filename": "Planning-Commission-Public-Hearing-Agenda-05-19-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-Public-Hearing-Agenda-05-19-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:51:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d2d788a8b3356764f116e05534fc21f050cecb1db0fcc2570c8eb3eef9216f8c",
+  "bytes": 36318,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:31 GMT",
+  "etag": "\"16614fc-8dde-52082bf4ec0c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-05-19_Planning-Commission-Public-Hearing-Agenda-05-19-2015--d2d788a8b335.pdf",
+  "versions": [
+    {
+      "sha256": "d2d788a8b3356764f116e05534fc21f050cecb1db0fcc2570c8eb3eef9216f8c",
+      "bytes": 36318,
+      "retrieved_utc": "2026-11-24T15:51:00+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:31 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission 2020 Meeting Schedule (pdf)",
+  "filename": "Planning-Commission-2020-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/Planning-Commission-2020-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-24T14:43:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d159e9078964637ec6470a5d1f5998cfe3dc680799b66c7a109f90179e9a94d1",
+  "bytes": 33830,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Nov 2019 20:50:14 GMT",
+  "etag": "\"16c1f2a-8426-59831e9082d80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2019-11-00_Planning-Commission-2020-Meeting-Schedule--d159e9078964.pdf",
+  "versions": [
+    {
+      "sha256": "d159e9078964637ec6470a5d1f5998cfe3dc680799b66c7a109f90179e9a94d1",
+      "bytes": 33830,
+      "retrieved_utc": "2026-11-24T14:43:37+00:00",
+      "http_last_modified": "Mon, 25 Nov 2019 20:50:14 GMT"
+    }
+  ]
+}

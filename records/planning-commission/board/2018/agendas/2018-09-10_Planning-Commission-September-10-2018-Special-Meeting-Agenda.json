@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 10 2018 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-September-10-2018-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Planning-Commission-September-10-2018-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-24T15:00:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7da3a9384dc0716b4cc56b23c5709b4f16b8538e415059dc3b624d53252ed59e",
+  "bytes": 83049,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Aug 2018 14:06:13 GMT",
+  "etag": "\"16c1710-14469-574bbb1b9bf40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-09-10_Planning-Commission-September-10-2018-Special-Meeting-Agenda--7da3a9384dc0.pdf",
+  "versions": [
+    {
+      "sha256": "7da3a9384dc0716b4cc56b23c5709b4f16b8538e415059dc3b624d53252ed59e",
+      "bytes": 83049,
+      "retrieved_utc": "2026-11-24T15:00:20+00:00",
+      "http_last_modified": "Fri, 31 Aug 2018 14:06:13 GMT"
+    }
+  ]
+}

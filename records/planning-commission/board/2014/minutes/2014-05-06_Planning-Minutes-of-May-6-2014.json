@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Planning May 6 2014 Minutes (pdf)",
+  "filename": "Planning-Minutes-of-May-6-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Planning-Minutes-of-May-6-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-24T16:24:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "05c067f4788e20b0595b512e7fdded653dddc26b9122e5773967006b5a92117e",
+  "bytes": 423163,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:09:37 GMT",
+  "etag": "\"1663089-674fb-52082224f1a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2014/2014-05-06_Planning-Minutes-of-May-6-2014--05c067f4788e.pdf",
+  "versions": [
+    {
+      "sha256": "05c067f4788e20b0595b512e7fdded653dddc26b9122e5773967006b5a92117e",
+      "bytes": 423163,
+      "retrieved_utc": "2026-11-24T16:24:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:09:37 GMT"
+    }
+  ]
+}

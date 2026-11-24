@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 9 2018 Minutes (pdf)",
+  "filename": "Planning-Commission-January-9-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/Planning-Commission-January-9-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-minutes/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-24T15:16:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "12a5e4753d9a05c3ec45c4fa16d64dc9f1c668e1d3aabcceac98ee7bf65ec836",
+  "bytes": 339126,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Jan 2018 13:26:57 GMT",
+  "etag": "\"16c0d56-52cb6-5629437f46a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-01-09_Planning-Commission-January-9-2018-Minutes--12a5e4753d9a.pdf",
+  "versions": [
+    {
+      "sha256": "12a5e4753d9a05c3ec45c4fa16d64dc9f1c668e1d3aabcceac98ee7bf65ec836",
+      "bytes": 339126,
+      "retrieved_utc": "2026-11-24T15:16:19+00:00",
+      "http_last_modified": "Fri, 12 Jan 2018 13:26:57 GMT"
+    }
+  ]
+}

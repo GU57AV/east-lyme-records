@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "1994",
+  "subcommittee": false,
+  "link_text": "Zoning May 19 1994 Agenda (pdf)",
+  "filename": "Zoning-May-19-1994-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-May-19-1994-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1994-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T12:56:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f24cf29e8e16e766d13721905b7bd85cc79a2d1c5fc35475caed28a6695b29de",
+  "bytes": 82124,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Jan 2023 20:11:03 GMT",
+  "etag": "\"16c2452-140cc-5f34476fa63c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1994/1994-05-19_Zoning-May-19-1994-Agenda--f24cf29e8e16.pdf",
+  "versions": [
+    {
+      "sha256": "f24cf29e8e16e766d13721905b7bd85cc79a2d1c5fc35475caed28a6695b29de",
+      "bytes": 82124,
+      "retrieved_utc": "2026-11-24T12:56:48+00:00",
+      "http_last_modified": "Fri, 27 Jan 2023 20:11:03 GMT"
+    }
+  ]
+}

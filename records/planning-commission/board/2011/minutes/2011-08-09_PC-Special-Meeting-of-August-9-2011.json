@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Aug 9 2011 Special Meeting Minutes (pdf)",
+  "filename": "PC-Special-Meeting-of-August-9-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Special-Meeting-of-August-9-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T17:03:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c769adb696b084cc8bbdd9f5abd9713dffe871aa0e6f6727dc1db6808e007ec1",
+  "bytes": 29160,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:48 GMT",
+  "etag": "\"1661db6-71e8-52082bcbea000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-08-09_PC-Special-Meeting-of-August-9-2011--c769adb696b0.pdf",
+  "versions": [
+    {
+      "sha256": "c769adb696b084cc8bbdd9f5abd9713dffe871aa0e6f6727dc1db6808e007ec1",
+      "bytes": 29160,
+      "retrieved_utc": "2026-11-24T17:03:07+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:48 GMT"
+    }
+  ]
+}

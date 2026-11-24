@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Dec 4 2012 Agenda (pdf)",
+  "filename": "Planning-Dec-4-2012-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Dec-4-2012-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:39:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8bc68f916a54742c12f00070ace793827ce6ee384dfb8d3fbf1513022047f6d3",
+  "bytes": 52245,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:32 GMT",
+  "etag": "\"1661f2d-cc15-52082bf5e0300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-12-04_Planning-Dec-4-2012-Agenda--8bc68f916a54.pdf",
+  "versions": [
+    {
+      "sha256": "8bc68f916a54742c12f00070ace793827ce6ee384dfb8d3fbf1513022047f6d3",
+      "bytes": 52245,
+      "retrieved_utc": "2026-11-24T16:39:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:32 GMT"
+    }
+  ]
+}

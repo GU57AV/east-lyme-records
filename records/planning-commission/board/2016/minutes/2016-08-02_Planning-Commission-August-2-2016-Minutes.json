@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 2 2016 Minutes (pdf)",
+  "filename": "Planning-Commission-August-2-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-August-2-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:38:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3002c4d1f01d65f312895e69edf7a4c28aae459c0fc24926c8094a2433cacb94",
+  "bytes": 713650,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Aug 2016 17:39:05 GMT",
+  "etag": "\"16e0332-ae3b2-5392e4f48c040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-08-02_Planning-Commission-August-2-2016-Minutes--3002c4d1f01d.pdf",
+  "versions": [
+    {
+      "sha256": "3002c4d1f01d65f312895e69edf7a4c28aae459c0fc24926c8094a2433cacb94",
+      "bytes": 713650,
+      "retrieved_utc": "2026-11-24T15:38:56+00:00",
+      "http_last_modified": "Wed, 03 Aug 2016 17:39:05 GMT"
+    }
+  ]
+}

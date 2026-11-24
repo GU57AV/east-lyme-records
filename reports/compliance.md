@@ -1,6 +1,6 @@
 # Posting-deadline report
 
-_Updated Nov 24, 2026 7:07 AM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
+_Updated Nov 24, 2026 12:08 PM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
 
 **How this works.** For documents first seen after the archive started, the archive records the last check of the Town's page that did *not* show the document and the check that first did. A flag is raised only when the document was provably missing at a check made after its deadline. Documents already online when the archive started are not checked.
 
@@ -8,17 +8,29 @@ _Updated Nov 24, 2026 7:07 AM ET. Unofficial and automatic: each flag is a lead 
 
 **Limits.** The archive sees only the board pages it watches; a document posted somewhere else, or a meeting that was cancelled, can produce a flag. Times are only as precise as the checks.
 
-## Flags (1)
+## Flags (9)
 
 | Meeting date | Board | Document | Issue | Evidence |
 |---|---|---|---|---|
+| 2025-07-10 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2025/2025-07.json) ([calendar](https://eltownhall.com/wp-content/uploads/2025/06/Zoning-Commission-July-10-2025-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on Jul 10, 2025, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2025-05-01 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2025/2025-05.json) ([calendar](https://eltownhall.com/wp-content/uploads/2025/04/Zoning-Commission-May-1-2025-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on May 1, 2025, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
 | 2025-01-09 | Board of Selectmen | [Calendar: BOS Special January 9 2025 Combined Meeting & Site Walk with BOF, P&R, & CIP Committee](../calendar/2025/2025-01.json) ([calendar](https://eltownhall.com/wp-content/uploads/2025/01/BOS-Special-January-9-2025-Combined-Meeting-Site-Walk-with-BOF-PR-CIP-Committee.pdf)) | No minutes found more than 8 days after the meeting | The Town calendar lists “BOS Special January 9 2025 Combined Meeting & Site Walk with BOF, P&R, & CIP Committee” on Jan 9, 2025, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-11-21 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2024/2024-11.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/11/Zoning-Commission-November-21-2024-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on Nov 21, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-07-11 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2024/2024-07.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/06/Zoning-July-11-2024-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on Jul 11, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-06-06 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2024/2024-06.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/05/Zoning-Commission-June-6-2024-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on Jun 6, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-05-02 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2024/2024-05.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/04/Zoning-Commission-May-2-2024-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on May 2, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-03-07 | Zoning Commission | [Calendar: Zoning Public Hearing](../calendar/2024/2024-03.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/02/Zoning-Commission-March-7-2024-Public-Hearing-Notice-1.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Public Hearing” on Mar 7, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
+| 2024-02-01 | Zoning Commission | [Calendar: Zoning Commission (Public Hearing)](../calendar/2024/2024-02.json) ([calendar](https://eltownhall.com/wp-content/uploads/2024/01/Zoning-Commission-February-1-2024-Public-Hearing-Notice.pdf)) | No minutes found more than 8 days after the public hearing | The Town calendar lists “Zoning Commission (Public Hearing)” on Feb 1, 2024, and no minutes for that date have appeared on the board's pages (the meeting may not have been held). |
 
-## For review (1)
+## For review (5)
 
 Amended agendas and cancellations posted late, agendas whose meeting time couldn't be read, and calendar cross-checks that need a person to look (see the [calendar report](calendar.md)).
 
 | Meeting date | Board | Document | Note |
 |---|---|---|---|
+| 2026-03-23 | Zoning Commission | [Zoning Commission March 23 2026 Special Meeting Minutes (pdf)](../records/zoning-commission/board/2006/minutes/2026-03-23_Zoning-Commission-March-23-2026-Special-Meeting-Minutes.md) | Minutes posted, but no agenda for that date on the board's page or the calendar |
+| 2024-09-17 | Zoning Commission | [Zoning Commission September 17 2024 Minutes (pdf)](../records/zoning-commission/board/2024/minutes/2024-09-17_Zoning-Commission-September-17-2024-Minutes.md) | Minutes posted, but no agenda for that date on the board's page or the calendar |
 | 2024-06-06 | Board of Selectmen | [BOS June 6 2024 Emergency Meeting Minutes (pdf)](../records/board-of-selectmen/board/2024/minutes/2024-06-06_BOS-June-6-2024-Emergency-Meeting-Minutes.md) | Minutes posted, but no agenda for that date on the board's page or the calendar (an emergency special meeting may be held without 24 hours' notice; its minutes must be posted within 72 hours and state the reason, CGS § 1-225(d)) |
+| 2024-04-11 | Zoning Commission | [Zoning Commission April 4 2024 Notice of Decision (pdf)](../records/zoning-commission/board/2024/minutes/2024-04-11_Zoning-Commission-April-11-2024-Notice-of-Decision.md) | Minutes posted, but no agenda for that date on the board's page or the calendar |
+| 2024-03-22 | Zoning Commission | [Zoning Commission March 14 2024 Notice of Decision (pdf)](../records/zoning-commission/board/2024/minutes/2024-03-22_Zoning-March-22-2024-Notice-of-Decision.md) | Minutes posted, but no agenda for that date on the board's page or the calendar |
 

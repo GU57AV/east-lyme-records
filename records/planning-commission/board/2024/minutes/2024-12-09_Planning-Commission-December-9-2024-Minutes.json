@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 9 2024 Minutes (pdf)",
+  "filename": "Planning-Commission-December-9-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/Planning-Commission-December-9-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-minutes/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-24T14:04:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6084b260cdb1e9f3a32ae7b65ebba13b2d146d6c6a3aa5b4215f7e0b0f13ad17",
+  "bytes": 771289,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Dec 2024 16:20:24 GMT",
+  "etag": "\"168055b-bc4d9-62900f9908200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-12-09_Planning-Commission-December-9-2024-Minutes--6084b260cdb1.pdf",
+  "versions": [
+    {
+      "sha256": "6084b260cdb1e9f3a32ae7b65ebba13b2d146d6c6a3aa5b4215f7e0b0f13ad17",
+      "bytes": 771289,
+      "retrieved_utc": "2026-11-24T14:04:31+00:00",
+      "http_last_modified": "Wed, 11 Dec 2024 16:20:24 GMT"
+    }
+  ]
+}

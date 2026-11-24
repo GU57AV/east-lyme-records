@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning December 8 2015 Special Meeting Agenda (pdf)",
+  "filename": "Planning-December-8-2015-Special-Meeting-Agenda1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/Planning-December-8-2015-Special-Meeting-Agenda1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-24T15:43:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3af1a118699cca98ff65325a0de4e75879e09b91631252a4efdb1d3dbdc761d4",
+  "bytes": 123300,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Dec 2015 16:23:09 GMT",
+  "etag": "\"16633c8-1e1a4-52614ec499540\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-12-08_Planning-December-8-2015-Special-Meeting-Agenda1--3af1a118699c.pdf",
+  "versions": [
+    {
+      "sha256": "3af1a118699cca98ff65325a0de4e75879e09b91631252a4efdb1d3dbdc761d4",
+      "bytes": 123300,
+      "retrieved_utc": "2026-11-24T15:43:58+00:00",
+      "http_last_modified": "Fri, 04 Dec 2015 16:23:09 GMT"
+    }
+  ]
+}

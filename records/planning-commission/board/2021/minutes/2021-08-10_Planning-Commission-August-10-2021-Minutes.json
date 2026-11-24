@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 10 2021 Minutes (pdf)",
+  "filename": "Planning-Commission-August-10-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/Planning-Commission-August-10-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2021-minutes/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-24T14:35:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7179ce0393fac6bd8dfa34839f58c1a50bd6e43e8e886e3388f6cebde0bcc6a1",
+  "bytes": 257015,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Aug 2021 19:11:08 GMT",
+  "etag": "\"16804a4-3ebf7-5c9b1f6a5ab00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-08-10_Planning-Commission-August-10-2021-Minutes--7179ce0393fa.pdf",
+  "versions": [
+    {
+      "sha256": "7179ce0393fac6bd8dfa34839f58c1a50bd6e43e8e886e3388f6cebde0bcc6a1",
+      "bytes": 257015,
+      "retrieved_utc": "2026-11-24T14:35:16+00:00",
+      "http_last_modified": "Mon, 16 Aug 2021 19:11:08 GMT"
+    }
+  ]
+}

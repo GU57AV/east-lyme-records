@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 11 2021 Agenda (via zoom) (pdf)",
+  "filename": "Planning-May-11-2021-Agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/05/Planning-May-11-2021-Agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2021-agendas/",
+  "upload_folder": "2021-05",
+  "first_seen_utc": "2026-11-24T14:32:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c91785e14a7156c7bcff69293bc3bc506bc7faeae352306fc203e50b782f0369",
+  "bytes": 160321,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 May 2021 14:03:45 GMT",
+  "etag": "\"1663674-27241-5c1818bdcd240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-05-11_Planning-May-11-2021-Agenda-via-zoom--c91785e14a71.pdf",
+  "versions": [
+    {
+      "sha256": "c91785e14a7156c7bcff69293bc3bc506bc7faeae352306fc203e50b782f0369",
+      "bytes": 160321,
+      "retrieved_utc": "2026-11-24T14:32:15+00:00",
+      "http_last_modified": "Tue, 04 May 2021 14:03:45 GMT"
+    }
+  ]
+}

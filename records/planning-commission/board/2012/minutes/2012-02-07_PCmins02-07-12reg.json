@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Feb 7 2012 Minutes (pdf)",
+  "filename": "PCmins02-07-12reg.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCmins02-07-12reg.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:52:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ecf3cc39c6ab6c739c8c17954f04e6dbdafcda2d7b8f4319688485539512d034",
+  "bytes": 446090,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2014 16:30:28 GMT",
+  "etag": "\"1663d54-6ce8a-501b30ded9100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-02-07_PCmins02-07-12reg--ecf3cc39c6ab.pdf",
+  "versions": [
+    {
+      "sha256": "ecf3cc39c6ab6c739c8c17954f04e6dbdafcda2d7b8f4319688485539512d034",
+      "bytes": 446090,
+      "retrieved_utc": "2026-11-24T16:52:05+00:00",
+      "http_last_modified": "Thu, 28 Aug 2014 16:30:28 GMT"
+    }
+  ]
+}

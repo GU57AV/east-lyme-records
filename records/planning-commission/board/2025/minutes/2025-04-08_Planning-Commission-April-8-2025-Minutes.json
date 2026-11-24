@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 8 2025 Minutes (pdf)",
+  "filename": "Planning-Commission-April-8-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/Planning-Commission-April-8-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-minutes/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-24T13:56:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9f2f9d149e45507e26d80dde441a6d62c489f1ea2ad1e3cd72442a45f0ae3373",
+  "bytes": 3526624,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Apr 2025 18:02:33 GMT",
+  "etag": "\"16c026e-35cfe0-632e916e2e040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-04-08_Planning-Commission-April-8-2025-Minutes--9f2f9d149e45.pdf",
+  "versions": [
+    {
+      "sha256": "9f2f9d149e45507e26d80dde441a6d62c489f1ea2ad1e3cd72442a45f0ae3373",
+      "bytes": 3526624,
+      "retrieved_utc": "2026-11-24T13:56:50+00:00",
+      "http_last_modified": "Wed, 16 Apr 2025 18:02:33 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 12 2024 Agenda (pdf)",
+  "filename": "Planning-Commission-March-12-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Planning-Commission-March-12-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-24T14:02:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d5d1bd744581669ac3af0952f6b6a1306e0cb8bc2591e73c550029cd2aa5bbf9",
+  "bytes": 52096,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Mar 2024 16:53:44 GMT",
+  "etag": "\"16805d7-cb80-613656269f600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-03-12_Planning-Commission-March-12-2024-Agenda--d5d1bd744581.pdf",
+  "versions": [
+    {
+      "sha256": "d5d1bd744581669ac3af0952f6b6a1306e0cb8bc2591e73c550029cd2aa5bbf9",
+      "bytes": 52096,
+      "retrieved_utc": "2026-11-24T14:02:51+00:00",
+      "http_last_modified": "Mon, 11 Mar 2024 16:53:44 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 11 2020 Cancellation (pdf)",
+  "filename": "Planning-Commission-August-11-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Planning-Commission-August-11-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-24T14:40:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "caa1c7b623a8d9eca37a584337d108ade26fe3f2b785a8b85b5b761023913403",
+  "bytes": 34613,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Aug 2020 15:13:18 GMT",
+  "etag": "\"1661a79-8735-5ac9b82cdff80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-08-11_Planning-Commission-August-11-2020-Cancellation--caa1c7b623a8.pdf",
+  "versions": [
+    {
+      "sha256": "caa1c7b623a8d9eca37a584337d108ade26fe3f2b785a8b85b5b761023913403",
+      "bytes": 34613,
+      "retrieved_utc": "2026-11-24T14:40:17+00:00",
+      "http_last_modified": "Tue, 11 Aug 2020 15:13:18 GMT"
+    }
+  ]
+}

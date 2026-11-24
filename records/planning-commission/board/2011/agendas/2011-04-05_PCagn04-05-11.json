@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Apr 5 2011 Agenda (pdf)",
+  "filename": "PCagn04-05-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCagn04-05-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:57:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff03a6d7a9435901ac8592a72ea1151f661edb19bd89fb67d7ea26f50c9a4de6",
+  "bytes": 82512,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 18:51:38 GMT",
+  "etag": "\"1661f3f-14250-501c9249ee280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-04-05_PCagn04-05-11--ff03a6d7a943.pdf",
+  "versions": [
+    {
+      "sha256": "ff03a6d7a9435901ac8592a72ea1151f661edb19bd89fb67d7ea26f50c9a4de6",
+      "bytes": 82512,
+      "retrieved_utc": "2026-11-24T16:57:46+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 18:51:38 GMT"
+    }
+  ]
+}

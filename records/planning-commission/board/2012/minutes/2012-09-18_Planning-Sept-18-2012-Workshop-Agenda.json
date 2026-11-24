@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Sept 18 2012 Workshop Agenda (pdf)",
+  "filename": "Planning-Sept-18-2012-Workshop-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Sept-18-2012-Workshop-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:41:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ace25f08fb6a902bf30b47991e0815c4c4524413901e77345d163b499f8eea53",
+  "bytes": 81761,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:54:10 GMT",
+  "etag": "\"1663bbd-13f61-52082c1a1d880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-09-18_Planning-Sept-18-2012-Workshop-Agenda--ace25f08fb6a.pdf",
+  "versions": [
+    {
+      "sha256": "ace25f08fb6a902bf30b47991e0815c4c4524413901e77345d163b499f8eea53",
+      "bytes": 81761,
+      "retrieved_utc": "2026-11-24T16:41:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:54:10 GMT"
+    }
+  ]
+}

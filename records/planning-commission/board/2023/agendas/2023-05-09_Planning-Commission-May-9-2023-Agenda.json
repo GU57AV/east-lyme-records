@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 9 2023 Agenda (pdf)",
+  "filename": "Planning-Commission-May-9-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/Planning-Commission-May-9-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-24T14:12:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1d1e9c4dd7e6b98e46084ea85ac5a65ad744effa08cf41723cf654b310671174",
+  "bytes": 63787,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 May 2023 17:54:18 GMT",
+  "etag": "\"16c2380-f92b-5fb3253e4e680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-05-09_Planning-Commission-May-9-2023-Agenda--1d1e9c4dd7e6.pdf",
+  "versions": [
+    {
+      "sha256": "1d1e9c4dd7e6b98e46084ea85ac5a65ad744effa08cf41723cf654b310671174",
+      "bytes": 63787,
+      "retrieved_utc": "2026-11-24T14:12:32+00:00",
+      "http_last_modified": "Mon, 08 May 2023 17:54:18 GMT"
+    }
+  ]
+}

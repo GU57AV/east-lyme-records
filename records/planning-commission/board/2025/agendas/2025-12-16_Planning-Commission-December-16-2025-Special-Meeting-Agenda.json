@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 16 2025 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-December-16-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Planning-Commission-December-16-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-24T13:47:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e18309eed92107502d7b16c88f0763d955918e5fbc43966f43ef796a04caa9d8",
+  "bytes": 32662,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 Dec 2025 18:02:57 GMT",
+  "etag": "\"1a2006d-7f96-646016bce3b61\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-12-16_Planning-Commission-December-16-2025-Special-Meeting-Agenda--e18309eed921.pdf",
+  "versions": [
+    {
+      "sha256": "e18309eed92107502d7b16c88f0763d955918e5fbc43966f43ef796a04caa9d8",
+      "bytes": 32662,
+      "retrieved_utc": "2026-11-24T13:47:48+00:00",
+      "http_last_modified": "Mon, 15 Dec 2025 18:02:57 GMT"
+    }
+  ]
+}

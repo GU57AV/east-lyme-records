@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning July 21 2015 Site Walk Agenda (pdf)",
+  "filename": "Planning-Commission-July-21-2015-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-July-21-2015-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:48:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "be1db2b502916173c5bf2d636ee21c3a67dcfd9ad1704a5548f737336d3f5413",
+  "bytes": 37918,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:30 GMT",
+  "etag": "\"1663dee-941e-52082bf3f7e80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-07-21_Planning-Commission-July-21-2015-Site-Walk-Agenda--be1db2b50291.pdf",
+  "versions": [
+    {
+      "sha256": "be1db2b502916173c5bf2d636ee21c3a67dcfd9ad1704a5548f737336d3f5413",
+      "bytes": 37918,
+      "retrieved_utc": "2026-11-24T15:48:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:30 GMT"
+    }
+  ]
+}

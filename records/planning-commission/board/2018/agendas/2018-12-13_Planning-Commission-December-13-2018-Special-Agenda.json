@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 13 2018 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-December-13-2018-Special-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Planning-Commission-December-13-2018-Special-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-24T14:58:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c87c6be13149bed959517dc36dd85caa9ed6cfdb5b170af4415d87aaf3a8cf72",
+  "bytes": 41144,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Dec 2018 18:57:20 GMT",
+  "etag": "\"16c078f-a0b8-57cd7c47ea400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-12-13_Planning-Commission-December-13-2018-Special-Agenda--c87c6be13149.pdf",
+  "versions": [
+    {
+      "sha256": "c87c6be13149bed959517dc36dd85caa9ed6cfdb5b170af4415d87aaf3a8cf72",
+      "bytes": 41144,
+      "retrieved_utc": "2026-11-24T14:58:19+00:00",
+      "http_last_modified": "Wed, 12 Dec 2018 18:57:20 GMT"
+    }
+  ]
+}

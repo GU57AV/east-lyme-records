@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 14 2021 Agenda (pdf)",
+  "filename": "Planning-Commission-September-14-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Planning-Commission-September-14-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-24T14:30:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2e1933dbe1a512cb5eef4b0c62dae54830993d5e58cbe5be20c075c0502a2620",
+  "bytes": 69667,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Sep 2021 17:53:34 GMT",
+  "etag": "\"16802c9-11023-5cb6b71c18380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-09-14_Planning-Commission-September-14-2021-Agenda--2e1933dbe1a5.pdf",
+  "versions": [
+    {
+      "sha256": "2e1933dbe1a512cb5eef4b0c62dae54830993d5e58cbe5be20c075c0502a2620",
+      "bytes": 69667,
+      "retrieved_utc": "2026-11-24T14:30:35+00:00",
+      "http_last_modified": "Tue, 07 Sep 2021 17:53:34 GMT"
+    }
+  ]
+}

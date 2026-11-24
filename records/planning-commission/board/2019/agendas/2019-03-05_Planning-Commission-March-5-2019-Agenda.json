@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 5 2019 Agenda (pdf)",
+  "filename": "Planning-Commission-March-5-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/Planning-Commission-March-5-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-24T14:52:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92ad758dcd100a1c53ec709b8b435b249e44be48ce84435056df5794ebb14e52",
+  "bytes": 106418,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Feb 2019 18:46:49 GMT",
+  "etag": "\"16c1e3a-19fb2-582f8b6819840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-03-05_Planning-Commission-March-5-2019-Agenda--92ad758dcd10.pdf",
+  "versions": [
+    {
+      "sha256": "92ad758dcd100a1c53ec709b8b435b249e44be48ce84435056df5794ebb14e52",
+      "bytes": 106418,
+      "retrieved_utc": "2026-11-24T14:52:39+00:00",
+      "http_last_modified": "Thu, 28 Feb 2019 18:46:49 GMT"
+    }
+  ]
+}

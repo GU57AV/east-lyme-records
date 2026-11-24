@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning Amended Special Meeting Agenda 12-16-2014 (pdf)",
+  "filename": "Planning-Amended-Agenda-12-16-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Amended-Agenda-12-16-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:10:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "30f8b2c17a96a5291cf5bcbcf414a7c6961bfabb774ce4f44617717af6ce1354",
+  "bytes": 52759,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:14 GMT",
+  "etag": "\"1663bbb-ce17-52082be4b5a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-12-16_Planning-Amended-Agenda-12-16-2014--30f8b2c17a96.pdf",
+  "versions": [
+    {
+      "sha256": "30f8b2c17a96a5291cf5bcbcf414a7c6961bfabb774ce4f44617717af6ce1354",
+      "bytes": 52759,
+      "retrieved_utc": "2026-11-24T16:10:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:14 GMT"
+    }
+  ]
+}

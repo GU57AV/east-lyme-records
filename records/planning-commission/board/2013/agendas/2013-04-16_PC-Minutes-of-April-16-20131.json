@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning April 16 2013 Minutes (pdf)",
+  "filename": "PC-Minutes-of-April-16-20131.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Minutes-of-April-16-20131.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:37:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "246e4059a3044a50022662d7322501d31a116c4183c07d1138f3999431a1b35a",
+  "bytes": 1884929,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:06 GMT",
+  "etag": "\"1663b08-1cc301-52082ba3dc180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2013-04-16_PC-Minutes-of-April-16-20131--246e4059a304.pdf",
+  "versions": [
+    {
+      "sha256": "246e4059a3044a50022662d7322501d31a116c4183c07d1138f3999431a1b35a",
+      "bytes": 1884929,
+      "retrieved_utc": "2026-11-24T16:37:23+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:06 GMT"
+    }
+  ]
+}

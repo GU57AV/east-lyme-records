@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning Nov 19 2013 Agenda (pdf)",
+  "filename": "PCagn11-19-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCagn11-19-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:26:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "30886b352dc3bc9380d5ffecf6b8a976f95ed831acca13defd0c6ee16fe2b1a9",
+  "bytes": 74841,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 Aug 2014 18:55:16 GMT",
+  "etag": "\"166351a-12459-501a0f5ee8d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2013-11-19_PCagn11-19-13--30886b352dc3.pdf",
+  "versions": [
+    {
+      "sha256": "30886b352dc3bc9380d5ffecf6b8a976f95ed831acca13defd0c6ee16fe2b1a9",
+      "bytes": 74841,
+      "retrieved_utc": "2026-11-24T16:26:52+00:00",
+      "http_last_modified": "Wed, 27 Aug 2014 18:55:16 GMT"
+    }
+  ]
+}

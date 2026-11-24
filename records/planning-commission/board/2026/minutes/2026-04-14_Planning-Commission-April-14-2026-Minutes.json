@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 14 2026 Minutes (pdf)",
+  "filename": "Planning-Commission-April-14-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/Planning-Commission-April-14-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-minutes/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-24T13:45:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f48c98dffca7e81686ce1565e64e79870db56608670c62a58cdd3d04c220cb3f",
+  "bytes": 352620,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Apr 2026 14:31:25 GMT",
+  "etag": "\"1701466-5616c-6502180ce4c63\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-04-14_Planning-Commission-April-14-2026-Minutes--f48c98dffca7.pdf",
+  "versions": [
+    {
+      "sha256": "f48c98dffca7e81686ce1565e64e79870db56608670c62a58cdd3d04c220cb3f",
+      "bytes": 352620,
+      "retrieved_utc": "2026-11-24T13:45:48+00:00",
+      "http_last_modified": "Thu, 23 Apr 2026 14:31:25 GMT"
+    }
+  ]
+}

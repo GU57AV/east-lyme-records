@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 11 2023 Agenda (pdf)",
+  "filename": "Planning-Commission-April-11-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/Planning-Commission-April-11-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-24T14:12:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2af727f766665fcac8cd1fd858284acecd34b2c565d5828842adf25d349a903",
+  "bytes": 73834,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Apr 2023 18:06:04 GMT",
+  "etag": "\"16e0246-1206a-5f8aec30d9b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-04-11_Planning-Commission-April-11-2023-Agenda--b2af727f7666.pdf",
+  "versions": [
+    {
+      "sha256": "b2af727f766665fcac8cd1fd858284acecd34b2c565d5828842adf25d349a903",
+      "bytes": 73834,
+      "retrieved_utc": "2026-11-24T14:12:52+00:00",
+      "http_last_modified": "Thu, 06 Apr 2023 18:06:04 GMT"
+    }
+  ]
+}

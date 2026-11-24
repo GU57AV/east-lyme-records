@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning March 17 2015 Cancellation (pdf)",
+  "filename": "Planning-March-17-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-March-17-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:52:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dcd3568387506fc76b33b541350cea61726010c791637bf9c3edbf56e2645c37",
+  "bytes": 27664,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:58 GMT",
+  "etag": "\"1663e93-6c10-52082c0eabd80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-03-17_Planning-March-17-2015-Cancellation--dcd356838750.pdf",
+  "versions": [
+    {
+      "sha256": "dcd3568387506fc76b33b541350cea61726010c791637bf9c3edbf56e2645c37",
+      "bytes": 27664,
+      "retrieved_utc": "2026-11-24T15:52:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:58 GMT"
+    }
+  ]
+}

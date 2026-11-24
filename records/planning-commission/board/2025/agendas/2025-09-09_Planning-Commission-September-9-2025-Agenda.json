@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 9 2025 Agenda (pdf)",
+  "filename": "Planning-Commission-September-9-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/Planning-Commission-September-9-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-24T13:49:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a292dfc4c601356be44b6091e9c0a69841d7d2b720971a2728cfc22f28fecd89",
+  "bytes": 97690,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Sep 2025 18:11:54 GMT",
+  "etag": "\"17204c9-17d9a-63dfda7fb7c77\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-09-09_Planning-Commission-September-9-2025-Agenda--a292dfc4c601.pdf",
+  "versions": [
+    {
+      "sha256": "a292dfc4c601356be44b6091e9c0a69841d7d2b720971a2728cfc22f28fecd89",
+      "bytes": 97690,
+      "retrieved_utc": "2026-11-24T13:49:28+00:00",
+      "http_last_modified": "Thu, 04 Sep 2025 18:11:54 GMT"
+    }
+  ]
+}

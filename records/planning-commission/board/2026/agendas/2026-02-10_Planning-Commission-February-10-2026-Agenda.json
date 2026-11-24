@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission February 10 2026 Agenda (pdf)",
+  "filename": "Planning-Commission-February-10-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/Planning-Commission-February-10-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-24T13:41:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01482772b2fa8b7f7f96a66c05d7e38b2122dc06f43477776600494a8c4e7aaf",
+  "bytes": 104425,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Feb 2026 18:15:09 GMT",
+  "etag": "\"1700312-197e9-64a681e84b042\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-02-10_Planning-Commission-February-10-2026-Agenda--01482772b2fa.pdf",
+  "versions": [
+    {
+      "sha256": "01482772b2fa8b7f7f96a66c05d7e38b2122dc06f43477776600494a8c4e7aaf",
+      "bytes": 104425,
+      "retrieved_utc": "2026-11-24T13:41:27+00:00",
+      "http_last_modified": "Mon, 09 Feb 2026 18:15:09 GMT"
+    }
+  ]
+}

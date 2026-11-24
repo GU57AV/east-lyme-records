@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 10 2020 Public Hearing & Special Meeting Minutes set 2 (pdf)",
+  "filename": "Planning-December-10-2020-Public-Hearing-Special-Meeting-Minutes-set-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Planning-December-10-2020-Public-Hearing-Special-Meeting-Minutes-set-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-24T14:43:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9b8c205ab2f4c36109adf4f0c12871002364d866fca392a6282a88bb41e6cd1e",
+  "bytes": 285311,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Dec 2020 14:49:02 GMT",
+  "etag": "\"166158b-45a7f-5b6be358c9380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-12-10_Planning-December-10-2020-Public-Hearing-Special-Meeting-Minutes-set-2--9b8c205ab2f4.pdf",
+  "versions": [
+    {
+      "sha256": "9b8c205ab2f4c36109adf4f0c12871002364d866fca392a6282a88bb41e6cd1e",
+      "bytes": 285311,
+      "retrieved_utc": "2026-11-24T14:43:57+00:00",
+      "http_last_modified": "Fri, 18 Dec 2020 14:49:02 GMT"
+    }
+  ]
+}

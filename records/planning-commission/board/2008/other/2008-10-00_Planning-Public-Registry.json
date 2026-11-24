@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "other",
+  "year": "2008",
+  "subcommittee": false,
+  "link_text": "Planning Public Registry Application (pdf)",
+  "filename": "Planning-Public-Registry.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2008/10/Planning-Public-Registry.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/notice-registry/",
+  "upload_folder": "2008-10",
+  "first_seen_utc": "2026-11-24T13:34:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3e8ad7b718488e3061a165f1e55de10ade19a1439ee917df56c88d7217c2fae",
+  "bytes": 52264,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 17:48:31 GMT",
+  "etag": "\"16c0629-cc28-52081d6d979c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2008/2008-10-00_Planning-Public-Registry--a3e8ad7b7184.pdf",
+  "versions": [
+    {
+      "sha256": "a3e8ad7b718488e3061a165f1e55de10ade19a1439ee917df56c88d7217c2fae",
+      "bytes": 52264,
+      "retrieved_utc": "2026-11-24T13:34:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 17:48:31 GMT"
+    }
+  ]
+}

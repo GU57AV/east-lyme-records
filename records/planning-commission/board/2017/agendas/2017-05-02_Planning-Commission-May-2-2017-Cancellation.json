@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 2 2017 Cancellation (pdf)",
+  "filename": "Planning-Commission-May-2-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-May-2-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:19:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d4163ab4dcc8240c2f1d58c0b7e0affe3556d4030abe1705b07366f9150bb6b",
+  "bytes": 28571,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Apr 2017 12:22:53 GMT",
+  "etag": "\"16627c6-6f9b-54e3921ef8140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-05-02_Planning-Commission-May-2-2017-Cancellation--8d4163ab4dcc.pdf",
+  "versions": [
+    {
+      "sha256": "8d4163ab4dcc8240c2f1d58c0b7e0affe3556d4030abe1705b07366f9150bb6b",
+      "bytes": 28571,
+      "retrieved_utc": "2026-11-24T15:19:39+00:00",
+      "http_last_modified": "Fri, 28 Apr 2017 12:22:53 GMT"
+    }
+  ]
+}

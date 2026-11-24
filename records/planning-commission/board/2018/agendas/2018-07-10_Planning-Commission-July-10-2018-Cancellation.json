@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 10 2018 Cancellation (pdf)",
+  "filename": "Planning-Commission-July-10-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Planning-Commission-July-10-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-24T15:02:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c2698fe352c89a3112fe8a5a20efff17c385f1e35933e192b596efa8f3514b1",
+  "bytes": 35362,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Jun 2018 18:22:29 GMT",
+  "etag": "\"16c0fae-8a22-56fcbee344340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-07-10_Planning-Commission-July-10-2018-Cancellation--5c2698fe352c.pdf",
+  "versions": [
+    {
+      "sha256": "5c2698fe352c89a3112fe8a5a20efff17c385f1e35933e192b596efa8f3514b1",
+      "bytes": 35362,
+      "retrieved_utc": "2026-11-24T15:02:20+00:00",
+      "http_last_modified": "Fri, 29 Jun 2018 18:22:29 GMT"
+    }
+  ]
+}

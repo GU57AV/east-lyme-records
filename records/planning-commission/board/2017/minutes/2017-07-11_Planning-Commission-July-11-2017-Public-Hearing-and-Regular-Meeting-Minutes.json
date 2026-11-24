@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 11 2017 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-July-11-2017-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-July-11-2017-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:23:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8a51a527faae70a873265297f1c58cd9de2985b2ac5ddb6884184788d4298ad1",
+  "bytes": 386426,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Jul 2017 18:10:37 GMT",
+  "etag": "\"1662f85-5e57a-5548750d4e140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-07-11_Planning-Commission-July-11-2017-Public-Hearing-and-Regular-Meeting-Minutes--8a51a527faae.pdf",
+  "versions": [
+    {
+      "sha256": "8a51a527faae70a873265297f1c58cd9de2985b2ac5ddb6884184788d4298ad1",
+      "bytes": 386426,
+      "retrieved_utc": "2026-11-24T15:23:20+00:00",
+      "http_last_modified": "Mon, 17 Jul 2017 18:10:37 GMT"
+    }
+  ]
+}

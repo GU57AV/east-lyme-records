@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 8 2023 Agenda (pdf)",
+  "filename": "Planning-August-8-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/Planning-August-8-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-24T14:10:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "76228268c99147848a8ea22b9a94e86f16ab8d545068883f08da17dffd2277f6",
+  "bytes": 59708,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Aug 2023 12:01:53 GMT",
+  "etag": "\"16e02d5-e93c-60217a996ce40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-08-08_Planning-August-8-2023-Agenda--76228268c991.pdf",
+  "versions": [
+    {
+      "sha256": "76228268c99147848a8ea22b9a94e86f16ab8d545068883f08da17dffd2277f6",
+      "bytes": 59708,
+      "retrieved_utc": "2026-11-24T14:10:52+00:00",
+      "http_last_modified": "Fri, 04 Aug 2023 12:01:53 GMT"
+    }
+  ]
+}

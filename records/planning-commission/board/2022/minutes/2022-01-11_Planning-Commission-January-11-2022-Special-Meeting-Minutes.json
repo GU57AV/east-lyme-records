@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 11 2022 Special Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-January-11-2022-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Planning-Commission-January-11-2022-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T14:28:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "77fcb4258cac1e9ada955d8802fde221bc88c086e616df052df580bf51f3e474",
+  "bytes": 822120,
+  "pages": 0,
+  "http_last_modified": "Thu, 13 Jan 2022 13:32:02 GMT",
+  "etag": "\"16a0e08-c8b68-5d576b6209880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-01-11_Planning-Commission-January-11-2022-Special-Meeting-Minutes--77fcb4258cac.pdf",
+  "versions": [
+    {
+      "sha256": "77fcb4258cac1e9ada955d8802fde221bc88c086e616df052df580bf51f3e474",
+      "bytes": 822120,
+      "retrieved_utc": "2026-11-24T14:28:55+00:00",
+      "http_last_modified": "Thu, 13 Jan 2022 13:32:02 GMT"
+    }
+  ]
+}

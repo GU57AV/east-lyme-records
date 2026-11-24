@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 3 2018 Meeting Amended Agenda (pdf)",
+  "filename": "Planning-Commission-April-3-2018-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/Planning-Commission-April-3-2018-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-04",
+  "first_seen_utc": "2026-11-24T15:04:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2f3b2908b537d316fb293ebf47dc51578b818d93f20af1d50c63200441ffe765",
+  "bytes": 109958,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Apr 2018 14:08:55 GMT",
+  "etag": "\"16c1523-1ad86-568de21580bc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-04-03_Planning-Commission-April-3-2018-Meeting-Amended-Agenda--2f3b2908b537.pdf",
+  "versions": [
+    {
+      "sha256": "2f3b2908b537d316fb293ebf47dc51578b818d93f20af1d50c63200441ffe765",
+      "bytes": 109958,
+      "retrieved_utc": "2026-11-24T15:04:00+00:00",
+      "http_last_modified": "Mon, 02 Apr 2018 14:08:55 GMT"
+    }
+  ]
+}

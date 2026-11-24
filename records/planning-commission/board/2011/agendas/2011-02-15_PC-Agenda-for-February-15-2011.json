@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Feb 15, 2011 Agenda (pdf)",
+  "filename": "PC-Agenda-for-February-15-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Agenda-for-February-15-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:58:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9ed7b40bffcab7de8e5d39694c649d81908f6cd5c6010340c83b63eeccd50720",
+  "bytes": 72796,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:51:45 GMT",
+  "etag": "\"1661509-11c5c-52082b8fd5240\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-02-15_PC-Agenda-for-February-15-2011--9ed7b40bffca.pdf",
+  "versions": [
+    {
+      "sha256": "9ed7b40bffcab7de8e5d39694c649d81908f6cd5c6010340c83b63eeccd50720",
+      "bytes": 72796,
+      "retrieved_utc": "2026-11-24T16:58:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:51:45 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning July 1 2014 Agenda (pdf)",
+  "filename": "Planning-Commission-Agenda-07-01-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Planning-Commission-Agenda-07-01-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-24T16:15:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9439faa8af435e672d4a3b86be033ac0835d1f0a073f26ff46bc3d496fe96f24",
+  "bytes": 79174,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:09:27 GMT",
+  "etag": "\"166311d-13546-5208221b683c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-07-01_Planning-Commission-Agenda-07-01-2014--9439faa8af43.pdf",
+  "versions": [
+    {
+      "sha256": "9439faa8af435e672d4a3b86be033ac0835d1f0a073f26ff46bc3d496fe96f24",
+      "bytes": 79174,
+      "retrieved_utc": "2026-11-24T16:15:05+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:09:27 GMT"
+    }
+  ]
+}

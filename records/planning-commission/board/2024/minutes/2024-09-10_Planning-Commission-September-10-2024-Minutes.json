@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 10 2024 Special Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-September-10-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/Planning-Commission-September-10-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-minutes/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-24T14:05:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b11219dc366740f6591835593875dfa7df019e0d29b40aadf20204997c67b41e",
+  "bytes": 124846,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Sep 2024 17:41:56 GMT",
+  "etag": "\"1680924-1e7ae-621db81976100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-09-10_Planning-Commission-September-10-2024-Minutes--b11219dc3667.pdf",
+  "versions": [
+    {
+      "sha256": "b11219dc366740f6591835593875dfa7df019e0d29b40aadf20204997c67b41e",
+      "bytes": 124846,
+      "retrieved_utc": "2026-11-24T14:05:31+00:00",
+      "http_last_modified": "Wed, 11 Sep 2024 17:41:56 GMT"
+    }
+  ]
+}

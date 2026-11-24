@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Oct 16 2012 Amended Workshop Agenda (pdf)",
+  "filename": "Planning-Oct-16-2012-Amended-Workshop-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Oct-16-2012-Amended-Workshop-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:41:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7af6b25da9e9a86e39700820e9b1839eeb8423bf36b5afaff2ea431d1ba87de3",
+  "bytes": 81447,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:54:04 GMT",
+  "etag": "\"1663d9d-13e27-52082c1464b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-10-16_Planning-Oct-16-2012-Amended-Workshop-Agenda--7af6b25da9e9.pdf",
+  "versions": [
+    {
+      "sha256": "7af6b25da9e9a86e39700820e9b1839eeb8423bf36b5afaff2ea431d1ba87de3",
+      "bytes": 81447,
+      "retrieved_utc": "2026-11-24T16:41:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:54:04 GMT"
+    }
+  ]
+}

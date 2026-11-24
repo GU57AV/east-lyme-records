@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning August 5 2014 Cancellation (pdf)",
+  "filename": "Planning-Commission-Agenda-Cancellation-8-5-20141.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-Agenda-Cancellation-8-5-20141.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:14:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8a768602e8a3b4aa60ee22d7cc0bb8d63bf5e45b1259728327114d3717d4e915",
+  "bytes": 24854,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT",
+  "etag": "\"1663ea0-6116-52082bf303c40\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-08-05_Planning-Commission-Agenda-Cancellation-8-5-20141--8a768602e8a3.pdf",
+  "versions": [
+    {
+      "sha256": "8a768602e8a3b4aa60ee22d7cc0bb8d63bf5e45b1259728327114d3717d4e915",
+      "bytes": 24854,
+      "retrieved_utc": "2026-11-24T16:14:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 27 2020 Minutes (pdf)",
+  "filename": "Planning-Commission-July-27-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Planning-Commission-July-27-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-minutes/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-24T14:46:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "52f1ce4e9c0e42413000deac43398a49a52c4c66268c1c93caaba4ba5d822399",
+  "bytes": 111092,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Aug 2020 16:14:57 GMT",
+  "etag": "\"1661ab3-1b1f4-5abfb708d4240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-07-27_Planning-Commission-July-27-2020-Minutes--52f1ce4e9c0e.pdf",
+  "versions": [
+    {
+      "sha256": "52f1ce4e9c0e42413000deac43398a49a52c4c66268c1c93caaba4ba5d822399",
+      "bytes": 111092,
+      "retrieved_utc": "2026-11-24T14:46:38+00:00",
+      "http_last_modified": "Mon, 03 Aug 2020 16:14:57 GMT"
+    }
+  ]
+}

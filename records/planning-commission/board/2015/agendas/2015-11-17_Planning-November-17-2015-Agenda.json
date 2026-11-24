@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning November 17 2015 Agenda (pdf)",
+  "filename": "Planning-November-17-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/Planning-November-17-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-24T15:44:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ef8cfb2b105d27914eae94538449b6fe163e7d0dcc503437c77d94548545647c",
+  "bytes": 108481,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Nov 2015 19:48:30 GMT",
+  "etag": "\"16633d8-1a7c1-52434fe7c1f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-11-17_Planning-November-17-2015-Agenda--ef8cfb2b105d.pdf",
+  "versions": [
+    {
+      "sha256": "ef8cfb2b105d27914eae94538449b6fe163e7d0dcc503437c77d94548545647c",
+      "bytes": 108481,
+      "retrieved_utc": "2026-11-24T15:44:59+00:00",
+      "http_last_modified": "Tue, 10 Nov 2015 19:48:30 GMT"
+    }
+  ]
+}

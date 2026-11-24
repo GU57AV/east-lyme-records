@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Feb 21 2012 Workshop Agenda (pdf)",
+  "filename": "PC-Workshop-Regular-Meeting-Agenda-2-21-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Workshop-Regular-Meeting-Agenda-2-21-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:45:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "70ff9d6513bb4b58ea3eef87f57c8f0e05b2db68b56417cf9845a8f07861b2b4",
+  "bytes": 45481,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:49 GMT",
+  "etag": "\"1663a68-b1a9-52082bccde240\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-02-21_PC-Workshop-Regular-Meeting-Agenda-2-21-12--70ff9d6513bb.pdf",
+  "versions": [
+    {
+      "sha256": "70ff9d6513bb4b58ea3eef87f57c8f0e05b2db68b56417cf9845a8f07861b2b4",
+      "bytes": 45481,
+      "retrieved_utc": "2026-11-24T16:45:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:49 GMT"
+    }
+  ]
+}

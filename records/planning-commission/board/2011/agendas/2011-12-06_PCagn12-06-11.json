@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Dec 6 2011 Agenda (pdf)",
+  "filename": "PCagn12-06-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCagn12-06-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:53:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "978b7508398bb6131888d9ccf3f364080a91ec0d29d6f51db34134086fbcfd53",
+  "bytes": 92869,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 18:51:56 GMT",
+  "etag": "\"16637de-16ac5-501c925b18b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-12-06_PCagn12-06-11--978b7508398b.pdf",
+  "versions": [
+    {
+      "sha256": "978b7508398bb6131888d9ccf3f364080a91ec0d29d6f51db34134086fbcfd53",
+      "bytes": 92869,
+      "retrieved_utc": "2026-11-24T16:53:26+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 18:51:56 GMT"
+    }
+  ]
+}

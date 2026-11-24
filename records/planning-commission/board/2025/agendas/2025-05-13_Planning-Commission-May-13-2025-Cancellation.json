@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 13 2025 Cancellation (pdf)",
+  "filename": "Planning-Commission-May-13-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/Planning-Commission-May-13-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-24T13:51:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "20a4bedb048a11504170d2d76033b544b8920938c23e9c26b790bd5f5a03784b",
+  "bytes": 33343,
+  "pages": 0,
+  "http_last_modified": "Tue, 13 May 2025 20:14:41 GMT",
+  "etag": "\"16a15a2-823f-6350a1525ae40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-05-13_Planning-Commission-May-13-2025-Cancellation--20a4bedb048a.pdf",
+  "versions": [
+    {
+      "sha256": "20a4bedb048a11504170d2d76033b544b8920938c23e9c26b790bd5f5a03784b",
+      "bytes": 33343,
+      "retrieved_utc": "2026-11-24T13:51:49+00:00",
+      "http_last_modified": "Tue, 13 May 2025 20:14:41 GMT"
+    }
+  ]
+}

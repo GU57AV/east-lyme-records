@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 7 2017 Minutes (1 of 2) (pdf)",
+  "filename": "Planning-Commission-March-7-2017-Minutes-1-of-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-March-7-2017-Minutes-1-of-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:24:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e58f8e4f7248eeea43c67e76174fc7cbf6aed3c2ce4eb2d6e4eee8517553bf18",
+  "bytes": 2273878,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Mar 2017 16:14:14 GMT",
+  "etag": "\"1662b6e-22b256-54a9f009b8180\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-03-07_Planning-Commission-March-7-2017-Minutes-1-of-2--e58f8e4f7248.pdf",
+  "versions": [
+    {
+      "sha256": "e58f8e4f7248eeea43c67e76174fc7cbf6aed3c2ce4eb2d6e4eee8517553bf18",
+      "bytes": 2273878,
+      "retrieved_utc": "2026-11-24T15:24:20+00:00",
+      "http_last_modified": "Mon, 13 Mar 2017 16:14:14 GMT"
+    }
+  ]
+}

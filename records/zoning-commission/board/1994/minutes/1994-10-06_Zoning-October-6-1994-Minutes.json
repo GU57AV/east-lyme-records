@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1994",
+  "subcommittee": false,
+  "link_text": "Zoning October 6 1994 Minutes (pdf)",
+  "filename": "Zoning-October-6-1994-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-October-6-1994-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1994-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T13:02:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c5a5284edc4d4be8435cccfb57127368843b366030cc29c6fb80d0d1347cdf53",
+  "bytes": 155668,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Jan 2023 20:22:26 GMT",
+  "etag": "\"16c246b-26014-5f3449fb02480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1994/1994-10-06_Zoning-October-6-1994-Minutes--c5a5284edc4d.pdf",
+  "versions": [
+    {
+      "sha256": "c5a5284edc4d4be8435cccfb57127368843b366030cc29c6fb80d0d1347cdf53",
+      "bytes": 155668,
+      "retrieved_utc": "2026-11-24T13:02:49+00:00",
+      "http_last_modified": "Fri, 27 Jan 2023 20:22:26 GMT"
+    }
+  ]
+}

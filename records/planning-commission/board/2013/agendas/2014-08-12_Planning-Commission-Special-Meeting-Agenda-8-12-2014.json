@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning August 12 2014 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-Special-Meeting-Agenda-8-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-Special-Meeting-Agenda-8-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:14:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "714c4bbaf0a97b658381372484106590cb3c3f53a8e6438ca31b9af24feab68c",
+  "bytes": 84867,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:31 GMT",
+  "etag": "\"1663851-14b83-52082bf4ec0c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-08-12_Planning-Commission-Special-Meeting-Agenda-8-12-2014--714c4bbaf0a9.pdf",
+  "versions": [
+    {
+      "sha256": "714c4bbaf0a97b658381372484106590cb3c3f53a8e6438ca31b9af24feab68c",
+      "bytes": 84867,
+      "retrieved_utc": "2026-11-24T16:14:25+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:31 GMT"
+    }
+  ]
+}

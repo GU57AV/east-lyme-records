@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning-Commission-October-27-Special-Meeting-Agenda (pdf)",
+  "filename": "Planning-Commission-October-27-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/Planning-Commission-October-27-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-24T14:39:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eac34fdda553c0f78f61552711e2c4beb8a4208fdf92265b230bcee374519608",
+  "bytes": 732079,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Oct 2020 12:36:13 GMT",
+  "etag": "\"166199e-b2baf-5b2ce867e8940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-10-27_Planning-Commission-October-27-Special-Meeting-Agenda--eac34fdda553.pdf",
+  "versions": [
+    {
+      "sha256": "eac34fdda553c0f78f61552711e2c4beb8a4208fdf92265b230bcee374519608",
+      "bytes": 732079,
+      "retrieved_utc": "2026-11-24T14:39:16+00:00",
+      "http_last_modified": "Thu, 29 Oct 2020 12:36:13 GMT"
+    }
+  ]
+}

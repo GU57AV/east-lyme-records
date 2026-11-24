@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission November 10 2020 Minutes (pdf)",
+  "filename": "Planning-Commission-November-10-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/Planning-Commission-November-10-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-minutes/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-24T14:44:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "38b72ae2a038094663540a8860bb1621b96b4590c836e80f572e7922d4c14cf1",
+  "bytes": 472171,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Nov 2020 16:27:18 GMT",
+  "etag": "\"1661874-7346b-5b3eb62b0e580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-11-10_Planning-Commission-November-10-2020-Minutes--38b72ae2a038.pdf",
+  "versions": [
+    {
+      "sha256": "38b72ae2a038094663540a8860bb1621b96b4590c836e80f572e7922d4c14cf1",
+      "bytes": 472171,
+      "retrieved_utc": "2026-11-24T14:44:57+00:00",
+      "http_last_modified": "Thu, 12 Nov 2020 16:27:18 GMT"
+    }
+  ]
+}

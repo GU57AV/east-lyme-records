@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning Commission October 6 2015 Cancellation (pdf)",
+  "filename": "Planning-Commission-October-6-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/Planning-Commission-October-6-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-24T15:45:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "07cbac18157360fb62dbf36482e78502a22a70eb79ff51d572bea4e2404c9d86",
+  "bytes": 29333,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Oct 2015 14:28:02 GMT",
+  "etag": "\"16633e0-7295-521848dcd6080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-10-06_Planning-Commission-October-6-2015-Cancellation--07cbac181573.pdf",
+  "versions": [
+    {
+      "sha256": "07cbac18157360fb62dbf36482e78502a22a70eb79ff51d572bea4e2404c9d86",
+      "bytes": 29333,
+      "retrieved_utc": "2026-11-24T15:45:39+00:00",
+      "http_last_modified": "Wed, 07 Oct 2015 14:28:02 GMT"
+    }
+  ]
+}

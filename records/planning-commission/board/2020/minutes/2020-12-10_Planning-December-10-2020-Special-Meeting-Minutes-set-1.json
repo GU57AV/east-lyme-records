@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 10 2020 Special Meeting Minutes set 1 (pdf)",
+  "filename": "Planning-December-10-2020-Special-Meeting-Minutes-set-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Planning-December-10-2020-Special-Meeting-Minutes-set-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-24T14:44:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4bf87f89fb347cc9a1d340baee55f340ac4b66349ae0b324fc8c2d2f9ee1d90",
+  "bytes": 166162,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Dec 2020 14:45:17 GMT",
+  "etag": "\"166154a-28912-5b6be28235940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-12-10_Planning-December-10-2020-Special-Meeting-Minutes-set-1--a4bf87f89fb3.pdf",
+  "versions": [
+    {
+      "sha256": "a4bf87f89fb347cc9a1d340baee55f340ac4b66349ae0b324fc8c2d2f9ee1d90",
+      "bytes": 166162,
+      "retrieved_utc": "2026-11-24T14:44:17+00:00",
+      "http_last_modified": "Fri, 18 Dec 2020 14:45:17 GMT"
+    }
+  ]
+}

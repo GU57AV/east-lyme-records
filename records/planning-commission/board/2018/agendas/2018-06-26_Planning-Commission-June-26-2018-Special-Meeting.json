@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission June 26 2018 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-June-26-2018-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Planning-Commission-June-26-2018-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-24T15:02:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "987dd089fab3ccfdcc37545cd804878abdf2e14a5fe62c183f788eee3a924b09",
+  "bytes": 76075,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Jun 2018 13:23:17 GMT",
+  "etag": "\"16c0fc5-1292b-56efe95c4bb40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-06-26_Planning-Commission-June-26-2018-Special-Meeting--987dd089fab3.pdf",
+  "versions": [
+    {
+      "sha256": "987dd089fab3ccfdcc37545cd804878abdf2e14a5fe62c183f788eee3a924b09",
+      "bytes": 76075,
+      "retrieved_utc": "2026-11-24T15:02:40+00:00",
+      "http_last_modified": "Tue, 19 Jun 2018 13:23:17 GMT"
+    }
+  ]
+}

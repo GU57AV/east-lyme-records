@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 7 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "July-7-2020-Planning-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/July-7-2020-Planning-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-24T14:41:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d841cd16171f38c0107b04de47a236d70a6d3a006d2733afaa9f6be3e6e3800",
+  "bytes": 184669,
+  "pages": 0,
+  "http_last_modified": "Tue, 30 Jun 2020 16:07:22 GMT",
+  "etag": "\"166171a-2d15d-5a94f5ed3c280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-07-07_July-7-2020-Planning-Agenda--8d841cd16171.pdf",
+  "versions": [
+    {
+      "sha256": "8d841cd16171f38c0107b04de47a236d70a6d3a006d2733afaa9f6be3e6e3800",
+      "bytes": 184669,
+      "retrieved_utc": "2026-11-24T14:41:37+00:00",
+      "http_last_modified": "Tue, 30 Jun 2020 16:07:22 GMT"
+    }
+  ]
+}

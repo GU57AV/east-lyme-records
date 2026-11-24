@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 17 2018 Special Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-July-17-2018-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/07/Planning-Commission-July-17-2018-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-minutes/",
+  "upload_folder": "2018-07",
+  "first_seen_utc": "2026-11-24T15:08:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d499855d403f2d7f65d1dec0f999991380d382baf935db2f8246e94faf24b1b8",
+  "bytes": 6705051,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Jul 2018 16:50:55 GMT",
+  "etag": "\"16c1815-664f9b-5724e61a879c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-07-17_Planning-Commission-July-17-2018-Special-Meeting-Minutes--d499855d403f.pdf",
+  "versions": [
+    {
+      "sha256": "d499855d403f2d7f65d1dec0f999991380d382baf935db2f8246e94faf24b1b8",
+      "bytes": 6705051,
+      "retrieved_utc": "2026-11-24T15:08:53+00:00",
+      "http_last_modified": "Tue, 31 Jul 2018 16:50:55 GMT"
+    }
+  ]
+}

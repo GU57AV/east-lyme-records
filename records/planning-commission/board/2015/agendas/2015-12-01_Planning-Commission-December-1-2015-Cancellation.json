@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning December 1, 2015 Cancellation (pdf)",
+  "filename": "Planning-Commission-December-1-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/Planning-Commission-December-1-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-24T15:44:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1e82e05683c22fd21c10a6aa5e36b6db03716958925eb7685bc16c76c18c1e1f",
+  "bytes": 28029,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Nov 2015 19:37:58 GMT",
+  "etag": "\"16633d3-6d7d-524ad8bdcd180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-12-01_Planning-Commission-December-1-2015-Cancellation--1e82e05683c2.pdf",
+  "versions": [
+    {
+      "sha256": "1e82e05683c22fd21c10a6aa5e36b6db03716958925eb7685bc16c76c18c1e1f",
+      "bytes": 28029,
+      "retrieved_utc": "2026-11-24T15:44:19+00:00",
+      "http_last_modified": "Mon, 16 Nov 2015 19:37:58 GMT"
+    }
+  ]
+}

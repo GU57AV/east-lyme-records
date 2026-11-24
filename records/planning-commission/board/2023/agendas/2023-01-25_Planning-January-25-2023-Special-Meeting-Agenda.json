@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 25 2023 Special Meeting Agenda (pdf)",
+  "filename": "Planning-January-25-2023-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Planning-January-25-2023-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T14:14:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd6aabb4626ca434b1b1bb18e81f4c2c237defd0c7aee5dd45c691b9b239f0a6",
+  "bytes": 89674,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jan 2023 18:54:27 GMT",
+  "etag": "\"16c2473-15e4a-5f2018792fec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-01-25_Planning-January-25-2023-Special-Meeting-Agenda--bd6aabb4626c.pdf",
+  "versions": [
+    {
+      "sha256": "bd6aabb4626ca434b1b1bb18e81f4c2c237defd0c7aee5dd45c691b9b239f0a6",
+      "bytes": 89674,
+      "retrieved_utc": "2026-11-24T14:14:33+00:00",
+      "http_last_modified": "Wed, 11 Jan 2023 18:54:27 GMT"
+    }
+  ]
+}

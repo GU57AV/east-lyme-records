@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Planning August 12 2014 Special Minutes (pdf)",
+  "filename": "plan-spe-8.12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/plan-spe-8.12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:23:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "58fe21089028744e25feaed8e9eab15bbb7f3c66b032729cd4399f7696f0ea87",
+  "bytes": 1775167,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Aug 2014 13:39:20 GMT",
+  "etag": "\"16634f4-1b163f-500fb9d55f200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2014/2014-08-12_plan-spe-8.12--58fe21089028.pdf",
+  "versions": [
+    {
+      "sha256": "58fe21089028744e25feaed8e9eab15bbb7f3c66b032729cd4399f7696f0ea87",
+      "bytes": 1775167,
+      "retrieved_utc": "2026-11-24T16:23:44+00:00",
+      "http_last_modified": "Tue, 19 Aug 2014 13:39:20 GMT"
+    }
+  ]
+}

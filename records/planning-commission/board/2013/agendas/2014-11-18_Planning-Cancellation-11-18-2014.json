@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning Cancellation 11-18-2014 (pdf)",
+  "filename": "Planning-Cancellation-11-18-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Cancellation-11-18-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:11:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1c0ee136359c5b1e3ce828b0bee7823f94ca7ca4c269f4748b891715b5e4e698",
+  "bytes": 28261,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:28 GMT",
+  "etag": "\"1664106-6e65-52082bf20fa00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-11-18_Planning-Cancellation-11-18-2014--1c0ee136359c.pdf",
+  "versions": [
+    {
+      "sha256": "1c0ee136359c5b1e3ce828b0bee7823f94ca7ca4c269f4748b891715b5e4e698",
+      "bytes": 28261,
+      "retrieved_utc": "2026-11-24T16:11:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:28 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 8 2025 Amended Agenda (pdf)",
+  "filename": "Planning-Commission-July-8-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/Planning-Commission-July-8-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-24T13:50:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bf8f368f8400ab6c894bccb4bad61c533a1f890ac67cda6bf047bcaaa8fa8ac8",
+  "bytes": 84146,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Jul 2025 20:47:19 GMT",
+  "etag": "\"16c02ec-148b2-6390c7bc283c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-07-08_Planning-Commission-July-8-2025-Amended-Agenda--bf8f368f8400.pdf",
+  "versions": [
+    {
+      "sha256": "bf8f368f8400ab6c894bccb4bad61c533a1f890ac67cda6bf047bcaaa8fa8ac8",
+      "bytes": 84146,
+      "retrieved_utc": "2026-11-24T13:50:49+00:00",
+      "http_last_modified": "Thu, 03 Jul 2025 20:47:19 GMT"
+    }
+  ]
+}

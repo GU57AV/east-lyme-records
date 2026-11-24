@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 12 2023 Agenda (pdf)",
+  "filename": "Planning-Commission-December-12-2023-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/Planning-Commission-December-12-2023-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-24T14:08:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9fa570340d6312dd7f108c26c70bf54795cdcf3ed512a6164db4cf34529d2a3",
+  "bytes": 89639,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Dec 2023 14:27:43 GMT",
+  "etag": "\"16c227a-15e27-60c00632275c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-12-12_Planning-Commission-December-12-2023-Agenda-1--d9fa570340d6.pdf",
+  "versions": [
+    {
+      "sha256": "d9fa570340d6312dd7f108c26c70bf54795cdcf3ed512a6164db4cf34529d2a3",
+      "bytes": 89639,
+      "retrieved_utc": "2026-11-24T14:08:31+00:00",
+      "http_last_modified": "Fri, 08 Dec 2023 14:27:43 GMT"
+    }
+  ]
+}

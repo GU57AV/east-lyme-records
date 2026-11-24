@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Jan 4 2011 Public Hearing I (pdf)",
+  "filename": "PC-PH-1-January-4-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-PH-1-January-4-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T17:07:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4bcd545bdb9b83acbf28756a69e9dd81e9fd08cbd209afc12ae0ea6273d72e00",
+  "bytes": 311526,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Sep 2014 17:19:26 GMT",
+  "etag": "\"1663a9a-4c0e6-502185240c380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-01-04_PC-PH-1-January-4-2011--4bcd545bdb9b.pdf",
+  "versions": [
+    {
+      "sha256": "4bcd545bdb9b83acbf28756a69e9dd81e9fd08cbd209afc12ae0ea6273d72e00",
+      "bytes": 311526,
+      "retrieved_utc": "2026-11-24T17:07:48+00:00",
+      "http_last_modified": "Tue, 02 Sep 2014 17:19:26 GMT"
+    }
+  ]
+}

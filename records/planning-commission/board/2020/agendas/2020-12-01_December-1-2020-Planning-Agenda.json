@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 1 2020 Agenda (pdf)",
+  "filename": "December-1-2020-Planning-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/December-1-2020-Planning-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-24T14:38:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d993de04ec7b3ec775c3d542f7cbc08d574830f1c71686d00d37391aa6170271",
+  "bytes": 168512,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 Nov 2020 20:31:46 GMT",
+  "etag": "\"166189c-29240-5b4cc1539f080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-12-01_December-1-2020-Planning-Agenda--d993de04ec7b.pdf",
+  "versions": [
+    {
+      "sha256": "d993de04ec7b3ec775c3d542f7cbc08d574830f1c71686d00d37391aa6170271",
+      "bytes": 168512,
+      "retrieved_utc": "2026-11-24T14:38:36+00:00",
+      "http_last_modified": "Mon, 23 Nov 2020 20:31:46 GMT"
+    }
+  ]
+}

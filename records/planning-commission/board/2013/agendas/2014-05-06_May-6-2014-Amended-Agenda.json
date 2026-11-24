@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning May 6 2014 Amended Agenda (pdf)",
+  "filename": "May-6-2014-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/May-6-2014-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-24T16:16:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "738096fd2fc3a3ac525315e7fe192387e4e8265761a0849e58bb213f498cd726",
+  "bytes": 81570,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:09:20 GMT",
+  "etag": "\"166312d-13ea2-52082214bb400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-05-06_May-6-2014-Amended-Agenda--738096fd2fc3.pdf",
+  "versions": [
+    {
+      "sha256": "738096fd2fc3a3ac525315e7fe192387e4e8265761a0849e58bb213f498cd726",
+      "bytes": 81570,
+      "retrieved_utc": "2026-11-24T16:16:05+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:09:20 GMT"
+    }
+  ]
+}

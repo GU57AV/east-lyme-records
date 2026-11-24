@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 11 2017 Agenda (pdf)",
+  "filename": "Planning-Commission-July-11-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-July-11-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:18:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7239bf265d16267def4afdca8cbceaf61fd6188026016a86a77c5ad3a2295ade",
+  "bytes": 143035,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Jul 2017 18:50:44 GMT",
+  "etag": "\"1662b3e-22ebb-553aa980ba900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-07-11_Planning-Commission-July-11-2017-Agenda--7239bf265d16.pdf",
+  "versions": [
+    {
+      "sha256": "7239bf265d16267def4afdca8cbceaf61fd6188026016a86a77c5ad3a2295ade",
+      "bytes": 143035,
+      "retrieved_utc": "2026-11-24T15:18:59+00:00",
+      "http_last_modified": "Thu, 06 Jul 2017 18:50:44 GMT"
+    }
+  ]
+}

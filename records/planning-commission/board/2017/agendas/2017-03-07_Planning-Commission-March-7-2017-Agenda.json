@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 7 2017 Agenda (pdf)",
+  "filename": "Planning-Commission-March-7-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-March-7-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:20:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c9f933d142cfdbf47b57a5ab60b4fc0188feaebe2a97e8919b2ac00a9c568899",
+  "bytes": 106410,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Mar 2017 18:58:30 GMT",
+  "etag": "\"1662e96-19faa-549c403d10180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-03-07_Planning-Commission-March-7-2017-Agenda--c9f933d142cf.pdf",
+  "versions": [
+    {
+      "sha256": "c9f933d142cfdbf47b57a5ab60b4fc0188feaebe2a97e8919b2ac00a9c568899",
+      "bytes": 106410,
+      "retrieved_utc": "2026-11-24T15:20:19+00:00",
+      "http_last_modified": "Thu, 02 Mar 2017 18:58:30 GMT"
+    }
+  ]
+}

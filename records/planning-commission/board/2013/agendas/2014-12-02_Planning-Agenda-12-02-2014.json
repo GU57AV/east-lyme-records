@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning Agenda 12-02-2014 (pdf)",
+  "filename": "Planning-Agenda-12-02-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Agenda-12-02-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:11:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "64011078614743556b17de26e4e380aa6e0f5e7a2b598649f90263658cabf67c",
+  "bytes": 110988,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:14 GMT",
+  "etag": "\"1664061-1b18c-52082be4b5a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-12-02_Planning-Agenda-12-02-2014--640110786147.pdf",
+  "versions": [
+    {
+      "sha256": "64011078614743556b17de26e4e380aa6e0f5e7a2b598649f90263658cabf67c",
+      "bytes": 110988,
+      "retrieved_utc": "2026-11-24T16:11:05+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:14 GMT"
+    }
+  ]
+}

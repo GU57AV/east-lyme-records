@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning August 12 2014 Special Meeting Amended Agenda (pdf)",
+  "filename": "Plann-8.12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Plann-8.12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:14:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9ffde9d71df8c0e82ac67d9dc7c53d142bc4295f9ab61f6032867f7a84a409a8",
+  "bytes": 91255,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Aug 2014 15:48:20 GMT",
+  "etag": "\"1663521-16477-4fff7e6bd1900\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-08-12_Plann-8.12--9ffde9d71df8.pdf",
+  "versions": [
+    {
+      "sha256": "9ffde9d71df8c0e82ac67d9dc7c53d142bc4295f9ab61f6032867f7a84a409a8",
+      "bytes": 91255,
+      "retrieved_utc": "2026-11-24T16:14:05+00:00",
+      "http_last_modified": "Wed, 06 Aug 2014 15:48:20 GMT"
+    }
+  ]
+}

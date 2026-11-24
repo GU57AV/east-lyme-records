@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning August 4 2015 Amended Agenda (pdf)",
+  "filename": "Planning-Commission-August-4-2015-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-August-4-2015-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:47:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "295882d3d99778008bdf70e22d260b2c367fc1fb3b270789cec959a87f27dc15",
+  "bytes": 98372,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT",
+  "etag": "\"1663d9c-18044-52082bf303c40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-08-04_Planning-Commission-August-4-2015-Amended-Agenda--295882d3d997.pdf",
+  "versions": [
+    {
+      "sha256": "295882d3d99778008bdf70e22d260b2c367fc1fb3b270789cec959a87f27dc15",
+      "bytes": 98372,
+      "retrieved_utc": "2026-11-24T15:47:39+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT"
+    }
+  ]
+}

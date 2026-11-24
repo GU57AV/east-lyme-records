@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission June 14 2022 Agenda (pdf)",
+  "filename": "Planning-June-14-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Planning-June-14-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-24T14:22:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b784a13b53e29e2b578a78f5b329fba7a22fabee14bb68ebb53ad96310c1052c",
+  "bytes": 104907,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Jun 2022 12:23:51 GMT",
+  "etag": "\"16a0f57-199cb-5e0eec71da3c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-06-14_Planning-June-14-2022-Agenda--b784a13b53e2.pdf",
+  "versions": [
+    {
+      "sha256": "b784a13b53e29e2b578a78f5b329fba7a22fabee14bb68ebb53ad96310c1052c",
+      "bytes": 104907,
+      "retrieved_utc": "2026-11-24T14:22:54+00:00",
+      "http_last_modified": "Wed, 08 Jun 2022 12:23:51 GMT"
+    }
+  ]
+}

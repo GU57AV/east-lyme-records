@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission November 10 2026 Amended Agenda (pdf)",
+  "filename": "Planning-Commission-November-10-2026-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Planning-Commission-November-10-2026-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-24T13:35:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a09e9721352929c4197af6493916bb813c16d6bec87b75cf31b61145aa3cac9b",
+  "bytes": 93540,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Nov 2026 20:32:40 GMT",
+  "etag": "\"17c002d-16d64-65fdddd027dcc\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-11-10_Planning-Commission-November-10-2026-Amended-Agenda--a09e97213529.pdf",
+  "versions": [
+    {
+      "sha256": "a09e9721352929c4197af6493916bb813c16d6bec87b75cf31b61145aa3cac9b",
+      "bytes": 93540,
+      "retrieved_utc": "2026-11-24T13:35:06+00:00",
+      "http_last_modified": "Mon, 09 Nov 2026 20:32:40 GMT"
+    }
+  ]
+}

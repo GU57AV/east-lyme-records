@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning February 3 2015 Minutes (pdf)",
+  "filename": "Planning-February-3-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-February-3-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:09:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6dfe519040e8c18509051332938194e4794592458e0f3684ddba996bea8505a5",
+  "bytes": 719235,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:39 GMT",
+  "etag": "\"1663888-af983-52082bfc8d2c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-02-03_Planning-February-3-2015-Minutes--6dfe519040e8.pdf",
+  "versions": [
+    {
+      "sha256": "6dfe519040e8c18509051332938194e4794592458e0f3684ddba996bea8505a5",
+      "bytes": 719235,
+      "retrieved_utc": "2026-11-24T16:09:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:39 GMT"
+    }
+  ]
+}

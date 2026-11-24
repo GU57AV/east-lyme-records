@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Planning Commission February 5 2019 Minutes (pdf)",
+  "filename": "Planning-Commission-February-5-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/Planning-Commission-February-5-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2019-minutes/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-24T14:57:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3f94e98e2b08e1f6e7e289b013de474608e7568fae037981c91fb4fa3712cf9",
+  "bytes": 288228,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Feb 2019 20:10:46 GMT",
+  "etag": "\"16c1eac-465e4-5813f5239dd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-02-05_Planning-Commission-February-5-2019-Minutes--a3f94e98e2b0.pdf",
+  "versions": [
+    {
+      "sha256": "a3f94e98e2b08e1f6e7e289b013de474608e7568fae037981c91fb4fa3712cf9",
+      "bytes": 288228,
+      "retrieved_utc": "2026-11-24T14:57:39+00:00",
+      "http_last_modified": "Wed, 06 Feb 2019 20:10:46 GMT"
+    }
+  ]
+}

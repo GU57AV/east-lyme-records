@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning April 3, 2012 Agenda (pdf)",
+  "filename": "PC-Regular-Agenda-April-3-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Regular-Agenda-April-3-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:44:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f8adfb9201f602398ba34e150fa1fc3a5e56d3b886bc908ba96563da534c0e85",
+  "bytes": 75531,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:25 GMT",
+  "etag": "\"1663ff0-1270b-52082bb5fac40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-04-03_PC-Regular-Agenda-April-3-2012--f8adfb9201f6.pdf",
+  "versions": [
+    {
+      "sha256": "f8adfb9201f602398ba34e150fa1fc3a5e56d3b886bc908ba96563da534c0e85",
+      "bytes": 75531,
+      "retrieved_utc": "2026-11-24T16:44:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:25 GMT"
+    }
+  ]
+}

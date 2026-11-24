@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission February 4 2020 Cancellation (pdf)",
+  "filename": "Planning-Commission-February-4-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Planning-Commission-February-4-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-24T14:42:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "87926adfa02b789019532ded873517e2e1b125ce8d05e92a0be63d392e66d07a",
+  "bytes": 33504,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Jan 2020 20:07:55 GMT",
+  "etag": "\"166170b-82e0-59d7521103cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-02-04_Planning-Commission-February-4-2020-Cancellation--87926adfa02b.pdf",
+  "versions": [
+    {
+      "sha256": "87926adfa02b789019532ded873517e2e1b125ce8d05e92a0be63d392e66d07a",
+      "bytes": 33504,
+      "retrieved_utc": "2026-11-24T14:42:57+00:00",
+      "http_last_modified": "Fri, 31 Jan 2020 20:07:55 GMT"
+    }
+  ]
+}

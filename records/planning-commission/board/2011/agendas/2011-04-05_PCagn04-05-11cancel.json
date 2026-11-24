@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Apr 5 2011 Cancellation (pdf)",
+  "filename": "PCagn04-05-11cancel.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCagn04-05-11cancel.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:57:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c131cd7077bbfd26af80bb29f8de7d4de38488d547a8fa7a0cf19a7f5f36aeda",
+  "bytes": 29367,
+  "pages": 0,
+  "http_last_modified": "Fri, 29 Aug 2014 18:51:40 GMT",
+  "etag": "\"16634d3-72b7-501c924bd6700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-04-05_PCagn04-05-11cancel--c131cd7077bb.pdf",
+  "versions": [
+    {
+      "sha256": "c131cd7077bbfd26af80bb29f8de7d4de38488d547a8fa7a0cf19a7f5f36aeda",
+      "bytes": 29367,
+      "retrieved_utc": "2026-11-24T16:57:26+00:00",
+      "http_last_modified": "Fri, 29 Aug 2014 18:51:40 GMT"
+    }
+  ]
+}

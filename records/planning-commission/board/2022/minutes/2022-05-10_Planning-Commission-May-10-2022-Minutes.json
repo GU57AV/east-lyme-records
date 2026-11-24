@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 10 2022 Minutes (pdf)",
+  "filename": "Planning-Commission-May-10-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/Planning-Commission-May-10-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-minutes/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-24T14:27:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8e10e9cb1f86793d02db39e1ff404e91a4fe232d7e827c06056ad7e91f96cbe9",
+  "bytes": 157213,
+  "pages": 0,
+  "http_last_modified": "Wed, 18 May 2022 17:36:14 GMT",
+  "etag": "\"16a0b03-2661d-5df4cb19e3f80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-05-10_Planning-Commission-May-10-2022-Minutes--8e10e9cb1f86.pdf",
+  "versions": [
+    {
+      "sha256": "8e10e9cb1f86793d02db39e1ff404e91a4fe232d7e827c06056ad7e91f96cbe9",
+      "bytes": 157213,
+      "retrieved_utc": "2026-11-24T14:27:55+00:00",
+      "http_last_modified": "Wed, 18 May 2022 17:36:14 GMT"
+    }
+  ]
+}

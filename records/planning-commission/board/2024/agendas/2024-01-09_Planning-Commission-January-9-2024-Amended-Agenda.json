@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 9 2024 Amended Agenda (pdf)",
+  "filename": "Planning-Commission-January-9-2024-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Planning-Commission-January-9-2024-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-24T14:03:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "de3082305ba4ffac087d888ccc7330f1b5ce9c21386ae724da76d2d2280c64c0",
+  "bytes": 77752,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Jan 2024 13:22:02 GMT",
+  "etag": "\"16806b7-12fb8-60e32bbca1280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-01-09_Planning-Commission-January-9-2024-Amended-Agenda--de3082305ba4.pdf",
+  "versions": [
+    {
+      "sha256": "de3082305ba4ffac087d888ccc7330f1b5ce9c21386ae724da76d2d2280c64c0",
+      "bytes": 77752,
+      "retrieved_utc": "2026-11-24T14:03:31+00:00",
+      "http_last_modified": "Fri, 05 Jan 2024 13:22:02 GMT"
+    }
+  ]
+}

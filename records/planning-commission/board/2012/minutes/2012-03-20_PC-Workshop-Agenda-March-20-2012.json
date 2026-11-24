@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning March 20, 2012 Agenda (pdf)",
+  "filename": "PC-Workshop-Agenda-March-20-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Workshop-Agenda-March-20-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:44:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7267ab8ba3103c905e4d6afd37a6986626e0c430258f9661f78865d754718968",
+  "bytes": 55093,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:48 GMT",
+  "etag": "\"16640a5-d735-52082bcbea000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-03-20_PC-Workshop-Agenda-March-20-2012--7267ab8ba310.pdf",
+  "versions": [
+    {
+      "sha256": "7267ab8ba3103c905e4d6afd37a6986626e0c430258f9661f78865d754718968",
+      "bytes": 55093,
+      "retrieved_utc": "2026-11-24T16:44:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:48 GMT"
+    }
+  ]
+}

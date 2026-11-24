@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Planning Commission October 1 2019 Minutes (pdf)",
+  "filename": "Planning-Commission-October-1-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Planning-Commission-October-1-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2019-minutes/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-24T14:54:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4c97f4280391df3b90cc2f77538787135b5656db7f91d34254742d9e8defc4de",
+  "bytes": 127797,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Oct 2019 12:56:56 GMT",
+  "etag": "\"16c1fe5-1f335-594153ca19600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-10-01_Planning-Commission-October-1-2019-Minutes--4c97f4280391.pdf",
+  "versions": [
+    {
+      "sha256": "4c97f4280391df3b90cc2f77538787135b5656db7f91d34254742d9e8defc4de",
+      "bytes": 127797,
+      "retrieved_utc": "2026-11-24T14:54:39+00:00",
+      "http_last_modified": "Fri, 04 Oct 2019 12:56:56 GMT"
+    }
+  ]
+}

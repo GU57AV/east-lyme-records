@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 2 2016 Agenda (pdf)",
+  "filename": "Planning-Commission-August-2-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-August-2-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:30:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9206c2c6e2220dff670fe3e95cf960091a64460aaa8d1d2f0500f1c3b48763a5",
+  "bytes": 123723,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Jul 2016 19:04:48 GMT",
+  "etag": "\"16e036b-1e34b-5387a75425400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-08-02_Planning-Commission-August-2-2016-Agenda--9206c2c6e222.pdf",
+  "versions": [
+    {
+      "sha256": "9206c2c6e2220dff670fe3e95cf960091a64460aaa8d1d2f0500f1c3b48763a5",
+      "bytes": 123723,
+      "retrieved_utc": "2026-11-24T15:30:22+00:00",
+      "http_last_modified": "Mon, 25 Jul 2016 19:04:48 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 14 2026 Minutes (pdf)",
+  "filename": "Planning-Commission-July-14-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Planning-Commission-July-14-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-24T13:44:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1d8533d93d7dd7da143abb669b784a8007e117227f30bd1de9338746fd1c25d6",
+  "bytes": 287410,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Nov 2026 20:30:45 GMT",
+  "etag": "\"17c002c-462b2-65fddd6272429\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-07-14_Planning-Commission-July-14-2026-Minutes--1d8533d93d7d.pdf",
+  "versions": [
+    {
+      "sha256": "1d8533d93d7dd7da143abb669b784a8007e117227f30bd1de9338746fd1c25d6",
+      "bytes": 287410,
+      "retrieved_utc": "2026-11-24T13:44:28+00:00",
+      "http_last_modified": "Mon, 09 Nov 2026 20:30:45 GMT"
+    }
+  ]
+}

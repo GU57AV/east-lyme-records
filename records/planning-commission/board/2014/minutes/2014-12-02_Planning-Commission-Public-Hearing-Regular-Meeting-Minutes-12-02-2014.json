@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Planning December 2 2014 Public Hearing & Regular Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-Public-Hearing-Regular-Meeting-Minutes-12-02-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-Public-Hearing-Regular-Meeting-Minutes-12-02-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:20:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3ddfbadc1242e8ab6c6bbca71b96ee57880338da16d0e4adc15c27e44ef87838",
+  "bytes": 2100498,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Dec 2014 13:44:10 GMT",
+  "etag": "\"1663d1e-200d12-509c8bcd8fe80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2014/2014-12-02_Planning-Commission-Public-Hearing-Regular-Meeting-Minutes-12-02-2014--3ddfbadc1242.pdf",
+  "versions": [
+    {
+      "sha256": "3ddfbadc1242e8ab6c6bbca71b96ee57880338da16d0e4adc15c27e44ef87838",
+      "bytes": 2100498,
+      "retrieved_utc": "2026-11-24T16:20:39+00:00",
+      "http_last_modified": "Tue, 09 Dec 2014 13:44:10 GMT"
+    }
+  ]
+}

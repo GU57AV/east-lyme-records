@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission October 8 2024 Agenda (pdf)",
+  "filename": "Planning-Commission-October-8-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Planning-Commission-October-8-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-24T13:59:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5984d2d79714841f5a43f4aedd034b9fa4fe8ab4fcea31e892e622d4883e17c3",
+  "bytes": 78656,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Oct 2024 20:08:38 GMT",
+  "etag": "\"1680995-13340-623981ebd7d80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-10-08_Planning-Commission-October-8-2024-Agenda--5984d2d79714.pdf",
+  "versions": [
+    {
+      "sha256": "5984d2d79714841f5a43f4aedd034b9fa4fe8ab4fcea31e892e622d4883e17c3",
+      "bytes": 78656,
+      "retrieved_utc": "2026-11-24T13:59:50+00:00",
+      "http_last_modified": "Thu, 03 Oct 2024 20:08:38 GMT"
+    }
+  ]
+}

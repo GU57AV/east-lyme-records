@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 12 2016 Agenda (pdf)",
+  "filename": "Planning-Commission-January-12-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-January-12-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:34:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "370fb5c0e1e03c737cef70895617b1501579f7060134688fc28b50a104117554",
+  "bytes": 126627,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Jan 2016 13:56:26 GMT",
+  "etag": "\"16e0374-1eea3-528969a827680\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-01-12_Planning-Commission-January-12-2016-Agenda--370fb5c0e1e0.pdf",
+  "versions": [
+    {
+      "sha256": "370fb5c0e1e03c737cef70895617b1501579f7060134688fc28b50a104117554",
+      "bytes": 126627,
+      "retrieved_utc": "2026-11-24T15:34:42+00:00",
+      "http_last_modified": "Tue, 05 Jan 2016 13:56:26 GMT"
+    }
+  ]
+}

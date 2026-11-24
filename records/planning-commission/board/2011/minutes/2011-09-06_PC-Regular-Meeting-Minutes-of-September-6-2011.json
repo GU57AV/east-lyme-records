@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning Sept 6, 2011 Minutes (pdf)",
+  "filename": "PC-Regular-Meeting-Minutes-of-September-6-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Regular-Meeting-Minutes-of-September-6-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T17:02:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c3353f51dadf13113100fb3f1d42e853cdf87b03a81ad3aee13284fbbaf11a00",
+  "bytes": 202193,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:44 GMT",
+  "etag": "\"16614ec-315d1-52082bc819700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-09-06_PC-Regular-Meeting-Minutes-of-September-6-2011--c3353f51dadf.pdf",
+  "versions": [
+    {
+      "sha256": "c3353f51dadf13113100fb3f1d42e853cdf87b03a81ad3aee13284fbbaf11a00",
+      "bytes": 202193,
+      "retrieved_utc": "2026-11-24T17:02:27+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:44 GMT"
+    }
+  ]
+}

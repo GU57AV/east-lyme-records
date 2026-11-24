@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 8 2022 Agenda (pdf)",
+  "filename": "Planning-Commission-March-8-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Planning-Commission-March-8-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-24T14:24:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1812104522358b5194fd96994c90117ebe5ad2fea3f79d74f4c401a3155bfda0",
+  "bytes": 60084,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Mar 2022 19:53:57 GMT",
+  "etag": "\"16a0abc-eab4-5d92d86825f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-03-08_Planning-Commission-March-8-2022-Agenda--181210452235.pdf",
+  "versions": [
+    {
+      "sha256": "1812104522358b5194fd96994c90117ebe5ad2fea3f79d74f4c401a3155bfda0",
+      "bytes": 60084,
+      "retrieved_utc": "2026-11-24T14:24:14+00:00",
+      "http_last_modified": "Tue, 01 Mar 2022 19:53:57 GMT"
+    }
+  ]
+}

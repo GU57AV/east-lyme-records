@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning July 26 2011 Special Meeting Minutes (pdf)",
+  "filename": "PCmins07-26-11spcl.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCmins07-26-11spcl.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T17:03:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d5f918a92682f59953e293e9b06d6d0f3cd9a63496485702082fea18ae23d821",
+  "bytes": 83180,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Sep 2014 16:52:52 GMT",
+  "etag": "\"1663990-144ec-50217f33e4100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-07-26_PCmins07-26-11spcl--d5f918a92682.pdf",
+  "versions": [
+    {
+      "sha256": "d5f918a92682f59953e293e9b06d6d0f3cd9a63496485702082fea18ae23d821",
+      "bytes": 83180,
+      "retrieved_utc": "2026-11-24T17:03:47+00:00",
+      "http_last_modified": "Tue, 02 Sep 2014 16:52:52 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 8 2026 Cancellation (pdf)",
+  "filename": "Planning-Commission-September-8-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Planning-Commission-September-8-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-24T13:37:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c83970cca4dc30fc61030e4ed9284d9ddd4a274aeb1118fd7efd3ffc62d10ed",
+  "bytes": 36258,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Sep 2026 20:40:42 GMT",
+  "etag": "\"16e0f3f-8da2-65afebf92ebb6\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-09-08_Planning-Commission-September-8-2026-Cancellation--5c83970cca4d.pdf",
+  "versions": [
+    {
+      "sha256": "5c83970cca4dc30fc61030e4ed9284d9ddd4a274aeb1118fd7efd3ffc62d10ed",
+      "bytes": 36258,
+      "retrieved_utc": "2026-11-24T13:37:07+00:00",
+      "http_last_modified": "Tue, 08 Sep 2026 20:40:42 GMT"
+    }
+  ]
+}

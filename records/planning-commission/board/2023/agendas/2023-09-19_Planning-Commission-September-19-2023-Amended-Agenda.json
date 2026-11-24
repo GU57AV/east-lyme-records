@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 19 2023 Amended Agenda (pdf)",
+  "filename": "Planning-Commission-September-19-2023-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/Planning-Commission-September-19-2023-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-24T14:09:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b45d2a9efc9d509929a50cccfedc18d95634939504b2021bea403e19773314e5",
+  "bytes": 66940,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Sep 2023 13:50:04 GMT",
+  "etag": "\"16e018e-1057c-60551f3f9fb00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-09-19_Planning-Commission-September-19-2023-Amended-Agenda--b45d2a9efc9d.pdf",
+  "versions": [
+    {
+      "sha256": "b45d2a9efc9d509929a50cccfedc18d95634939504b2021bea403e19773314e5",
+      "bytes": 66940,
+      "retrieved_utc": "2026-11-24T14:09:52+00:00",
+      "http_last_modified": "Thu, 14 Sep 2023 13:50:04 GMT"
+    }
+  ]
+}

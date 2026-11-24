@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Planning May 3 2011 Minutes (pdf)",
+  "filename": "PCmins05-03-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PCmins05-03-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T17:04:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f750e414e3670a4fa3f5f91dac8ed9ace8faabfa5c29f856a0492c831fb0e5a5",
+  "bytes": 216543,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Sep 2014 16:52:46 GMT",
+  "etag": "\"1663af4-34ddf-50217f2e2b380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2011/2011-05-03_PCmins05-03-11--f750e414e367.pdf",
+  "versions": [
+    {
+      "sha256": "f750e414e3670a4fa3f5f91dac8ed9ace8faabfa5c29f856a0492c831fb0e5a5",
+      "bytes": 216543,
+      "retrieved_utc": "2026-11-24T17:04:47+00:00",
+      "http_last_modified": "Tue, 02 Sep 2014 16:52:46 GMT"
+    }
+  ]
+}

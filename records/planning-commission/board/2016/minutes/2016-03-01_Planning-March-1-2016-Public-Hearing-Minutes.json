@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 1 2016 Public Hearing Minutes (pdf)",
+  "filename": "Planning-March-1-2016-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-March-1-2016-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:41:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "16f9d261ddf85d82690c84764839051f40d4199dd62b78802f7ddf539d342d2d",
+  "bytes": 698865,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Mar 2016 16:55:41 GMT",
+  "etag": "\"16e073f-aa9f1-52d3bfc31dd40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-03-01_Planning-March-1-2016-Public-Hearing-Minutes--16f9d261ddf8.pdf",
+  "versions": [
+    {
+      "sha256": "16f9d261ddf85d82690c84764839051f40d4199dd62b78802f7ddf539d342d2d",
+      "bytes": 698865,
+      "retrieved_utc": "2026-11-24T15:41:16+00:00",
+      "http_last_modified": "Fri, 04 Mar 2016 16:55:41 GMT"
+    }
+  ]
+}

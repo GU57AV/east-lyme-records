@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission March 6 2018 Agenda (pdf)",
+  "filename": "Planning-Commission-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/Planning-Commission-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-24T15:04:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f03f1a10bf2a4c01ae836d6ca30e066d1f03f21da7aa839e04574f33473e9427",
+  "bytes": 108746,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Mar 2018 16:50:06 GMT",
+  "etag": "\"16c0935-1a8ca-5665ca6dbcb80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-03-06_Planning-Commission-Regular-Meeting-Minutes--f03f1a10bf2a.pdf",
+  "versions": [
+    {
+      "sha256": "f03f1a10bf2a4c01ae836d6ca30e066d1f03f21da7aa839e04574f33473e9427",
+      "bytes": 108746,
+      "retrieved_utc": "2026-11-24T15:04:40+00:00",
+      "http_last_modified": "Thu, 01 Mar 2018 16:50:06 GMT"
+    }
+  ]
+}

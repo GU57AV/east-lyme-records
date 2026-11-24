@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 8 2025 Minutes (pdf)",
+  "filename": "Planning-Commission-July-8-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/Planning-Commission-July-8-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-minutes/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-24T13:56:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c320ecd859d854abe13d826edb86d3aeb9d54386c9a7267b8417498a7449f9e2",
+  "bytes": 209965,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Jul 2025 15:24:46 GMT",
+  "etag": "\"16c0385-3342d-639f96053ab80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-07-08_Planning-Commission-July-8-2025-Minutes--c320ecd859d8.pdf",
+  "versions": [
+    {
+      "sha256": "c320ecd859d854abe13d826edb86d3aeb9d54386c9a7267b8417498a7449f9e2",
+      "bytes": 209965,
+      "retrieved_utc": "2026-11-24T13:56:09+00:00",
+      "http_last_modified": "Tue, 15 Jul 2025 15:24:46 GMT"
+    }
+  ]
+}

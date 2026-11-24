@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning Sept 3 2013 (pdf)",
+  "filename": "PC-Regular-Meeting-Minutes-of-September-3-20131.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Regular-Meeting-Minutes-of-September-3-20131.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:35:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "35c0b865a4f7bb714ceba24c9299ae0fd4a308b0bc1f20dbadd60ac08ae67b7f",
+  "bytes": 317696,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:44 GMT",
+  "etag": "\"1663b7c-4d900-52082bc819700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2013-09-03_PC-Regular-Meeting-Minutes-of-September-3-20131--35c0b865a4f7.pdf",
+  "versions": [
+    {
+      "sha256": "35c0b865a4f7bb714ceba24c9299ae0fd4a308b0bc1f20dbadd60ac08ae67b7f",
+      "bytes": 317696,
+      "retrieved_utc": "2026-11-24T16:35:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:44 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning June 5 2012 Minutes (pdf)",
+  "filename": "PC-Regular-Meeting-Minutes-June-5-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Regular-Meeting-Minutes-June-5-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:49:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a0eb835923e167b2714e16d31a3278c8ff1916e39273ffb800c4a6cbe828b634",
+  "bytes": 523676,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:52:29 GMT",
+  "etag": "\"1663af2-7fd9c-52082bb9cb540\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-06-05_PC-Regular-Meeting-Minutes-June-5-2012--a0eb835923e1.pdf",
+  "versions": [
+    {
+      "sha256": "a0eb835923e167b2714e16d31a3278c8ff1916e39273ffb800c4a6cbe828b634",
+      "bytes": 523676,
+      "retrieved_utc": "2026-11-24T16:49:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:52:29 GMT"
+    }
+  ]
+}

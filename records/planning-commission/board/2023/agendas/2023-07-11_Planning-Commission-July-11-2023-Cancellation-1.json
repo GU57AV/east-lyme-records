@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Planning Commission July 11 2023 Cancellation (pdf)",
+  "filename": "Planning-Commission-July-11-2023-Cancellation-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/Planning-Commission-July-11-2023-Cancellation-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-24T14:11:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9e5698dc509f516386a7a9278cca5836de5e86fbfd171ac62e0cd3ddc1f7af06",
+  "bytes": 97793,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Jul 2023 20:28:22 GMT",
+  "etag": "\"16e030c-17e01-6003bf0b92580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2023-07-11_Planning-Commission-July-11-2023-Cancellation-1--9e5698dc509f.pdf",
+  "versions": [
+    {
+      "sha256": "9e5698dc509f516386a7a9278cca5836de5e86fbfd171ac62e0cd3ddc1f7af06",
+      "bytes": 97793,
+      "retrieved_utc": "2026-11-24T14:11:32+00:00",
+      "http_last_modified": "Tue, 11 Jul 2023 20:28:22 GMT"
+    }
+  ]
+}

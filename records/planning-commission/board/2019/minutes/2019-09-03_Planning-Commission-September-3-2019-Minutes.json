@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 3 2019 Minutes (pdf)",
+  "filename": "Planning-Commission-September-3-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/09/Planning-Commission-September-3-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2019-minutes/",
+  "upload_folder": "2019-09",
+  "first_seen_utc": "2026-11-24T14:54:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e1307821f8a365d6e44f9d70c219a69d25cc39f8e68bd599b1a7ed55c901163e",
+  "bytes": 174107,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Sep 2019 19:25:55 GMT",
+  "etag": "\"16c1f6d-2a81b-591bf2c8136c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-09-03_Planning-Commission-September-3-2019-Minutes--e1307821f8a3.pdf",
+  "versions": [
+    {
+      "sha256": "e1307821f8a365d6e44f9d70c219a69d25cc39f8e68bd599b1a7ed55c901163e",
+      "bytes": 174107,
+      "retrieved_utc": "2026-11-24T14:54:59+00:00",
+      "http_last_modified": "Wed, 04 Sep 2019 19:25:55 GMT"
+    }
+  ]
+}

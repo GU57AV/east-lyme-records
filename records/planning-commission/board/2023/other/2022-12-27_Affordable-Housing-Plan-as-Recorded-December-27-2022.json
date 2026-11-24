@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Affordable Housing Plan as Recorded December 27 2022",
+  "filename": "Affordable-Housing-Plan-as-Recorded-December-27-2022.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/Affordable-Housing-Plan-as-Recorded-December-27-2022.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-24T13:34:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1c7b8a2230d0f16386c2b3f5c4ea40cb4f1e9e12e7f6313c11af0bee54cb5d6",
+  "bytes": 9346386,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 May 2023 19:46:49 GMT",
+  "etag": "\"16c23a8-8e9d52-5fbd4d503fc40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2023/2022-12-27_Affordable-Housing-Plan-as-Recorded-December-27-2022--b1c7b8a2230d.pdf",
+  "versions": [
+    {
+      "sha256": "b1c7b8a2230d0f16386c2b3f5c4ea40cb4f1e9e12e7f6313c11af0bee54cb5d6",
+      "bytes": 9346386,
+      "retrieved_utc": "2026-11-24T13:34:26+00:00",
+      "http_last_modified": "Tue, 16 May 2023 19:46:49 GMT"
+    }
+  ]
+}

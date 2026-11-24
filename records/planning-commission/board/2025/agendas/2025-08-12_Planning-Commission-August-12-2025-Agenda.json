@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission August 12 2025 Agenda (pdf)",
+  "filename": "Planning-Commission-August-12-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/Planning-Commission-August-12-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-24T13:50:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b21b37b7b9311a807d256bf7bf154f9cdf9fdd63ba2d7d8bb50eac57c3d2f033",
+  "bytes": 92131,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Aug 2025 15:03:59 GMT",
+  "etag": "\"16c0279-167e3-63bdbe230f5c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-08-12_Planning-Commission-August-12-2025-Agenda--b21b37b7b931.pdf",
+  "versions": [
+    {
+      "sha256": "b21b37b7b9311a807d256bf7bf154f9cdf9fdd63ba2d7d8bb50eac57c3d2f033",
+      "bytes": 92131,
+      "retrieved_utc": "2026-11-24T13:50:29+00:00",
+      "http_last_modified": "Fri, 08 Aug 2025 15:03:59 GMT"
+    }
+  ]
+}

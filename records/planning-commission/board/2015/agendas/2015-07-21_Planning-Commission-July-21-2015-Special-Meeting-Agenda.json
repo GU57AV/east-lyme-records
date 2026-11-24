@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning July 21 2015 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-July-21-2015-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-July-21-2015-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:48:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d09b56d43c180dfd265f2c950e29f3817ef120df22657551f81ff1f806de0c03",
+  "bytes": 61853,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:30 GMT",
+  "etag": "\"16637e5-f19d-52082bf3f7e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-07-21_Planning-Commission-July-21-2015-Special-Meeting-Agenda--d09b56d43c18.pdf",
+  "versions": [
+    {
+      "sha256": "d09b56d43c180dfd265f2c950e29f3817ef120df22657551f81ff1f806de0c03",
+      "bytes": 61853,
+      "retrieved_utc": "2026-11-24T15:48:39+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:30 GMT"
+    }
+  ]
+}

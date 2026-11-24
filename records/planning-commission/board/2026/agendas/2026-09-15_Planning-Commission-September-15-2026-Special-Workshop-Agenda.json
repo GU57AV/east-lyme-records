@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 15 2026 Special Workshop Agenda (pdf)",
+  "filename": "Planning-Commission-September-15-2026-Special-Workshop-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Planning-Commission-September-15-2026-Special-Workshop-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-24T13:36:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "458e0bde1b2ac507f785511d49119718fa187fd7f9582a43939b047f8846d4a0",
+  "bytes": 49654,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Sep 2026 20:41:02 GMT",
+  "etag": "\"16e0f40-c1f6-65afec0c566bd\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-09-15_Planning-Commission-September-15-2026-Special-Workshop-Agenda--458e0bde1b2a.pdf",
+  "versions": [
+    {
+      "sha256": "458e0bde1b2ac507f785511d49119718fa187fd7f9582a43939b047f8846d4a0",
+      "bytes": 49654,
+      "retrieved_utc": "2026-11-24T13:36:47+00:00",
+      "http_last_modified": "Tue, 08 Sep 2026 20:41:02 GMT"
+    }
+  ]
+}

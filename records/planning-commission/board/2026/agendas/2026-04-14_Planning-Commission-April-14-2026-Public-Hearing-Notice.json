@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 14 2026 Public Hearing Notice (pdf)",
+  "filename": "Planning-Commission-April-14-2026-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/Planning-Commission-April-14-2026-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-agendas/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-24T13:40:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f3988d014bb3c227e0005f539581ece1a508c76d23ceec8c95200fdea35f73d",
+  "bytes": 46698,
+  "pages": 0,
+  "http_last_modified": "Thu, 26 Mar 2026 18:22:52 GMT",
+  "etag": "\"1701876-b66a-64df17900c8f3\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-04-14_Planning-Commission-April-14-2026-Public-Hearing-Notice--7f3988d014bb.pdf",
+  "versions": [
+    {
+      "sha256": "7f3988d014bb3c227e0005f539581ece1a508c76d23ceec8c95200fdea35f73d",
+      "bytes": 46698,
+      "retrieved_utc": "2026-11-24T13:40:27+00:00",
+      "http_last_modified": "Thu, 26 Mar 2026 18:22:52 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Planning Commission October 13 2026 Special Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-October-13-2026-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/10/Planning-Commission-October-13-2026-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2026-minutes/",
+  "upload_folder": "2026-10",
+  "first_seen_utc": "2026-11-24T13:42:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "226efa87d0571d026219566b7882a10ab602dafe960ba7dc984d7cfec41e4f2b",
+  "bytes": 389437,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Oct 2026 12:26:37 GMT",
+  "etag": "\"170006a-5f13d-65de028bc3379\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2026/2026-10-13_Planning-Commission-October-13-2026-Special-Meeting-Minutes--226efa87d057.pdf",
+  "versions": [
+    {
+      "sha256": "226efa87d0571d026219566b7882a10ab602dafe960ba7dc984d7cfec41e4f2b",
+      "bytes": 389437,
+      "retrieved_utc": "2026-11-24T13:42:47+00:00",
+      "http_last_modified": "Thu, 15 Oct 2026 12:26:37 GMT"
+    }
+  ]
+}

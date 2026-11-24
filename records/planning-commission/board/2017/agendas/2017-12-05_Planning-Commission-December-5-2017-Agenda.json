@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 5 2017 Agenda (pdf)",
+  "filename": "Planning-Commission-December-5-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-December-5-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:16:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "90d340267779147e92ceaa3480b708a1902da55606811d3166f1cbecb964a554",
+  "bytes": 100401,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Dec 2017 14:26:42 GMT",
+  "etag": "\"1662667-18831-55f48284d6c80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-12-05_Planning-Commission-December-5-2017-Agenda--90d340267779.pdf",
+  "versions": [
+    {
+      "sha256": "90d340267779147e92ceaa3480b708a1902da55606811d3166f1cbecb964a554",
+      "bytes": 100401,
+      "retrieved_utc": "2026-11-24T15:16:39+00:00",
+      "http_last_modified": "Fri, 01 Dec 2017 14:26:42 GMT"
+    }
+  ]
+}

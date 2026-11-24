@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Planning Commission September 10 2024 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-September-10-2024-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/Planning-Commission-September-10-2024-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-24T14:00:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "de6a09bcea32034882ce14c308d0ddf23b2e0cde09206533dbad9ff7d2a4c4aa",
+  "bytes": 48533,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Sep 2024 13:25:43 GMT",
+  "etag": "\"1680949-bd95-621afb19b43c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2024/2024-09-10_Planning-Commission-September-10-2024-Special-Meeting-Agenda--de6a09bcea32.pdf",
+  "versions": [
+    {
+      "sha256": "de6a09bcea32034882ce14c308d0ddf23b2e0cde09206533dbad9ff7d2a4c4aa",
+      "bytes": 48533,
+      "retrieved_utc": "2026-11-24T14:00:10+00:00",
+      "http_last_modified": "Mon, 09 Sep 2024 13:25:43 GMT"
+    }
+  ]
+}

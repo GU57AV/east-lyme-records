@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Planning Commission December 1 2020 Minutes (pdf)",
+  "filename": "Planning-Commission-December-1-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Planning-Commission-December-1-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-24T14:44:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72c1219f3f9000ffb0e89186024cda47721b7341e3bce153b98b838bea3d25f9",
+  "bytes": 321990,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Dec 2020 13:57:46 GMT",
+  "etag": "\"1661575-4e9c6-5b5e035f36a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2020/2020-12-01_Planning-Commission-December-1-2020-Minutes--72c1219f3f90.pdf",
+  "versions": [
+    {
+      "sha256": "72c1219f3f9000ffb0e89186024cda47721b7341e3bce153b98b838bea3d25f9",
+      "bytes": 321990,
+      "retrieved_utc": "2026-11-24T14:44:37+00:00",
+      "http_last_modified": "Mon, 07 Dec 2020 13:57:46 GMT"
+    }
+  ]
+}

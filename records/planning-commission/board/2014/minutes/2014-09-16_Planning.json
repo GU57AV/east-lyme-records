@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Planning September 16 2014 Minutes (pdf)",
+  "filename": "Planning.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:23:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b93e654824a4ae77db220bd92a977283f578fa80f39a8352cc11264fdab1b229",
+  "bytes": 855391,
+  "pages": 0,
+  "http_last_modified": "Mon, 22 Sep 2014 18:22:22 GMT",
+  "etag": "\"1661ba6-d0d5f-503ab88257380\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2014/2014-09-16_Planning--b93e654824a4.pdf",
+  "versions": [
+    {
+      "sha256": "b93e654824a4ae77db220bd92a977283f578fa80f39a8352cc11264fdab1b229",
+      "bytes": 855391,
+      "retrieved_utc": "2026-11-24T16:23:02+00:00",
+      "http_last_modified": "Mon, 22 Sep 2014 18:22:22 GMT"
+    }
+  ]
+}

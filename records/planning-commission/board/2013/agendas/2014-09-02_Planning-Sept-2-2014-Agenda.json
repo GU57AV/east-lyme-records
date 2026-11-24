@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning September 2 2014 Agenda (pdf)",
+  "filename": "Planning-Sept-2-2014-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Sept-2-2014-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/pc-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:13:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fca811222613dfcf069edfe9a27ba4b8a43bef63bfec378756c3dc9de3c89f5a",
+  "bytes": 65194,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:54:17 GMT",
+  "etag": "\"16638c7-feaa-52082c20ca840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2014-09-02_Planning-Sept-2-2014-Agenda--fca811222613.pdf",
+  "versions": [
+    {
+      "sha256": "fca811222613dfcf069edfe9a27ba4b8a43bef63bfec378756c3dc9de3c89f5a",
+      "bytes": 65194,
+      "retrieved_utc": "2026-11-24T16:13:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:54:17 GMT"
+    }
+  ]
+}

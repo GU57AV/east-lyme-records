@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning May 19 2015 Agenda (pdf)",
+  "filename": "Planning-Commission-Agenda-05-19-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Commission-Agenda-05-19-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T15:50:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d0761973a9d4a3d3be026d09f4943f91ef25c78323e0b82b1cbeb590716eaa3a",
+  "bytes": 101961,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT",
+  "etag": "\"166384a-18e49-52082bf303c40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-05-19_Planning-Commission-Agenda-05-19-2015--d0761973a9d4.pdf",
+  "versions": [
+    {
+      "sha256": "d0761973a9d4a3d3be026d09f4943f91ef25c78323e0b82b1cbeb590716eaa3a",
+      "bytes": 101961,
+      "retrieved_utc": "2026-11-24T15:50:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:29 GMT"
+    }
+  ]
+}

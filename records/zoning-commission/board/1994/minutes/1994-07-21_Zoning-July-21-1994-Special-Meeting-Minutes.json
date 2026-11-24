@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "minutes",
+  "year": "1994",
+  "subcommittee": false,
+  "link_text": "Zoning July 21 1994 Special Meeting Minutes (pdf)",
+  "filename": "Zoning-July-21-1994-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Zoning-July-21-1994-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-1994-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-24T13:07:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1ef35e7cf3c50fa0a18337b1c7e20d762b0b0a12a3e0d595f01e38934a31b67f",
+  "bytes": 86414,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Jan 2023 20:20:58 GMT",
+  "etag": "\"16c24f9-1518e-5f3449a715e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-1994/1994-07-21_Zoning-July-21-1994-Special-Meeting-Minutes--1ef35e7cf3c5.pdf",
+  "versions": [
+    {
+      "sha256": "1ef35e7cf3c50fa0a18337b1c7e20d762b0b0a12a3e0d595f01e38934a31b67f",
+      "bytes": 86414,
+      "retrieved_utc": "2026-11-24T13:07:09+00:00",
+      "http_last_modified": "Fri, 27 Jan 2023 20:20:58 GMT"
+    }
+  ]
+}

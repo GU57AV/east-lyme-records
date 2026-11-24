@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission January 11 2022 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "Planning-Commission-January-11-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Planning-Commission-January-11-2022-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-24T14:25:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c06a1dcd81f3d866d8e406b74247a037016cf43a209e96d5aec86e7cdd312e01",
+  "bytes": 126433,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Jan 2022 16:00:24 GMT",
+  "etag": "\"16a0dc7-1ede1-5d4d7d9ff5600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-01-11_Planning-Commission-January-11-2022-Special-Meeting-Agenda-Via-Zoom--c06a1dcd81f3.pdf",
+  "versions": [
+    {
+      "sha256": "c06a1dcd81f3d866d8e406b74247a037016cf43a209e96d5aec86e7cdd312e01",
+      "bytes": 126433,
+      "retrieved_utc": "2026-11-24T14:25:14+00:00",
+      "http_last_modified": "Wed, 05 Jan 2022 16:00:24 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning March 10 2015 Special Meeting Minutes (pdf)",
+  "filename": "Planning-March-10-2015-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-March-10-2015-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:09:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f721091e7273a0b5094ba8e4a94ba2acf5a3bef2195e81aa72da4f9c5c8f014",
+  "bytes": 114416,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:58 GMT",
+  "etag": "\"1661d74-1bef0-52082c0eabd80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-03-10_Planning-March-10-2015-Special-Meeting-Minutes--7f721091e727.pdf",
+  "versions": [
+    {
+      "sha256": "7f721091e7273a0b5094ba8e4a94ba2acf5a3bef2195e81aa72da4f9c5c8f014",
+      "bytes": 114416,
+      "retrieved_utc": "2026-11-24T16:09:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:58 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 5 2016 Cancellation (pdf)",
+  "filename": "Planning-Commission-April-5-2016-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-April-5-2016-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:32:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6f36bc67a2fa5abdd74fe20dc268e42612654b00862b61e37b02094772500827",
+  "bytes": 29272,
+  "pages": 0,
+  "http_last_modified": "Mon, 28 Mar 2016 18:18:09 GMT",
+  "etag": "\"16e0345-7258-52f1fef4f5a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-04-05_Planning-Commission-April-5-2016-Cancellation--6f36bc67a2fa.pdf",
+  "versions": [
+    {
+      "sha256": "6f36bc67a2fa5abdd74fe20dc268e42612654b00862b61e37b02094772500827",
+      "bytes": 29272,
+      "retrieved_utc": "2026-11-24T15:32:02+00:00",
+      "http_last_modified": "Mon, 28 Mar 2016 18:18:09 GMT"
+    }
+  ]
+}

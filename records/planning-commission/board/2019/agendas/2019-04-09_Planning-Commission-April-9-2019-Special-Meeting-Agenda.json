@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Planning Commission April 9 2019 Special Meeting Agenda (pdf)",
+  "filename": "Planning-Commission-April-9-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Planning-Commission-April-9-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-24T14:51:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4f4f93b411b9da00a55cf61fff36b68d85ccf8656fb510e87515dd9b5af7c3b5",
+  "bytes": 108770,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Apr 2019 15:46:54 GMT",
+  "etag": "\"16c2044-1a8e2-585a229adb780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2019/2019-04-09_Planning-Commission-April-9-2019-Special-Meeting-Agenda--4f4f93b411b9.pdf",
+  "versions": [
+    {
+      "sha256": "4f4f93b411b9da00a55cf61fff36b68d85ccf8656fb510e87515dd9b5af7c3b5",
+      "bytes": 108770,
+      "retrieved_utc": "2026-11-24T14:51:18+00:00",
+      "http_last_modified": "Wed, 03 Apr 2019 15:46:54 GMT"
+    }
+  ]
+}

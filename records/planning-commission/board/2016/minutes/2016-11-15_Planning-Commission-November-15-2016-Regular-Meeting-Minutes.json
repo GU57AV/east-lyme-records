@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Planning Commission November 15 2016 Regular Meeting Minutes (pdf)",
+  "filename": "Planning-Commission-November-15-2016-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-November-15-2016-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T15:36:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a6c734d78c0b78f6da5bf37f631e7d43c5ef1860062e3f6aab33a5a3cecbe141",
+  "bytes": 209219,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Nov 2016 13:39:03 GMT",
+  "etag": "\"16e04b7-33143-54270b621ebc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2016/2016-11-15_Planning-Commission-November-15-2016-Regular-Meeting-Minutes--a6c734d78c0b.pdf",
+  "versions": [
+    {
+      "sha256": "a6c734d78c0b78f6da5bf37f631e7d43c5ef1860062e3f6aab33a5a3cecbe141",
+      "bytes": 209219,
+      "retrieved_utc": "2026-11-24T15:36:29+00:00",
+      "http_last_modified": "Tue, 29 Nov 2016 13:39:03 GMT"
+    }
+  ]
+}

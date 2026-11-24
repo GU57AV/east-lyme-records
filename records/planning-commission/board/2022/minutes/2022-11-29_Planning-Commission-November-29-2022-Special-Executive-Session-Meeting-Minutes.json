@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Planning Commission November 29 2022 Special Executive Session Minutes (pdf)",
+  "filename": "Planning-Commission-November-29-2022-Special-Executive-Session-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Planning-Commission-November-29-2022-Special-Executive-Session-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2022-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-24T14:26:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bc9bd8fc69b8cdea2404f8ce6bb5004c1ba5b6a4a3593e4b47882369c95fdae7",
+  "bytes": 45656,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Dec 2022 14:21:24 GMT",
+  "etag": "\"16a0972-b258-5ef2984c8c100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2022/2022-11-29_Planning-Commission-November-29-2022-Special-Executive-Session-Meeting-Minutes--bc9bd8fc69b8.pdf",
+  "versions": [
+    {
+      "sha256": "bc9bd8fc69b8cdea2404f8ce6bb5004c1ba5b6a4a3593e4b47882369c95fdae7",
+      "bytes": 45656,
+      "retrieved_utc": "2026-11-24T14:26:34+00:00",
+      "http_last_modified": "Tue, 06 Dec 2022 14:21:24 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Planning Commission February 6 2018 Cancellation (pdf)",
+  "filename": "Planning-Commission-February-6-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/Planning-Commission-February-6-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2018-agendas/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-24T15:05:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c5c41933fdbcdeae0c71f6e11d49b25369653e4f51868eed79eb7e3697895f1a",
+  "bytes": 32545,
+  "pages": 0,
+  "http_last_modified": "Wed, 31 Jan 2018 19:10:30 GMT",
+  "etag": "\"16c0e21-7f21-564173b91f580\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2018/2018-02-06_Planning-Commission-February-6-2018-Agenda--c5c41933fdbc.pdf",
+  "versions": [
+    {
+      "sha256": "c5c41933fdbcdeae0c71f6e11d49b25369653e4f51868eed79eb7e3697895f1a",
+      "bytes": 32545,
+      "retrieved_utc": "2026-11-24T15:05:00+00:00",
+      "http_last_modified": "Wed, 31 Jan 2018 19:10:30 GMT"
+    }
+  ]
+}

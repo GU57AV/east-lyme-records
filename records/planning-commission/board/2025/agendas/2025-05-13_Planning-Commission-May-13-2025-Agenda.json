@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Planning Commission May 13 2025 Agenda (pdf)",
+  "filename": "Planning-Commission-May-13-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/Planning-Commission-May-13-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2025-agendas/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-24T13:52:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "622e641fda83c6c478292f253940333a2a1afaa49454a8e9001714c3a42d4a6a",
+  "bytes": 93990,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 May 2025 19:48:51 GMT",
+  "etag": "\"16a1603-16f26-6349105b64ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2025/2025-05-13_Planning-Commission-May-13-2025-Agenda--622e641fda83.pdf",
+  "versions": [
+    {
+      "sha256": "622e641fda83c6c478292f253940333a2a1afaa49454a8e9001714c3a42d4a6a",
+      "bytes": 93990,
+      "retrieved_utc": "2026-11-24T13:52:09+00:00",
+      "http_last_modified": "Wed, 07 May 2025 19:48:51 GMT"
+    }
+  ]
+}

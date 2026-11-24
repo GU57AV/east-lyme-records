@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Planning May 19, 2015 Regular Meeting Minutes (pdf)",
+  "filename": "Planning-May-19-2015-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-May-19-2015-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:06:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f80a47ab886b753002cec4d65a13348c2147b546d7aa435d6a83dd1f90835166",
+  "bytes": 371780,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:54:00 GMT",
+  "etag": "\"1661dac-5ac44-52082c1094200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2015/2015-05-19_Planning-May-19-2015-Regular-Meeting-Minutes--f80a47ab886b.pdf",
+  "versions": [
+    {
+      "sha256": "f80a47ab886b753002cec4d65a13348c2147b546d7aa435d6a83dd1f90835166",
+      "bytes": 371780,
+      "retrieved_utc": "2026-11-24T16:06:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:54:00 GMT"
+    }
+  ]
+}

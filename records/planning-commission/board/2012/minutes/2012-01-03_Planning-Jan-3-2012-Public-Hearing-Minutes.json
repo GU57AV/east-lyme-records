@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Planning Jan 3 2012 Public Hearing II Minutes (pdf)",
+  "filename": "Planning-Jan-3-2012-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Planning-Jan-3-2012-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:52:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a26b24455f9f3ded5ae3efbfc7b1f3b02263fac7ac13af3782c53a068c6b5a44",
+  "bytes": 95220,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:53:43 GMT",
+  "etag": "\"1663f8c-173f4-52082c005dbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2012/2012-01-03_Planning-Jan-3-2012-Public-Hearing-Minutes--a26b24455f9f.pdf",
+  "versions": [
+    {
+      "sha256": "a26b24455f9f3ded5ae3efbfc7b1f3b02263fac7ac13af3782c53a068c6b5a44",
+      "bytes": 95220,
+      "retrieved_utc": "2026-11-24T16:52:25+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:53:43 GMT"
+    }
+  ]
+}

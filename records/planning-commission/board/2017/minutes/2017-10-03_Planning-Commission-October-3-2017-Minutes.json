@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Planning Commission October 3 2017 Minutes (pdf)",
+  "filename": "Planning-Commission-October-3-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Planning-Commission-October-3-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T15:22:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0a2b7309671e56d6b6f71adeba011911928526cf83a0e4cb383c5751f405e867",
+  "bytes": 235258,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Oct 2017 12:48:02 GMT",
+  "etag": "\"16623ff-396fa-55b30b7b1e480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2017/2017-10-03_Planning-Commission-October-3-2017-Minutes--0a2b7309671e.pdf",
+  "versions": [
+    {
+      "sha256": "0a2b7309671e56d6b6f71adeba011911928526cf83a0e4cb383c5751f405e867",
+      "bytes": 235258,
+      "retrieved_utc": "2026-11-24T15:22:20+00:00",
+      "http_last_modified": "Tue, 10 Oct 2017 12:48:02 GMT"
+    }
+  ]
+}

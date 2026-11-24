@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Planning June 4 2013 Agenda (pdf)",
+  "filename": "PC-Agenda-of-June-4-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/PC-Agenda-of-June-4-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-24T16:29:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "89d155b62d905a322715c7bb6427ff3efb79dfc212d4819307b4d66c8b11ec65",
+  "bytes": 81067,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:51:46 GMT",
+  "etag": "\"1663cae-13cab-52082b90c9480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2013/2013-06-04_PC-Agenda-of-June-4-2013--89d155b62d90.pdf",
+  "versions": [
+    {
+      "sha256": "89d155b62d905a322715c7bb6427ff3efb79dfc212d4819307b4d66c8b11ec65",
+      "bytes": 81067,
+      "retrieved_utc": "2026-11-24T16:29:32+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:51:46 GMT"
+    }
+  ]
+}

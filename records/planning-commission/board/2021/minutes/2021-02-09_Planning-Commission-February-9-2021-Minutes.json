@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Planning Commission February 9 2021 Minutes (pdf)",
+  "filename": "Planning-Commission-February-9-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/Planning-Commission-February-9-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2021-minutes/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-24T14:36:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f868a5fe787e64d5da95a6ebe3a0507ec101ec515f775390a8aeb6748ae70d49",
+  "bytes": 199656,
+  "pages": 0,
+  "http_last_modified": "Thu, 11 Feb 2021 18:44:44 GMT",
+  "etag": "\"16800ae-30be8-5bb13e9bfff00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2021/2021-02-09_Planning-Commission-February-9-2021-Minutes--f868a5fe787e.pdf",
+  "versions": [
+    {
+      "sha256": "f868a5fe787e64d5da95a6ebe3a0507ec101ec515f775390a8aeb6748ae70d49",
+      "bytes": 199656,
+      "retrieved_utc": "2026-11-24T14:36:56+00:00",
+      "http_last_modified": "Thu, 11 Feb 2021 18:44:44 GMT"
+    }
+  ]
+}
