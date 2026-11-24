@@ -599,6 +599,11 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001  (reports are extras; never block the checks)
         print(f"scorecard failed: {e}")
     try:
+        import recusals
+        recusals.write(recusals.extract(docs, boards), now)
+    except Exception as e:  # noqa: BLE001
+        print(f"recusals failed: {e}")
+    try:
         import digest
         digest.run(docs, boards, cfg, now, state)
     except Exception as e:  # noqa: BLE001

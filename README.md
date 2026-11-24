@@ -235,6 +235,13 @@ Two automatic reports are built from what the archive records:
   dates, which show when the file now online was uploaded, so draft minutes later replaced by a new file can
   make a board look slower than it was.
 
+- **[Recusals](https://github.com/GU57AV/east-lyme-records/blob/main/reports/recusals.md).** Every time the minutes record a named member stepping
+  aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type
+  reason, with the date, board, member, the matter and a link to the minutes. Recusal is what the Town's
+  Ethics Code (§ 35.18) and state law call for when a member has an interest, so this shows the rules being
+  followed. Names are as the minutes (and OCR) spell them. The data is also in
+  [recusals.json](https://github.com/GU57AV/east-lyme-records/blob/main/reports/recusals.json).
+
 When a run finds new deadline flags, or a newly posted document mentions a watched topic, it opens an
 **issue** (see the **Issues** tab) describing what it found. If you watch this repository on GitHub (see
 [Getting updates](#getting-updates)), you get those by email.
