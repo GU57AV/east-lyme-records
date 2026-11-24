@@ -80,6 +80,7 @@ def build_week(docs, boards: dict, cfg: dict, monday: dt.date, now: dt.datetime)
     end = start + dt.timedelta(days=7)
     today = now.astimezone(ET).date()
     covered = covered_boards(cfg)
+    configured = {b["slug"] for b in cfg.get("boards", [])}
     name = lambda b: boards.get(b, b).replace("East Lyme ", "")
     by_file, agendas, minutes = {}, {}, {}
     for side, m in docs:
@@ -108,14 +109,14 @@ def build_week(docs, boards: dict, cfg: dict, monday: dt.date, now: dt.datetime)
                 elif ce["link_only"] or (ce["e"].get("link") and not ours):
                     ag = f"[on calendar]({ce['e']['link']})"
                 else:
-                    ag = "not found" if ours else "—"
+                    ag = "not found" if ours else ("not checked yet" if slug in configured else "—")
                 if d >= today:
                     mi = "—"
                 elif ours:
                     ms = minutes.get((slug, d))
                     mi = f"[posted]({UP}{link(ms[0])})" if ms else "not yet"
                 else:
-                    mi = "not followed"
+                    mi = "not checked yet" if slug in configured else "not followed"
             rows.append(f"| {ce['begin']:%a %b %-d, %-I:%M %p} | {ce['title']} | {name(slug) if slug else '—'} "
                         f"| {ag} | {mi} |")
         return rows
@@ -165,8 +166,9 @@ def build_week(docs, boards: dict, cfg: dict, monday: dt.date, now: dt.datetime)
     if cal:
         L += ["## Calendar changes", ""] + [f"- {c.get('message') or c['title']}" for c in cal] + [""]
     L += ["## Coming up next week", ""] + ((hdr + nxt) if nxt else ["Nothing on the Town calendar yet."]) + [""]
-    L += ["---", "", "Agenda and minutes status is checked only for boards whose records this archive has "
-          "fully imported (others show “—” or “not followed”). See the [deadline report](../compliance.md), "
+    L += ["---", "", "Agenda and minutes status is checked only for boards whose full history this archive has "
+          "imported. “Not checked yet” means the board is followed but its import isn't finished; “not followed” "
+          "means a body this archive doesn't track. See the [deadline report](../compliance.md), "
           "[upcoming deadlines](../upcoming.md) and [scorecard](../scorecard.md).", ""]
     return "\n".join(L), glance
 
