@@ -17,7 +17,7 @@ remains the official source.
 [weekly digest](https://raw.githubusercontent.com/GU57AV/east-lyme-records/main/feeds/digest.xml).
 See [Getting updates](#getting-updates).
 
-## Start here: how to use this archive (plain English)
+## Start here: how to use this archive
 
 New to GitHub? This section walks through everything step by step. You don't need an account to
 look at anything here. You only need one if you want to report a problem or get updates.
