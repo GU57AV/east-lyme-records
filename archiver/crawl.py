@@ -130,6 +130,11 @@ def pdf_pages(path: Path) -> int:
 
 def extract_text(path: Path) -> tuple[str, str]:
     """Return (text, method). Never modifies the original file."""
+    if path.suffix.lower() in (".html", ".htm"):
+        soup = BeautifulSoup(path.read_bytes(), "html.parser")
+        for t in soup(["script", "style"]):
+            t.decompose()
+        return "\n".join(line.strip() for line in soup.get_text("\n").splitlines() if line.strip()), "html text"
     if path.suffix.lower() != ".pdf":
         return "", "none (not a PDF)"
     try:
@@ -349,10 +354,24 @@ def run(args) -> int:
             incomplete = True  # never treat a failed crawl as a finished import
             continue
         live_urls = {d["url"] for d in docs}
+        if board.get("highbond"):
+            # The Board of Education's own meeting portal (Diligent Community / HighBond).
+            try:
+                import highbond
+                pdocs, _, pending = highbond.crawl(f, board, state, full and not args.quick, args.quick,
+                                                   page_checks, deadline, log)
+                docs = docs + [d for d in pdocs if d["url"] not in live_urls]
+                if pending:
+                    incomplete = board_incomplete = True
+            except Exception as e:  # noqa: BLE001
+                brep["errors"].append(f"{board['slug']}: portal crawl failed: {e}")
+                incomplete = board_incomplete = True
 
         by_url = normalize_names(bdir)  # source URL -> sidecar path (also date-prefixes old names)
         for d in docs:
-            c = classify(d["listing_page"], d["link_text"], d["url"])
+            c = ({"kind": d["kind"], "year": d["year"], "subcommittee": d["subcommittee"],
+                  "upload_folder": None, "filename": d["filename"]} if "kind" in d
+                 else classify(d["listing_page"], d["link_text"], d["url"]))
             folder = bdir / ("subcommittee" if c["subcommittee"] else "board") / c["year"] / c["kind"]
             ext = Path(c["filename"]).suffix.lower() or ".pdf"
             if d["url"] in by_url:
@@ -433,6 +452,7 @@ def run(args) -> int:
                 "original_copy": stored,
                 "versions": history,
             }
+            new_meta.update(d.get("extra", {}))
             side.write_text(json.dumps(new_meta, indent=2) + "\n", encoding="utf-8")
             write_text_copy(folder / f"{stem}.md", new_meta, text)
             (brep["changed"] if meta else brep["new"]).append(
@@ -442,7 +462,8 @@ def run(args) -> int:
         # Mark documents that vanished from the Town's listing (files are kept).
         for side in (bdir.rglob("*.json") if bdir.exists() and complete else []):
             meta = load_json(side, None)
-            if meta and meta.get("source_url") not in live_urls and not meta.get("removed_from_listing_utc"):
+            if (meta and meta.get("source_url") not in live_urls and not meta.get("removed_from_listing_utc")
+                    and meta.get("source") != "highbond"):
                 meta["removed_from_listing_utc"] = now_utc()
                 side.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
                 brep["removed"].append(f"{meta.get('link_text') or meta.get('filename')} — {meta['source_url']}")

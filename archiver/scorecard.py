@@ -35,6 +35,8 @@ SINCE = dt.date(2024, 1, 1)
 
 
 def server_time(m: dict) -> dt.datetime | None:
+    if m.get("portal_last_modified_utc"):  # Board of Education portal: last change to the document
+        return utc(m["portal_last_modified_utc"])
     try:
         return dt.datetime.strptime(m.get("http_last_modified") or "", "%a, %d %b %Y %H:%M:%S GMT").replace(
             tzinfo=dt.timezone.utc)
@@ -65,6 +67,10 @@ def judge(m: dict, due: dt.datetime) -> tuple[str, dt.datetime | None]:
             return "on time", first.astimezone(dt.timezone.utc)
         if first.astimezone(dt.timezone.utc) > due:
             return "late", first.astimezone(dt.timezone.utc)
+        return "unknown", None
+    if m.get("source") == "highbond" and t > due:
+        # The portal only reports when a document was last changed, and agendas are often amended
+        # after posting, so a later date does not show the first posting was late.
         return "unknown", None
     return ("on time" if t <= due else "late"), t
 

@@ -457,6 +457,25 @@ requests (the delay the Town's robots.txt asks of search engines), and avoids th
 excludes. Daily checks read only the current year's listing pages and re-check a rotating set of 150 archived
 files for silent changes.
 
+### Board of Education portal
+
+The Board of Education posts its agendas, agenda packets and minutes on the school district's own
+meeting portal (<https://eastlymeschools.community.highbond.com>, run on Diligent Community), not on
+the Town website. The archive reads that portal too and files those documents with the Board of
+Education's records, alongside anything the Town website posts for the Board. The portal holds
+meetings back to 2018 (older ones were moved over from BoardDocs).
+
+These are public records under Connecticut's Freedom of Information Act, so the archive collects them
+even though the portal's robots.txt asks automated visitors to stay away. It is collected the same
+careful way as the Town website: one request every 20 seconds, the same honest user agent, public
+pages only, and no attempt to get around any sign-in or bot check. Recent and upcoming meetings are
+re-read on every run; older meetings are re-checked a few at a time.
+
+The portal reports only when a document was **last changed**, not when it was first posted, and
+agendas are often amended after posting. So for Board of Education documents the archive did not see
+appear itself, the scorecard counts a portal date before the deadline as on time, and calls anything
+later "unknown" rather than late.
+
 ### Limits
 
 Text copies of scanned documents are made with OCR and may contain errors. Always rely on the

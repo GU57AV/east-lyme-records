@@ -1,0 +1,40 @@
+name: Check the Board of Education portal
+
+# Manual check that the Board of Education portal reader still works: reads the meeting list,
+# two meetings' document lists and one document (five requests, 20 seconds apart). Commits nothing.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - name: Read a sample from the portal
+        run: |
+          cd archiver
+          python - <<'EOF'
+          import json, time, datetime as dt
+          import crawl, highbond
+          cfg = json.load(open("../config.json"))
+          board = next(b for b in cfg["boards"] if b.get("highbond"))
+          f = crawl.Fetcher(cfg["user_agent"], float(cfg["delay_seconds"]))
+          base = board["highbond"]
+          meetings = [m for m in f.get(base + highbond.API + "?from=2000-01-01&to=9999-12-31&loadall=true").json() if m.get("Published")]
+          past = sorted((m for m in meetings if m["MeetingDate"] <= dt.date.today().isoformat()), key=lambda m: m["MeetingDate"])
+          print(f"{len(meetings)} published meetings, {len(past)} held, earliest {past[0]['MeetingDate']}")
+          for m in (past[-10], past[0]):
+              docs = f.get(f"{base}{highbond.API}/{m['Id']}/meetingDocuments").json()["Documents"]
+              for e in highbond.doc_entries(base, m, docs):
+                  print(" ", e["kind"], e["url"], e["filename"])
+          r = f.get(e["url"])
+          print("sample document:", r.status_code, r.headers.get("content-type"), len(r.content), "bytes")
+          EOF
