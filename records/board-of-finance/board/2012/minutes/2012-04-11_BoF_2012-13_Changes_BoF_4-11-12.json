@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BoF_2012-13_Changes_BoF_4-11-12 (pdf)",
+  "filename": "BoF_2012-13_Changes_BoF_4-11-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BoF_2012-13_Changes_BoF_4-11-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:02:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "73db0d320602a36dc7aecc532654bb5a16146fcbd404ecee97cd0dfdc07e8bba",
+  "bytes": 9724,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:12 GMT",
+  "etag": "\"1663dc2-25fc-520826bebb500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-04-11_BoF_2012-13_Changes_BoF_4-11-12--73db0d320602.pdf",
+  "versions": [
+    {
+      "sha256": "73db0d320602a36dc7aecc532654bb5a16146fcbd404ecee97cd0dfdc07e8bba",
+      "bytes": 9724,
+      "retrieved_utc": "2026-11-25T01:02:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:12 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOF Public Hearing Notice 04-26-2010 (pdf)",
+  "filename": "BOFpubHrgNotcFY10-11budget04-26-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFpubHrgNotcFY10-11budget04-26-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:23:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "15845727a6146295da2ec0aab51a0ac51ce6d6811f9760ef01ced632691f54f0",
+  "bytes": 15703,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:18 GMT",
+  "etag": "\"1663cb9-3d57-520826c474280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2010/2010-04-26_BOFpubHrgNotcFY10-11budget04-26-10--15845727a614.pdf",
+  "versions": [
+    {
+      "sha256": "15845727a6146295da2ec0aab51a0ac51ce6d6811f9760ef01ced632691f54f0",
+      "bytes": 15703,
+      "retrieved_utc": "2026-11-25T01:23:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:18 GMT"
+    }
+  ]
+}

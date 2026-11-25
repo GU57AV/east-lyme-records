@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "ZBA November 3 2025 Notice of Decision (pdf)",
+  "filename": "ZBA-November-10-2025-Notice-of-Decision-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/ZBA-November-10-2025-Notice-of-Decision-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-minutes/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-25T02:11:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b3c5573e78fd6cc3d06971bc1ede8c84fe27e073c9f966811b0c33e2d7a633ac",
+  "bytes": 54367,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Nov 2025 18:42:15 GMT",
+  "etag": "\"1761a25-d45f-642c930d80505\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-11-10_ZBA-November-10-2025-Notice-of-Decision-1--b3c5573e78fd.pdf",
+  "versions": [
+    {
+      "sha256": "b3c5573e78fd6cc3d06971bc1ede8c84fe27e073c9f966811b0c33e2d7a633ac",
+      "bytes": 54367,
+      "retrieved_utc": "2026-11-25T02:11:28+00:00",
+      "http_last_modified": "Tue, 04 Nov 2025 18:42:15 GMT"
+    }
+  ]
+}

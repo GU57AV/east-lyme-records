@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF BOS BOE Informational Session May 25 2016 Minutes 1of 2 (pdf)",
+  "filename": "BOF-BOS-BOE-Informational-Session-May-25-2016-Minutes-1of-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-BOS-BOE-Informational-Session-May-25-2016-Minutes-1of-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T00:05:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9bc8da07b93f7b9ae181cdd57eb151239096e65e5f7554937dd272fe2bd3fd82",
+  "bytes": 2319772,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Jun 2016 18:44:33 GMT",
+  "etag": "\"16e03b4-23659c-5344fff400640\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-05-25_BOF-BOS-BOE-Informational-Session-May-25-2016-Minutes-1of-2--9bc8da07b93f.pdf",
+  "versions": [
+    {
+      "sha256": "9bc8da07b93f7b9ae181cdd57eb151239096e65e5f7554937dd272fe2bd3fd82",
+      "bytes": 2319772,
+      "retrieved_utc": "2026-11-25T00:05:15+00:00",
+      "http_last_modified": "Thu, 02 Jun 2016 18:44:33 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "ZBA Minutes 07-27-2009 (pdf)",
+  "filename": "ZBApubHrng-regMtgMinsCase4-2009-07-27-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBApubHrng-regMtgMinsCase4-2009-07-27-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:52:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8a05fc31ac126d7b9de996fec3709ed89bff6208ade4275dbcee31554c2f706f",
+  "bytes": 76155,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:08 GMT",
+  "etag": "\"166381b-1297b-52082cfd17000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2009/2009-07-27_ZBApubHrng-regMtgMinsCase4-2009-07-27-09--8a05fc31ac12.pdf",
+  "versions": [
+    {
+      "sha256": "8a05fc31ac126d7b9de996fec3709ed89bff6208ade4275dbcee31554c2f706f",
+      "bytes": 76155,
+      "retrieved_utc": "2026-11-25T02:52:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:08 GMT"
+    }
+  ]
+}

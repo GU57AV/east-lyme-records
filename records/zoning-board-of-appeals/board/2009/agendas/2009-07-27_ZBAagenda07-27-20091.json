@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "ZBA Agenda 07-27-2009 (pdf)",
+  "filename": "ZBAagenda07-27-20091.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBAagenda07-27-20091.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-agendas-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:51:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2eade5b70cf76c260e95d5e87ef5a269e7ad4a529b7d28d5b8cc8fe7aded074f",
+  "bytes": 50530,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Sep 2014 13:56:22 GMT",
+  "etag": "\"1663978-c562-50251d58dcd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2009/2009-07-27_ZBAagenda07-27-20091--2eade5b70cf7.pdf",
+  "versions": [
+    {
+      "sha256": "2eade5b70cf76c260e95d5e87ef5a269e7ad4a529b7d28d5b8cc8fe7aded074f",
+      "bytes": 50530,
+      "retrieved_utc": "2026-11-25T02:51:26+00:00",
+      "http_last_modified": "Fri, 05 Sep 2014 13:56:22 GMT"
+    }
+  ]
+}

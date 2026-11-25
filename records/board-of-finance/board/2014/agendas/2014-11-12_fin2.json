@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF November 12 2014 Meeting Agenda (pdf)",
+  "filename": "fin2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/fin2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:29:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2e7416d14bba6c80f9e0252bff3516f55611730062997e9bde56e5f801a9d716",
+  "bytes": 30828,
+  "pages": 0,
+  "http_last_modified": "Fri, 07 Nov 2014 17:43:54 GMT",
+  "etag": "\"1663904-786c-507485b476a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-11-12_fin2--2e7416d14bba.pdf",
+  "versions": [
+    {
+      "sha256": "2e7416d14bba6c80f9e0252bff3516f55611730062997e9bde56e5f801a9d716",
+      "bytes": 30828,
+      "retrieved_utc": "2026-11-25T00:29:52+00:00",
+      "http_last_modified": "Fri, 07 Nov 2014 17:43:54 GMT"
+    }
+  ]
+}

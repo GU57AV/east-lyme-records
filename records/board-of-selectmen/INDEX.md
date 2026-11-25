@@ -5,6 +5,7 @@ Unofficial archive, newest meeting first. **Date** is the meeting date taken fro
 
 | Date | Body | Type | Document | Text | Original | Archived |
 |---|---|---|---|---|---|---|
+| Dec 2, 2026 | Board | agendas | BOS December 2 2026 Agenda (pdf) | [text](board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) | [original](https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/2026-12-02_BOS-December-2-2026-Agenda--1c9f2d564408.pdf) | 2026-11-24 |
 | Nov 18, 2026 | Board | agendas | BOS November 18 2026 Agenda (pdf) | [text](board/2026/agendas/2026-11-18_BOS-November-18-2026-Agenda.md) | [original](https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-November-18-2026-Agenda--269ba78ffccb.pdf) | 2026-11-22 |
 | Nov 18, 2026 | Board | agendas | BOS November 18 2026 Amended Agenda (pdf) | [text](board/2026/agendas/2026-11-18_BOS-November-18-2026-Amended-Agenda.md) | [original](https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-November-18-2026-Amended-Agenda--43a32b2cedf4.pdf) | 2026-11-22 |
 | Nov 18, 2026 | Board | agendas | BOS November 18 2026 Public Hearing Notice (pdf) | [text](board/2026/agendas/2026-11-18_BOS-November-18-2026-Public-Hearing-Notice.md) | [original](https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/BOS-November-18-2026-Public-Hearing-Notice--ed56a83f89b8.pdf) | 2026-11-22 |

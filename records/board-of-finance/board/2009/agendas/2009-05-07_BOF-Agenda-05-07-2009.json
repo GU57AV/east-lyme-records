@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 05-07-2009 (pdf)",
+  "filename": "BOF-Agenda-05-07-2009.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Agenda-05-07-2009.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2009-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:39:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2c2fca8333043112c0280a7538c4779f6e6961241a3dd67afdcf70de6aa11b61",
+  "bytes": 29369,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2014 14:27:00 GMT",
+  "etag": "\"1663ff9-72b9-501b154607500\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2009/2009-05-07_BOF-Agenda-05-07-2009--2c2fca833304.pdf",
+  "versions": [
+    {
+      "sha256": "2c2fca8333043112c0280a7538c4779f6e6961241a3dd67afdcf70de6aa11b61",
+      "bytes": 29369,
+      "retrieved_utc": "2026-11-25T01:39:21+00:00",
+      "http_last_modified": "Thu, 28 Aug 2014 14:27:00 GMT"
+    }
+  ]
+}

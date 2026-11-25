@@ -1,0 +1,191 @@
+---
+title: "Exhibit 5 1-2025 Site Plans 11 Hoskins St (pdf)"
+board: zoning-board-of-appeals
+kind: other
+source_url: https://eltownhall.com/wp-content/uploads/2025/04/Exhibit-5-1-2025-Site-Plans-11-Hoskins-St.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-materials/
+sha256: 4eabf2bd5a977f1ac181e29a28a960f3359c614f7084fe5d3258c86ab830b7f6
+text_method: ocrmypdf (OCR)
+first_seen_utc: 2026-11-25T02:16:40+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-05-01_Exhibit-5-1-2025-Site-Plans-11-Hoskins-St--4eabf2bd5a97.pdf
+
+```text
+| GRAY RESIDENCE
+
+© GRANITE “ON
+
+WATER METER
+
+°
+WETER GATE
+
+DRIVEWAY EASEMENT
+AREA=.O0084AC.
+343 SQ. FT.
+
+|. PPE FND O
+
+S 32°16°43" £
+
+\ 2.40"
+
+“NYS MON FND
+
+S 75°53'55" W
+
+i \
+
+:
+
+2 DETAIL D
+\§ N/F CROWELL NOT TO SCALE
+
+CONCRETE RETAINING WALL
+
+N/F LONGO en ——— 24.57
+/ a WA i ee SEE DETAIL “O°
+—N zee ii No PARCEL) [oom = — { 78,
+2
+S
+-¥ f ZY , FY ‘SNET 1 A
+¥ Gyn ——
+.¥ 30° Fy. ro. H
+=
+{> e ® ”
+ae reer PARCEL | $ o6r4s’45"W
+SEC MPRA UAT j j ®) 42.50 {
+nae o~ — —~ z
+H20 Gate = |
+N 83°13'14"Wo
+88.20"
+|
+|
+£7 SNE 1485
+
+{?
+cd
+°
+
+\
+
+GRANTE MON FND
+
+RAILROAD SPIKE FOUND
+BASE 24° OsK TREE
+
+PROPERTY
+
+CORNER
+PROPERTY —
+N 27°41'48" E£ N 66°58'02" £
+0.59"
+
+DETAIL A
+
+No”
+
+TO SCALE
+
+DETAIL B
+
+NOT TO SCALE
+
+NEW SINGLE
+FAMILY RESIDENCE
+
+N 34°53'54" E
+0.18"
+
+8 iw)
+
+SITE PLAN
+
+SCALE: I" =20'0"
+
+—- NOTES ——-
+
+1) MAP REFERENCES
+
+1) “HOSKINS AND BASSETT PROPERTIES” DABOLL AND CRANDALL C. ENGRS
+
+NEW LONDON, CONNECTICUT 1923
+
+1" = 40
+
+2) ~ PLAN SHOWING PROPERTY AT SAUNDERS POINT, TOWN OF EAST LYME CT.
+CONVEYED BY THE ESTATE OF AY. CORNELL TO ROBERT C. GRINER
+AND FLCRENCE A. GRINER™ LE. DABOLL CML ENGINEER
+
+NEW LONDON, CT. SCALE 1° =20° SEPT. 1946
+
+3) “PROPERTY SURVEY LAND OF MARIE 1. CARRABGA™
+WILLIAM E WERTZ LAND SURVEYING BOZRAH CT.
+SCALE = 1°=20' JULY 5, 1998
+
+2) THE PROPERTY LINE ALONG THE NIANTIC RIVER IS THE HIGH WATER MARK. AS OBSERVED
+IN THE FIELD, THIS NOW COMES TO THE RETAINING WALL ALONG THE NIANTIC RIVER.
+
+4
+{
+|
+
+|
+al
+| ___—_—|__
+
+I ZONING STATISTICS: ZONE R-IO
+| | ALLOUED PROPOSED _
+| | BUILDING HEIGHT 30° __|__24'0" TO EAVERIDGE MIDPOINT 7
+i SURVEY CLOSING UNE | ROW, WIDTH jt B 12.82! EXISTING
+© FRONTYARD 30" [. _NA, - SEE PLAN -
+meg, |_SIDE YARDS r | 120" NORTH, ¢ 104" SOUTH EXISTING, 47 UEST
+S 19°31°52°W | Rear YARD a |
+47.60" LOT SIZE 10.000 $E.MIN. 8902 SF. PER VARIANCE |
+LOT COVERAGE 25% OR 3,188 SF. MAXIMUM 16.41% OR 1639 SF.
+. SUBDIVISION PLAN
+~
+e
+PREPARED FOR
+© /
+~~ DAVID PP. GRAY
+> roy TOWN ROAD
+
+a® NIANTIC CONNECTICUT
+
+SCALE 1" = 20°
+
+DATE MAY 86, 1998
+
+cenengeceaeeemreeeennent
+$
+“
+
+OWNER/APPLICANT
+
+DAVID P. GRAY
+4 CAVASIN DRIVE
+
+EAST LYME CT.
+
+SPRINGSTEEL
+
+fey
+
+Ce 1 }
+“\iirens.cr ose |
+
+572 7306 | |)
+ZITECT
+
+DATE: 6 SEPTEMBER [999
+N
+
+11 HOSKINS STREET
+NIANTIC
+
+CONNECTICUT
+
+COPYRIGHT © 1999 PETER J. SPRINGSTEEL ARCHITECT
+```

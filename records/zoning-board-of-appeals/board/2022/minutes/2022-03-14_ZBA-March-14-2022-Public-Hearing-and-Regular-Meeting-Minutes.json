@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "ZBA March 14 2022 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-March-14-2022-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/ZBA-March-14-2022-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2022-minutes/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-25T02:27:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4d86f7fdd6fc745ba9e4dbca49d340ed838cc2b4506f33aa2f7a3a883079ada3",
+  "bytes": 213015,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Mar 2022 14:23:59 GMT",
+  "etag": "\"16a0a5d-34017-5dacf5d1fbdc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2022/2022-03-14_ZBA-March-14-2022-Public-Hearing-and-Regular-Meeting-Minutes--4d86f7fdd6fc.pdf",
+  "versions": [
+    {
+      "sha256": "4d86f7fdd6fc745ba9e4dbca49d340ed838cc2b4506f33aa2f7a3a883079ada3",
+      "bytes": 213015,
+      "retrieved_utc": "2026-11-25T02:27:42+00:00",
+      "http_last_modified": "Tue, 22 Mar 2022 14:23:59 GMT"
+    }
+  ]
+}

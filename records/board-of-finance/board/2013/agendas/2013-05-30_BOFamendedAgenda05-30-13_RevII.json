@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF May 30 2013 Amended Agenda (pdf)",
+  "filename": "BOFamendedAgenda05-30-13_RevII.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFamendedAgenda05-30-13_RevII.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:49:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e03b5c26dd7609bd676ba602fad8b044fe8bb77efcd116c01884d481314d86f9",
+  "bytes": 63659,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:12 GMT",
+  "etag": "\"1663f42-f8ab-520826bebb500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-05-30_BOFamendedAgenda05-30-13_RevII--e03b5c26dd76.pdf",
+  "versions": [
+    {
+      "sha256": "e03b5c26dd7609bd676ba602fad8b044fe8bb77efcd116c01884d481314d86f9",
+      "bytes": 63659,
+      "retrieved_utc": "2026-11-25T00:49:34+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:12 GMT"
+    }
+  ]
+}

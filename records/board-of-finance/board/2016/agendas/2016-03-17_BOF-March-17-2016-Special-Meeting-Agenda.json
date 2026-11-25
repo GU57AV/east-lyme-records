@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF March 17 2016 Special Meeting Agenda (pdf)",
+  "filename": "BOF-March-17-2016-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-March-17-2016-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T23:58:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c26f91928366da91bed789b58b41c819defaf6eb0701527cde2c4815c3e7b02",
+  "bytes": 29676,
+  "pages": 0,
+  "http_last_modified": "Mon, 29 Feb 2016 15:53:16 GMT",
+  "etag": "\"16e03ef-73ec-52ceaa59c3300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-03-17_BOF-March-17-2016-Special-Meeting-Agenda--5c26f9192836.pdf",
+  "versions": [
+    {
+      "sha256": "5c26f91928366da91bed789b58b41c819defaf6eb0701527cde2c4815c3e7b02",
+      "bytes": 29676,
+      "retrieved_utc": "2026-11-24T23:58:15+00:00",
+      "http_last_modified": "Mon, 29 Feb 2016 15:53:16 GMT"
+    }
+  ]
+}

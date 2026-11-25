@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Exhibit 4 1-2025 Shed Drawings 11 Hoskins St (pdf)",
+  "filename": "Exhibit-4-1-2025-Shed-Drawings-11-Hoskins-St.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/Exhibit-4-1-2025-Shed-Drawings-11-Hoskins-St.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-materials/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-25T02:16:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c198a4ce38965bf8c175917fa792c545d03f01f935ce7e7011639f3ae39a7c53",
+  "bytes": 147998,
+  "pages": 0,
+  "http_last_modified": "Wed, 30 Apr 2025 19:51:06 GMT",
+  "etag": "\"16c0209-2421e-634043cde9e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-04-01_Exhibit-4-1-2025-Shed-Drawings-11-Hoskins-St--c198a4ce3896.pdf",
+  "versions": [
+    {
+      "sha256": "c198a4ce38965bf8c175917fa792c545d03f01f935ce7e7011639f3ae39a7c53",
+      "bytes": 147998,
+      "retrieved_utc": "2026-11-25T02:16:20+00:00",
+      "http_last_modified": "Wed, 30 Apr 2025 19:51:06 GMT"
+    }
+  ]
+}

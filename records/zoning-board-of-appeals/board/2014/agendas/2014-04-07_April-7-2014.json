@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "April 7 2014 (pdf)",
+  "filename": "April-7-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/April-7-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zba-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T02:44:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "08de0304cfdf76e5d48dd2af9cfc4223e0fd0bb9a2ed8f0f0300d1fd6870e4d0",
+  "bytes": 46718,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT",
+  "etag": "\"16630b6-b67e-4fbaf4c5f3880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2014/2014-04-07_April-7-2014--08de0304cfdf.pdf",
+  "versions": [
+    {
+      "sha256": "08de0304cfdf76e5d48dd2af9cfc4223e0fd0bb9a2ed8f0f0300d1fd6870e4d0",
+      "bytes": 46718,
+      "retrieved_utc": "2026-11-25T02:44:45+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT"
+    }
+  ]
+}

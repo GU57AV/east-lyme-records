@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF April 25 2013 Special Meeting Minutes (pdf)",
+  "filename": "BOFspcMins04-25-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFspcMins04-25-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:52:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "80af52976655e9f432e9c38cc2b79189a89c1ee9e4de71fd5310447885121a34",
+  "bytes": 112141,
+  "pages": 0,
+  "http_last_modified": "Thu, 31 Jul 2014 14:48:22 GMT",
+  "etag": "\"1664076-1b60d-4ff7e5d3bb980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-04-25_BOFspcMins04-25-13--80af52976655.pdf",
+  "versions": [
+    {
+      "sha256": "80af52976655e9f432e9c38cc2b79189a89c1ee9e4de71fd5310447885121a34",
+      "bytes": 112141,
+      "retrieved_utc": "2026-11-25T00:52:55+00:00",
+      "http_last_modified": "Thu, 31 Jul 2014 14:48:22 GMT"
+    }
+  ]
+}

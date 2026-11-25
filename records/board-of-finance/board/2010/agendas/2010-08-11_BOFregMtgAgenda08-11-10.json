@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 08-11-2010 (pdf)",
+  "filename": "BOFregMtgAgenda08-11-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFregMtgAgenda08-11-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:21:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fb5e904da1c1b81be82fd30ed180165536dff0e4744188e459d87bf7367cada9",
+  "bytes": 64300,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:22 GMT",
+  "etag": "\"1663c53-fb2c-520826c844b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2010/2010-08-11_BOFregMtgAgenda08-11-10--fb5e904da1c1.pdf",
+  "versions": [
+    {
+      "sha256": "fb5e904da1c1b81be82fd30ed180165536dff0e4744188e459d87bf7367cada9",
+      "bytes": 64300,
+      "retrieved_utc": "2026-11-25T01:21:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:22 GMT"
+    }
+  ]
+}

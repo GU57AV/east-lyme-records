@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF May 8 2013 Cancellation (pdf)",
+  "filename": "BoFNoticeCancellation05-8-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BoFNoticeCancellation05-8-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:50:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c8bbb82a92fb7b07122a274819306cdbbc3ec377ac4364fc4ee035e6fa172ad7",
+  "bytes": 29930,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT",
+  "etag": "\"1661f49-74ea-520826c380040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-05-08_BoFNoticeCancellation05-8-13--c8bbb82a92fb.pdf",
+  "versions": [
+    {
+      "sha256": "c8bbb82a92fb7b07122a274819306cdbbc3ec377ac4364fc4ee035e6fa172ad7",
+      "bytes": 29930,
+      "retrieved_utc": "2026-11-25T00:50:14+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT"
+    }
+  ]
+}

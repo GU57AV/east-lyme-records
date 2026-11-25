@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF May 25 2016 Special Tour Agenda (pdf)",
+  "filename": "BOF-May-25-2016-Special-Tour-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-May-25-2016-Special-Tour-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T23:55:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b45e8d1a6df54189a365c2d5270ac9c3c2a7b8799d82d90373c8347672088917",
+  "bytes": 22889,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 May 2016 17:31:57 GMT",
+  "etag": "\"16e06b4-5969-5330d1e26bd40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-05-25_BOF-May-25-2016-Special-Tour-Agenda--b45e8d1a6df5.pdf",
+  "versions": [
+    {
+      "sha256": "b45e8d1a6df54189a365c2d5270ac9c3c2a7b8799d82d90373c8347672088917",
+      "bytes": 22889,
+      "retrieved_utc": "2026-11-24T23:55:15+00:00",
+      "http_last_modified": "Tue, 17 May 2016 17:31:57 GMT"
+    }
+  ]
+}

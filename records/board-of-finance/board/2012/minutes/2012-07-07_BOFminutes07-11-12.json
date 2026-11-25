@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOF Regular Meeting Minutes July 07, 2012 (pdf)",
+  "filename": "BOFminutes07-11-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFminutes07-11-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:00:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9d03fd435b034513f6a499e667e0c90688e704f84ccffe1b6d798c6a3ffbd9c4",
+  "bytes": 122155,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 13:19:26 GMT",
+  "etag": "\"1663cf7-1dd2b-5005a676ff380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-07-07_BOFminutes07-11-12--9d03fd435b03.pdf",
+  "versions": [
+    {
+      "sha256": "9d03fd435b034513f6a499e667e0c90688e704f84ccffe1b6d798c6a3ffbd9c4",
+      "bytes": 122155,
+      "retrieved_utc": "2026-11-25T01:00:16+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 13:19:26 GMT"
+    }
+  ]
+}

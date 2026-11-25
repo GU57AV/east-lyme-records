@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "ZBA July 20 2015 Agenda (Incorrect Date) (pdf)",
+  "filename": "ZBA-July-20-2015-Agenda1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBA-July-20-2015-Agenda1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:39:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b5c0659e11315fbc0f602edfed64ec31429b4039a4ea9f311034e64400cc3b2c",
+  "bytes": 44579,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:04 GMT",
+  "etag": "\"1663879-ae23-52082cf946700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2015/2015-07-20_ZBA-July-20-2015-Agenda1--b5c0659e1131.pdf",
+  "versions": [
+    {
+      "sha256": "b5c0659e11315fbc0f602edfed64ec31429b4039a4ea9f311034e64400cc3b2c",
+      "bytes": 44579,
+      "retrieved_utc": "2026-11-25T02:39:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:04 GMT"
+    }
+  ]
+}

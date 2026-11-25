@@ -1,7 +1,7 @@
 {
  "month": "2026-12",
  "source_url": "https://eltownhall.com/wp-json/my-calendar/v1/events?from=2026-12-01&to=2026-12-31",
- "sha256": "96a6da48f78d58c08c3f5c60b1ab5f3413186ecdbcf17f74c0165b25bf77f5d7",
+ "sha256": "117f17476be4d2c6f52ed87053f5a13efdc06956badd21164da69e27d6e12052",
  "note": "Unofficial snapshot of the Town of East Lyme calendar. Times are local (America/New_York).",
  "events": {
   "5529": {
@@ -24,11 +24,22 @@
    "begin": "2026-12-01 19:00",
    "end": "2026-12-01 20:00",
    "added": "2025-12-12 07:08",
-   "link": "",
+   "link": "https://eltownhall.com/wp-content/uploads/2026/11/IWA-December-1-2026-Agenda.pdf",
    "location": "",
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
-   "seen_in_backfill": true
+   "seen_in_backfill": true,
+   "history": [
+    {
+     "at": "2026-11-24T22:13:22+00:00",
+     "changes": {
+      "link": [
+       "",
+       "https://eltownhall.com/wp-content/uploads/2026/11/IWA-December-1-2026-Agenda.pdf"
+      ]
+     }
+    }
+   ]
   },
   "5125": {
    "occur_id": "5125",
@@ -37,11 +48,22 @@
    "begin": "2026-12-02 19:00",
    "end": "2026-12-02 20:00",
    "added": "2025-11-25 06:45",
-   "link": "",
+   "link": "https://eltownhall.com/wp-content/uploads/2026/11/BOS-December-2-2026-Agenda.pdf",
    "location": "",
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
-   "seen_in_backfill": true
+   "seen_in_backfill": true,
+   "history": [
+    {
+     "at": "2026-11-24T22:13:22+00:00",
+     "changes": {
+      "link": [
+       "",
+       "https://eltownhall.com/wp-content/uploads/2026/11/BOS-December-2-2026-Agenda.pdf"
+      ]
+     }
+    }
+   ]
   },
   "5666": {
    "occur_id": "5666",

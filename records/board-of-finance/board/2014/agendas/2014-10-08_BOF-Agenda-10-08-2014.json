@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF October 8 2014 Agenda (pdf)",
+  "filename": "BOF-Agenda-10-08-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Agenda-10-08-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:30:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d4b85c1f79d2d8e0e662311d243615b7adda273b3f5fddac760ba3862d573780",
+  "bytes": 30856,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Oct 2014 18:43:28 GMT",
+  "etag": "\"1663afe-7888-50474fe04d400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-10-08_BOF-Agenda-10-08-2014--d4b85c1f79d2.pdf",
+  "versions": [
+    {
+      "sha256": "d4b85c1f79d2d8e0e662311d243615b7adda273b3f5fddac760ba3862d573780",
+      "bytes": 30856,
+      "retrieved_utc": "2026-11-25T00:30:32+00:00",
+      "http_last_modified": "Thu, 02 Oct 2014 18:43:28 GMT"
+    }
+  ]
+}

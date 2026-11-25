@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BoFspecMtgAgenda09-27-12 (pdf)",
+  "filename": "BoFspecMtgAgenda09-27-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BoFspecMtgAgenda09-27-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:56:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0ab7970d14b6bc72c6867e34e700b18e79fd8adf754382a793a58c721d348d98",
+  "bytes": 52446,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT",
+  "etag": "\"1663a74-ccde-520826d1ce200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-00-00_BoFspecMtgAgenda09-27-12--0ab7970d14b6.pdf",
+  "versions": [
+    {
+      "sha256": "0ab7970d14b6bc72c6867e34e700b18e79fd8adf754382a793a58c721d348d98",
+      "bytes": 52446,
+      "retrieved_utc": "2026-11-25T00:56:15+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT"
+    }
+  ]
+}

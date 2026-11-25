@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF June 16 2015 Amended Agenda (pdf)",
+  "filename": "BOF-June-16-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-June-16-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:13:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6e894c64b96eb90ef6c7297201aa9f04f35fc5c22e5ea616499cab74a66c920a",
+  "bytes": 30426,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:55 GMT",
+  "etag": "\"1663984-76da-520826ae84ec0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-06-16_BOF-June-16-2015-Agenda--6e894c64b96e.pdf",
+  "versions": [
+    {
+      "sha256": "6e894c64b96eb90ef6c7297201aa9f04f35fc5c22e5ea616499cab74a66c920a",
+      "bytes": 30426,
+      "retrieved_utc": "2026-11-25T00:13:49+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:55 GMT"
+    }
+  ]
+}

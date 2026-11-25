@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 08-17-2011 (pdf)",
+  "filename": "BOFspcMtg-Agenda08-17-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFspcMtg-Agenda08-17-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:06:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "091076a9fa33b03b0f76962281ec8f3a5646dadbf607b201a6645e4221ed6484",
+  "bytes": 44634,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:28 GMT",
+  "etag": "\"166396f-ae5a-520826cdfd900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-08-17_BOFspcMtg-Agenda08-17-11--091076a9fa33.pdf",
+  "versions": [
+    {
+      "sha256": "091076a9fa33b03b0f76962281ec8f3a5646dadbf607b201a6645e4221ed6484",
+      "bytes": 44634,
+      "retrieved_utc": "2026-11-25T01:06:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:28 GMT"
+    }
+  ]
+}

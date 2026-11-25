@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "ZBA January 29 2018 Agenda (pdf)",
+  "filename": "ZBA-January-29-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/ZBA-January-29-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2018-agendas/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-25T02:36:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e5056e2026e89b0f37c14036a707bca39d46dfc5e9c0e5bcc3badfc180281f3d",
+  "bytes": 65051,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Jan 2018 21:01:50 GMT",
+  "etag": "\"16c0e78-fe1b-562eb0a1c0b80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2018/2018-01-29_ZBA-January-29-2018-Agenda--e5056e2026e8.pdf",
+  "versions": [
+    {
+      "sha256": "e5056e2026e89b0f37c14036a707bca39d46dfc5e9c0e5bcc3badfc180281f3d",
+      "bytes": 65051,
+      "retrieved_utc": "2026-11-25T02:36:23+00:00",
+      "http_last_modified": "Tue, 16 Jan 2018 21:01:50 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "other",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA APPLICATION FOR DETERMINATION OF PERMITTED / NON-REGULATED ACTIVITY (pdf)",
+  "filename": "Determination-of-Activity-2020.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Determination-of-Activity-2020.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-25T03:07:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c1220f08cb3f094d9ed65bd49df0906773b57ac29472468757e18ecd5c9b6f08",
+  "bytes": 167872,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Dec 2020 20:14:06 GMT",
+  "etag": "\"1661580-28fc0-5b56cc4c69f80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-12-00_Determination-of-Activity-2020--c1220f08cb3f.pdf",
+  "versions": [
+    {
+      "sha256": "c1220f08cb3f094d9ed65bd49df0906773b57ac29472468757e18ecd5c9b6f08",
+      "bytes": 167872,
+      "retrieved_utc": "2026-11-25T03:07:28+00:00",
+      "http_last_modified": "Tue, 01 Dec 2020 20:14:06 GMT"
+    }
+  ]
+}

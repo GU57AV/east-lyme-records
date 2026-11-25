@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZBA Minutes 04-30-2012 (pdf)",
+  "filename": "ZBAmins04-30-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBAmins04-30-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:47:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "36d38df7efd8daf35e4926fd5abc0c239b0ac5b30df58ec7f28d598f96d279ba",
+  "bytes": 90685,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Sep 2014 17:09:44 GMT",
+  "etag": "\"1663c30-1623d-5025489164600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2012/2012-04-30_ZBAmins04-30-12--36d38df7efd8.pdf",
+  "versions": [
+    {
+      "sha256": "36d38df7efd8daf35e4926fd5abc0c239b0ac5b30df58ec7f28d598f96d279ba",
+      "bytes": 90685,
+      "retrieved_utc": "2026-11-25T02:47:05+00:00",
+      "http_last_modified": "Fri, 05 Sep 2014 17:09:44 GMT"
+    }
+  ]
+}

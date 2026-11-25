@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 05-26-2010 (pdf)",
+  "filename": "BOFspecMtgAgenda05-26-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFspecMtgAgenda05-26-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:22:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "abcdd8240b5289431a8dfb1adeea1d2bebfad6e6a3be11ee4c60c42e4612ec13",
+  "bytes": 55248,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT",
+  "etag": "\"1663db0-d7d0-520826d1ce200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2010/2010-05-26_BOFspecMtgAgenda05-26-10--abcdd8240b52.pdf",
+  "versions": [
+    {
+      "sha256": "abcdd8240b5289431a8dfb1adeea1d2bebfad6e6a3be11ee4c60c42e4612ec13",
+      "bytes": 55248,
+      "retrieved_utc": "2026-11-25T01:22:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:32 GMT"
+    }
+  ]
+}

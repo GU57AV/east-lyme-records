@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOFagenda08-08-12 (pdf)",
+  "filename": "BOFagenda08-08-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFagenda08-08-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:56:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8caa2db26ac893e83f3700f278bfa24cc5451662934394fd8bead13549ce10b8",
+  "bytes": 29582,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 12:28:18 GMT",
+  "etag": "\"1661f76-738e-50059b091fc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-00-00_BOFagenda08-08-12--8caa2db26ac8.pdf",
+  "versions": [
+    {
+      "sha256": "8caa2db26ac893e83f3700f278bfa24cc5451662934394fd8bead13549ce10b8",
+      "bytes": 29582,
+      "retrieved_utc": "2026-11-25T00:56:56+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 12:28:18 GMT"
+    }
+  ]
+}

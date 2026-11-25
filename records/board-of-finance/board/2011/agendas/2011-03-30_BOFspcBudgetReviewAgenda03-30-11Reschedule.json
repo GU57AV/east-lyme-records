@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 03-30-2011 (pdf)",
+  "filename": "BOFspcBudgetReviewAgenda03-30-11Reschedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFspcBudgetReviewAgenda03-30-11Reschedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:09:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "30a1f146efb67780f5984bce3e934b13dc9b604439a838780f912598149b408f",
+  "bytes": 34476,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:28 GMT",
+  "etag": "\"1663db2-86ac-520826cdfd900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-03-30_BOFspcBudgetReviewAgenda03-30-11Reschedule--30a1f146efb6.pdf",
+  "versions": [
+    {
+      "sha256": "30a1f146efb67780f5984bce3e934b13dc9b604439a838780f912598149b408f",
+      "bytes": 34476,
+      "retrieved_utc": "2026-11-25T01:09:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:28 GMT"
+    }
+  ]
+}

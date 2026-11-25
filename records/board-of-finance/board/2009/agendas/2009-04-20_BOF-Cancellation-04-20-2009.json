@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOF Cancellation 04-20-2009 (pdf)",
+  "filename": "BOF-Cancellation-04-20-2009.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Cancellation-04-20-2009.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2009-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:40:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c52bbbc276c78c7202e8de0b60b0ef2fd59a3bee68163f774cc038647c8727e9",
+  "bytes": 29224,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:50 GMT",
+  "etag": "\"1664115-7228-520826a9c0380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2009/2009-04-20_BOF-Cancellation-04-20-2009--c52bbbc276c7.pdf",
+  "versions": [
+    {
+      "sha256": "c52bbbc276c78c7202e8de0b60b0ef2fd59a3bee68163f774cc038647c8727e9",
+      "bytes": 29224,
+      "retrieved_utc": "2026-11-25T01:40:01+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:50 GMT"
+    }
+  ]
+}

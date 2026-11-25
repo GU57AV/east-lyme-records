@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF March 25 2015 Cancellation (pdf)",
+  "filename": "BOF-Cancellation-03-25-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Cancellation-03-25-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:17:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9717f251c20c99e7bd2de202c2af43dd70659c708f5c8b1a1320ce173abbfbb5",
+  "bytes": 33046,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:50 GMT",
+  "etag": "\"1661f83-8116-520826a9c0380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-03-25_BOF-Cancellation-03-25-2015--9717f251c20c.pdf",
+  "versions": [
+    {
+      "sha256": "9717f251c20c99e7bd2de202c2af43dd70659c708f5c8b1a1320ce173abbfbb5",
+      "bytes": 33046,
+      "retrieved_utc": "2026-11-25T00:17:10+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:50 GMT"
+    }
+  ]
+}

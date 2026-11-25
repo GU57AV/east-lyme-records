@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2014 Regular Meeting Minutes (pdf)",
+  "filename": "BOF-Regular-Meeting-Minutes-03-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOF-Regular-Meeting-Minutes-03-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T00:47:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ed14c28d15d5bc5bcdb3108e75d00278f1cdc6b129266783c483df88f9983d67",
+  "bytes": 474885,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:06:45 GMT",
+  "etag": "\"1663103-73f05-52082180e9740\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-03-12_BOF-Regular-Meeting-Minutes-03-12-2014--ed14c28d15d5.pdf",
+  "versions": [
+    {
+      "sha256": "ed14c28d15d5bc5bcdb3108e75d00278f1cdc6b129266783c483df88f9983d67",
+      "bytes": 474885,
+      "retrieved_utc": "2026-11-25T00:47:25+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:06:45 GMT"
+    }
+  ]
+}

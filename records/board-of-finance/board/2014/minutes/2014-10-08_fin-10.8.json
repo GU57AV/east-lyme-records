@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF October 8 2014 Special Meeting Minutes (pdf)",
+  "filename": "fin-10.8.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/fin-10.8.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:40:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2bcb6e2c651a558f08784d6b4bc185c6b5431d79610ed06bd91f3b22af8d39ee",
+  "bytes": 290472,
+  "pages": 0,
+  "http_last_modified": "Wed, 15 Oct 2014 14:07:24 GMT",
+  "etag": "\"1661ba7-46ea8-50576a6aa1f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-10-08_fin-10.8--2bcb6e2c651a.pdf",
+  "versions": [
+    {
+      "sha256": "2bcb6e2c651a558f08784d6b4bc185c6b5431d79610ed06bd91f3b22af8d39ee",
+      "bytes": 290472,
+      "retrieved_utc": "2026-11-25T00:40:06+00:00",
+      "http_last_modified": "Wed, 15 Oct 2014 14:07:24 GMT"
+    }
+  ]
+}

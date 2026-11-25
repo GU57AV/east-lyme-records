@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "ZBA September 9 2024 Minutes (pdf)",
+  "filename": "ZBA-September-9-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/ZBA-September-9-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2024-minutes/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-25T02:21:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "702572bef71b1ff1e4cdba2fbb66da1921c5d158ac8746ac439effe8f236df80",
+  "bytes": 70041,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Sep 2024 12:16:26 GMT",
+  "etag": "\"1680959-11199-621eb135a9a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2024/2024-09-09_ZBA-September-9-2024-Minutes--702572bef71b.pdf",
+  "versions": [
+    {
+      "sha256": "702572bef71b1ff1e4cdba2fbb66da1921c5d158ac8746ac439effe8f236df80",
+      "bytes": 70041,
+      "retrieved_utc": "2026-11-25T02:21:01+00:00",
+      "http_last_modified": "Thu, 12 Sep 2024 12:16:26 GMT"
+    }
+  ]
+}

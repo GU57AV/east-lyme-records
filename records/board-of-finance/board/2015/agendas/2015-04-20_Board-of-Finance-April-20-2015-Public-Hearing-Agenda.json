@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF April 20 2015 Public Hearing Agenda (pdf)",
+  "filename": "Board-of-Finance-April-20-2015-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Board-of-Finance-April-20-2015-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:15:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9ca33d5ad53198474acbc59b2acc9432c4db9aa4173ffe627ae34ca2739d4055",
+  "bytes": 47142,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:45 GMT",
+  "etag": "\"1663ba1-b826-5208266bc3140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-04-20_Board-of-Finance-April-20-2015-Public-Hearing-Agenda--9ca33d5ad531.pdf",
+  "versions": [
+    {
+      "sha256": "9ca33d5ad53198474acbc59b2acc9432c4db9aa4173ffe627ae34ca2739d4055",
+      "bytes": 47142,
+      "retrieved_utc": "2026-11-25T00:15:29+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:45 GMT"
+    }
+  ]
+}

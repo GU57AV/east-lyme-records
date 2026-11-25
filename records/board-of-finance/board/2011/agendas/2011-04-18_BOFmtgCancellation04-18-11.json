@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Cancellation 04-18-2011 (pdf)",
+  "filename": "BOFmtgCancellation04-18-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFmtgCancellation04-18-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:08:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f4bc70130bb856bca44abdf294d5ea30a0c9e58dd1748c7e99c21850637d5b22",
+  "bytes": 27774,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT",
+  "etag": "\"1663d3a-6c7e-520826c380040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-04-18_BOFmtgCancellation04-18-11--f4bc70130bb8.pdf",
+  "versions": [
+    {
+      "sha256": "f4bc70130bb856bca44abdf294d5ea30a0c9e58dd1748c7e99c21850637d5b22",
+      "bytes": 27774,
+      "retrieved_utc": "2026-11-25T01:08:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT"
+    }
+  ]
+}

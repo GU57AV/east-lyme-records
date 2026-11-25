@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF April 13 2015 Special Meeting Minutes (pdf)",
+  "filename": "BOF-April-13-2015-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-April-13-2015-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:25:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3d55e32011f660ed0a9df320d56e31fbbade9632bc7e0c58d9db88040215196a",
+  "bytes": 264905,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:48 GMT",
+  "etag": "\"166382d-40ac9-520826a7d7f00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-04-13_BOF-April-13-2015-Special-Meeting-Minutes--3d55e32011f6.pdf",
+  "versions": [
+    {
+      "sha256": "3d55e32011f660ed0a9df320d56e31fbbade9632bc7e0c58d9db88040215196a",
+      "bytes": 264905,
+      "retrieved_utc": "2026-11-25T00:25:52+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:48 GMT"
+    }
+  ]
+}

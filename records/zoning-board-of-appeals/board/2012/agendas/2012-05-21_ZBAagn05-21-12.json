@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "ZBA Agenda 05-21-2012 (pdf)",
+  "filename": "ZBAagn05-21-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBAagn05-21-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:46:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f07fe8258b6528daf16ce34593db3debbbd43943986d36e4c540251678d0abc3",
+  "bytes": 45211,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Sep 2014 17:05:44 GMT",
+  "etag": "\"1663c24-b09b-502547ac82a00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2012/2012-05-21_ZBAagn05-21-12--f07fe8258b65.pdf",
+  "versions": [
+    {
+      "sha256": "f07fe8258b6528daf16ce34593db3debbbd43943986d36e4c540251678d0abc3",
+      "bytes": 45211,
+      "retrieved_utc": "2026-11-25T02:46:05+00:00",
+      "http_last_modified": "Fri, 05 Sep 2014 17:05:44 GMT"
+    }
+  ]
+}

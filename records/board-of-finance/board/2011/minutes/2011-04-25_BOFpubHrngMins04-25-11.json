@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Minutes 04-25-2011 (pdf)",
+  "filename": "BOFpubHrngMins04-25-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFpubHrngMins04-25-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:16:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "50505c73390f4c54dd99db80bdf4d1dc14df5f471850bc1ce3eee82671b4e1cb",
+  "bytes": 111228,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2014 15:53:46 GMT",
+  "etag": "\"1663774-1b27c-501b28aadb680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-04-25_BOFpubHrngMins04-25-11--50505c73390f.pdf",
+  "versions": [
+    {
+      "sha256": "50505c73390f4c54dd99db80bdf4d1dc14df5f471850bc1ce3eee82671b4e1cb",
+      "bytes": 111228,
+      "retrieved_utc": "2026-11-25T01:16:17+00:00",
+      "http_last_modified": "Thu, 28 Aug 2014 15:53:46 GMT"
+    }
+  ]
+}

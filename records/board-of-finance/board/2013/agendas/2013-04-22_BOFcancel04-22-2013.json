@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF April 22 2013 Cancellation (pdf)",
+  "filename": "BOFcancel04-22-2013.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFcancel04-22-2013.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:50:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cfe21a408255863708efd13e982e1dfba3a4f4c746c18e12cf8a8fb1d6779718",
+  "bytes": 14417,
+  "pages": 0,
+  "http_last_modified": "Thu, 31 Jul 2014 14:08:52 GMT",
+  "etag": "\"1661fc7-3851-4ff7dcff86500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-04-22_BOFcancel04-22-2013--cfe21a408255.pdf",
+  "versions": [
+    {
+      "sha256": "cfe21a408255863708efd13e982e1dfba3a4f4c746c18e12cf8a8fb1d6779718",
+      "bytes": 14417,
+      "retrieved_utc": "2026-11-25T00:50:55+00:00",
+      "http_last_modified": "Thu, 31 Jul 2014 14:08:52 GMT"
+    }
+  ]
+}

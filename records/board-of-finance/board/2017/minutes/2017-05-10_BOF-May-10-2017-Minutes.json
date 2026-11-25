@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF May 10 2017 Minutes (pdf)",
+  "filename": "BOF-May-10-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BOF-May-10-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T23:46:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "88b7cac3d66566b7e2e07b742ec2cb7c88139cd3b4c1897b85f387d67fc021b2",
+  "bytes": 293118,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 May 2017 14:47:49 GMT",
+  "etag": "\"1662569-478fe-54f91238f4f40\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-05-10_BOF-May-10-2017-Minutes--88b7cac3d665.pdf",
+  "versions": [
+    {
+      "sha256": "88b7cac3d66566b7e2e07b742ec2cb7c88139cd3b4c1897b85f387d67fc021b2",
+      "bytes": 293118,
+      "retrieved_utc": "2026-11-24T23:46:10+00:00",
+      "http_last_modified": "Mon, 15 May 2017 14:47:49 GMT"
+    }
+  ]
+}

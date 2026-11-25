@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF November 30 2016 Special Meeting Minutes (pdf)",
+  "filename": "Board-of-Finance-November-30-2016-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Board-of-Finance-November-30-2016-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T00:01:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "97132d6333288cbde02879bd3e9f8c4dce9b7a75d6492b42f812326c2898cbd8",
+  "bytes": 267988,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Dec 2016 15:11:21 GMT",
+  "etag": "\"16e04a3-416d4-542fed11cb840\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-11-30_Board-of-Finance-November-30-2016-Special-Meeting-Minutes--97132d633328.pdf",
+  "versions": [
+    {
+      "sha256": "97132d6333288cbde02879bd3e9f8c4dce9b7a75d6492b42f812326c2898cbd8",
+      "bytes": 267988,
+      "retrieved_utc": "2026-11-25T00:01:16+00:00",
+      "http_last_modified": "Tue, 06 Dec 2016 15:11:21 GMT"
+    }
+  ]
+}

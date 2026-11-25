@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BOF April 3 2017 Special Meeting Minutes (pdf)",
+  "filename": "Board-of-Finance-April-3-2017-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Board-of-Finance-April-3-2017-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-24T23:48:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "84abc159383eb9a3ed4f5cf1b0e3df21173b9d134d64cae6556dc14be5425c76",
+  "bytes": 569343,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Apr 2017 19:43:12 GMT",
+  "etag": "\"16627c5-8afff-54cd52f7cb400\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2017/2017-04-03_Board-of-Finance-April-3-2017-Special-Meeting-Minutes--84abc159383e.pdf",
+  "versions": [
+    {
+      "sha256": "84abc159383eb9a3ed4f5cf1b0e3df21173b9d134d64cae6556dc14be5425c76",
+      "bytes": 569343,
+      "retrieved_utc": "2026-11-24T23:48:17+00:00",
+      "http_last_modified": "Mon, 10 Apr 2017 19:43:12 GMT"
+    }
+  ]
+}

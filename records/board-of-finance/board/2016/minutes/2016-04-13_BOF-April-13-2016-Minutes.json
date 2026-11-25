@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF April 13 2016 Minutes (pdf)",
+  "filename": "BOF-April-13-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-April-13-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T00:07:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e06ac973856700f350682bb25306f846539bb82cc4da512447b4d5ec7dcc5f7b",
+  "bytes": 1436597,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Apr 2016 15:14:13 GMT",
+  "etag": "\"16e042b-15ebb5-5308776a81b40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-04-13_BOF-April-13-2016-Minutes--e06ac9738567.pdf",
+  "versions": [
+    {
+      "sha256": "e06ac973856700f350682bb25306f846539bb82cc4da512447b4d5ec7dcc5f7b",
+      "bytes": 1436597,
+      "retrieved_utc": "2026-11-25T00:07:22+00:00",
+      "http_last_modified": "Fri, 15 Apr 2016 15:14:13 GMT"
+    }
+  ]
+}

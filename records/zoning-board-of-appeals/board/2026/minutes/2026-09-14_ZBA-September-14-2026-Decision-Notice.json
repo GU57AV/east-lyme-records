@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "ZBA September 14 2026 Decision Notice (pdf)",
+  "filename": "ZBA-September-14-2026-Decision-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/ZBA-September-14-2026-Decision-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2026-minutes/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-25T02:07:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0d51f4c9b9f7ab83eca6b1b8deaa3f9e4679a23a47793c58410e9b32959538c4",
+  "bytes": 52203,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Sep 2026 17:44:12 GMT",
+  "etag": "\"16e0f9a-cbeb-65c2a07f9c31e\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2026/2026-09-14_ZBA-September-14-2026-Decision-Notice--0d51f4c9b9f7.pdf",
+  "versions": [
+    {
+      "sha256": "0d51f4c9b9f7ab83eca6b1b8deaa3f9e4679a23a47793c58410e9b32959538c4",
+      "bytes": 52203,
+      "retrieved_utc": "2026-11-25T02:07:57+00:00",
+      "http_last_modified": "Wed, 23 Sep 2026 17:44:12 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "January 27 2014 Minutes (pdf)",
+  "filename": "January-27-2014-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/January-27-2014-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zba-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T02:45:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1b6c0194f07d0e81acd0b3457c7a173b7347a8e66b6b2c191f7883be12145a2d",
+  "bytes": 921646,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:08:34 GMT",
+  "etag": "\"16630d3-e102e-520821e8dcc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2014/2014-01-27_January-27-2014-Minutes--1b6c0194f07d.pdf",
+  "versions": [
+    {
+      "sha256": "1b6c0194f07d0e81acd0b3457c7a173b7347a8e66b6b2c191f7883be12145a2d",
+      "bytes": 921646,
+      "retrieved_utc": "2026-11-25T02:45:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:08:34 GMT"
+    }
+  ]
+}

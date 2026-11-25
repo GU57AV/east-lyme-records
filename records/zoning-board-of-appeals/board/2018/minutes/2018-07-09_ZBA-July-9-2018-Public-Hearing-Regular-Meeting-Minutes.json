@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "ZBA July 9 2018 Public Hearing & Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-July-9-2018-Public-Hearing-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/07/ZBA-July-9-2018-Public-Hearing-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2018-minutes/",
+  "upload_folder": "2018-07",
+  "first_seen_utc": "2026-11-25T02:36:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d616ab46db79a9345623131d502240af824c826a62f4e8aa5679b583d0cb463b",
+  "bytes": 477769,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Jul 2018 14:59:51 GMT",
+  "etag": "\"16c1823-74a49-570ce9d77c7c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2018/2018-07-09_ZBA-July-9-2018-Public-Hearing-Regular-Meeting-Minutes--d616ab46db79.pdf",
+  "versions": [
+    {
+      "sha256": "d616ab46db79a9345623131d502240af824c826a62f4e8aa5679b583d0cb463b",
+      "bytes": 477769,
+      "retrieved_utc": "2026-11-25T02:36:43+00:00",
+      "http_last_modified": "Thu, 12 Jul 2018 14:59:51 GMT"
+    }
+  ]
+}

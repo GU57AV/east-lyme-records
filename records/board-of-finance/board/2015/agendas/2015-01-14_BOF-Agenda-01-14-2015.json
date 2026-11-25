@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF January 14 2015 Agenda (pdf)",
+  "filename": "BOF-Agenda-01-14-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Agenda-01-14-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:20:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "99383636ca2de44431ffb0e5e0acb420db90f2413366edd7ea58f8d2b49a34dc",
+  "bytes": 40666,
+  "pages": 0,
+  "http_last_modified": "Fri, 09 Jan 2015 13:10:32 GMT",
+  "etag": "\"16639a2-9eda-50c37e1a56200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-01-14_BOF-Agenda-01-14-2015--99383636ca2d.pdf",
+  "versions": [
+    {
+      "sha256": "99383636ca2de44431ffb0e5e0acb420db90f2413366edd7ea58f8d2b49a34dc",
+      "bytes": 40666,
+      "retrieved_utc": "2026-11-25T00:20:30+00:00",
+      "http_last_modified": "Fri, 09 Jan 2015 13:10:32 GMT"
+    }
+  ]
+}

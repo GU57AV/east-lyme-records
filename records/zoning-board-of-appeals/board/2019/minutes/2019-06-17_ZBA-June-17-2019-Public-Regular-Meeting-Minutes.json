@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "ZBA June 17 2019 Public & Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-June-17-2019-Public-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/06/ZBA-June-17-2019-Public-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2019-minutes/",
+  "upload_folder": "2019-06",
+  "first_seen_utc": "2026-11-25T02:35:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a8a53961f833834f6591ff9a0c70aa66fa46d72185151e74826275536f933e37",
+  "bytes": 159482,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Jun 2019 14:18:12 GMT",
+  "etag": "\"16c1d23-26efa-58bc20415b100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2019/2019-06-17_ZBA-June-17-2019-Public-Regular-Meeting-Minutes--a8a53961f833.pdf",
+  "versions": [
+    {
+      "sha256": "a8a53961f833834f6591ff9a0c70aa66fa46d72185151e74826275536f933e37",
+      "bytes": 159482,
+      "retrieved_utc": "2026-11-25T02:35:03+00:00",
+      "http_last_modified": "Thu, 20 Jun 2019 14:18:12 GMT"
+    }
+  ]
+}

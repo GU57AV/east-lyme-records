@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF September 11 2013 Meeting Minutes (pdf)",
+  "filename": "BOFmins09-11-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFmins09-11-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:51:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f690f13b0d1e800236f8b1f910bd0124c8550c85c6d4ab222bd84010132da09",
+  "bytes": 117706,
+  "pages": 0,
+  "http_last_modified": "Thu, 31 Jul 2014 14:48:16 GMT",
+  "etag": "\"1661f36-1cbca-4ff7e5ce02c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-09-11_BOFmins09-11-13--7f690f13b0d1.pdf",
+  "versions": [
+    {
+      "sha256": "7f690f13b0d1e800236f8b1f910bd0124c8550c85c6d4ab222bd84010132da09",
+      "bytes": 117706,
+      "retrieved_utc": "2026-11-25T00:51:35+00:00",
+      "http_last_modified": "Thu, 31 Jul 2014 14:48:16 GMT"
+    }
+  ]
+}

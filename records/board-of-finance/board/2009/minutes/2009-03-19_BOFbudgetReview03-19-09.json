@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOF Minutes 03-19-2009 (pdf)",
+  "filename": "BOFbudgetReview03-19-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFbudgetReview03-19-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:49:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c6920e33557553fa20eb1c939e6165dec4ed457ceede1c6a826377cc9df1c458",
+  "bytes": 156301,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:13 GMT",
+  "etag": "\"1663922-2628d-520826bfaf740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2009/2009-03-19_BOFbudgetReview03-19-09--c6920e335575.pdf",
+  "versions": [
+    {
+      "sha256": "c6920e33557553fa20eb1c939e6165dec4ed457ceede1c6a826377cc9df1c458",
+      "bytes": 156301,
+      "retrieved_utc": "2026-11-25T01:49:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:13 GMT"
+    }
+  ]
+}

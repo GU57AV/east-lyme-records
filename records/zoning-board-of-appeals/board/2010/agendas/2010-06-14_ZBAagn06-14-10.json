@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "ZBA Agenda 06-14-2010 (pdf)",
+  "filename": "ZBAagn06-14-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBAagn06-14-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:48:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "834565a979adf44e0889b9a67791fff1fc25901e7b172ae246155b91a3280ae1",
+  "bytes": 42595,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Sep 2014 14:10:48 GMT",
+  "etag": "\"1663853-a663-50252092bea00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2010/2010-06-14_ZBAagn06-14-10--834565a979ad.pdf",
+  "versions": [
+    {
+      "sha256": "834565a979adf44e0889b9a67791fff1fc25901e7b172ae246155b91a3280ae1",
+      "bytes": 42595,
+      "retrieved_utc": "2026-11-25T02:48:45+00:00",
+      "http_last_modified": "Fri, 05 Sep 2014 14:10:48 GMT"
+    }
+  ]
+}

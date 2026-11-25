@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF December 14 2016 Agenda (pdf)",
+  "filename": "Board-of-Finance-December-14-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Board-of-Finance-December-14-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T23:51:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ef22f3ae5e866bcc9da7fb41181c648f79249fde43463fdd4923b55b7ee1abb6",
+  "bytes": 39670,
+  "pages": 0,
+  "http_last_modified": "Fri, 09 Dec 2016 20:43:24 GMT",
+  "etag": "\"16e04ef-9af6-5433fce23b300\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-12-14_Board-of-Finance-December-14-2016-Agenda--ef22f3ae5e86.pdf",
+  "versions": [
+    {
+      "sha256": "ef22f3ae5e866bcc9da7fb41181c648f79249fde43463fdd4923b55b7ee1abb6",
+      "bytes": 39670,
+      "retrieved_utc": "2026-11-24T23:51:54+00:00",
+      "http_last_modified": "Fri, 09 Dec 2016 20:43:24 GMT"
+    }
+  ]
+}

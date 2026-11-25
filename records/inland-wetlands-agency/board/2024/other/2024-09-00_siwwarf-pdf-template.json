@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "DEEP IW&W ACTIVITY REPORTING FORM (pdf)",
+  "filename": "siwwarf-pdf-template.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/siwwarf-pdf-template.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-25T03:07:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "35013f969a9292e1c79e10bc1c33322731185ef107378a4af02679e47d98a562",
+  "bytes": 519519,
+  "pages": 0,
+  "http_last_modified": "Fri, 20 Sep 2024 14:04:34 GMT",
+  "etag": "\"16808f9-7ed5f-6228d84cca080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-09-00_siwwarf-pdf-template--35013f969a92.pdf",
+  "versions": [
+    {
+      "sha256": "35013f969a9292e1c79e10bc1c33322731185ef107378a4af02679e47d98a562",
+      "bytes": 519519,
+      "retrieved_utc": "2026-11-25T03:07:48+00:00",
+      "http_last_modified": "Fri, 20 Sep 2024 14:04:34 GMT"
+    }
+  ]
+}

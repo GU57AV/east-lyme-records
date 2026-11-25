@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOF May 30 2013 Special Meeting Minutes (pdf)",
+  "filename": "BOFspecialMins05-30-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFspecialMins05-30-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:52:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f73ea93ce5297dcf7aeffb7ab4bc2019a6e6c119d00349832ca1a45624f59557",
+  "bytes": 120332,
+  "pages": 0,
+  "http_last_modified": "Thu, 31 Jul 2014 14:48:32 GMT",
+  "etag": "\"166149b-1d60c-4ff7e5dd45000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2013/2013-05-30_BOFspecialMins05-30-13--f73ea93ce529.pdf",
+  "versions": [
+    {
+      "sha256": "f73ea93ce5297dcf7aeffb7ab4bc2019a6e6c119d00349832ca1a45624f59557",
+      "bytes": 120332,
+      "retrieved_utc": "2026-11-25T00:52:35+00:00",
+      "http_last_modified": "Thu, 31 Jul 2014 14:48:32 GMT"
+    }
+  ]
+}

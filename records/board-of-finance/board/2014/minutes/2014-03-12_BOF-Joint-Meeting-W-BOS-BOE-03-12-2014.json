@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2014 Joint Meeting W BOS & BOE (pdf)",
+  "filename": "BOF-Joint-Meeting-W-BOS-BOE-03-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOF-Joint-Meeting-W-BOS-BOE-03-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T00:46:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "55f6f67f933af9a8c1ca7f0b5f8edea71f857af9650183be93b2d3ec29145578",
+  "bytes": 1157530,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:06:32 GMT",
+  "etag": "\"1663097-11a99a-5208217483a00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-03-12_BOF-Joint-Meeting-W-BOS-BOE-03-12-2014--55f6f67f933a.pdf",
+  "versions": [
+    {
+      "sha256": "55f6f67f933af9a8c1ca7f0b5f8edea71f857af9650183be93b2d3ec29145578",
+      "bytes": 1157530,
+      "retrieved_utc": "2026-11-25T00:46:15+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:06:32 GMT"
+    }
+  ]
+}

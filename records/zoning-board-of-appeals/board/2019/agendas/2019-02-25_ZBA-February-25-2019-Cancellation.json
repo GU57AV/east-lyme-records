@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "ZBA February 25 2019 Cancellation (pdf)",
+  "filename": "ZBA-February-25-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/ZBA-February-25-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-25T02:34:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4642b5fc15cb2d5ecf6f51b3e8d0735e90bbc388e6ca58568689e0659e70773a",
+  "bytes": 29976,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 Feb 2019 17:28:12 GMT",
+  "etag": "\"16c1dd6-7518-58256ae9ee300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2019/2019-02-25_ZBA-February-25-2019-Cancellation--4642b5fc15cb.pdf",
+  "versions": [
+    {
+      "sha256": "4642b5fc15cb2d5ecf6f51b3e8d0735e90bbc388e6ca58568689e0659e70773a",
+      "bytes": 29976,
+      "retrieved_utc": "2026-11-25T02:34:03+00:00",
+      "http_last_modified": "Wed, 20 Feb 2019 17:28:12 GMT"
+    }
+  ]
+}

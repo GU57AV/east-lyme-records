@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF April 13 2016 Agenda (pdf)",
+  "filename": "BOF-April-13-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-April-13-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T23:56:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9cc03c952ede53dd610340c52f06311f48bf05ce795ef773732a36a5e910a1cb",
+  "bytes": 55410,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Apr 2016 18:53:43 GMT",
+  "etag": "\"16e0444-d872-52ffdb6c2bbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-04-13_BOF-April-13-2016-Agenda--9cc03c952ede.pdf",
+  "versions": [
+    {
+      "sha256": "9cc03c952ede53dd610340c52f06311f48bf05ce795ef773732a36a5e910a1cb",
+      "bytes": 55410,
+      "retrieved_utc": "2026-11-24T23:56:55+00:00",
+      "http_last_modified": "Fri, 08 Apr 2016 18:53:43 GMT"
+    }
+  ]
+}

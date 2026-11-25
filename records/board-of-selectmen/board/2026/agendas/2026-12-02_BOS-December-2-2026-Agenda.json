@@ -1,0 +1,29 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS December 2 2026 Agenda (pdf)",
+  "filename": "BOS-December-2-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/BOS-December-2-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-24T22:39:45+00:00",
+  "seen_in_initial_import": false,
+  "not_on_site_at_utc": "2026-11-24T17:14:26+00:00",
+  "sha256": "1c9f2d56440845eb5b5ba0b3b76e41a5a1e134a349186252f25f97a2e8ab0e67",
+  "bytes": 53221,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Nov 2026 20:34:42 GMT",
+  "etag": "\"17c0198-cfe5-6610ba3ea1106\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/2026-12-02_BOS-December-2-2026-Agenda--1c9f2d564408.pdf",
+  "versions": [
+    {
+      "sha256": "1c9f2d56440845eb5b5ba0b3b76e41a5a1e134a349186252f25f97a2e8ab0e67",
+      "bytes": 53221,
+      "retrieved_utc": "2026-11-24T22:39:45+00:00",
+      "http_last_modified": "Tue, 24 Nov 2026 20:34:42 GMT"
+    }
+  ]
+}

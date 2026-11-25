@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF July 13 2016 Cancelled (pdf)",
+  "filename": "BOF-July-13-2016-Cancelled.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-July-13-2016-Cancelled.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-24T23:54:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a5414a32500e89be3a476e93f9d3af4b53cc080cceb202dec0749a8c5125e53b",
+  "bytes": 36481,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Jul 2016 19:38:43 GMT",
+  "etag": "\"16e046d-8e81-53710d56936c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-07-13_BOF-July-13-2016-Cancelled--a5414a32500e.pdf",
+  "versions": [
+    {
+      "sha256": "a5414a32500e89be3a476e93f9d3af4b53cc080cceb202dec0749a8c5125e53b",
+      "bytes": 36481,
+      "retrieved_utc": "2026-11-24T23:54:35+00:00",
+      "http_last_modified": "Thu, 07 Jul 2016 19:38:43 GMT"
+    }
+  ]
+}

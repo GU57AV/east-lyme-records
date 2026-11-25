@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Minutes 04-13-2011 (pdf)",
+  "filename": "BOFregMtgMins04-13-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFregMtgMins04-13-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:16:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d211069a1696c76a93ef4a8160b6010eb189fc5956e1b33969e66750e97440d4",
+  "bytes": 158469,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2014 15:54:06 GMT",
+  "etag": "\"1661fa0-26b05-501b28bdee380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-04-13_BOFregMtgMins04-13-11--d211069a1696.pdf",
+  "versions": [
+    {
+      "sha256": "d211069a1696c76a93ef4a8160b6010eb189fc5956e1b33969e66750e97440d4",
+      "bytes": 158469,
+      "retrieved_utc": "2026-11-25T01:16:37+00:00",
+      "http_last_modified": "Thu, 28 Aug 2014 15:54:06 GMT"
+    }
+  ]
+}

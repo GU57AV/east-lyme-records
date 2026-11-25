@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "ZBA June 2 2025 Public Hearing Notice (pdf)",
+  "filename": "ZBA-June-2-2025-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/ZBA-June-2-2025-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-agendas/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-25T02:10:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b176da468a506ba4c4e4f91c8414793a021b554a6ffe175ceeb75b1cdbd414b4",
+  "bytes": 52845,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 May 2025 12:46:35 GMT",
+  "etag": "\"16a15ff-ce6d-63517f07540c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-06-02_ZBA-June-2-2025-Public-Hearing-Notice--b176da468a50.pdf",
+  "versions": [
+    {
+      "sha256": "b176da468a506ba4c4e4f91c8414793a021b554a6ffe175ceeb75b1cdbd414b4",
+      "bytes": 52845,
+      "retrieved_utc": "2026-11-25T02:10:48+00:00",
+      "http_last_modified": "Wed, 14 May 2025 12:46:35 GMT"
+    }
+  ]
+}

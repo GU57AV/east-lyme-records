@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "ZBA September 9 2024 Agenda (pdf)",
+  "filename": "ZBA-September-9-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/ZBA-September-9-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-25T02:18:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "374b3fd62b5a58e80d4654eb47eea3debef3b3ec80788d6ef0010acafa82bdcf",
+  "bytes": 39393,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Sep 2024 15:02:35 GMT",
+  "etag": "\"1680902-99e1-6216094a9d8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2024/2024-09-09_ZBA-September-9-2024-Agenda--374b3fd62b5a.pdf",
+  "versions": [
+    {
+      "sha256": "374b3fd62b5a58e80d4654eb47eea3debef3b3ec80788d6ef0010acafa82bdcf",
+      "bytes": 39393,
+      "retrieved_utc": "2026-11-25T02:18:20+00:00",
+      "http_last_modified": "Thu, 05 Sep 2024 15:02:35 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF September 14 2016 Minutes (pdf)",
+  "filename": "Board-of-Finance-September-14-2016.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Board-of-Finance-September-14-2016.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T00:01:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "10b796f44ade95d781829c5fbf6df3853583056c7a33512db5a2cb6bb38d10dc",
+  "bytes": 536375,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Sep 2016 15:18:28 GMT",
+  "etag": "\"16e05d1-82f37-53c8d5b937900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-09-14_Board-of-Finance-September-14-2016--10b796f44ade.pdf",
+  "versions": [
+    {
+      "sha256": "10b796f44ade95d781829c5fbf6df3853583056c7a33512db5a2cb6bb38d10dc",
+      "bytes": 536375,
+      "retrieved_utc": "2026-11-25T00:01:36+00:00",
+      "http_last_modified": "Thu, 15 Sep 2016 15:18:28 GMT"
+    }
+  ]
+}

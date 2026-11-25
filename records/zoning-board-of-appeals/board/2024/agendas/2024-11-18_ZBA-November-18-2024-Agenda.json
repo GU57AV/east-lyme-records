@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "ZBA November 18 2024 Agenda (pdf)",
+  "filename": "ZBA-November-18-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/ZBA-November-18-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2024-agendas/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-25T02:17:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c2d5781f5cdd60d146da3d86c9f408b96f2926437c873e57bdd1998039c00d0",
+  "bytes": 41478,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Nov 2024 16:52:19 GMT",
+  "etag": "\"1680858-a206-626415742f6c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2024/2024-11-18_ZBA-November-18-2024-Agenda--5c2d5781f5cd.pdf",
+  "versions": [
+    {
+      "sha256": "5c2d5781f5cdd60d146da3d86c9f408b96f2926437c873e57bdd1998039c00d0",
+      "bytes": 41478,
+      "retrieved_utc": "2026-11-25T02:17:00+00:00",
+      "http_last_modified": "Wed, 06 Nov 2024 16:52:19 GMT"
+    }
+  ]
+}

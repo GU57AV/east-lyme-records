@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOF Special Meeting Minutes March 22, 2012 (pdf)",
+  "filename": "BOF-FY12-13-Special-Meeting-Minutes-March-22-2012-_2_.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-FY12-13-Special-Meeting-Minutes-March-22-2012-_2_.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:04:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d05a233261839b5900b19730f18a9efd0286a84655e371b6f957ce516ba158e",
+  "bytes": 140381,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:52 GMT",
+  "etag": "\"1663d17-2245d-520826aba8800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-03-22_BOF-FY12-13-Special-Meeting-Minutes-March-22-2012-_2_--5d05a2332618.pdf",
+  "versions": [
+    {
+      "sha256": "5d05a233261839b5900b19730f18a9efd0286a84655e371b6f957ce516ba158e",
+      "bytes": 140381,
+      "retrieved_utc": "2026-11-25T01:04:17+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:52 GMT"
+    }
+  ]
+}

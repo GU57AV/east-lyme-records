@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF June 11 2014 Meeting Agenda (pdf)",
+  "filename": "BOF-Meeting-Agenda-06-11-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOF-Meeting-Agenda-06-11-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T00:31:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "deaf2fe0c255a637b2681290cf12a84a1c60489e804aecea9874174b3f428500",
+  "bytes": 43540,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:06:31 GMT",
+  "etag": "\"16630f2-aa14-520821738f7c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-06-11_BOF-Meeting-Agenda-06-11-2014--deaf2fe0c255.pdf",
+  "versions": [
+    {
+      "sha256": "deaf2fe0c255a637b2681290cf12a84a1c60489e804aecea9874174b3f428500",
+      "bytes": 43540,
+      "retrieved_utc": "2026-11-25T00:31:53+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:06:31 GMT"
+    }
+  ]
+}

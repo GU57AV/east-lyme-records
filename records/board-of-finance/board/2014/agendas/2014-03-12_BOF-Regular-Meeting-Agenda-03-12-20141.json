@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOF March 12 2014 Regular Meeting Agenda (pdf)",
+  "filename": "BOF-Regular-Meeting-Agenda-03-12-20141.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOF-Regular-Meeting-Agenda-03-12-20141.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-25T00:36:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01963e94cad1e52bee2ed285d654a2f50a979b1c5980e380d8f1df44621ec57b",
+  "bytes": 42477,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:06:41 GMT",
+  "etag": "\"16630a9-a5ed-5208217d18e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2014/2014-03-12_BOF-Regular-Meeting-Agenda-03-12-20141--01963e94cad1.pdf",
+  "versions": [
+    {
+      "sha256": "01963e94cad1e52bee2ed285d654a2f50a979b1c5980e380d8f1df44621ec57b",
+      "bytes": 42477,
+      "retrieved_utc": "2026-11-25T00:36:33+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:06:41 GMT"
+    }
+  ]
+}

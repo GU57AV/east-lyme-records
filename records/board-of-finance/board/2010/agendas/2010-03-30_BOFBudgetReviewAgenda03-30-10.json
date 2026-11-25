@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 03-30-2010 (pdf)",
+  "filename": "BOFBudgetReviewAgenda03-30-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFBudgetReviewAgenda03-30-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:25:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b246befb9955c93f893f4d0e51ecf9f6a2451932acc4d4f69e41c74e6ab97c61",
+  "bytes": 34388,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:16 GMT",
+  "etag": "\"1663e76-8654-520826c28be00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2010/2010-03-30_BOFBudgetReviewAgenda03-30-10--b246befb9955.pdf",
+  "versions": [
+    {
+      "sha256": "b246befb9955c93f893f4d0e51ecf9f6a2451932acc4d4f69e41c74e6ab97c61",
+      "bytes": 34388,
+      "retrieved_utc": "2026-11-25T01:25:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:16 GMT"
+    }
+  ]
+}

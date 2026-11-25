@@ -1,0 +1,45 @@
+---
+title: "BOF Agenda 04-13-2010 (pdf)"
+board: board-of-finance
+kind: agendas
+source_url: https://eltownhall.com/wp-content/uploads/BOFspcBudgetRevAgenda04-13-10.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/board-of-finance/bof-agendas-2010/
+sha256: 65d4555ff62bd842c5d34035e8888fa0476dc4befd5064396552d194cce0c7ba
+text_method: pdftotext
+first_seen_utc: 2026-11-25T01:25:19+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2010/2010-04-13_BOFspcBudgetRevAgenda04-13-10--65d4555ff62b.pdf
+
+```text
+                         East Lyme Board of Finance
+                         SPECIAL MEETING AGENDA
+                              BUDGET REVIEWS
+                           Tuesday, April 13, 2010
+                       6:30 PM - East Lyme Town Hall
+
+
+A. Call Special Meeting to Order
+B. Pledge of Allegiance
+C. Delegations
+D. Old Business
+   a. Any Outstanding Information
+
+E. New Business
+   a. Budget Reviews
+
+      Registrars                      #110
+      Board of Finance                #126
+      Gen. Govt. & Misc. Benefits     #114
+      Contingency                     #120
+      CNRE
+      Capital                         #724
+      Long Range Capital Plan         CIP
+      Debt Service Int. & Principal   #522-3
+
+   b. Budget Deliberations – Start Discussion
+
+E. Public Discussion
+F. Board Comments
+G. Adjournment
+```

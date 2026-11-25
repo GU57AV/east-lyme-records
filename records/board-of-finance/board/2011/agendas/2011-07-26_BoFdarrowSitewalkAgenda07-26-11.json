@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 07-26-2011 (pdf)",
+  "filename": "BoFdarrowSitewalkAgenda07-26-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BoFdarrowSitewalkAgenda07-26-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:07:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b26bb1b3b96be8a4624f0c27cc4294abae609721fb1d55ede6b0cdfffc5057f5",
+  "bytes": 22269,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT",
+  "etag": "\"1663920-56fd-520826c380040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-07-26_BoFdarrowSitewalkAgenda07-26-11--b26bb1b3b96b.pdf",
+  "versions": [
+    {
+      "sha256": "b26bb1b3b96be8a4624f0c27cc4294abae609721fb1d55ede6b0cdfffc5057f5",
+      "bytes": 22269,
+      "retrieved_utc": "2026-11-25T01:07:37+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT"
+    }
+  ]
+}

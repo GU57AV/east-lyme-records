@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "ZBA July 6 2015 Cancellation (pdf)",
+  "filename": "ZBA-July-6-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBA-July-6-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:40:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "022f3235991266f823fa116ea058e57c83ab4f606e944bb408ac85fce7542a7c",
+  "bytes": 29114,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:04 GMT",
+  "etag": "\"1661f8b-71ba-52082cf946700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2015/2015-07-06_ZBA-July-6-2015-Cancellation--022f32359912.pdf",
+  "versions": [
+    {
+      "sha256": "022f3235991266f823fa116ea058e57c83ab4f606e944bb408ac85fce7542a7c",
+      "bytes": 29114,
+      "retrieved_utc": "2026-11-25T02:40:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:04 GMT"
+    }
+  ]
+}

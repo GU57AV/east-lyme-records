@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "ZBA November 3 2025 Agenda (pdf)",
+  "filename": "ZBA-November-3-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/ZBA-November-3-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-25T02:09:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e5b26c206ed05e0df030a4af33011457e71b7041c0b7d5664775e854eb40cc9f",
+  "bytes": 46127,
+  "pages": 0,
+  "http_last_modified": "Mon, 27 Oct 2025 14:49:34 GMT",
+  "etag": "\"1720022-b42f-6422501f5e89c\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-11-03_ZBA-November-3-2025-Agenda--e5b26c206ed0.pdf",
+  "versions": [
+    {
+      "sha256": "e5b26c206ed05e0df030a4af33011457e71b7041c0b7d5664775e854eb40cc9f",
+      "bytes": 46127,
+      "retrieved_utc": "2026-11-25T02:09:08+00:00",
+      "http_last_modified": "Mon, 27 Oct 2025 14:49:34 GMT"
+    }
+  ]
+}

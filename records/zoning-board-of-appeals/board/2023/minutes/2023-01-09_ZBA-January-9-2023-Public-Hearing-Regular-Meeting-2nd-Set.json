@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "ZBA January 9 2023 Public Hearing & Regular Meeting 2nd Set (pdf)",
+  "filename": "ZBA-January-9-2023-Public-Hearing-Regular-Meeting-2nd-Set.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/ZBA-January-9-2023-Public-Hearing-Regular-Meeting-2nd-Set.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2023-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-25T02:26:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5f3cea7cd9150ae7da667fb86e024860c5cea8b8d4f242d3121e71d366837111",
+  "bytes": 296779,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 Jan 2023 15:39:32 GMT",
+  "etag": "\"16c23da-4874b-5f277818bb500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2023/2023-01-09_ZBA-January-9-2023-Public-Hearing-Regular-Meeting-2nd-Set--5f3cea7cd915.pdf",
+  "versions": [
+    {
+      "sha256": "5f3cea7cd9150ae7da667fb86e024860c5cea8b8d4f242d3121e71d366837111",
+      "bytes": 296779,
+      "retrieved_utc": "2026-11-25T02:26:22+00:00",
+      "http_last_modified": "Tue, 17 Jan 2023 15:39:32 GMT"
+    }
+  ]
+}

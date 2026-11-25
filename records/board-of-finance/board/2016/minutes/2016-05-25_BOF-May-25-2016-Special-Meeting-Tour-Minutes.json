@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BOF May 25 2016 Special Meeting (Tour) Minutes (pdf)",
+  "filename": "BOF-May-25-2016-Special-Meeting-Tour-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BOF-May-25-2016-Special-Meeting-Tour-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T00:05:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bc61cd7a1153ab27019231fe7c53b8c1b5ddfe5c420f3c3539194f12825e0a0a",
+  "bytes": 40426,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 May 2016 14:07:25 GMT",
+  "etag": "\"16e06a9-9dea-533d36d18a140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2016/2016-05-25_BOF-May-25-2016-Special-Meeting-Tour-Minutes--bc61cd7a1153.pdf",
+  "versions": [
+    {
+      "sha256": "bc61cd7a1153ab27019231fe7c53b8c1b5ddfe5c420f3c3539194f12825e0a0a",
+      "bytes": 40426,
+      "retrieved_utc": "2026-11-25T00:05:55+00:00",
+      "http_last_modified": "Fri, 27 May 2016 14:07:25 GMT"
+    }
+  ]
+}

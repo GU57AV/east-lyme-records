@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF March 11 2015 Minutes (pdf)",
+  "filename": "BOF-March-11-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-March-11-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:27:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a33fd7efa229c203e00f6124971a4fcb71c591dbf5ac70d96e8457c6b7a5b2b3",
+  "bytes": 487925,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:03 GMT",
+  "etag": "\"1663f1f-771f5-520826b6260c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-03-11_BOF-March-11-2015-Minutes--a33fd7efa229.pdf",
+  "versions": [
+    {
+      "sha256": "a33fd7efa229c203e00f6124971a4fcb71c591dbf5ac70d96e8457c6b7a5b2b3",
+      "bytes": 487925,
+      "retrieved_utc": "2026-11-25T00:27:52+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:03 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BOF March 19 2015 Amended Agenda (pdf)",
+  "filename": "BOF-Amended-Agenda-03-19-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOF-Amended-Agenda-03-19-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T00:18:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9e6e5cfb7f6cdeefa3e7f56a00da6a0f40a055e590f8227463c4120a1c04ca1",
+  "bytes": 38744,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:40 GMT",
+  "etag": "\"16638aa-9758-520826a036d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2015/2015-03-19_BOF-Amended-Agenda-03-19-2015--e9e6e5cfb7f6.pdf",
+  "versions": [
+    {
+      "sha256": "e9e6e5cfb7f6cdeefa3e7f56a00da6a0f40a055e590f8227463c4120a1c04ca1",
+      "bytes": 38744,
+      "retrieved_utc": "2026-11-25T00:18:10+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:40 GMT"
+    }
+  ]
+}

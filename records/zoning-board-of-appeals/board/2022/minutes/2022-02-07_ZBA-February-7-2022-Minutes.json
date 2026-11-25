@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "ZBA February 7 2022 Minutes (pdf)",
+  "filename": "ZBA-February-7-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/ZBA-February-7-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2022-minutes/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-25T02:28:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd6759d9392c48cc4a64fcdbb2558bec26c7550934ad77076adf25651af1edfc",
+  "bytes": 253021,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Feb 2022 15:42:24 GMT",
+  "etag": "\"16a1076-3dc5d-5d7fc4346d800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2022/2022-02-07_ZBA-February-7-2022-Minutes--bd6759d9392c.pdf",
+  "versions": [
+    {
+      "sha256": "bd6759d9392c48cc4a64fcdbb2558bec26c7550934ad77076adf25651af1edfc",
+      "bytes": 253021,
+      "retrieved_utc": "2026-11-25T02:28:02+00:00",
+      "http_last_modified": "Mon, 14 Feb 2022 15:42:24 GMT"
+    }
+  ]
+}

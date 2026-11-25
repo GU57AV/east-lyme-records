@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "ZBA January 13 2020 Agenda (pdf)",
+  "filename": "ZBA-January-13-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/ZBA-January-13-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2020-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-25T02:30:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "69bef7521503556c49b313821597fa3d7301733e53f0fd0e18021557c8e07cc4",
+  "bytes": 58232,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Dec 2019 14:35:46 GMT",
+  "etag": "\"16c1876-e378-59909f616d480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2020/2020-01-13_ZBA-January-13-2020-Agenda--69bef7521503.pdf",
+  "versions": [
+    {
+      "sha256": "69bef7521503556c49b313821597fa3d7301733e53f0fd0e18021557c8e07cc4",
+      "bytes": 58232,
+      "retrieved_utc": "2026-11-25T02:30:42+00:00",
+      "http_last_modified": "Fri, 06 Dec 2019 14:35:46 GMT"
+    }
+  ]
+}

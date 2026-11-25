@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "ZBA February 5 2024 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-February-5-2024-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/ZBA-February-5-2024-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2024-minutes/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-25T02:21:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8fcc2a286d14f02af66f6cab89a97d60503abfe99cb6bf67c619ce52b2d2b761",
+  "bytes": 192800,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Feb 2024 13:12:13 GMT",
+  "etag": "\"16807f2-2f120-610ca71720540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2024/2024-02-05_ZBA-February-5-2024-Public-Hearing-and-Regular-Meeting-Minutes--8fcc2a286d14.pdf",
+  "versions": [
+    {
+      "sha256": "8fcc2a286d14f02af66f6cab89a97d60503abfe99cb6bf67c619ce52b2d2b761",
+      "bytes": 192800,
+      "retrieved_utc": "2026-11-25T02:21:41+00:00",
+      "http_last_modified": "Wed, 07 Feb 2024 13:12:13 GMT"
+    }
+  ]
+}

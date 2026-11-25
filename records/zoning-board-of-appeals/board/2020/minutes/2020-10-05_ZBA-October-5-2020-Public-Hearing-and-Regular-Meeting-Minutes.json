@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "ZBA October 5 2020 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-October-5-2020-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/ZBA-October-5-2020-Public-Hearing-and-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2020-minutes/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-25T02:31:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "89c2c79d8f10b65f8e4c5b6c62a4bf6fd668432efdbfb3889b150d4a9fc69bff",
+  "bytes": 649518,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Oct 2020 20:25:06 GMT",
+  "etag": "\"1661994-9e92e-5b1a753bb6c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2020/2020-10-05_ZBA-October-5-2020-Public-Hearing-and-Regular-Meeting-Minutes--89c2c79d8f10.pdf",
+  "versions": [
+    {
+      "sha256": "89c2c79d8f10b65f8e4c5b6c62a4bf6fd668432efdbfb3889b150d4a9fc69bff",
+      "bytes": 649518,
+      "retrieved_utc": "2026-11-25T02:31:22+00:00",
+      "http_last_modified": "Wed, 14 Oct 2020 20:25:06 GMT"
+    }
+  ]
+}

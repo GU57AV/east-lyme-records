@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "ZBA December 11 2017 Minutes (pdf)",
+  "filename": "ZBA-December-11-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/ZBA-December-11-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2017-minutes/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-25T02:38:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3ab39a3af95cb272097f32be48b75627b502516af487d3b9af611f12a488a94f",
+  "bytes": 146977,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Dec 2017 15:27:56 GMT",
+  "etag": "\"16a001c-23e21-56062a5117700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2017/2017-12-11_ZBA-December-11-2017-Minutes--3ab39a3af95c.pdf",
+  "versions": [
+    {
+      "sha256": "3ab39a3af95cb272097f32be48b75627b502516af487d3b9af611f12a488a94f",
+      "bytes": 146977,
+      "retrieved_utc": "2026-11-25T02:38:04+00:00",
+      "http_last_modified": "Fri, 15 Dec 2017 15:27:56 GMT"
+    }
+  ]
+}

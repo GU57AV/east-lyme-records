@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "ZBA March 2 2020 Agenda (pdf)",
+  "filename": "ZBA-March-2-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/ZBA-March-2-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-25T02:30:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6f6415bf6baeeded550e4a4656c3a646c6737caf7591ab5d9a5c6b949849cbf3",
+  "bytes": 77090,
+  "pages": 0,
+  "http_last_modified": "Thu, 13 Feb 2020 18:51:26 GMT",
+  "etag": "\"16617ed-12d22-59e7993798780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2020/2020-03-02_ZBA-March-2-2020-Agenda--6f6415bf6bae.pdf",
+  "versions": [
+    {
+      "sha256": "6f6415bf6baeeded550e4a4656c3a646c6737caf7591ab5d9a5c6b949849cbf3",
+      "bytes": 77090,
+      "retrieved_utc": "2026-11-25T02:30:02+00:00",
+      "http_last_modified": "Thu, 13 Feb 2020 18:51:26 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "ZBA October 16 2023 Public Hearing & Regular Meeting Agenda (pdf)",
+  "filename": "ZBA-October-16-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/ZBA-October-16-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-25T02:22:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "aecc21cbb7c294731161e8b6d0882b86f8e660a009b54e4d44340ceec8c30822",
+  "bytes": 47287,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Oct 2023 20:16:43 GMT",
+  "etag": "\"16e01ec-b8b7-6078a9e4d20c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2023/2023-10-16_ZBA-October-16-2023-Agenda--aecc21cbb7c2.pdf",
+  "versions": [
+    {
+      "sha256": "aecc21cbb7c294731161e8b6d0882b86f8e660a009b54e4d44340ceec8c30822",
+      "bytes": 47287,
+      "retrieved_utc": "2026-11-25T02:22:21+00:00",
+      "http_last_modified": "Thu, 12 Oct 2023 20:16:43 GMT"
+    }
+  ]
+}

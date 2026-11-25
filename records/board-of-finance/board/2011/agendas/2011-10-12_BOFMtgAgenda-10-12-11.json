@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Agenda 10-12-2011 (pdf)",
+  "filename": "BOFMtgAgenda-10-12-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFMtgAgenda-10-12-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:06:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ec287fc5cc5852050053f2dc6ee6ac611e31af611606d80d7668798e47ad8361",
+  "bytes": 62376,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2014 17:33:46 GMT",
+  "etag": "\"1663e6b-f3a8-501b3f04e7280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-10-12_BOFMtgAgenda-10-12-11--ec287fc5cc58.pdf",
+  "versions": [
+    {
+      "sha256": "ec287fc5cc5852050053f2dc6ee6ac611e31af611606d80d7668798e47ad8361",
+      "bytes": 62376,
+      "retrieved_utc": "2026-11-25T01:06:17+00:00",
+      "http_last_modified": "Thu, 28 Aug 2014 17:33:46 GMT"
+    }
+  ]
+}

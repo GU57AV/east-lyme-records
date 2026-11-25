@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "ZBA November 15 2021 Public Hearing & Regular Meeting Agenda (pdf)",
+  "filename": "ZBA-November-15-2021-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/ZBA-November-15-2021-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2021-agendas/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-25T02:28:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fdf24b96d95eedea77d8518d32f8d1c9f96a37461794dda9f841ed5572504574",
+  "bytes": 55125,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Oct 2021 19:06:09 GMT",
+  "etag": "\"1680352-d755-5cf6e673daa40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2021/2021-11-15_ZBA-November-15-2021-Regular-Meeting-Agenda--fdf24b96d95e.pdf",
+  "versions": [
+    {
+      "sha256": "fdf24b96d95eedea77d8518d32f8d1c9f96a37461794dda9f841ed5572504574",
+      "bytes": 55125,
+      "retrieved_utc": "2026-11-25T02:28:42+00:00",
+      "http_last_modified": "Thu, 28 Oct 2021 19:06:09 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA November 9 2026 Special Meeting Second Amended Agenda (pdf)",
+  "filename": "IWA-November-9-2026-Special-Meeting-Second-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/IWA-November-9-2026-Special-Meeting-Second-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-25T03:08:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "765b8520108d7e1941d56ed6d19c208de8ec8f049c3ff3133ab534f573407291",
+  "bytes": 105632,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Nov 2026 20:38:58 GMT",
+  "etag": "\"17c0022-19ca0-65f8d7c294d9e\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-11-09_IWA-November-9-2026-Special-Meeting-Second-Amended-Agenda--765b8520108d.pdf",
+  "versions": [
+    {
+      "sha256": "765b8520108d7e1941d56ed6d19c208de8ec8f049c3ff3133ab534f573407291",
+      "bytes": 105632,
+      "retrieved_utc": "2026-11-25T03:08:48+00:00",
+      "http_last_modified": "Thu, 05 Nov 2026 20:38:58 GMT"
+    }
+  ]
+}

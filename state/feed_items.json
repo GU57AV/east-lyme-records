@@ -38,5 +38,37 @@
   "message": "Appears posted server file date Mar 12, 2024 (upload folder 2024-03). Earliest effective date Mar 22, 2024; overrule petitions due within 10 days of publication (about Mar 22).",
   "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/ordinances.md",
   "at": "2026-11-24T22:10:22+00:00"
+ },
+ {
+  "id": "8b734c488c53fe00",
+  "feed": "calendar",
+  "title": "Changed: IWA",
+  "message": "Changed: IWA — Tue Dec 1, 2026 7:00 PM (agenda link changed)",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/calendar.md",
+  "at": "2026-11-24T22:14:44+00:00"
+ },
+ {
+  "id": "42e1443a7868b27b",
+  "feed": "calendar",
+  "title": "Changed: Board of Selectmen",
+  "message": "Changed: Board of Selectmen — Wed Dec 2, 2026 7:00 PM (agenda link changed)",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/calendar.md",
+  "at": "2026-11-24T22:14:44+00:00"
+ },
+ {
+  "id": "daf9fd4a3e786d9a",
+  "feed": "alerts",
+  "title": "East Lyme: 4 posting-deadline flags",
+  "message": "Zoning Board of Appeals, 2024-11-18: No minutes found more than 8 days after the public hearing\nZoning Board of Appeals, 2025-09-22: No minutes found more than 8 days after the public hearing\nZoning Board of Appeals, 2025-11-03: No minutes found more than 8 days after the public hearing\nZoning Board of Appeals, 2026-06-08: No minutes found more than 8 days after the meeting",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/compliance.md",
+  "at": "2026-11-25T03:12:09+00:00"
+ },
+ {
+  "id": "64bed06fd32c43dd",
+  "feed": "alerts",
+  "title": "East Lyme topic alert: executive session",
+  "message": "executive session: BOS December 2 2026 Agenda (pdf) (Board of Selectmen)",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/topics.md",
+  "at": "2026-11-25T03:12:09+00:00"
  }
 ]

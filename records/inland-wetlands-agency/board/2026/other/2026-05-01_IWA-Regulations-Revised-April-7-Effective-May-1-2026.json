@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA Regulations Revised April 7 & Effective May 1 2026 (pdf)",
+  "filename": "IWA-Regulations-Revised-April-7-Effective-May-1-2026.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/IWA-Regulations-Revised-April-7-Effective-May-1-2026.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-25T03:06:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5fa44052f9eb5f69bb12930777657dd75faa23f2e3596ea13ee480739c240dfe",
+  "bytes": 492232,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Sep 2026 19:27:55 GMT",
+  "etag": "\"16e0fad-782c8-65ca42def4813\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-05-01_IWA-Regulations-Revised-April-7-Effective-May-1-2026--5fa44052f9eb.pdf",
+  "versions": [
+    {
+      "sha256": "5fa44052f9eb5f69bb12930777657dd75faa23f2e3596ea13ee480739c240dfe",
+      "bytes": 492232,
+      "retrieved_utc": "2026-11-25T03:06:47+00:00",
+      "http_last_modified": "Tue, 29 Sep 2026 19:27:55 GMT"
+    }
+  ]
+}

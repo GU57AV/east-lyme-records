@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "ZONING BOARD OF APPEALS informational handout (pdf)",
+  "filename": "ZONING-BOARD-OF-APPEALS-informational-handout.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/ZONING-BOARD-OF-APPEALS-informational-handout.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-25T02:06:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "53dbb0bd5378bfc3885b55568f336351c942374f6ae292d837c6aef8cfe97f39",
+  "bytes": 140250,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 May 2023 14:36:00 GMT",
+  "etag": "\"16c239d-223da-5fb8006155400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2023/2023-05-00_ZONING-BOARD-OF-APPEALS-informational-handout--53dbb0bd5378.pdf",
+  "versions": [
+    {
+      "sha256": "53dbb0bd5378bfc3885b55568f336351c942374f6ae292d837c6aef8cfe97f39",
+      "bytes": 140250,
+      "retrieved_utc": "2026-11-25T02:06:06+00:00",
+      "http_last_modified": "Fri, 12 May 2023 14:36:00 GMT"
+    }
+  ]
+}

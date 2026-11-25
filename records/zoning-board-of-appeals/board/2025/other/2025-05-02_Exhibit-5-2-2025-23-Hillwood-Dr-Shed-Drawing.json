@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Exhibit 5 2-2025 23 Hillwood Dr Shed Drawing (pdf)",
+  "filename": "Exhibit-5-2-2025-23-Hillwood-Dr-Shed-Drawing.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/Exhibit-5-2-2025-23-Hillwood-Dr-Shed-Drawing.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2025-materials/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-25T02:14:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a86068b4e09dec00d75ae914e9e39d69f4577e800f91c41a6369039cb196af8d",
+  "bytes": 64102,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Sep 2025 13:19:55 GMT",
+  "etag": "\"172050b-fa66-63de575e69c20\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2025/2025-05-02_Exhibit-5-2-2025-23-Hillwood-Dr-Shed-Drawing--a86068b4e09d.pdf",
+  "versions": [
+    {
+      "sha256": "a86068b4e09dec00d75ae914e9e39d69f4577e800f91c41a6369039cb196af8d",
+      "bytes": 64102,
+      "retrieved_utc": "2026-11-25T02:14:40+00:00",
+      "http_last_modified": "Wed, 03 Sep 2025 13:19:55 GMT"
+    }
+  ]
+}

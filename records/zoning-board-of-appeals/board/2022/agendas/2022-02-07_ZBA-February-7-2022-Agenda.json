@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "ZBA February 7 2022 Agenda (pdf)",
+  "filename": "ZBA-February-7-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/ZBA-February-7-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-25T02:27:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b56eccd17654a41ad23bcf735cf82692ed7ac8baaddcd5dd40ad4afd82d95ec3",
+  "bytes": 54990,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Jan 2022 20:43:57 GMT",
+  "etag": "\"16a0e28-d6ce-5d61dad831d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2022/2022-02-07_ZBA-February-7-2022-Agenda--b56eccd17654.pdf",
+  "versions": [
+    {
+      "sha256": "b56eccd17654a41ad23bcf735cf82692ed7ac8baaddcd5dd40ad4afd82d95ec3",
+      "bytes": 54990,
+      "retrieved_utc": "2026-11-25T02:27:22+00:00",
+      "http_last_modified": "Fri, 21 Jan 2022 20:43:57 GMT"
+    }
+  ]
+}

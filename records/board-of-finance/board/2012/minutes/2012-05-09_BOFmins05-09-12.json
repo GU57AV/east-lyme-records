@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOF Regular Meeting Minutes May 9, 2012 (pdf)",
+  "filename": "BOFmins05-09-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFmins05-09-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/board-of-finance-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:01:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b4d489be0cc593ddec1553b38278ecc43cb97c14b4fe9f00d9155a8e839b4c2c",
+  "bytes": 122407,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Aug 2014 13:18:40 GMT",
+  "etag": "\"1663c35-1de27-5005a64b20c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2012/2012-05-09_BOFmins05-09-12--b4d489be0cc5.pdf",
+  "versions": [
+    {
+      "sha256": "b4d489be0cc593ddec1553b38278ecc43cb97c14b4fe9f00d9155a8e839b4c2c",
+      "bytes": 122407,
+      "retrieved_utc": "2026-11-25T01:01:16+00:00",
+      "http_last_modified": "Mon, 11 Aug 2014 13:18:40 GMT"
+    }
+  ]
+}

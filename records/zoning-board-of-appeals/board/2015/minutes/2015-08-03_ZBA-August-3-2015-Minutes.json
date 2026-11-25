@@ -1,0 +1,29 @@
+{
+  "board": "zoning-board-of-appeals",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "ZBA August 3 2015 Public Hearing and Regular Meeting Minutes (pdf)",
+  "filename": "ZBA-August-3-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ZBA-August-3-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-board-of-appeals/zoning-board-of-appeals-2015-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T02:41:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7cdab80c1acd13a8da7c668d2282c2af0e0d88ae6da2f21ac0218360c800507b",
+  "bytes": 212490,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:58:03 GMT",
+  "etag": "\"1661f93-33e0a-52082cf8524c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-board-of-appeals-2015/2015-08-03_ZBA-August-3-2015-Minutes--7cdab80c1acd.pdf",
+  "versions": [
+    {
+      "sha256": "7cdab80c1acd13a8da7c668d2282c2af0e0d88ae6da2f21ac0218360c800507b",
+      "bytes": 212490,
+      "retrieved_utc": "2026-11-25T02:41:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:58:03 GMT"
+    }
+  ]
+}

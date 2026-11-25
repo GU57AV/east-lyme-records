@@ -1,0 +1,29 @@
+{
+  "board": "board-of-finance",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOF Minutes 08-09-2011 (pdf)",
+  "filename": "BOFdarrow-Minutes-8-9-_2_.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOFdarrow-Minutes-8-9-_2_.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-finance/bof-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T01:14:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a702f0f419859f5429c160d13bbd66afde2b6fe05507edb40aeb1319503ddda8",
+  "bytes": 20254,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT",
+  "etag": "\"16614cc-4f1e-520826c380040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-finance-2011/2011-08-09_BOFdarrow-Minutes-8-9-_2_--a702f0f41985.pdf",
+  "versions": [
+    {
+      "sha256": "a702f0f419859f5429c160d13bbd66afde2b6fe05507edb40aeb1319503ddda8",
+      "bytes": 20254,
+      "retrieved_utc": "2026-11-25T01:14:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:30:17 GMT"
+    }
+  ]
+}
