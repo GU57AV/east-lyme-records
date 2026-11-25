@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners 2024 Meeting Schedule (pdf)",
+  "filename": "Police-Commission-2024-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/Police-Commission-2024-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-25T10:47:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "10f4b4f567728e2eb3bbf73092643b9e91f266d0c9f135d8cb1e7e128bf8c238",
+  "bytes": 43894,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Dec 2023 14:14:28 GMT",
+  "etag": "\"16c2272-ab76-60c0033bfb900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2023-12-00_Police-Commission-2024-Meeting-Schedule--10f4b4f56772.pdf",
+  "versions": [
+    {
+      "sha256": "10f4b4f567728e2eb3bbf73092643b9e91f266d0c9f135d8cb1e7e128bf8c238",
+      "bytes": 43894,
+      "retrieved_utc": "2026-11-25T10:47:41+00:00",
+      "http_last_modified": "Fri, 08 Dec 2023 14:14:28 GMT"
+    }
+  ]
+}

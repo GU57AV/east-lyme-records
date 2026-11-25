@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Regular Meeting Minutes 09-22-2014 (pdf)",
+  "filename": "BOE-Regular-Meeting-Minutes-09-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Regular-Meeting-Minutes-09-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:14:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c679edb15f403f2e9b80d2a6685f93679956dd2e8c5c7836f99eb5ad18f54925",
+  "bytes": 351096,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:10 GMT",
+  "etag": "\"16638a6-55b78-520826839a980\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-22_BOE-Regular-Meeting-Minutes-09-22-2014--c679edb15f40.pdf",
+  "versions": [
+    {
+      "sha256": "c679edb15f403f2e9b80d2a6685f93679956dd2e8c5c7836f99eb5ad18f54925",
+      "bytes": 351096,
+      "retrieved_utc": "2026-11-25T13:14:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:10 GMT"
+    }
+  ]
+}

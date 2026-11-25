@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission December 10 2020 Meeting Minutes (pdf)",
+  "filename": "Police-Commission-December-10-2020-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Police-Commission-December-10-2020-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-25T11:29:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6174919b2e9002002ab6311d3eda0ad36b4a98af8db3332d8649e7759c8b2a19",
+  "bytes": 476600,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Dec 2020 14:51:05 GMT",
+  "etag": "\"1661531-745b8-5b6fa96678840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-12-10_Police-Commission-December-10-2020-Meeting-Minutes--6174919b2e90.pdf",
+  "versions": [
+    {
+      "sha256": "6174919b2e9002002ab6311d3eda0ad36b4a98af8db3332d8649e7759c8b2a19",
+      "bytes": 476600,
+      "retrieved_utc": "2026-11-25T11:29:07+00:00",
+      "http_last_modified": "Mon, 21 Dec 2020 14:51:05 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission January 27 2022 Cancellation (pdf)",
+  "filename": "Police-Commission-January-27-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Police-Commission-January-27-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-25T11:08:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5083cf504f7f5713fada633412879558b107a819b21da70a2770eceb0ae45812",
+  "bytes": 26790,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Jan 2022 18:50:49 GMT",
+  "etag": "\"16a0e37-68a6-5d694cbf6b440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-01-27_Police-Commission-January-27-2022-Cancellation--5083cf504f7f.pdf",
+  "versions": [
+    {
+      "sha256": "5083cf504f7f5713fada633412879558b107a819b21da70a2770eceb0ae45812",
+      "bytes": 26790,
+      "retrieved_utc": "2026-11-25T11:08:11+00:00",
+      "http_last_modified": "Thu, 27 Jan 2022 18:50:49 GMT"
+    }
+  ]
+}

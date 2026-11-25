@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners August 10 2026 Minutes (pdf)",
+  "filename": "Police-Commission-August-10-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/Police-Commission-August-10-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2026-minutes/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-25T10:20:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "834416634dd6cf95448b364f736e31774b110165ce3f09fe003b641cbcf2c611",
+  "bytes": 353600,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Aug 2026 13:12:06 GMT",
+  "etag": "\"16e0eb3-56540-658d95587819d\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2026/2026-08-10_Police-Commission-August-10-2026-Minutes--834416634dd6.pdf",
+  "versions": [
+    {
+      "sha256": "834416634dd6cf95448b364f736e31774b110165ce3f09fe003b641cbcf2c611",
+      "bytes": 353600,
+      "retrieved_utc": "2026-11-25T10:20:09+00:00",
+      "http_last_modified": "Wed, 12 Aug 2026 13:12:06 GMT"
+    }
+  ]
+}

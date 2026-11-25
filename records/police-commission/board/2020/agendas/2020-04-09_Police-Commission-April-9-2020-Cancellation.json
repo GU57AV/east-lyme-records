@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission April 9 2020 Cancellation (pdf)",
+  "filename": "Police-Commission-April-9-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/Police-Commission-April-9-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-25T11:27:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "44de657693fd9d8fae2971d6dab2ef5c7acc4c156ba67e54175fb21d67b4ac6d",
+  "bytes": 26992,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Apr 2020 16:26:21 GMT",
+  "etag": "\"16619eb-6970-5a2c9f5e36540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-04-09_Police-Commission-April-9-2020-Cancellation--44de657693fd.pdf",
+  "versions": [
+    {
+      "sha256": "44de657693fd9d8fae2971d6dab2ef5c7acc4c156ba67e54175fb21d67b4ac6d",
+      "bytes": 26992,
+      "retrieved_utc": "2026-11-25T11:27:06+00:00",
+      "http_last_modified": "Wed, 08 Apr 2020 16:26:21 GMT"
+    }
+  ]
+}

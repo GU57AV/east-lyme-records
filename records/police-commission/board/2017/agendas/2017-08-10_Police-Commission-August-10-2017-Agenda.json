@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission August 10 2017 Agenda (pdf)",
+  "filename": "Police-Commission-August-10-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-August-10-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T11:56:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7ccceaaa7108d43c539a130bf5456327717d49cffabd2185efe1cb250141846e",
+  "bytes": 28001,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Aug 2017 19:13:41 GMT",
+  "etag": "\"16623a9-6d61-55642c2e26340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-08-10_Police-Commission-August-10-2017-Agenda--7ccceaaa7108.pdf",
+  "versions": [
+    {
+      "sha256": "7ccceaaa7108d43c539a130bf5456327717d49cffabd2185efe1cb250141846e",
+      "bytes": 28001,
+      "retrieved_utc": "2026-11-25T11:56:46+00:00",
+      "http_last_modified": "Tue, 08 Aug 2017 19:13:41 GMT"
+    }
+  ]
+}

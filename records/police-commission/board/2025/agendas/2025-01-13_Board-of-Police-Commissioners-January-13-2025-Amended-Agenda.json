@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners January 13 2025 Amended Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-January-13-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Board-of-Police-Commissioners-January-13-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-25T10:31:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fdee1f11ff5a7b57c0f39b60c4f30c8bac2bd4251ad0ddf58404fcc0d5a8a24b",
+  "bytes": 37197,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Jan 2025 19:52:26 GMT",
+  "etag": "\"16c0039-914d-62b4b5140b280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2025/2025-01-13_Board-of-Police-Commissioners-January-13-2025-Amended-Agenda--fdee1f11ff5a.pdf",
+  "versions": [
+    {
+      "sha256": "fdee1f11ff5a7b57c0f39b60c4f30c8bac2bd4251ad0ddf58404fcc0d5a8a24b",
+      "bytes": 37197,
+      "retrieved_utc": "2026-11-25T10:31:34+00:00",
+      "http_last_modified": "Thu, 09 Jan 2025 19:52:26 GMT"
+    }
+  ]
+}

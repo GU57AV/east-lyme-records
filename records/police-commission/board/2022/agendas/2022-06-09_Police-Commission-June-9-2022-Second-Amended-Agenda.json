@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission June 9 2022 Second Amended Agenda (pdf)",
+  "filename": "Police-Commission-June-9-2022-Second-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Police-Commission-June-9-2022-Second-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-25T11:03:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4b68b4b098bc3c73c62993885acd78f824de7a8cfcd4f1bbc66caf3db839922f",
+  "bytes": 30291,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jun 2022 15:20:40 GMT",
+  "etag": "\"16a0f5d-7653-5e0c903c76200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-06-09_Police-Commission-June-9-2022-Second-Amended-Agenda--4b68b4b098bc.pdf",
+  "versions": [
+    {
+      "sha256": "4b68b4b098bc3c73c62993885acd78f824de7a8cfcd4f1bbc66caf3db839922f",
+      "bytes": 30291,
+      "retrieved_utc": "2026-11-25T11:03:49+00:00",
+      "http_last_modified": "Mon, 06 Jun 2022 15:20:40 GMT"
+    }
+  ]
+}

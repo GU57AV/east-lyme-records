@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Agenda 09-22-2014 (pdf)",
+  "filename": "BOE-Agenda-09-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Agenda-09-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:02:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b135aeb98a9aff9662b9d85b55332f2772e47805b2cb002cb38a43da00512d65",
+  "bytes": 161728,
+  "pages": 0,
+  "http_last_modified": "Fri, 19 Sep 2014 14:57:44 GMT",
+  "etag": "\"1663d92-277c0-5036c52cbea00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-22_BOE-Agenda-09-22-2014--b135aeb98a9a.pdf",
+  "versions": [
+    {
+      "sha256": "b135aeb98a9aff9662b9d85b55332f2772e47805b2cb002cb38a43da00512d65",
+      "bytes": 161728,
+      "retrieved_utc": "2026-11-25T13:02:51+00:00",
+      "http_last_modified": "Fri, 19 Sep 2014 14:57:44 GMT"
+    }
+  ]
+}

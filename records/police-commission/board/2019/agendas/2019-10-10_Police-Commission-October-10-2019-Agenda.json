@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Police Commission October 10 2019 Agenda (pdf)",
+  "filename": "Police-Commission-October-10-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Police-Commission-October-10-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2019-agendas/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-25T11:33:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b6158a2bf4b000e4e18af45ea4bfa597fa4425eb367d7fa91ab1048b330e5c77",
+  "bytes": 36326,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Oct 2019 13:23:15 GMT",
+  "etag": "\"16c1fbe-8de6-5947a2ff416c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2019/2019-10-10_Police-Commission-October-10-2019-Agenda--b6158a2bf4b0.pdf",
+  "versions": [
+    {
+      "sha256": "b6158a2bf4b000e4e18af45ea4bfa597fa4425eb367d7fa91ab1048b330e5c77",
+      "bytes": 36326,
+      "retrieved_utc": "2026-11-25T11:33:09+00:00",
+      "http_last_modified": "Wed, 09 Oct 2019 13:23:15 GMT"
+    }
+  ]
+}

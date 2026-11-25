@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission February 23 2017 Cancellation (pdf)",
+  "filename": "Police-Commission-February-23-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-February-23-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:04:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f4be93445b1b4dd926625bbfc42622b1430a9a5d49e943db5ead849e2d305f21",
+  "bytes": 39599,
+  "pages": 0,
+  "http_last_modified": "Tue, 21 Feb 2017 14:20:14 GMT",
+  "etag": "\"166234d-9aaf-5490b1415e380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-02-23_Police-Commission-February-23-2017-Cancellation--f4be93445b1b.pdf",
+  "versions": [
+    {
+      "sha256": "f4be93445b1b4dd926625bbfc42622b1430a9a5d49e943db5ead849e2d305f21",
+      "bytes": 39599,
+      "retrieved_utc": "2026-11-25T12:04:29+00:00",
+      "http_last_modified": "Tue, 21 Feb 2017 14:20:14 GMT"
+    }
+  ]
+}

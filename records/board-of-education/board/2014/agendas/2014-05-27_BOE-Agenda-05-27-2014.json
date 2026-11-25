@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE May 27 2014 Agenda (pdf)",
+  "filename": "BOE-Agenda-05-27-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/BOE-Agenda-05-27-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T13:06:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5e82fe9e7fa53e85188bbda811dec0b136d692d53bb3f3e922c86ee47e585840",
+  "bytes": 270520,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:11:35 GMT",
+  "etag": "\"166348e-420b8-520822957a3c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-05-27_BOE-Agenda-05-27-2014--5e82fe9e7fa5.pdf",
+  "versions": [
+    {
+      "sha256": "5e82fe9e7fa53e85188bbda811dec0b136d692d53bb3f3e922c86ee47e585840",
+      "bytes": 270520,
+      "retrieved_utc": "2026-11-25T13:06:12+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:11:35 GMT"
+    }
+  ]
+}

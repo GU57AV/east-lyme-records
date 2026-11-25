@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission June 1 2017 Special Meeting Agenda (pdf)",
+  "filename": "Police-Commission-June-1-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-June-1-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T11:59:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c7420f6ba9fd5e38942c7de1ee471db4a6cc6ada137c631a17e9acaaf3d0f766",
+  "bytes": 20926,
+  "pages": 0,
+  "http_last_modified": "Wed, 31 May 2017 13:58:49 GMT",
+  "etag": "\"1662696-51be-550d251c87840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-06-01_Police-Commission-June-1-2017-Special-Meeting-Agenda--c7420f6ba9fd.pdf",
+  "versions": [
+    {
+      "sha256": "c7420f6ba9fd5e38942c7de1ee471db4a6cc6ada137c631a17e9acaaf3d0f766",
+      "bytes": 20926,
+      "retrieved_utc": "2026-11-25T11:59:27+00:00",
+      "http_last_modified": "Wed, 31 May 2017 13:58:49 GMT"
+    }
+  ]
+}

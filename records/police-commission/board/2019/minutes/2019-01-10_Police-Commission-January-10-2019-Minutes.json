@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Police Commission January 10 2019 Minutes (pdf)",
+  "filename": "Police-Commission-January-10-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/Police-Commission-January-10-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2019-minutes/",
+  "upload_folder": "2019-01",
+  "first_seen_utc": "2026-11-25T11:42:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "52ac9cbc5fb035216c58c272a4592898b69f6161d4e5ee601ea66b010ecae6d6",
+  "bytes": 334626,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Jan 2019 16:12:47 GMT",
+  "etag": "\"16c1b29-51b22-57fa9aa4e1dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2019/2019-01-10_Police-Commission-January-10-2019-Minutes--52ac9cbc5fb0.pdf",
+  "versions": [
+    {
+      "sha256": "52ac9cbc5fb035216c58c272a4592898b69f6161d4e5ee601ea66b010ecae6d6",
+      "bytes": 334626,
+      "retrieved_utc": "2026-11-25T11:42:54+00:00",
+      "http_last_modified": "Thu, 17 Jan 2019 16:12:47 GMT"
+    }
+  ]
+}

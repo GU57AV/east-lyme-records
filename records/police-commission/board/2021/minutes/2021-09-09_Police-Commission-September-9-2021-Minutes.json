@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission September 9 2021 Minutes (pdf)",
+  "filename": "Police-Commission-September-9-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Police-Commission-September-9-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-25T11:18:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a131ab1728b627fc2c64d7e39f4d63205f1b92122410c19d846515af15e78b3f",
+  "bytes": 1271726,
+  "pages": 0,
+  "http_last_modified": "Fri, 17 Sep 2021 19:21:22 GMT",
+  "etag": "\"16802c1-1367ae-5cc35d62a9080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2021-09-09_Police-Commission-September-9-2021-Minutes--a131ab1728b6.pdf",
+  "versions": [
+    {
+      "sha256": "a131ab1728b627fc2c64d7e39f4d63205f1b92122410c19d846515af15e78b3f",
+      "bytes": 1271726,
+      "retrieved_utc": "2026-11-25T11:18:36+00:00",
+      "http_last_modified": "Fri, 17 Sep 2021 19:21:22 GMT"
+    }
+  ]
+}

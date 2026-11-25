@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission November 3 2020 Special Meeting Minutes (pdf)",
+  "filename": "Police-Commission-November-3-2020-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/Police-Commission-November-3-2020-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-minutes/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-25T11:29:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b4c7a5f0c1ca82b9bee15e11227289021ee346128a97c989d0404995defec82d",
+  "bytes": 2699571,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Nov 2020 20:42:08 GMT",
+  "etag": "\"16618ac-293133-5b3b29885a800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-11-03_Police-Commission-November-3-2020-Special-Meeting-Minutes--b4c7a5f0c1ca.pdf",
+  "versions": [
+    {
+      "sha256": "b4c7a5f0c1ca82b9bee15e11227289021ee346128a97c989d0404995defec82d",
+      "bytes": 2699571,
+      "retrieved_utc": "2026-11-25T11:29:27+00:00",
+      "http_last_modified": "Mon, 09 Nov 2020 20:42:08 GMT"
+    }
+  ]
+}

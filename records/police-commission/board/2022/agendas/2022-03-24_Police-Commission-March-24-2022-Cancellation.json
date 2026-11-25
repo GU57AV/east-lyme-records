@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission March 24 2022 Cancellation (pdf)",
+  "filename": "Police-Commission-March-24-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Police-Commission-March-24-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-25T11:06:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "49dd2e974423d96ffbcf002736845fd098cb56c6190956e96852f02652d97143",
+  "bytes": 26351,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Mar 2022 12:38:50 GMT",
+  "etag": "\"16a0a34-66ef-5dacde5140a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-03-24_Police-Commission-March-24-2022-Cancellation--49dd2e974423.pdf",
+  "versions": [
+    {
+      "sha256": "49dd2e974423d96ffbcf002736845fd098cb56c6190956e96852f02652d97143",
+      "bytes": 26351,
+      "retrieved_utc": "2026-11-25T11:06:50+00:00",
+      "http_last_modified": "Tue, 22 Mar 2022 12:38:50 GMT"
+    }
+  ]
+}

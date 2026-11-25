@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Police Commission March 14 2019 Agenda (pdf)",
+  "filename": "Police-Commission-March-14-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/Police-Commission-March-14-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-25T11:36:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b25e0ac625b01623cb03b8d483a6124789182d5af66ca42030c18404df27f13c",
+  "bytes": 32672,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Mar 2019 13:50:28 GMT",
+  "etag": "\"16c1909-7fa0-583e5f8c59100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2019/2019-03-14_Police-Commission-March-14-2019-Agenda--b25e0ac625b0.pdf",
+  "versions": [
+    {
+      "sha256": "b25e0ac625b01623cb03b8d483a6124789182d5af66ca42030c18404df27f13c",
+      "bytes": 32672,
+      "retrieved_utc": "2026-11-25T11:36:50+00:00",
+      "http_last_modified": "Tue, 12 Mar 2019 13:50:28 GMT"
+    }
+  ]
+}

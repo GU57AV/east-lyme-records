@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Jan 21 2014 Special Meeting Agenda (pdf)",
+  "filename": "BOE-Special-Meeting-Agenda-01-21-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/BOE-Special-Meeting-Agenda-01-21-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T13:11:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "180f8d022235c2900cd409dc46a904d9f1cb70813e19547b84adef1bfe77b018",
+  "bytes": 41065,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:11:54 GMT",
+  "etag": "\"1663454-a069-520822a798e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-01-21_BOE-Special-Meeting-Agenda-01-21-2014--180f8d022235.pdf",
+  "versions": [
+    {
+      "sha256": "180f8d022235c2900cd409dc46a904d9f1cb70813e19547b84adef1bfe77b018",
+      "bytes": 41065,
+      "retrieved_utc": "2026-11-25T13:11:15+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:11:54 GMT"
+    }
+  ]
+}

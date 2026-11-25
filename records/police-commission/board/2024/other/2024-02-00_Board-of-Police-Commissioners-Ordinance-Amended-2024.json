@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners Ordinance",
+  "filename": "Board-of-Police-Commissioners-Ordinance-Amended-2024.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/Board-of-Police-Commissioners-Ordinance-Amended-2024.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-25T10:12:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "706124a1d7bc97237e11fb3d062ffcca4bdc56db496f69e6868bda3bece095ab",
+  "bytes": 275490,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Feb 2024 17:07:49 GMT",
+  "etag": "\"16807fc-43422-6120f997a4340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-02-00_Board-of-Police-Commissioners-Ordinance-Amended-2024--706124a1d7bc.pdf",
+  "versions": [
+    {
+      "sha256": "706124a1d7bc97237e11fb3d062ffcca4bdc56db496f69e6868bda3bece095ab",
+      "bytes": 275490,
+      "retrieved_utc": "2026-11-25T10:12:26+00:00",
+      "http_last_modified": "Fri, 23 Feb 2024 17:07:49 GMT"
+    }
+  ]
+}

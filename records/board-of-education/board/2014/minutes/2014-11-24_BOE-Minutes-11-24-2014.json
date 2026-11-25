@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Minutes 11-24-2014 (pdf)",
+  "filename": "BOE-Minutes-11-24-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Minutes-11-24-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:12:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3fe1e1c5c5a096e8cc699458b2358a916a4f576cf1fc7d42629049f565f80c43",
+  "bytes": 371533,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 Dec 2014 13:57:56 GMT",
+  "etag": "\"1663f13-5ab4d-50a41a1210100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-11-24_BOE-Minutes-11-24-2014--3fe1e1c5c5a0.pdf",
+  "versions": [
+    {
+      "sha256": "3fe1e1c5c5a096e8cc699458b2358a916a4f576cf1fc7d42629049f565f80c43",
+      "bytes": 371533,
+      "retrieved_utc": "2026-11-25T13:12:55+00:00",
+      "http_last_modified": "Mon, 15 Dec 2014 13:57:56 GMT"
+    }
+  ]
+}

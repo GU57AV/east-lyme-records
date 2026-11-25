@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Police Commission December 22 2016 Agenda (pdf)",
+  "filename": "Police-Commission-December-22-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-December-22-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2016-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:16:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eec6c9a8fd3398af0ed5430f479f8c2d3eb413286369837b9c4d6f4c0d608718",
+  "bytes": 25861,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Dec 2016 14:13:32 GMT",
+  "etag": "\"1662e37-6505-543b30eea5b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2016/2016-12-22_Police-Commission-December-22-2016-Agenda--eec6c9a8fd33.pdf",
+  "versions": [
+    {
+      "sha256": "eec6c9a8fd3398af0ed5430f479f8c2d3eb413286369837b9c4d6f4c0d608718",
+      "bytes": 25861,
+      "retrieved_utc": "2026-11-25T12:16:55+00:00",
+      "http_last_modified": "Thu, 15 Dec 2016 14:13:32 GMT"
+    }
+  ]
+}

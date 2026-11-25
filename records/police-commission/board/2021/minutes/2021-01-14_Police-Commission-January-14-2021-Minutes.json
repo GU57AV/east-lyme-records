@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission January 14 2021 Minutes (pdf)",
+  "filename": "Police-Commission-January-14-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/Police-Commission-January-14-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-minutes/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-25T11:20:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3fac392dd98533bab956b15fbc450834352cb12a67c42b0d414989e4f5f3621e",
+  "bytes": 201089,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 Jan 2021 20:50:36 GMT",
+  "etag": "\"16636df-31181-5b9e7ec43bf00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2021-01-14_Police-Commission-January-14-2021-Minutes--3fac392dd985.pdf",
+  "versions": [
+    {
+      "sha256": "3fac392dd98533bab956b15fbc450834352cb12a67c42b0d414989e4f5f3621e",
+      "bytes": 201089,
+      "retrieved_utc": "2026-11-25T11:20:58+00:00",
+      "http_last_modified": "Wed, 27 Jan 2021 20:50:36 GMT"
+    }
+  ]
+}

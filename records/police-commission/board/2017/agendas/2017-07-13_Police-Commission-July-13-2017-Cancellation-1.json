@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission July 13 2017 Cancellation (pdf)",
+  "filename": "Police-Commission-July-13-2017-Cancellation-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-July-13-2017-Cancellation-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T11:57:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2ba36650da639647f3dadaac6f0c235786882c24930bb3a62925456fbedd54a4",
+  "bytes": 22217,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Jul 2017 16:24:02 GMT",
+  "etag": "\"1662b9e-56c9-5536c31e1ac80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-07-13_Police-Commission-July-13-2017-Cancellation-1--2ba36650da63.pdf",
+  "versions": [
+    {
+      "sha256": "2ba36650da639647f3dadaac6f0c235786882c24930bb3a62925456fbedd54a4",
+      "bytes": 22217,
+      "retrieved_utc": "2026-11-25T11:57:46+00:00",
+      "http_last_modified": "Mon, 03 Jul 2017 16:24:02 GMT"
+    }
+  ]
+}

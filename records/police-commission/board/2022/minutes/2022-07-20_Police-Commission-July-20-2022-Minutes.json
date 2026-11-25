@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission July 20 2022 Minutes (pdf)",
+  "filename": "Police-Commission-July-20-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Police-Commission-July-20-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-25T11:10:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6548fd9ae9b329121f85746968bd905f9ce4f6bfea117c3b661b66b11fe09f51",
+  "bytes": 57626,
+  "pages": 0,
+  "http_last_modified": "Thu, 21 Jul 2022 12:30:41 GMT",
+  "etag": "\"16a146b-e11a-5e44fe2bade40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-07-20_Police-Commission-July-20-2022-Minutes--6548fd9ae9b3.pdf",
+  "versions": [
+    {
+      "sha256": "6548fd9ae9b329121f85746968bd905f9ce4f6bfea117c3b661b66b11fe09f51",
+      "bytes": 57626,
+      "retrieved_utc": "2026-11-25T11:10:32+00:00",
+      "http_last_modified": "Thu, 21 Jul 2022 12:30:41 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission July 27 2017 Agenda (pdf)",
+  "filename": "Police-Commission-July-27-2017-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-July-27-2017-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T11:57:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "101114641670fb025a83cac5ae2b2d3b6cd6630f00d50975ebed6f705e92d890",
+  "bytes": 33920,
+  "pages": 0,
+  "http_last_modified": "Wed, 26 Jul 2017 15:19:47 GMT",
+  "etag": "\"166234b-8480-55539fa74aac0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-07-27_Police-Commission-July-27-2017-Agenda-1--101114641670.pdf",
+  "versions": [
+    {
+      "sha256": "101114641670fb025a83cac5ae2b2d3b6cd6630f00d50975ebed6f705e92d890",
+      "bytes": 33920,
+      "retrieved_utc": "2026-11-25T11:57:06+00:00",
+      "http_last_modified": "Wed, 26 Jul 2017 15:19:47 GMT"
+    }
+  ]
+}

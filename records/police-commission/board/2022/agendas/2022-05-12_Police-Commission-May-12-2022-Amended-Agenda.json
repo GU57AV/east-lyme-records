@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission May 12 2022 Amended Agenda (pdf)",
+  "filename": "Police-Commission-May-12-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/Police-Commission-May-12-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-25T11:04:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "17881b40296f1ed4083acd73417e4a1ec13ef748544e2802993006cea4d7b974",
+  "bytes": 37002,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 May 2022 19:29:07 GMT",
+  "etag": "\"16a0b2f-908a-5dead569706c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-05-12_Police-Commission-May-12-2022-Amended-Agenda--17881b40296f.pdf",
+  "versions": [
+    {
+      "sha256": "17881b40296f1ed4083acd73417e4a1ec13ef748544e2802993006cea4d7b974",
+      "bytes": 37002,
+      "retrieved_utc": "2026-11-25T11:04:49+00:00",
+      "http_last_modified": "Tue, 10 May 2022 19:29:07 GMT"
+    }
+  ]
+}

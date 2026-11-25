@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 25, 2026 3:13 AM ET. Unofficial and automatic._
+_Updated Nov 25, 2026 8:29 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -11,6 +11,7 @@ Meetings from Nov 25, 2025 through yesterday.
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
+| Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 1 |
@@ -21,6 +22,7 @@ Meetings from Nov 25, 2025 through yesterday.
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
+| Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 1 |

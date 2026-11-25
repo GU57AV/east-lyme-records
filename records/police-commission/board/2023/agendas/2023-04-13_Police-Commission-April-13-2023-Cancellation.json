@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Police Commission April 13 2023 Cancellation (pdf)",
+  "filename": "Police-Commission-April-13-2023-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/Police-Commission-April-13-2023-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2023-agendas/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-25T10:56:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bffe4dfb2ed570b2600b99cac04641ece189e7f531b89beb8a51e838cc9c37d7",
+  "bytes": 24592,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Apr 2023 16:18:15 GMT",
+  "etag": "\"16e026a-6010-5f8fdb8d5ffc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2023/2023-04-13_Police-Commission-April-13-2023-Cancellation--bffe4dfb2ed5.pdf",
+  "versions": [
+    {
+      "sha256": "bffe4dfb2ed570b2600b99cac04641ece189e7f531b89beb8a51e838cc9c37d7",
+      "bytes": 24592,
+      "retrieved_utc": "2026-11-25T10:56:26+00:00",
+      "http_last_modified": "Mon, 10 Apr 2023 16:18:15 GMT"
+    }
+  ]
+}

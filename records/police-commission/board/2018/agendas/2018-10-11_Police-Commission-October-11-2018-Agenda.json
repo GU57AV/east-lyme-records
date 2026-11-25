@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Police Commission October 11 2018 Regular Meeting Agenda (pdf)",
+  "filename": "Police-Commission-October-11-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/Police-Commission-October-11-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2018-agendas/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-25T11:44:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "34d381dda7c665b428493feda1b7a82033e4329d72b05570cd85220e3eea0fef",
+  "bytes": 36176,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Oct 2018 18:17:29 GMT",
+  "etag": "\"16c1431-8d50-5777f48c56040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2018/2018-10-11_Police-Commission-October-11-2018-Agenda--34d381dda7c6.pdf",
+  "versions": [
+    {
+      "sha256": "34d381dda7c665b428493feda1b7a82033e4329d72b05570cd85220e3eea0fef",
+      "bytes": 36176,
+      "retrieved_utc": "2026-11-25T11:44:34+00:00",
+      "http_last_modified": "Fri, 05 Oct 2018 18:17:29 GMT"
+    }
+  ]
+}

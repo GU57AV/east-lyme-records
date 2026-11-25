@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners June 9 2025 Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-June-9-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/Board-of-Police-Commissioners-June-9-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-25T10:28:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cc50aaa21a7262a78bd5fe6aee7b05ef776c485a06abc46dd66ce11e0813c8ed",
+  "bytes": 32014,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Jun 2025 12:47:03 GMT",
+  "etag": "\"16c0085-7d0e-636e6a07a1fc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2025/2025-06-09_Board-of-Police-Commissioners-June-9-2025-Agenda--cc50aaa21a72.pdf",
+  "versions": [
+    {
+      "sha256": "cc50aaa21a7262a78bd5fe6aee7b05ef776c485a06abc46dd66ce11e0813c8ed",
+      "bytes": 32014,
+      "retrieved_utc": "2026-11-25T10:28:53+00:00",
+      "http_last_modified": "Fri, 06 Jun 2025 12:47:03 GMT"
+    }
+  ]
+}

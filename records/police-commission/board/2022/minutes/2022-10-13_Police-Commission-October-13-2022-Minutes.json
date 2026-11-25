@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission October 13 2022 Minutes (pdf)",
+  "filename": "Police-Commission-October-13-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Police-Commission-October-13-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-minutes/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-25T11:09:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bee84b04034ccf2779eebc1965c43560eb280991153246813376ddde245a9234",
+  "bytes": 394604,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Oct 2022 17:20:31 GMT",
+  "etag": "\"16a1220-6056c-5eb7a8ad055c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-10-13_Police-Commission-October-13-2022-Minutes--bee84b04034c.pdf",
+  "versions": [
+    {
+      "sha256": "bee84b04034ccf2779eebc1965c43560eb280991153246813376ddde245a9234",
+      "bytes": 394604,
+      "retrieved_utc": "2026-11-25T11:09:52+00:00",
+      "http_last_modified": "Thu, 20 Oct 2022 17:20:31 GMT"
+    }
+  ]
+}

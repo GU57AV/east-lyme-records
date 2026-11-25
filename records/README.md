@@ -7,8 +7,8 @@
 | [East Lyme Zoning Commission](zoning-commission/INDEX.md) | 2008 | complete |
 | [East Lyme Planning Commission](planning-commission/INDEX.md) | 667 | complete |
 | [East Lyme Board of Finance](board-of-finance/INDEX.md) | 876 | complete |
-| East Lyme Board of Police Commissioners | 0 | import in progress |
-| East Lyme Board of Education | 0 | import in progress |
+| [East Lyme Board of Police Commissioners](police-commission/INDEX.md) | 373 | complete |
+| [East Lyme Board of Education](board-of-education/INDEX.md) | 44 | import in progress |
 | [East Lyme Zoning Board of Appeals](zoning-board-of-appeals/INDEX.md) | 141 | complete |
 | [East Lyme Inland Wetlands Agency](inland-wetlands-agency/INDEX.md) | 552 | import in progress |
 | East Lyme Water & Sewer Commission | 0 | import in progress |

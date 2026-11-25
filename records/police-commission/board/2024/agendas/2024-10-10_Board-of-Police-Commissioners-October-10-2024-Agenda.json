@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners October 10 2024 Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-October-10-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Board-of-Police-Commissioners-October-10-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-25T10:41:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "220e14216a54230bbaee0e6f64bcf641703a35225d8023c6e47a61e3c8d5c3d9",
+  "bytes": 30611,
+  "pages": 0,
+  "http_last_modified": "Thu, 03 Oct 2024 14:46:35 GMT",
+  "etag": "\"16809b2-7793-623939effe8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-10-10_Board-of-Police-Commissioners-October-10-2024-Agenda--220e14216a54.pdf",
+  "versions": [
+    {
+      "sha256": "220e14216a54230bbaee0e6f64bcf641703a35225d8023c6e47a61e3c8d5c3d9",
+      "bytes": 30611,
+      "retrieved_utc": "2026-11-25T10:41:39+00:00",
+      "http_last_modified": "Thu, 03 Oct 2024 14:46:35 GMT"
+    }
+  ]
+}

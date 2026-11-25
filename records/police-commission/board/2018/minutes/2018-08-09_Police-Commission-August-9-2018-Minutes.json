@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Police Commission August 9 2018 Minutes (pdf)",
+  "filename": "Police-Commission-August-9-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Police-Commission-August-9-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2018-minutes/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-25T11:51:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e44b90b7b6302a6fdf63e1bc48ca423d1f5220e0e9d15d50b9b6e8a2ce6eb30e",
+  "bytes": 632060,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Aug 2018 19:51:13 GMT",
+  "etag": "\"16c16ae-9a4fc-5731a10dfce40\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2018/2018-08-09_Police-Commission-August-9-2018-Minutes--e44b90b7b630.pdf",
+  "versions": [
+    {
+      "sha256": "e44b90b7b6302a6fdf63e1bc48ca423d1f5220e0e9d15d50b9b6e8a2ce6eb30e",
+      "bytes": 632060,
+      "retrieved_utc": "2026-11-25T11:51:41+00:00",
+      "http_last_modified": "Fri, 10 Aug 2018 19:51:13 GMT"
+    }
+  ]
+}

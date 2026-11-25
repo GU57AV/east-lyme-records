@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners November 23 2026 Special Meeting Minutes (pdf)",
+  "filename": "Police-Commission-November-23-2026-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Police-Commission-November-23-2026-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-25T10:18:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9011048e427440b2c54ad6725cabba1914b3921e82d7c3b25cd9480cd09acf8a",
+  "bytes": 40669,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Nov 2026 14:52:51 GMT",
+  "etag": "\"17c0197-9edd-66106dd5f3342\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2026/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Minutes--9011048e4274.pdf",
+  "versions": [
+    {
+      "sha256": "9011048e427440b2c54ad6725cabba1914b3921e82d7c3b25cd9480cd09acf8a",
+      "bytes": 40669,
+      "retrieved_utc": "2026-11-25T10:18:48+00:00",
+      "http_last_modified": "Tue, 24 Nov 2026 14:52:51 GMT"
+    }
+  ]
+}

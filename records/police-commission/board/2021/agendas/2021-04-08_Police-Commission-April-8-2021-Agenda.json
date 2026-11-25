@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission April 8 2021 Agenda (pdf)",
+  "filename": "Police-Commission-April-8-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/Police-Commission-April-8-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-25T11:15:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "73784c56a0f4660e587087de808c667cfe598e88d4a4696e3c6a07f2a01f0c7a",
+  "bytes": 81456,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Apr 2021 12:33:01 GMT",
+  "etag": "\"1680437-13e30-5bf6121a8d940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2021-04-08_Police-Commission-April-8-2021-Agenda--73784c56a0f4.pdf",
+  "versions": [
+    {
+      "sha256": "73784c56a0f4660e587087de808c667cfe598e88d4a4696e3c6a07f2a01f0c7a",
+      "bytes": 81456,
+      "retrieved_utc": "2026-11-25T11:15:55+00:00",
+      "http_last_modified": "Wed, 07 Apr 2021 12:33:01 GMT"
+    }
+  ]
+}

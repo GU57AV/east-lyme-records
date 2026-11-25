@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners May 9 2024 Minutes (pdf)",
+  "filename": "Police-Commission-May-9-2024-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/05/Police-Commission-May-9-2024-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-minutes/",
+  "upload_folder": "2024-05",
+  "first_seen_utc": "2026-11-25T10:52:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a23241a5ea1044d620af83edd7b80cb02cd42575d2d5503230e932b8e8b02fc9",
+  "bytes": 527466,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 May 2024 19:12:01 GMT",
+  "etag": "\"1680671-80c6a-6186ec6cc2240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-05-09_Police-Commission-May-9-2024-Minutes-1--a23241a5ea10.pdf",
+  "versions": [
+    {
+      "sha256": "a23241a5ea1044d620af83edd7b80cb02cd42575d2d5503230e932b8e8b02fc9",
+      "bytes": 527466,
+      "retrieved_utc": "2026-11-25T10:52:24+00:00",
+      "http_last_modified": "Tue, 14 May 2024 19:12:01 GMT"
+    }
+  ]
+}

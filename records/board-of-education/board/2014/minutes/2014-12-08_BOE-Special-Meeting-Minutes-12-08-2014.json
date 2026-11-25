@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Special Meeting Minutes 12-08-2014 (pdf)",
+  "filename": "BOE-Special-Meeting-Minutes-12-08-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Special-Meeting-Minutes-12-08-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:12:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ee804f9abdc1995c111c934a33f47045161c82fceafc079eb64cf0158af56735",
+  "bytes": 78774,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:15 GMT",
+  "etag": "\"1663ee1-133b6-520826885f4c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-12-08_BOE-Special-Meeting-Minutes-12-08-2014--ee804f9abdc1.pdf",
+  "versions": [
+    {
+      "sha256": "ee804f9abdc1995c111c934a33f47045161c82fceafc079eb64cf0158af56735",
+      "bytes": 78774,
+      "retrieved_utc": "2026-11-25T13:12:35+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:15 GMT"
+    }
+  ]
+}

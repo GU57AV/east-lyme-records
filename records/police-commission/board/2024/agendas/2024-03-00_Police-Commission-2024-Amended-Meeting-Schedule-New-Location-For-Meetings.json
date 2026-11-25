@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners 2024 Amended Meeting Schedule (New Location For Meetings) (pdf)",
+  "filename": "Police-Commission-2024-Amended-Meeting-Schedule-New-Location-For-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Police-Commission-2024-Amended-Meeting-Schedule-New-Location-For-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-25T10:47:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "95e017fa14233b68f5a3e6c5225e0f9868bf8325b847ee6b50b9bf311ee19eb4",
+  "bytes": 51658,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Mar 2024 17:50:07 GMT",
+  "etag": "\"1680600-c9ca-613a2859491c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-03-00_Police-Commission-2024-Amended-Meeting-Schedule-New-Location-For-Meetings--95e017fa1423.pdf",
+  "versions": [
+    {
+      "sha256": "95e017fa14233b68f5a3e6c5225e0f9868bf8325b847ee6b50b9bf311ee19eb4",
+      "bytes": 51658,
+      "retrieved_utc": "2026-11-25T10:47:21+00:00",
+      "http_last_modified": "Thu, 14 Mar 2024 17:50:07 GMT"
+    }
+  ]
+}

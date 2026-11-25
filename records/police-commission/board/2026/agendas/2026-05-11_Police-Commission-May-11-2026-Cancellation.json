@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners May 11 2026 Cancellation (pdf)",
+  "filename": "Police-Commission-May-11-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/Police-Commission-May-11-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2026-agendas/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-25T10:15:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "63cc4d72f843ea494a6647ec6f6743d8558c76af5277876721dd43102649638f",
+  "bytes": 39030,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Apr 2026 14:23:57 GMT",
+  "etag": "\"1701458-9876-650ae36fb50d3\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2026/2026-05-11_Police-Commission-May-11-2026-Cancellation--63cc4d72f843.pdf",
+  "versions": [
+    {
+      "sha256": "63cc4d72f843ea494a6647ec6f6743d8558c76af5277876721dd43102649638f",
+      "bytes": 39030,
+      "retrieved_utc": "2026-11-25T10:15:47+00:00",
+      "http_last_modified": "Thu, 30 Apr 2026 14:23:57 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Police Commission November 9 2023 Minutes (pdf)",
+  "filename": "Police-Commission-November-9-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/11/Police-Commission-November-9-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2023-minutes/",
+  "upload_folder": "2023-11",
+  "first_seen_utc": "2026-11-25T10:58:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a090a714a675f69cab27fd2f8b6214681f5fed5fa31548d5ba1ab6c800efe10f",
+  "bytes": 353466,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Nov 2023 20:51:44 GMT",
+  "etag": "\"16e0113-564ba-60a0ed673d800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2023/2023-11-09_Police-Commission-November-9-2023-Minutes--a090a714a675.pdf",
+  "versions": [
+    {
+      "sha256": "a090a714a675f69cab27fd2f8b6214681f5fed5fa31548d5ba1ab6c800efe10f",
+      "bytes": 353466,
+      "retrieved_utc": "2026-11-25T10:58:47+00:00",
+      "http_last_modified": "Mon, 13 Nov 2023 20:51:44 GMT"
+    }
+  ]
+}

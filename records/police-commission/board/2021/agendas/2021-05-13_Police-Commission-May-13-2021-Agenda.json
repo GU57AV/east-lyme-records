@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission May 13 2021 Agenda (pdf)",
+  "filename": "Police-Commission-May-13-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/05/Police-Commission-May-13-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-agendas/",
+  "upload_folder": "2021-05",
+  "first_seen_utc": "2026-11-25T11:15:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "34f17a97ad8bd3333f548453e5c94ba3b3b9b2365061fe7ac99df16f4b215e23",
+  "bytes": 30022,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 May 2021 13:01:38 GMT",
+  "etag": "\"166366d-7546-5c2219c725080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2021-05-13_Police-Commission-May-13-2021-Agenda--34f17a97ad8b.pdf",
+  "versions": [
+    {
+      "sha256": "34f17a97ad8bd3333f548453e5c94ba3b3b9b2365061fe7ac99df16f4b215e23",
+      "bytes": 30022,
+      "retrieved_utc": "2026-11-25T11:15:34+00:00",
+      "http_last_modified": "Wed, 12 May 2021 13:01:38 GMT"
+    }
+  ]
+}

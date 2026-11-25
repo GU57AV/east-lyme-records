@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners August 1 2024 Special Meeting Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-August-1-2024-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/07/Board-of-Police-Commissioners-August-1-2024-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-agendas/",
+  "upload_folder": "2024-07",
+  "first_seen_utc": "2026-11-25T10:43:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5cb4182e0cf5109aa29865b12934010a455ca082b15469d3d400977290672130",
+  "bytes": 23813,
+  "pages": 0,
+  "http_last_modified": "Mon, 29 Jul 2024 13:05:05 GMT",
+  "etag": "\"1680af9-5d05-61e62827b2240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-08-01_Board-of-Police-Commissioners-August-1-2024-Special-Meeting-Agenda--5cb4182e0cf5.pdf",
+  "versions": [
+    {
+      "sha256": "5cb4182e0cf5109aa29865b12934010a455ca082b15469d3d400977290672130",
+      "bytes": 23813,
+      "retrieved_utc": "2026-11-25T10:43:20+00:00",
+      "http_last_modified": "Mon, 29 Jul 2024 13:05:05 GMT"
+    }
+  ]
+}

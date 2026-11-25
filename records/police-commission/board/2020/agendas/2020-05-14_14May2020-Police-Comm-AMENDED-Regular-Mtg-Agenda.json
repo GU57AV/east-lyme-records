@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission May 14 2020 Amended Agenda (Via Zoom) (pdf)",
+  "filename": "14May2020-Police-Comm-AMENDED-Regular-Mtg-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/14May2020-Police-Comm-AMENDED-Regular-Mtg-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-25T11:26:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9cd3252b17f5cc0104ea4036096cfc6a9557af72a9df6c824477618580fa8e84",
+  "bytes": 87541,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 May 2020 15:17:06 GMT",
+  "etag": "\"16616c3-155f5-5a574f4d5e080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-05-14_14May2020-Police-Comm-AMENDED-Regular-Mtg-Agenda--9cd3252b17f5.pdf",
+  "versions": [
+    {
+      "sha256": "9cd3252b17f5cc0104ea4036096cfc6a9557af72a9df6c824477618580fa8e84",
+      "bytes": 87541,
+      "retrieved_utc": "2026-11-25T11:26:05+00:00",
+      "http_last_modified": "Tue, 12 May 2020 15:17:06 GMT"
+    }
+  ]
+}

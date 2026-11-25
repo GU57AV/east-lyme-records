@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission 2021 Schedule of Meetings (pdf)",
+  "filename": "Police-Commission-2021-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Police-Commission-2021-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-25T11:17:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75715fb292c41f40e1e0d1573820ab88ba208f17855742d669f55e344d208964",
+  "bytes": 44993,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Dec 2020 16:28:25 GMT",
+  "etag": "\"166155d-afc1-5b66f219b3c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2020-12-00_Police-Commission-2021-Schedule-of-Meetings--75715fb292c4.pdf",
+  "versions": [
+    {
+      "sha256": "75715fb292c41f40e1e0d1573820ab88ba208f17855742d669f55e344d208964",
+      "bytes": 44993,
+      "retrieved_utc": "2026-11-25T11:17:35+00:00",
+      "http_last_modified": "Mon, 14 Dec 2020 16:28:25 GMT"
+    }
+  ]
+}

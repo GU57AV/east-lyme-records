@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Procedures Sub-Committee February 13 2017 Minutes (pdf)",
+  "filename": "Police-Procedures-Sub-Committee-February-13-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Procedures-Sub-Committee-February-13-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:15:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "74dc67ee29ebd14d97fad66bbe3940baf84c33df8ccbd35e217a2f4b8ca2bd16",
+  "bytes": 35253,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Feb 2017 18:41:07 GMT",
+  "etag": "\"16627b5-89b5-54881e83016c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-02-13_Police-Procedures-Sub-Committee-February-13-2017-Minutes--74dc67ee29eb.pdf",
+  "versions": [
+    {
+      "sha256": "74dc67ee29ebd14d97fad66bbe3940baf84c33df8ccbd35e217a2f4b8ca2bd16",
+      "bytes": 35253,
+      "retrieved_utc": "2026-11-25T12:15:14+00:00",
+      "http_last_modified": "Tue, 14 Feb 2017 18:41:07 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission 2017 Regular Meeting Schedule (pdf)",
+  "filename": "Police-Commission-2017-Regular-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-2017-Regular-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:06:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a2c5cfa8817fbfb4404d041990f4461e7088c409b9980b4060acf97bbbc7b2d9",
+  "bytes": 45827,
+  "pages": 0,
+  "http_last_modified": "Fri, 27 Jan 2017 15:12:57 GMT",
+  "etag": "\"1662721-b303-54714e6951040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2016-11-00_Police-Commission-2017-Regular-Meeting-Schedule--a2c5cfa8817f.pdf",
+  "versions": [
+    {
+      "sha256": "a2c5cfa8817fbfb4404d041990f4461e7088c409b9980b4060acf97bbbc7b2d9",
+      "bytes": 45827,
+      "retrieved_utc": "2026-11-25T12:06:09+00:00",
+      "http_last_modified": "Fri, 27 Jan 2017 15:12:57 GMT"
+    }
+  ]
+}

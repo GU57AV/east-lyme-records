@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission July 23 2020 Special Meeting Supporting Documentation (pdf)",
+  "filename": "Police-Commission-July-23-2020-Meeting-Supporting-Documentation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/Police-Commission-July-23-2020-Meeting-Supporting-Documentation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-25T11:24:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1f3f2d3e69d6a043cc515590ef8339e5d75e8b52cb4a1dd3b7328619e852b748",
+  "bytes": 3962024,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Jul 2020 12:11:55 GMT",
+  "etag": "\"1661b1d-3c74a8-5ab1ac32478c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-07-23_Police-Commission-July-23-2020-Meeting-Supporting-Documentation--1f3f2d3e69d6.pdf",
+  "versions": [
+    {
+      "sha256": "1f3f2d3e69d6a043cc515590ef8339e5d75e8b52cb4a1dd3b7328619e852b748",
+      "bytes": 3962024,
+      "retrieved_utc": "2026-11-25T11:24:04+00:00",
+      "http_last_modified": "Thu, 23 Jul 2020 12:11:55 GMT"
+    }
+  ]
+}

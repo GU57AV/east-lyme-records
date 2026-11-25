@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Police Commission April 11 2019 Minutes (pdf)",
+  "filename": "Police-Commission-April-11-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Police-Commission-April-11-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2019-minutes/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-25T11:41:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ca78b81fb7573defb854af09612a3964e1fd611ed4eeaf3c063c0ec6ab0eb6ac",
+  "bytes": 404014,
+  "pages": 0,
+  "http_last_modified": "Wed, 17 Apr 2019 17:37:03 GMT",
+  "etag": "\"16c2064-62a2e-586bd55624dc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2019/2019-04-11_Police-Commission-April-11-2019-Minutes--ca78b81fb757.pdf",
+  "versions": [
+    {
+      "sha256": "ca78b81fb7573defb854af09612a3964e1fd611ed4eeaf3c063c0ec6ab0eb6ac",
+      "bytes": 404014,
+      "retrieved_utc": "2026-11-25T11:41:33+00:00",
+      "http_last_modified": "Wed, 17 Apr 2019 17:37:03 GMT"
+    }
+  ]
+}

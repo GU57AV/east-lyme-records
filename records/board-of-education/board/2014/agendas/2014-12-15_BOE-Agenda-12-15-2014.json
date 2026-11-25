@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Agenda 12-15-2014 (pdf)",
+  "filename": "BOE-Agenda-12-15-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Agenda-12-15-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:00:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "917fe2dc8480a8b01ffbe10cfff525e79b02bb1671dfd5432ef48b5de80baf0e",
+  "bytes": 143707,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 Dec 2014 14:03:18 GMT",
+  "etag": "\"1663aef-2315b-50a41b4525580\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-12-15_BOE-Agenda-12-15-2014--917fe2dc8480.pdf",
+  "versions": [
+    {
+      "sha256": "917fe2dc8480a8b01ffbe10cfff525e79b02bb1671dfd5432ef48b5de80baf0e",
+      "bytes": 143707,
+      "retrieved_utc": "2026-11-25T13:00:09+00:00",
+      "http_last_modified": "Mon, 15 Dec 2014 14:03:18 GMT"
+    }
+  ]
+}

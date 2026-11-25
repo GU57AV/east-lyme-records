@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission November 12 2020 Cancellation (pdf)",
+  "filename": "Police-Commission-November-12-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/Police-Commission-November-12-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-25T11:22:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9a83e8aeb50161d280b43876ce61adf1a712149ece3e869a16d36258e1ad137a",
+  "bytes": 31648,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Nov 2020 18:03:04 GMT",
+  "etag": "\"166188c-7ba0-5b3740621a600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-11-12_Police-Commission-November-12-2020-Cancellation--9a83e8aeb501.pdf",
+  "versions": [
+    {
+      "sha256": "9a83e8aeb50161d280b43876ce61adf1a712149ece3e869a16d36258e1ad137a",
+      "bytes": 31648,
+      "retrieved_utc": "2026-11-25T11:22:03+00:00",
+      "http_last_modified": "Fri, 06 Nov 2020 18:03:04 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission March 28 2017 Special Meeting Agenda (pdf)",
+  "filename": "Police-Commission-March-28-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-March-28-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:02:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ed2ba9c1b1d25d64aaa2d14f2c973f7164973bea927fbc3b328970b423c81030",
+  "bytes": 24189,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Mar 2017 19:54:35 GMT",
+  "etag": "\"16626a1-5e7d-54b6b3f0db4c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-03-28_Police-Commission-March-28-2017-Special-Meeting-Agenda--ed2ba9c1b1d2.pdf",
+  "versions": [
+    {
+      "sha256": "ed2ba9c1b1d25d64aaa2d14f2c973f7164973bea927fbc3b328970b423c81030",
+      "bytes": 24189,
+      "retrieved_utc": "2026-11-25T12:02:28+00:00",
+      "http_last_modified": "Thu, 23 Mar 2017 19:54:35 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission November 9 2017 Minutes (pdf)",
+  "filename": "Police-Commission-November-9-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-November-9-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:07:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6c803821e92c4483f647292ff28c5da4b42ad2d110a63372f2f2d763c5700253",
+  "bytes": 419379,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Nov 2017 17:24:40 GMT",
+  "etag": "\"16628e9-66633-55df4a9756600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-11-09_Police-Commission-November-9-2017-Minutes--6c803821e92c.pdf",
+  "versions": [
+    {
+      "sha256": "6c803821e92c4483f647292ff28c5da4b42ad2d110a63372f2f2d763c5700253",
+      "bytes": 419379,
+      "retrieved_utc": "2026-11-25T12:07:50+00:00",
+      "http_last_modified": "Tue, 14 Nov 2017 17:24:40 GMT"
+    }
+  ]
+}

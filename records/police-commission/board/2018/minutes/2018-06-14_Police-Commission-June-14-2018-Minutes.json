@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Police Commission June 14 2018 Meeting Minutes (pdf)",
+  "filename": "Police-Commission-June-14-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Police-Commission-June-14-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-25T11:52:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d85be67dabcc0faf8cb8e9599bd6619ebc938195fd8ac5bf0f5c041388d4b2c1",
+  "bytes": 446026,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Jun 2018 14:27:02 GMT",
+  "etag": "\"16c0f2b-6ce4a-56eff79c19980\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2018/2018-06-14_Police-Commission-June-14-2018-Minutes--d85be67dabcc.pdf",
+  "versions": [
+    {
+      "sha256": "d85be67dabcc0faf8cb8e9599bd6619ebc938195fd8ac5bf0f5c041388d4b2c1",
+      "bytes": 446026,
+      "retrieved_utc": "2026-11-25T11:52:38+00:00",
+      "http_last_modified": "Tue, 19 Jun 2018 14:27:02 GMT"
+    }
+  ]
+}

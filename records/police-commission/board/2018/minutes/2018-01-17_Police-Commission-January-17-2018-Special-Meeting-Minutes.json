@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Police Commission January 17 2018 Special Meeting Minutes (pdf)",
+  "filename": "Police-Commission-January-17-2018-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/Police-Commission-January-17-2018-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2018-minutes/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-25T11:54:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5fc6f28d40e499659fcea251eb3602165a17b97c42477517b4b224d01cba3542",
+  "bytes": 95375,
+  "pages": 0,
+  "http_last_modified": "Mon, 22 Jan 2018 16:33:41 GMT",
+  "etag": "\"16c0dcb-1748f-5635ffe2da340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2018/2018-01-17_Police-Commission-January-17-2018-Special-Meeting-Minutes--5fc6f28d40e4.pdf",
+  "versions": [
+    {
+      "sha256": "5fc6f28d40e499659fcea251eb3602165a17b97c42477517b4b224d01cba3542",
+      "bytes": 95375,
+      "retrieved_utc": "2026-11-25T11:54:25+00:00",
+      "http_last_modified": "Mon, 22 Jan 2018 16:33:41 GMT"
+    }
+  ]
+}

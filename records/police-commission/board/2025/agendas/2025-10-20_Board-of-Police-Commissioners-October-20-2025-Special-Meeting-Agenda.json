@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners October 20 2025 Special Meeting Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-October-20-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/Board-of-Police-Commissioners-October-20-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-25T10:24:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37ce610119e9023500e46e3ab799ceeaf7fee37ba28ef53daf98ac187b365073",
+  "bytes": 26374,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Oct 2025 15:19:52 GMT",
+  "etag": "\"172000b-6706-6414826162721\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2025/2025-10-20_Board-of-Police-Commissioners-October-20-2025-Special-Meeting-Agenda--37ce610119e9.pdf",
+  "versions": [
+    {
+      "sha256": "37ce610119e9023500e46e3ab799ceeaf7fee37ba28ef53daf98ac187b365073",
+      "bytes": 26374,
+      "retrieved_utc": "2026-11-25T10:24:11+00:00",
+      "http_last_modified": "Thu, 16 Oct 2025 15:19:52 GMT"
+    }
+  ]
+}

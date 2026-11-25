@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Police Commission January 27 2022 Special Meeting Agenda (pdf)",
+  "filename": "Police-Commission-January-27-2022-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/Police-Commission-January-27-2022-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-25T11:08:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f5e72fe229d07b1985411901e32fa8df0dca898c9fafa2ef168b391f6e582c9",
+  "bytes": 29713,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Jan 2022 20:42:29 GMT",
+  "etag": "\"16a0e6f-7411-5d61da8445740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2022/2022-01-27_Police-Commission-January-27-2022-Special-Meeting-Agenda--0f5e72fe229d.pdf",
+  "versions": [
+    {
+      "sha256": "0f5e72fe229d07b1985411901e32fa8df0dca898c9fafa2ef168b391f6e582c9",
+      "bytes": 29713,
+      "retrieved_utc": "2026-11-25T11:08:31+00:00",
+      "http_last_modified": "Fri, 21 Jan 2022 20:42:29 GMT"
+    }
+  ]
+}

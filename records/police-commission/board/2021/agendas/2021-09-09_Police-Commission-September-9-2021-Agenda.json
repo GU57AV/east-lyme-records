@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Police Commission September 9 2021 Agenda (pdf)",
+  "filename": "Police-Commission-September-9-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Police-Commission-September-9-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-25T11:14:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c13e91b1a6feb0841c9242570cb6e0cc2388f3084a5ff436e62da34706f1c52c",
+  "bytes": 29296,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Sep 2021 16:06:39 GMT",
+  "etag": "\"16802cd-7270-5cb69f36461c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2021/2021-09-09_Police-Commission-September-9-2021-Agenda--c13e91b1a6fe.pdf",
+  "versions": [
+    {
+      "sha256": "c13e91b1a6feb0841c9242570cb6e0cc2388f3084a5ff436e62da34706f1c52c",
+      "bytes": 29296,
+      "retrieved_utc": "2026-11-25T11:14:34+00:00",
+      "http_last_modified": "Tue, 07 Sep 2021 16:06:39 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE Sept 8 2014 Agenda (pdf)",
+  "filename": "BOE-Sept-8-2014-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Sept-8-2014-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T13:03:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d6dfab973ff6ecf8c5521dff01b4f0646a0684c88584bbbc007c55f5b51e9519",
+  "bytes": 146799,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Sep 2014 13:31:36 GMT",
+  "etag": "\"166399f-23d6f-502517cfb3e00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-08_BOE-Sept-8-2014-Agenda--d6dfab973ff6.pdf",
+  "versions": [
+    {
+      "sha256": "d6dfab973ff6ecf8c5521dff01b4f0646a0684c88584bbbc007c55f5b51e9519",
+      "bytes": 146799,
+      "retrieved_utc": "2026-11-25T13:03:31+00:00",
+      "http_last_modified": "Fri, 05 Sep 2014 13:31:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Police Commission December 5 2023 Agenda (pdf)",
+  "filename": "Police-Commission-December-5-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/11/Police-Commission-December-5-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2023-agendas/",
+  "upload_folder": "2023-11",
+  "first_seen_utc": "2026-11-25T10:53:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fd1a8148eef0058d74c3887396deb14ae3e11cf9d5dee42dd4f580f4ab303719",
+  "bytes": 30868,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 Nov 2023 20:42:30 GMT",
+  "etag": "\"16e0142-7894-60b5092e47980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2023/2023-12-05_Police-Commission-December-5-2023-Agenda--fd1a8148eef0.pdf",
+  "versions": [
+    {
+      "sha256": "fd1a8148eef0058d74c3887396deb14ae3e11cf9d5dee42dd4f580f4ab303719",
+      "bytes": 30868,
+      "retrieved_utc": "2026-11-25T10:53:24+00:00",
+      "http_last_modified": "Wed, 29 Nov 2023 20:42:30 GMT"
+    }
+  ]
+}

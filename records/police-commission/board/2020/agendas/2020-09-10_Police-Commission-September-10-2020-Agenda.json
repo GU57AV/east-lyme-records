@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission September 10 2020 Agenda (pdf)",
+  "filename": "Police-Commission-September-10-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/Police-Commission-September-10-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-25T11:23:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0755db2d24c670ea7ff16ae1d5713740ac483aa7c27ea7b32303964d6b876905",
+  "bytes": 81785,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Sep 2020 17:27:36 GMT",
+  "etag": "\"1661909-13f79-5ae802f4a5200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-09-10_Police-Commission-September-10-2020-Agenda--0755db2d24c6.pdf",
+  "versions": [
+    {
+      "sha256": "0755db2d24c670ea7ff16ae1d5713740ac483aa7c27ea7b32303964d6b876905",
+      "bytes": 81785,
+      "retrieved_utc": "2026-11-25T11:23:04+00:00",
+      "http_last_modified": "Fri, 04 Sep 2020 17:27:36 GMT"
+    }
+  ]
+}

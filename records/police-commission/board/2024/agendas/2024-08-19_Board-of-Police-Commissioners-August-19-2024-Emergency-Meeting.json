@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Police Commissioners August 19 2024 Emergency Meeting Agenda (pdf)",
+  "filename": "Board-of-Police-Commissioners-August-19-2024-Emergency-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/Board-of-Police-Commissioners-August-19-2024-Emergency-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2024-agendas/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-25T10:42:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e71eef4a295c9b867ad0956648041f9e0df2cf17a54ef961059369ecd28dfbc3",
+  "bytes": 24525,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Aug 2024 12:40:17 GMT",
+  "etag": "\"1680a8d-5fcd-620089c74ee40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2024/2024-08-19_Board-of-Police-Commissioners-August-19-2024-Emergency-Meeting--e71eef4a295c.pdf",
+  "versions": [
+    {
+      "sha256": "e71eef4a295c9b867ad0956648041f9e0df2cf17a54ef961059369ecd28dfbc3",
+      "bytes": 24525,
+      "retrieved_utc": "2026-11-25T10:42:19+00:00",
+      "http_last_modified": "Mon, 19 Aug 2024 12:40:17 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission 2017 Amended Schedule of Meetings (pdf)",
+  "filename": "Police-Commission-2017-Amended-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-2017-Amended-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T11:58:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "42af9621c7ebe904d3c426c08807f3768f4b1c5633855080fdebf8cf3fc574e6",
+  "bytes": 26432,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Jul 2017 16:23:59 GMT",
+  "etag": "\"1662d03-6740-5536c31b3e5c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2016-11-00_Police-Commission-2017-Amended-Schedule-of-Meetings--42af9621c7eb.pdf",
+  "versions": [
+    {
+      "sha256": "42af9621c7ebe904d3c426c08807f3768f4b1c5633855080fdebf8cf3fc574e6",
+      "bytes": 26432,
+      "retrieved_utc": "2026-11-25T11:58:06+00:00",
+      "http_last_modified": "Mon, 03 Jul 2017 16:23:59 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Police Commission July 30 2020 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "Police-Commission-July-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/Police-Commission-July-30-2020-Special-Meeting-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2020-agendas/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-25T11:23:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b0e83bd2c4a1f20d461729d9c8372068163e330a9b8fb7b038d447cdd2a84655",
+  "bytes": 76143,
+  "pages": 0,
+  "http_last_modified": "Mon, 27 Jul 2020 15:39:40 GMT",
+  "etag": "\"1661b79-1296f-5ab6e217ac700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2020/2020-07-30_Police-Commission-July-30-2020-Special-Meeting-Agenda-Via-Zoom--b0e83bd2c4a1.pdf",
+  "versions": [
+    {
+      "sha256": "b0e83bd2c4a1f20d461729d9c8372068163e330a9b8fb7b038d447cdd2a84655",
+      "bytes": 76143,
+      "retrieved_utc": "2026-11-25T11:23:44+00:00",
+      "http_last_modified": "Mon, 27 Jul 2020 15:39:40 GMT"
+    }
+  ]
+}

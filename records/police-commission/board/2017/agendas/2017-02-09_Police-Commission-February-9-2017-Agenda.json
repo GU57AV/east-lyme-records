@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission February 9 2017 Agenda (pdf)",
+  "filename": "Police-Commission-February-9-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-February-9-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:05:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9e7203473fdd5f0aeb04887c13d29639921730630c17ef0777f73173b9e965e6",
+  "bytes": 26349,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Feb 2017 18:50:33 GMT",
+  "etag": "\"1662cc6-66ed-547a4c1ab7040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-02-09_Police-Commission-February-9-2017-Agenda--9e7203473fdd.pdf",
+  "versions": [
+    {
+      "sha256": "9e7203473fdd5f0aeb04887c13d29639921730630c17ef0777f73173b9e965e6",
+      "bytes": 26349,
+      "retrieved_utc": "2026-11-25T12:05:49+00:00",
+      "http_last_modified": "Fri, 03 Feb 2017 18:50:33 GMT"
+    }
+  ]
+}

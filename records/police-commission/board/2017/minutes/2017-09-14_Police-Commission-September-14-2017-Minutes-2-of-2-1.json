@@ -1,0 +1,29 @@
+{
+  "board": "police-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Police Commission September 14 2017 Minutes (2 of 2) (pdf)",
+  "filename": "Police-Commission-September-14-2017-Minutes-2-of-2-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Police-Commission-September-14-2017-Minutes-2-of-2-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/police-commission/police-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T12:08:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d787b5ce71c93b0c07b6d7c2589091f6f0f509bb6297c946b494c5d0e3cd50d6",
+  "bytes": 856670,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Sep 2017 12:19:42 GMT",
+  "etag": "\"1662d72-d125e-55989dfb31380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/police-commission-2017/2017-09-14_Police-Commission-September-14-2017-Minutes-2-of-2-1--d787b5ce71c9.pdf",
+  "versions": [
+    {
+      "sha256": "d787b5ce71c93b0c07b6d7c2589091f6f0f509bb6297c946b494c5d0e3cd50d6",
+      "bytes": 856670,
+      "retrieved_utc": "2026-11-25T12:08:31+00:00",
+      "http_last_modified": "Tue, 19 Sep 2017 12:19:42 GMT"
+    }
+  ]
+}
