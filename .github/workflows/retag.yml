@@ -1,0 +1,17 @@
+name: Move release tags onto current history (one-time)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  retag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Point old release tags at the current main commit
+        run: |
+          for t in board-of-selectmen-2027 board-of-selectmen-2026 board-of-selectmen-2025 board-of-selectmen-2024 board-of-selectmen-2023 board-of-selectmen-2022 board-of-selectmen-2021 board-of-selectmen-2020 board-of-selectmen-2019 ; do
+            git push --force origin "HEAD:refs/tags/$t"
+          done
