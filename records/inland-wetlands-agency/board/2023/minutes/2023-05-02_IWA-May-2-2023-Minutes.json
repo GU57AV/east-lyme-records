@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "IWA May 2 2023 Minutes (pdf)",
+  "filename": "IWA-May-2-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/IWA-May-2-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2023-minutes/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-25T06:08:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ea951656eabc8e5d4e7f375e00183d1936f3b7c5d23a3b79d79a3da9b16fce7e",
+  "bytes": 336531,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 May 2023 15:23:31 GMT",
+  "etag": "\"16c2391-52293-5fadfc14922c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2023/2023-05-02_IWA-May-2-2023-Minutes--ea951656eabc.pdf",
+  "versions": [
+    {
+      "sha256": "ea951656eabc8e5d4e7f375e00183d1936f3b7c5d23a3b79d79a3da9b16fce7e",
+      "bytes": 336531,
+      "retrieved_utc": "2026-11-25T06:08:19+00:00",
+      "http_last_modified": "Thu, 04 May 2023 15:23:31 GMT"
+    }
+  ]
+}

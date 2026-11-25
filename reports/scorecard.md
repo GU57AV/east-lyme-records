@@ -1,25 +1,29 @@
 # Transparency scorecard
 
-_Updated Nov 24, 2026 6:19 PM ET. Unofficial and automatic._
+_Updated Nov 25, 2026 3:13 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
 ## Last 12 months
 
-Meetings from Nov 24, 2025 through yesterday.
+Meetings from Nov 25, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
+| Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 1 |
 | Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (20/21) | 50% (10/20) | 7.5 | 0 |
 
 ## Since January 1, 2024
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
+| Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 1 |
 | Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (63/64) | 81% (51/63) | 4 | 0 |
 
 ## How to read this
@@ -34,6 +38,32 @@ Meetings from Nov 24, 2025 through yesterday.
 - Boards still being imported will appear once their history is complete.
 
 ## Details (last 12 months)
+
+<details><summary>Board of Finance (21)</summary>
+
+- Wed Dec 10, 2025 — Board of Finance: current minutes file uploaded after 19 days ([document](../records/board-of-finance/board/2025/agendas/2025-12-10_BOF-December-10-2025-Agenda-With-Zoom-Link.md))
+- Wed Feb 11, 2026 — Board of Finance: agenda not online 24 h ahead; current minutes file uploaded after 19 days ([document](../records/board-of-finance/board/2026/agendas/2026-02-11_BOF-February-11-2026-Regular-Meeting-Agenda-With-Zoom-Link.md))
+- Wed Mar 11, 2026 — Board of Finance: current minutes file uploaded after 14 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-11_BOF-March-11-2026-Regular-Meeting-Agenda.md))
+- Mon Mar 16, 2026 — BOF (Special): current minutes file uploaded after 15 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-16_BOF-March-16-2026-Special-Meeting-Agenda.md))
+- Mon Mar 23, 2026 — BOF (Special): current minutes file uploaded after 15 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-23_BOF-March-23-2026-Special-Meeting-Agenda.md))
+- Wed Mar 25, 2026 — BOF (Special): current minutes file uploaded after 16 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-25_BOF-March-25-2026-Special-Meeting-Agenda.md))
+- Mon Mar 30, 2026 — BOF (Special): current minutes file uploaded after 15 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-30_BOF-March-30-2026-Special-Meeting-Agenda.md))
+- Tue Mar 31, 2026 — BOF (Special): current minutes file uploaded after 20 days ([document](../records/board-of-finance/board/2026/agendas/2026-03-31_BOF-March-31-2026-Special-Meeting-Agenda.md))
+- Mon Apr 6, 2026 — BOF (Special): current minutes file uploaded after 14 days ([document](../records/board-of-finance/board/2026/agendas/2026-04-06_BOF-April-6-2026-Special-Meeting-Agenda.md))
+- Wed Apr 8, 2026 — Board of Finance: current minutes file uploaded after 12 days ([document](../records/board-of-finance/board/2026/agendas/2026-04-08_BOF-April-8-2026-Agenda.md))
+- Mon Apr 20, 2026 — BOF Special Hybrid Meeting (via Zoom): current minutes file uploaded after 11 days ([document](../records/board-of-finance/board/2026/agendas/2026-04-20_BOF-April-20-2026-Special-Meeting-Agenda.md))
+- Thu Apr 23, 2026 — Board of Finance Public Hearing: current minutes file uploaded after 11 days ([document](../records/board-of-finance/board/2026/agendas/2026-04-23_BOF-April-23-2026-Public-Hearing-Agenda.md))
+- Mon May 4, 2026 — BOF (Special): current minutes file uploaded after 16 days ([document](../records/board-of-finance/board/2026/agendas/2026-05-04_BOF-May-4-2026-Special-Meeting-Agenda-With-Zoom-Link-2.md))
+- Tue May 26, 2026 — BOF Special Hybrid Meeting (via Zoom): current minutes file uploaded after 14 days ([document](../records/board-of-finance/board/2026/agendas/2026-05-26_BOF-May-26-2026-Special-Meeting-Agenda.md))
+- Thu May 28, 2026 — BOF Public Hearing Agenda: current minutes file uploaded after 40 days ([document](../records/board-of-finance/board/2026/agendas/2026-05-28_BOF-May-28-2026-Amended-Public-Hearing-Agenda.md))
+- Thu Jun 11, 2026 — BOF (Special): current minutes file uploaded after 8 days ([document](../records/board-of-finance/board/2026/agendas/2026-06-11_BOF-June-11-2026-Special-Meeting-Agenda-With-Zoom-Link.md))
+- Wed Jul 8, 2026 — Board of Finance: current minutes file uploaded after 30 days ([document](../records/board-of-finance/board/2026/agendas/2026-07-08_Board-of-Finance-July-8-2026-Hybrid-Agenda-with-Zoom-Link.md))
+- Wed Aug 12, 2026 — Board of Finance: current minutes file uploaded after 28 days ([document](../records/board-of-finance/board/2026/agendas/2026-08-12_August-12-2026-Board-of-Finance-Agenda.md))
+- Wed Sep 9, 2026 — Board of Finance: current minutes file uploaded after 29 days ([document](../records/board-of-finance/board/2026/agendas/2026-09-09_BOF-September-9-2026-Agenda-With-Zoom-Link.md))
+- Wed Oct 14, 2026 — Board of Finance: current minutes file uploaded after 27 days ([document](../records/board-of-finance/board/2026/agendas/2026-10-14_BOF-October-14-2026-Agenda-With-Zoom-Link.md))
+- Thu Nov 12, 2026 — BOF Hybrid Meeting: current minutes file uploaded after 11 days ([document](../records/board-of-finance/board/2026/agendas/2026-11-12_BOF-November-12-2026-Agenda-with-Zoom-Link.md))
+
+</details>
 
 <details><summary>Board of Selectmen (4)</summary>
 
@@ -54,6 +84,13 @@ Meetings from Nov 24, 2025 through yesterday.
 - Tue Jun 9, 2026 — Planning Commission: current minutes file uploaded after 15 days ([document](../records/planning-commission/board/2026/agendas/2026-06-09_Planning-Commission-June-9-2026-Agenda.md))
 - Mon Jun 15, 2026: no minutes found ([document](../records/planning-commission/board/2026/agendas/2026-06-15_Planning-Commission-June-15-2026-Housing-Growth-Seminar-Special-Meeting-Agenda.md))
 - Tue Jul 14, 2026 — Planning Commission: current minutes file uploaded after 118 days ([document](../records/planning-commission/board/2026/agendas/2026-07-14_Planning-Commission-July-14-2026-Agenda.md))
+
+</details>
+
+<details><summary>Zoning Board of Appeals (2)</summary>
+
+- Mon Jun 8, 2026 — ZBA: no minutes found ([document](../records/zoning-board-of-appeals/board/2026/agendas/2026-06-08_ZBA-June-8-2026-Agenda.md))
+- Mon Sep 14, 2026 — Zoning Board of Appeals: current minutes file uploaded after 9 days ([document](../records/zoning-board-of-appeals/board/2026/agendas/2026-09-14_ZBA-September-14-2026-Agenda.md))
 
 </details>
 

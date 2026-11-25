@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA December 14 2020 Agenda (pdf)",
+  "filename": "IWA-December-14-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/IWA-December-14-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-25T06:36:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "03692db2a4910a8ef7dfcbd460079647e64e833ab80eb9c29c244e8bcf42fcd3",
+  "bytes": 210187,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Dec 2020 20:02:30 GMT",
+  "etag": "\"1661564-3350b-5b5e54e56c180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-12-14_IWA-December-14-2020-Agenda--03692db2a491.pdf",
+  "versions": [
+    {
+      "sha256": "03692db2a4910a8ef7dfcbd460079647e64e833ab80eb9c29c244e8bcf42fcd3",
+      "bytes": 210187,
+      "retrieved_utc": "2026-11-25T06:36:23+00:00",
+      "http_last_modified": "Mon, 07 Dec 2020 20:02:30 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA February 6 2024 Agenda (pdf)",
+  "filename": "IWA-February-6-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/IWA-February-6-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-25T05:47:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1c2532dc1d81eba30989f42fca6a801966bc201757c5d12d2562ec8194538cc",
+  "bytes": 101056,
+  "pages": 0,
+  "http_last_modified": "Wed, 31 Jan 2024 18:08:53 GMT",
+  "etag": "\"16806ae-18ac0-61041c584d740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-02-06_IWA-February-6-2024-Agenda--b1c2532dc1d8.pdf",
+  "versions": [
+    {
+      "sha256": "b1c2532dc1d81eba30989f42fca6a801966bc201757c5d12d2562ec8194538cc",
+      "bytes": 101056,
+      "retrieved_utc": "2026-11-25T05:47:15+00:00",
+      "http_last_modified": "Wed, 31 Jan 2024 18:08:53 GMT"
+    }
+  ]
+}

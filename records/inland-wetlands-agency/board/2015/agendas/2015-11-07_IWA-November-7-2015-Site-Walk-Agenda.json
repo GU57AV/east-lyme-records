@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "IWA November 7 2015 Site Walk Agenda (pdf)",
+  "filename": "IWA-November-7-2015-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/04/IWA-November-7-2015-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2015/",
+  "upload_folder": "2015-04",
+  "first_seen_utc": "2026-11-25T08:12:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a2b48550451f09d041480032206bbf05cac14dba0d3258106dbd0de71af38de3",
+  "bytes": 48588,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Nov 2015 16:18:08 GMT",
+  "etag": "\"16e089a-bdcc-523b95b1b7000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2015/2015-11-07_IWA-November-7-2015-Site-Walk-Agenda--a2b48550451f.pdf",
+  "versions": [
+    {
+      "sha256": "a2b48550451f09d041480032206bbf05cac14dba0d3258106dbd0de71af38de3",
+      "bytes": 48588,
+      "retrieved_utc": "2026-11-25T08:12:40+00:00",
+      "http_last_modified": "Wed, 04 Nov 2015 16:18:08 GMT"
+    }
+  ]
+}

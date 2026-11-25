@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA February 28 2026 Site Walk Cancellation (pdf)",
+  "filename": "IWA-February-28-2026-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/IWA-February-28-2026-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-25T05:16:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b6629fb03e623fe1d029c03257ea848cdcea70d55bbce67ae921e66caea6331b",
+  "bytes": 29993,
+  "pages": 0,
+  "http_last_modified": "Thu, 26 Feb 2026 21:12:37 GMT",
+  "etag": "\"1701a9d-7529-64bc0947b3fa1\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-02-28_IWA-February-28-2026-Site-Walk-Cancellation--b6629fb03e62.pdf",
+  "versions": [
+    {
+      "sha256": "b6629fb03e623fe1d029c03257ea848cdcea70d55bbce67ae921e66caea6331b",
+      "bytes": 29993,
+      "retrieved_utc": "2026-11-25T05:16:50+00:00",
+      "http_last_modified": "Thu, 26 Feb 2026 21:12:37 GMT"
+    }
+  ]
+}

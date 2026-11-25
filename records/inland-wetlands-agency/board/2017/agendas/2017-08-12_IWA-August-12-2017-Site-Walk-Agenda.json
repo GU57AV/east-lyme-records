@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA August 12 2017 Site Walk Agenda (pdf)",
+  "filename": "IWA-August-12-2017-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-August-12-2017-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:36:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6670c07e305c8d57bacf7b4bd0499aac818480ce51a71caab2ae076d1cade447",
+  "bytes": 37811,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Aug 2017 17:13:53 GMT",
+  "etag": "\"1662556-93b3-5564116723640\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-08-12_IWA-August-12-2017-Site-Walk-Agenda--6670c07e305c.pdf",
+  "versions": [
+    {
+      "sha256": "6670c07e305c8d57bacf7b4bd0499aac818480ce51a71caab2ae076d1cade447",
+      "bytes": 37811,
+      "retrieved_utc": "2026-11-25T07:36:27+00:00",
+      "http_last_modified": "Tue, 08 Aug 2017 17:13:53 GMT"
+    }
+  ]
+}

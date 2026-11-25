@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA 2024 Second Revised Meeting Schedule (pdf)",
+  "filename": "IWA-2024-Second-Revised-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/IWA-2024-Second-Revised-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-25T05:48:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "de5e08abb3c9a61f2d73359f5d431755b594d3f876435b17a7b867fee7776d3c",
+  "bytes": 48403,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Dec 2023 14:17:45 GMT",
+  "etag": "\"16c2260-bd13-60c003f7db440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2023-12-00_IWA-2024-Second-Revised-Meeting-Schedule--de5e08abb3c9.pdf",
+  "versions": [
+    {
+      "sha256": "de5e08abb3c9a61f2d73359f5d431755b594d3f876435b17a7b867fee7776d3c",
+      "bytes": 48403,
+      "retrieved_utc": "2026-11-25T05:48:35+00:00",
+      "http_last_modified": "Fri, 08 Dec 2023 14:17:45 GMT"
+    }
+  ]
+}

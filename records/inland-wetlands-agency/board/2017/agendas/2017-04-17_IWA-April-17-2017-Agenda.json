@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA April 17 2017 Agenda (pdf)",
+  "filename": "IWA-April-17-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-April-17-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:41:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "99b3b9873f549b86c0bd51adc7f96fee65320cdd404e54e6ad8ee8415a20e564",
+  "bytes": 104444,
+  "pages": 0,
+  "http_last_modified": "Tue, 11 Apr 2017 13:11:28 GMT",
+  "etag": "\"166256c-197fc-54ce3d4618000\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-04-17_IWA-April-17-2017-Agenda--99b3b9873f54.pdf",
+  "versions": [
+    {
+      "sha256": "99b3b9873f549b86c0bd51adc7f96fee65320cdd404e54e6ad8ee8415a20e564",
+      "bytes": 104444,
+      "retrieved_utc": "2026-11-25T07:41:07+00:00",
+      "http_last_modified": "Tue, 11 Apr 2017 13:11:28 GMT"
+    }
+  ]
+}

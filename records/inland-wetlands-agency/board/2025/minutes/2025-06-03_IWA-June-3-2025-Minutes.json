@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA June 3 2025 Minutes (pdf)",
+  "filename": "IWA-June-3-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/IWA-June-3-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-minutes/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-25T05:35:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fcec46de44d9750e84f23c7c47b5eea17d446f472550b0b6e9047308e066e1a2",
+  "bytes": 174341,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Jun 2025 12:08:54 GMT",
+  "etag": "\"16c00a7-2a905-6374aad3fa180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2025-06-03_IWA-June-3-2025-Minutes--fcec46de44d9.pdf",
+  "versions": [
+    {
+      "sha256": "fcec46de44d9750e84f23c7c47b5eea17d446f472550b0b6e9047308e066e1a2",
+      "bytes": 174341,
+      "retrieved_utc": "2026-11-25T05:35:33+00:00",
+      "http_last_modified": "Wed, 11 Jun 2025 12:08:54 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "IWA October 4 2022 Regular Meeting Agenda (pdf)",
+  "filename": "IWA-October-2-2022-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/IWA-October-2-2022-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2022-agendas/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-25T06:11:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b040112373fb76e7a65171d5b3f9121691f62375bb4b6e4fcd179e4166d9fddd",
+  "bytes": 101703,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Sep 2022 15:04:45 GMT",
+  "etag": "\"16a117a-18d47-5e9d2329b5d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2022/2022-10-02_IWA-October-2-2022-Regular-Meeting-Agenda--b040112373fb.pdf",
+  "versions": [
+    {
+      "sha256": "b040112373fb76e7a65171d5b3f9121691f62375bb4b6e4fcd179e4166d9fddd",
+      "bytes": 101703,
+      "retrieved_utc": "2026-11-25T06:11:19+00:00",
+      "http_last_modified": "Thu, 29 Sep 2022 15:04:45 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA February 12 2018 Minutes (pdf)",
+  "filename": "IWA-February-12-2018-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/02/IWA-February-12-2018-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-minutes/",
+  "upload_folder": "2018-02",
+  "first_seen_utc": "2026-11-25T07:30:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1789ccebeea25fc26bc3a3c036cb5c92ce95db6490afd99ee8fbddc471b62d0e",
+  "bytes": 163664,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Feb 2018 14:02:30 GMT",
+  "etag": "\"16c1046-27f50-565a542e70980\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-02-12_IWA-February-12-2018-Minutes-1--1789ccebeea2.pdf",
+  "versions": [
+    {
+      "sha256": "1789ccebeea25fc26bc3a3c036cb5c92ce95db6490afd99ee8fbddc471b62d0e",
+      "bytes": 163664,
+      "retrieved_utc": "2026-11-25T07:30:46+00:00",
+      "http_last_modified": "Tue, 20 Feb 2018 14:02:30 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA June 14 2021 Minutes (pdf)",
+  "filename": "IWA-June-14-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/IWA-June-14-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-minutes/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-25T06:34:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0ac7966d5b4829b3f9d8c924bde2e62f05e6986e65f5f6da8beeaa062c8aa01e",
+  "bytes": 193020,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Jun 2021 19:06:37 GMT",
+  "etag": "\"168006b-2f1fc-5c4fae8040940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-06-14_IWA-June-14-2021-Minutes--0ac7966d5b48.pdf",
+  "versions": [
+    {
+      "sha256": "0ac7966d5b4829b3f9d8c924bde2e62f05e6986e65f5f6da8beeaa062c8aa01e",
+      "bytes": 193020,
+      "retrieved_utc": "2026-11-25T06:34:03+00:00",
+      "http_last_modified": "Thu, 17 Jun 2021 19:06:37 GMT"
+    }
+  ]
+}

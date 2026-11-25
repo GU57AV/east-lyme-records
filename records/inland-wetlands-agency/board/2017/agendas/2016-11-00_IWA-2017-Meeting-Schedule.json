@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA 2017 Meeting Schedule (pdf)",
+  "filename": "IWA-2017-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-2017-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:44:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d5a3c4971e0b74664e499a87064f262aa0a9127128b853d9acbb67aba1268279",
+  "bytes": 40418,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Dec 2016 19:22:59 GMT",
+  "etag": "\"1662f38-9de2-5429dbfd10ac0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2016-11-00_IWA-2017-Meeting-Schedule--d5a3c4971e0b.pdf",
+  "versions": [
+    {
+      "sha256": "d5a3c4971e0b74664e499a87064f262aa0a9127128b853d9acbb67aba1268279",
+      "bytes": 40418,
+      "retrieved_utc": "2026-11-25T07:44:08+00:00",
+      "http_last_modified": "Thu, 01 Dec 2016 19:22:59 GMT"
+    }
+  ]
+}

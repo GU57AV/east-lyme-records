@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "IWA February 8 2016 Agenda (pdf)",
+  "filename": "IWA-February-8-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/IWA-February-8-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T08:02:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6f3ff83907a7b5c51c208274d4305620cc7bc41f21aee6f99f8a7c996b270ab3",
+  "bytes": 113142,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Feb 2016 18:26:12 GMT",
+  "etag": "\"16e045a-1b9f6-52ae1c0ab1900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2016/2016-02-08_IWA-February-8-2016-Agenda--6f3ff83907a7.pdf",
+  "versions": [
+    {
+      "sha256": "6f3ff83907a7b5c51c208274d4305620cc7bc41f21aee6f99f8a7c996b270ab3",
+      "bytes": 113142,
+      "retrieved_utc": "2026-11-25T08:02:15+00:00",
+      "http_last_modified": "Wed, 03 Feb 2016 18:26:12 GMT"
+    }
+  ]
+}

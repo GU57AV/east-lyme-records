@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA April 7 2026 Agenda (pdf)",
+  "filename": "IWA-April-7-2026-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/04/IWA-April-7-2026-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2026-agendas/",
+  "upload_folder": "2026-04",
+  "first_seen_utc": "2026-11-25T05:16:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "facff001690c05bc3992d954f794720373a0d28c8f3507c26587ad0dc6cc9904",
+  "bytes": 100895,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Apr 2026 20:06:05 GMT",
+  "etag": "\"1701896-18a1f-64e7fbafa3ae9\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-04-07_IWA-April-7-2026-Agenda-1--facff001690c.pdf",
+  "versions": [
+    {
+      "sha256": "facff001690c05bc3992d954f794720373a0d28c8f3507c26587ad0dc6cc9904",
+      "bytes": 100895,
+      "retrieved_utc": "2026-11-25T05:16:10+00:00",
+      "http_last_modified": "Thu, 02 Apr 2026 20:06:05 GMT"
+    }
+  ]
+}

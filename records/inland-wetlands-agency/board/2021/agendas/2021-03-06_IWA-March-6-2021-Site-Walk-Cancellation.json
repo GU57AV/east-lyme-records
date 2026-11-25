@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA March 6 2021 Site Walk Cancellation (pdf)",
+  "filename": "IWA-March-6-2021-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/03/IWA-March-6-2021-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-03",
+  "first_seen_utc": "2026-11-25T06:29:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f835ff9b519451ba54c347470d26e6a1bd63273b815cae3367edee8d5d552978",
+  "bytes": 33482,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Mar 2021 18:15:36 GMT",
+  "etag": "\"16635bf-82ca-5bc91b88bc200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-03-06_IWA-March-6-2021-Site-Walk-Cancellation--f835ff9b5194.pdf",
+  "versions": [
+    {
+      "sha256": "f835ff9b519451ba54c347470d26e6a1bd63273b815cae3367edee8d5d552978",
+      "bytes": 33482,
+      "retrieved_utc": "2026-11-25T06:29:42+00:00",
+      "http_last_modified": "Tue, 02 Mar 2021 18:15:36 GMT"
+    }
+  ]
+}

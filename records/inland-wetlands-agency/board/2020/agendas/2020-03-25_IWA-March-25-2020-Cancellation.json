@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA March 25 2020 Cancellation (pdf)",
+  "filename": "IWA-March-25-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/IWA-March-25-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-25T06:45:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5e0440b36998d0414b14d82e3c6917839232c333b4c674511575d0f2abe7c9f9",
+  "bytes": 30701,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Mar 2020 17:36:36 GMT",
+  "etag": "\"1661617-77ed-5a0fc42c59100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-03-25_IWA-March-25-2020-Cancellation--5e0440b36998.pdf",
+  "versions": [
+    {
+      "sha256": "5e0440b36998d0414b14d82e3c6917839232c333b4c674511575d0f2abe7c9f9",
+      "bytes": 30701,
+      "retrieved_utc": "2026-11-25T06:45:05+00:00",
+      "http_last_modified": "Mon, 16 Mar 2020 17:36:36 GMT"
+    }
+  ]
+}

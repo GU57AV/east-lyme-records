@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "IWA May 2 2023 Agenda (pdf)",
+  "filename": "IWA-May-2-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/04/IWA-May-2-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2023-agendas/",
+  "upload_folder": "2023-04",
+  "first_seen_utc": "2026-11-25T06:01:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "581e7fd2c865f3471fbcbc7ba15c8b5d85e307dc3ae4b78fb3b7746de0f97b18",
+  "bytes": 94340,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Apr 2023 15:23:57 GMT",
+  "etag": "\"16e024c-17084-5fa52f1f23d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2023/2023-05-02_IWA-May-2-2023-Agenda--581e7fd2c865.pdf",
+  "versions": [
+    {
+      "sha256": "581e7fd2c865f3471fbcbc7ba15c8b5d85e307dc3ae4b78fb3b7746de0f97b18",
+      "bytes": 94340,
+      "retrieved_utc": "2026-11-25T06:01:38+00:00",
+      "http_last_modified": "Thu, 27 Apr 2023 15:23:57 GMT"
+    }
+  ]
+}

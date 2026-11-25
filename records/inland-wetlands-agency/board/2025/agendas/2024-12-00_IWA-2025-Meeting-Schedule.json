@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA 2025 Meeting Schedule (pdf)",
+  "filename": "IWA-2025-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/IWA-2025-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-25T05:32:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a2bad5c50535a45af730121810be2a33c48bae5ec0329304794ff03285316cd0",
+  "bytes": 42002,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Dec 2024 13:49:43 GMT",
+  "etag": "\"1680552-a412-628d6a2ff0bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2024-12-00_IWA-2025-Meeting-Schedule--a2bad5c50535.pdf",
+  "versions": [
+    {
+      "sha256": "a2bad5c50535a45af730121810be2a33c48bae5ec0329304794ff03285316cd0",
+      "bytes": 42002,
+      "retrieved_utc": "2026-11-25T05:32:53+00:00",
+      "http_last_modified": "Mon, 09 Dec 2024 13:49:43 GMT"
+    }
+  ]
+}

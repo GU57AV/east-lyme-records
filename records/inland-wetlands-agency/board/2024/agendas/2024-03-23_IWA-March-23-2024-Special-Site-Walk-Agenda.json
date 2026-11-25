@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA March 23 2024 Special Site Walk Agenda (pdf)",
+  "filename": "IWA-March-23-2024-Special-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/IWA-March-23-2024-Special-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-25T05:45:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e90df1c4944a4736dc9c335e3292a3b07ef7bc4829801cb5c7d7c2f3e968ffec",
+  "bytes": 36442,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Mar 2024 13:27:21 GMT",
+  "etag": "\"16805e7-8e5a-614036f0f6040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-03-23_IWA-March-23-2024-Special-Site-Walk-Agenda--e90df1c4944a.pdf",
+  "versions": [
+    {
+      "sha256": "e90df1c4944a4736dc9c335e3292a3b07ef7bc4829801cb5c7d7c2f3e968ffec",
+      "bytes": 36442,
+      "retrieved_utc": "2026-11-25T05:45:55+00:00",
+      "http_last_modified": "Tue, 19 Mar 2024 13:27:21 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA April 10 2021 Site Walk Agenda (pdf)",
+  "filename": "IWA-April-10-2021-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/IWA-April-10-2021-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-25T06:29:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ea6555b6fe66e1eb86fc622bd51328a5de3145c3f8e0d73c2cc758dbf029378a",
+  "bytes": 139969,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Apr 2021 19:18:47 GMT",
+  "etag": "\"16803d4-222c1-5bf3e911c93c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-04-10_IWA-April-10-2021-Site-Walk-Agenda--ea6555b6fe66.pdf",
+  "versions": [
+    {
+      "sha256": "ea6555b6fe66e1eb86fc622bd51328a5de3145c3f8e0d73c2cc758dbf029378a",
+      "bytes": 139969,
+      "retrieved_utc": "2026-11-25T06:29:02+00:00",
+      "http_last_modified": "Mon, 05 Apr 2021 19:18:47 GMT"
+    }
+  ]
+}

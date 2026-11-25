@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA Show Cause Hearing April 2 2024 Special Meeting Agenda (Flanders Road) (pdf)",
+  "filename": "IWA-Show-Cause-Hearing-April-2-2024-Special-Meeting-Agenda-Flanders-Road.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/IWA-Show-Cause-Hearing-April-2-2024-Special-Meeting-Agenda-Flanders-Road.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-25T05:44:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bb0f6c51303883fc3115f5e7456dcbec735a7c72d09a7f840467c68288752b97",
+  "bytes": 38157,
+  "pages": 0,
+  "http_last_modified": "Tue, 26 Mar 2024 14:03:28 GMT",
+  "etag": "\"168063d-950d-61490c11ccc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-04-02_IWA-Show-Cause-Hearing-April-2-2024-Special-Meeting-Agenda-Flanders-Road--bb0f6c513038.pdf",
+  "versions": [
+    {
+      "sha256": "bb0f6c51303883fc3115f5e7456dcbec735a7c72d09a7f840467c68288752b97",
+      "bytes": 38157,
+      "retrieved_utc": "2026-11-25T05:44:55+00:00",
+      "http_last_modified": "Tue, 26 Mar 2024 14:03:28 GMT"
+    }
+  ]
+}

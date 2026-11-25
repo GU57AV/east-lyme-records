@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA July 1 2025 Cancellation (pdf)",
+  "filename": "IWA-July-1-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/IWA-July-1-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-agendas/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-25T05:27:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f0c9b5f4692d9ad738543ff957f8219a2b6275e02c2f4b14a3ec1124948eb3dc",
+  "bytes": 30287,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Jul 2025 14:59:06 GMT",
+  "etag": "\"16c0334-764f-638df62c1e280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2025-07-01_IWA-July-1-2025-Cancellation--f0c9b5f4692d.pdf",
+  "versions": [
+    {
+      "sha256": "f0c9b5f4692d9ad738543ff957f8219a2b6275e02c2f4b14a3ec1124948eb3dc",
+      "bytes": 30287,
+      "retrieved_utc": "2026-11-25T05:27:52+00:00",
+      "http_last_modified": "Tue, 01 Jul 2025 14:59:06 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA June 23 2018 Special Site Walk Meeting Minutes (pdf)",
+  "filename": "Inland-Wetlands-June-23-2018-Special-Site-Walk-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Inland-Wetlands-June-23-2018-Special-Site-Walk-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-25T07:29:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2fa0d39c9b6465571626dab7982b500af0e172d43616c7cf5eb7130f2b9f9545",
+  "bytes": 90734,
+  "pages": 0,
+  "http_last_modified": "Tue, 26 Jun 2018 19:37:07 GMT",
+  "etag": "\"16c0fd5-1626e-56f909f96fec0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-06-23_Inland-Wetlands-June-23-2018-Special-Site-Walk-Meeting-Minutes--2fa0d39c9b64.pdf",
+  "versions": [
+    {
+      "sha256": "2fa0d39c9b6465571626dab7982b500af0e172d43616c7cf5eb7130f2b9f9545",
+      "bytes": 90734,
+      "retrieved_utc": "2026-11-25T07:29:05+00:00",
+      "http_last_modified": "Tue, 26 Jun 2018 19:37:07 GMT"
+    }
+  ]
+}

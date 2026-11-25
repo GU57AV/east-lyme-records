@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA June 11 2018 Agenda (pdf)",
+  "filename": "IWA-June-11-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/IWA-June-11-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-25T07:17:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b92fca13bfaf5d24e6122bb17b0b7165dd1e91146f5c0f13dde8da08e14bb20",
+  "bytes": 100765,
+  "pages": 0,
+  "http_last_modified": "Mon, 04 Jun 2018 16:02:38 GMT",
+  "etag": "\"16c0ff0-1899d-56dd310076380\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-06-11_IWA-June-11-2018-Agenda--0b92fca13bfa.pdf",
+  "versions": [
+    {
+      "sha256": "0b92fca13bfaf5d24e6122bb17b0b7165dd1e91146f5c0f13dde8da08e14bb20",
+      "bytes": 100765,
+      "retrieved_utc": "2026-11-25T07:17:10+00:00",
+      "http_last_modified": "Mon, 04 Jun 2018 16:02:38 GMT"
+    }
+  ]
+}

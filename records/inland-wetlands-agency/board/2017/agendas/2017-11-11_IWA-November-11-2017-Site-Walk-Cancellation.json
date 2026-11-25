@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA November 11 2017 Site Walk Cancellation (pdf)",
+  "filename": "IWA-November-11-2017-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-November-11-2017-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:32:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c3328134b6104a231b2676b6076e15d95097c70497d4f74efa454ee1c686e8cd",
+  "bytes": 32971,
+  "pages": 0,
+  "http_last_modified": "Thu, 02 Nov 2017 19:09:48 GMT",
+  "etag": "\"1662cf0-80cb-55d04bb595700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-11-11_IWA-November-11-2017-Site-Walk-Cancellation--c3328134b610.pdf",
+  "versions": [
+    {
+      "sha256": "c3328134b6104a231b2676b6076e15d95097c70497d4f74efa454ee1c686e8cd",
+      "bytes": 32971,
+      "retrieved_utc": "2026-11-25T07:32:46+00:00",
+      "http_last_modified": "Thu, 02 Nov 2017 19:09:48 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA December 2 2025 Public Hearing Notice (pdf)",
+  "filename": "IWA-December-2-2025-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/IWA-December-2-2025-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-25T05:22:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e7b68760c36695d4ce3848c3aaf2023234fc1de3f8dbc0cfcaca47ec481ee971",
+  "bytes": 37890,
+  "pages": 0,
+  "http_last_modified": "Wed, 19 Nov 2025 21:58:33 GMT",
+  "etag": "\"176001b-9402-643f9ae78c3d3\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2025-12-02_IWA-December-2-2025-Public-Hearing-Notice--e7b68760c366.pdf",
+  "versions": [
+    {
+      "sha256": "e7b68760c36695d4ce3848c3aaf2023234fc1de3f8dbc0cfcaca47ec481ee971",
+      "bytes": 37890,
+      "retrieved_utc": "2026-11-25T05:22:51+00:00",
+      "http_last_modified": "Wed, 19 Nov 2025 21:58:33 GMT"
+    }
+  ]
+}

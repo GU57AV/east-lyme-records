@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 24, 2026 6:59 PM ET. Unofficial and automatic._
+_Updated Nov 25, 2026 3:13 AM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -13,6 +13,8 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | Zoning Commission | 121 |
 | Board of Selectmen | 20 |
 | Planning Commission | 11 |
+| Inland Wetlands Agency | 9 |
+| Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
 
@@ -23,6 +25,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | moved to approve the Proposed Amendments to the East Lyme Zoning Regutations Sections 1, 3, 4, 5, 6,7, 8, 9, 12 to compt | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
 | 2024-07-11 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2024/minutes/2024-07-11_Zoning-Commission-July-11-2024-Minutes.md) |
+| 2024-06-04 | Inland Wetlands Agency | K. Chantrell | recused | — | Application for Determination of Permitted/lr{on-Regulated Activity to reduce and existing deck and adding cascading sta | [minutes](../records/inland-wetlands-agency/board/2024/minutes/2024-06-04_IWA-June-4-2024-Minutes-1.md) |
 | 2024-03-07 | Zoning Commission | Mr. Peck | recused | — | application of Bride Lake, LLC, for site plan approval for the modi{ication of the December 3rzUz0rapproval of an eighty | [minutes](../records/zoning-commission/board/2024/minutes/2024-03-07_Zoning-Commission-March-7-2024-Minutes.md) |
 | 2024-02-15 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2024/minutes/2024-02-15_Zoning-Commission-February-15-2024-Minutes.md) |
 | 2024-02-01 | Zoning Commission | Mr. Peck | recused | — | Application of Bride Lake, [LC, for site plan approval for the modification of the December ,,2O2O, approval of an eight | [minutes](../records/zoning-commission/board/2024/minutes/2024-02-01_Zoning-February-1-2024-Minutes.md) |
@@ -39,6 +42,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2022-03-03 | Board of Selectmen | Ms. Rivera | recused | — | — | [minutes](../records/board-of-selectmen/subcommittee/2022/minutes/2022-03-03_ARP-Sub-Committee-March-3-2022-Minutes.md) |
 | 2022-02-24 | Board of Selectmen | Mr. Steel | recused | — | — | [minutes](../records/board-of-selectmen/subcommittee/2022/minutes/2022-02-24_ARP-Adhoc-Subcommittee-February-24-2022-Minutes.md) |
 | 2022-02-17 | Zoning Commission | N. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2022/minutes/2022-02-17_Zoning-Commission-February-17-2022-Minutes.md) |
+| 2021-12-13 | Inland Wetlands Agency | Gregory Mclntire | recused | because he is not familiar with the application East Lyme Inland Wetlands and Watercourse  | Application of Kristen Clarke, P | [minutes](../records/inland-wetlands-agency/board/2021/minutes/2021-12-13_IWA-December-13-2021-Meeting-Minutes.md) |
 | 2021-10-21 | Zoning Commission | N. Peck | recused | — | application for a landscaping business that came before them | [minutes](../records/zoning-commission/board/2021/minutes/2021-10-21_Zoning-Commission-October-21-2021-Minutes.md) |
 | 2021-05-20 | Zoning Commission | Mr. Donovan | recused | — | Application of Todd Sakowski for a text amendment to the East Lyme Zoning Regulations Section 20 | [minutes](../records/zoning-commission/board/2021/minutes/2021-05-20_Zoning-Commission-May-20-2021-Minutes.md) |
 | 2021-01-12 | Planning Commission | B. Bohmbach | recused | — | Application for a 4-lot re-subdivision of approximately 3 | [minutes](../records/planning-commission/board/2021/minutes/2021-01-12_Planning-Commission-January-12-2021-Minutes.md) |
@@ -50,6 +54,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2020-09-03 | Zoning Commission | Mr. Peck | recused | — | moved to approve the Application of Keith B | [minutes](../records/zoning-commission/board/2020/minutes/2020-09-03_Zoning-Commission-September-3-2020-Minutes.md) |
 | 2020-08-13 | Zoning Commission | Mr. Peck | recused | — | Application of Kostas Anastasiou, for Niantic Diner, for a renewal of a Special Permit for Outdoor Dining at 26 W Main S | [minutes](../records/zoning-commission/board/2020/minutes/2020-08-13_Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes.md) |
 | 2020-08-13 | Zoning Commission | Mr. Peck | recused | — | moved to approve items 1-9 and 11-'13 | [minutes](../records/zoning-commission/board/2020/minutes/2020-08-13_Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes.md) |
+| 2020-06-08 | Inland Wetlands Agency | Attorney Zamarka | recused | — | — | [minutes](../records/inland-wetlands-agency/board/2020/minutes/2020-06-08_IWA-June-8-2020-Minutes.md) |
 | 2020-01-07 | Planning Commission | R. Gordon | recused | as he lives in the zone and has a conflict of interest | — | [minutes](../records/planning-commission/board/2020/minutes/2020-01-07_Planning-Commission-January-7-2020-Minutes.md) |
 | 2020-01-02 | Zoning Commission | Ms. Markovitz, Ms. Thurlow | recused | — | Application of John Paul Mereen, LS, CFM, Agent for Bruce and Ellen Bellucci, Owner | [minutes](../records/zoning-commission/board/2020/minutes/2020-01-02_Zoning-January-2-2020-Minutes.md) |
 | 2019-09-05 | Zoning Commission | Ms. Kalajainen, Mr. McPherson | recused | — | Application of Eric J | [minutes](../records/zoning-commission/board/2019/minutes/2019-09-05_Zoning-September-5-2019-Meeting-Minutes.md) |
@@ -62,10 +67,14 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2019-05-16 | Zoning Commission | Mr. Peck | recused | — | Application of William Sweeney, Esq | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-16_Zoning-Commission-May-16-2019-Regular-Meeting-Minutes.md) |
 | 2019-05-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-02_Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes.md) |
 | 2019-01-16 | Board of Selectmen | Mr. Nickerson | recused | — | MOVED to approve an expenditure of up to $2,650 from the Parahus Account | [minutes](../records/board-of-selectmen/board/2019/minutes/2019-01-16_BOS-January-16-2019-Minutes.md) |
+| 2018-11-19 | Inland Wetlands Agency | Vice Chairman Cicchiello | abstained | due to personal relationship with the applicant; Ms | application of Elizabeth Farrugia, 24 Green Valley Lake Rd, East Lyme for a vessel that floats inside property owners bo | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-11-19_IWA-November-19-2018-Special-Meeting-Minutes.md) |
+| 2018-10-15 | Inland Wetlands Agency | Ms. Cicchiello | recused | — | Application for vessel that floats inside property owners boundaries but moves with the tide at 24 Green Valley Lake Rd, | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-10-15_IWA-October-15-2018-Minutes.md) |
+| 2018-08-13 | Inland Wetlands Agency | Todd Bellucci | recused | — | moved to APPROVE the East Lyme Inland Wetlands Special Meeting Minutes of July 16, 2018 with the following corrections:  | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-08-13_Inland-Wetlands-August-13-2018-Meeting-Minutes.md) |
 | 2018-06-21 | Zoning Commission | Mr. Peck | recused | — | Application of Marge Linewebber, General Manager, My Dog’s Place LLC, fora Special Permit for a dog daycare and training | [minutes](../records/zoning-commission/board/2018/minutes/2018-06-21_Zoning-June-21-2018-Public-Hearing-Minutes.md) |
 | 2018-05-17 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2018/minutes/2018-05-17_Zoning-May-17-2018-Public-Hearing-Minutes.md) |
 | 2018-05-17 | Zoning Commission | Mr. Peck | recused | — | moved to approve and adopt the proposed amendment as presented | [minutes](../records/zoning-commission/board/2018/minutes/2018-05-17_Zoning-May-17-2018-Regular-Meeting-Minutes.md) |
 | 2018-04-04 | Board of Selectmen | Mr. Nickerson | recused | — | MOVED to approve the Consent Calendar for the meeting of April 4, 2018, in the amount of $19,693 | [minutes](../records/board-of-selectmen/board/2018/minutes/2018-04-04_BOS-April-4-2018-Minutes.md) |
+| 2017-08-17 | Inland Wetlands Agency | D. Pazzaglia | recused | as he has moved his primary residence out of Town and is no longer eligible to vote | — | [minutes](../records/inland-wetlands-agency/board/2017/minutes/2017-08-17_IWA-August-17-2017-Special-Meeting-Minutes.md) |
 | 2017-07-13 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF THEODORE A | [minutes](../records/zoning-commission/board/2017/minutes/2017-07-13_Zoning-Commission-July-13-2017-Public-Hearing-Minutes.md) |
 | 2017-05-04 | Zoning Commission | Mr. Peck | recused | — | Application of Carla Steele, for Elements Flowers, for a Special Permit for Office and Retail Sales at property identifi | [minutes](../records/zoning-commission/board/2017/minutes/2017-05-04_Zoning-Commission-May-4-2017-Public-Hearing-Minutes.md) |
 | 2017-04-04 | Planning Commission | Ms. Palazzo | recused | — | — | [minutes](../records/planning-commission/board/2017/minutes/2017-04-04_Planning-Commission-April-4-2017-Minutes-1.md) |
@@ -75,9 +84,11 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2016-12-06 | Planning Commission | Ms. Palazzo | recused | — | — | [minutes](../records/planning-commission/board/2016/minutes/2016-12-06_Planning-Commission-December-6-2016-Public-Hearing-Minutes.md) |
 | 2016-10-06 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF THEODORE A | [minutes](../records/zoning-commission/board/2016/minutes/2016-10-06_Zoning-Commission-October-6-2016-Minutes-1.md) |
 | 2016-10-04 | Planning Commission | Ms. Palazzo | recused | since she is employed by Mr | — | [minutes](../records/planning-commission/board/2016/minutes/2016-10-04_Planning-Commission-October-4-2016-Public-Hearing-Minutes.md) |
+| 2016-09-12 | Inland Wetlands Agency | Mr. Pazzaglia | recused | — | Application for a one-lot re-subdivision, specifically for a residential driveway that existed prior to the purchase of  | [minutes](../records/inland-wetlands-agency/board/2016/minutes/2016-09-12_IWA-September-12-2016-Minutes.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | Application of Theodore A | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Public-Hearing-Minues.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Regular-Meeting-Minutes.md) |
 | 2016-03-03 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-03-03_Zoning-Commission-March-3-2016-Minutes.md) |
+| 2016-01-11 | Inland Wetlands Agency | Mr. Pazzaglia | recused | — | moved to accept the IWA Regular Meeting Minutes of December 14, 2015 as amended | [minutes](../records/inland-wetlands-agency/board/2016/minutes/2016-01-11_IWA-January-11-2016-Minutes.md) |
 | 2015-12-10 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF GATEWAY DEVELOPMENT/EAST LYME FOR SITE PLAN APPROVAL FOR AN INTERIM ACCESS PENDING FURTHER COMPLETION OF  | [minutes](../records/zoning-commission/board/2015/minutes/2015-12-10_Zoning-Commission-December-10-2015-Minutes.md) |
 | 2015-06-02 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF DAVID J | [minutes](../records/zoning-commission/board/2015/minutes/2015-06-02_Zoning-Commission-June-2-2015-Public-Hearing-Minutes.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Public-Hearing-Minutes-04-16-2015.md) |
@@ -93,6 +104,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2014-07-02 | Board of Selectmen | Mr. Seery | left the room | — | moved to approve carry-over of grant funds of $12,400 in the 2014 Comprehensive DUI Enforcement Program (Revenue account | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-07-02 | Board of Selectmen | Mr. Formica | recused | — | moved to approve the IAFF Agreement as negotiated | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-06-19 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2014/minutes/2014-06-19_Zoning-Public-Hearing-Minutes-06-19-2014.md) |
+| 2014-04-09 | Board of Finance | Mr. Harney | left the room | — | — | [minutes](../records/board-of-finance/board/2014/minutes/2014-04-09_BOF-Regular-Meeting-Minutes-04-09-2014.md) |
 | 2014-04-01 | Planning Commission | Ms. Bengtson | abstained | because she resides near the Solar Farm | — | [minutes](../records/planning-commission/board/2014/minutes/2014-04-01_Planning-Minutes-of-April-1-2014.md) |
 | 2014-03-06 | Zoning Commission | Mr. Lukas | recused | — | moved to approve the application of William Heenan for Anmar, LLC for a Special Permit for Mixed Use Development, at pro | [minutes](../records/zoning-commission/board/2014/minutes/2014-03-06_ZC-Regular-Meeting-Minutes-of-March-6-2014.md) |
 | 2014-02-06 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2014/minutes/2014-02-06_Public-Hearing-of-February-6-2014-Minutes.md) |

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA October 7 2025 Minutes (pdf)",
+  "filename": "IWA-October-7-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/IWA-October-7-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-minutes/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-25T05:33:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9e4c6f3e6201c2e8b72c02fa741ebf85aaa02c0d12d63a5724f446baf6de1bc",
+  "bytes": 209095,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Oct 2025 12:55:08 GMT",
+  "etag": "\"1720084-330c7-6411de4c249c9\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2025-10-07_IWA-October-7-2025-Minutes--d9e4c6f3e620.pdf",
+  "versions": [
+    {
+      "sha256": "d9e4c6f3e6201c2e8b72c02fa741ebf85aaa02c0d12d63a5724f446baf6de1bc",
+      "bytes": 209095,
+      "retrieved_utc": "2026-11-25T05:33:53+00:00",
+      "http_last_modified": "Tue, 14 Oct 2025 12:55:08 GMT"
+    }
+  ]
+}

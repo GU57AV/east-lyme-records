@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA May 1 2017 Regular Meeting Amended Agenda (pdf)",
+  "filename": "IWA-May-1-2017-Regular-Meeting-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-May-1-2017-Regular-Meeting-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:39:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "52cf1272348312527699a932dac7eabd7342102f468af790bbe1a954efc14ddf",
+  "bytes": 100244,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Apr 2017 18:28:02 GMT",
+  "etag": "\"16626d2-18794-54e3e3bd05080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-05-01_IWA-May-1-2017-Regular-Meeting-Amended-Agenda--52cf12723483.pdf",
+  "versions": [
+    {
+      "sha256": "52cf1272348312527699a932dac7eabd7342102f468af790bbe1a954efc14ddf",
+      "bytes": 100244,
+      "retrieved_utc": "2026-11-25T07:39:47+00:00",
+      "http_last_modified": "Fri, 28 Apr 2017 18:28:02 GMT"
+    }
+  ]
+}

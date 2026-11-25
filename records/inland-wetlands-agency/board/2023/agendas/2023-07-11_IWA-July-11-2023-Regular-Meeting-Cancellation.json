@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "IWA July 11 2023 Regular Meeting Cancellation (pdf)",
+  "filename": "IWA-July-11-2023-Regular-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/IWA-July-11-2023-Regular-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-25T05:59:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75c953885f0656e6e3d01b7ff7e7bf3584402073749e5c14e7cf229cacb79a62",
+  "bytes": 37128,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Jul 2023 20:48:50 GMT",
+  "etag": "\"16e02e9-9108-600281c139080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2023/2023-07-11_IWA-July-11-2023-Regular-Meeting-Cancellation--75c953885f06.pdf",
+  "versions": [
+    {
+      "sha256": "75c953885f0656e6e3d01b7ff7e7bf3584402073749e5c14e7cf229cacb79a62",
+      "bytes": 37128,
+      "retrieved_utc": "2026-11-25T05:59:17+00:00",
+      "http_last_modified": "Mon, 10 Jul 2023 20:48:50 GMT"
+    }
+  ]
+}

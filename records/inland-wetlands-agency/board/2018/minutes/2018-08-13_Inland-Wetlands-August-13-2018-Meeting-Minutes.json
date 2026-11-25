@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA August 13 2018 Regular Meeting Minutes (pdf)",
+  "filename": "Inland-Wetlands-August-13-2018-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Inland-Wetlands-August-13-2018-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-minutes/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-25T07:25:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3c6522716b8a7efcf84eb0f3259cb3d20208a7ce25d4451c9694823f26ba54aa",
+  "bytes": 894536,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Aug 2018 17:49:46 GMT",
+  "etag": "\"16c16fb-da648-573e188f2c280\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-08-13_Inland-Wetlands-August-13-2018-Meeting-Minutes--3c6522716b8a.pdf",
+  "versions": [
+    {
+      "sha256": "3c6522716b8a7efcf84eb0f3259cb3d20208a7ce25d4451c9694823f26ba54aa",
+      "bytes": 894536,
+      "retrieved_utc": "2026-11-25T07:25:31+00:00",
+      "http_last_modified": "Mon, 20 Aug 2018 17:49:46 GMT"
+    }
+  ]
+}

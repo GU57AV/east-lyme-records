@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "IWA April 8 2019 Agenda (pdf)",
+  "filename": "IWA-April-8-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/IWA-April-8-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-25T07:02:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ebdfe82f0126fa8fd228bb7c899d0fae3bf3a3fe46731266f873e1c90e27ee73",
+  "bytes": 101370,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Apr 2019 15:40:40 GMT",
+  "etag": "\"16c2072-18bfa-585a21362ee00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2019/2019-04-08_IWA-April-8-2019-Agenda--ebdfe82f0126.pdf",
+  "versions": [
+    {
+      "sha256": "ebdfe82f0126fa8fd228bb7c899d0fae3bf3a3fe46731266f873e1c90e27ee73",
+      "bytes": 101370,
+      "retrieved_utc": "2026-11-25T07:02:08+00:00",
+      "http_last_modified": "Wed, 03 Apr 2019 15:40:40 GMT"
+    }
+  ]
+}

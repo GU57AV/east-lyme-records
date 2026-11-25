@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA July 13 2020 Show Cause Hearing Minutes (pdf)",
+  "filename": "IWA-July-13-2020-Show-Cause-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/IWA-July-13-2020-Show-Cause-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-minutes/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-25T06:52:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "022aa647eede7dd5898f2a512e3927253e2d04aa2f92f3e19288e269f9f9d2b0",
+  "bytes": 87230,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Jul 2020 15:38:49 GMT",
+  "etag": "\"1661adb-154be-5aa90d62f7440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-07-13_IWA-July-13-2020-Show-Cause-Hearing-Minutes--022aa647eede.pdf",
+  "versions": [
+    {
+      "sha256": "022aa647eede7dd5898f2a512e3927253e2d04aa2f92f3e19288e269f9f9d2b0",
+      "bytes": 87230,
+      "retrieved_utc": "2026-11-25T06:52:46+00:00",
+      "http_last_modified": "Thu, 16 Jul 2020 15:38:49 GMT"
+    }
+  ]
+}

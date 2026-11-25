@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "IWA October 5 2015 Cancellation (pdf)",
+  "filename": "IWA-October-5-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/IWA-October-5-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-25T08:13:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8da004c53f278c69742a8ccf17dd11bfffa982cc099fd8142869779fc2ce4a0c",
+  "bytes": 29913,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Oct 2015 14:24:59 GMT",
+  "etag": "\"16633d7-74d9-5218482e504c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2015/2015-10-05_IWA-October-5-2015-Cancellation--8da004c53f27.pdf",
+  "versions": [
+    {
+      "sha256": "8da004c53f278c69742a8ccf17dd11bfffa982cc099fd8142869779fc2ce4a0c",
+      "bytes": 29913,
+      "retrieved_utc": "2026-11-25T08:13:00+00:00",
+      "http_last_modified": "Wed, 07 Oct 2015 14:24:59 GMT"
+    }
+  ]
+}

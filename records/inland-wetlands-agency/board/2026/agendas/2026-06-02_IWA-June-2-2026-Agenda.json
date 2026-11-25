@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA June 2 2026 Agenda (pdf)",
+  "filename": "IWA-June-2-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/IWA-June-2-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2026-agendas/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-25T05:14:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a16172201abb83901c7cc20f8a65da3f34c03cee7961add599db356326dd8b28",
+  "bytes": 116319,
+  "pages": 0,
+  "http_last_modified": "Wed, 27 May 2026 17:01:34 GMT",
+  "etag": "\"1700319-1c65f-652cf9062d643\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-06-02_IWA-June-2-2026-Agenda--a16172201abb.pdf",
+  "versions": [
+    {
+      "sha256": "a16172201abb83901c7cc20f8a65da3f34c03cee7961add599db356326dd8b28",
+      "bytes": 116319,
+      "retrieved_utc": "2026-11-25T05:14:50+00:00",
+      "http_last_modified": "Wed, 27 May 2026 17:01:34 GMT"
+    }
+  ]
+}

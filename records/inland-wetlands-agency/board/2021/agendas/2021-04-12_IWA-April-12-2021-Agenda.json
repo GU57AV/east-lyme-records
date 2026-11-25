@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA April 12 2021 Agenda (via zoom) (pdf)",
+  "filename": "IWA-April-12-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/IWA-April-12-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-25T06:28:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92a6d2dd6d53adb7ecb84d16ef24e4fa515290f2c46f219d0497552bce30437a",
+  "bytes": 206240,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Apr 2021 19:18:56 GMT",
+  "etag": "\"16803cf-325a0-5bf3e91a5e800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-04-12_IWA-April-12-2021-Agenda--92a6d2dd6d53.pdf",
+  "versions": [
+    {
+      "sha256": "92a6d2dd6d53adb7ecb84d16ef24e4fa515290f2c46f219d0497552bce30437a",
+      "bytes": 206240,
+      "retrieved_utc": "2026-11-25T06:28:42+00:00",
+      "http_last_modified": "Mon, 05 Apr 2021 19:18:56 GMT"
+    }
+  ]
+}

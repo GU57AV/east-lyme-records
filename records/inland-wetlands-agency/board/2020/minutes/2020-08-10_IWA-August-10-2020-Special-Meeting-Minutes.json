@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA August 10 2020 Special Meeting Minutes (pdf)",
+  "filename": "IWA-August-10-2020-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/IWA-August-10-2020-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-minutes/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-25T06:52:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b6b849d2b75cbc6dd7288c3213a2288d8ad05e29fb9b4e94776c9a9661a0eb03",
+  "bytes": 83564,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Aug 2020 18:44:50 GMT",
+  "etag": "\"1661a94-1466c-5acb29525ec80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-08-10_IWA-August-10-2020-Special-Meeting-Minutes--b6b849d2b75c.pdf",
+  "versions": [
+    {
+      "sha256": "b6b849d2b75cbc6dd7288c3213a2288d8ad05e29fb9b4e94776c9a9661a0eb03",
+      "bytes": 83564,
+      "retrieved_utc": "2026-11-25T06:52:06+00:00",
+      "http_last_modified": "Wed, 12 Aug 2020 18:44:50 GMT"
+    }
+  ]
+}

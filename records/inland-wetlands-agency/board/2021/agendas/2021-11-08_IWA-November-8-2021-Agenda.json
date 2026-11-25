@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA November 8 2021 Agenda (pdf)",
+  "filename": "IWA-November-8-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/IWA-November-8-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-25T06:23:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c92e02a25ccd1849ccaf7d0314cea87a4f382d970a0dec819d6ca4948a72e9c9",
+  "bytes": 100876,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Nov 2021 19:13:22 GMT",
+  "etag": "\"16802a0-18a0c-5cfd316419880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-11-08_IWA-November-8-2021-Agenda--c92e02a25ccd.pdf",
+  "versions": [
+    {
+      "sha256": "c92e02a25ccd1849ccaf7d0314cea87a4f382d970a0dec819d6ca4948a72e9c9",
+      "bytes": 100876,
+      "retrieved_utc": "2026-11-25T06:23:21+00:00",
+      "http_last_modified": "Tue, 02 Nov 2021 19:13:22 GMT"
+    }
+  ]
+}

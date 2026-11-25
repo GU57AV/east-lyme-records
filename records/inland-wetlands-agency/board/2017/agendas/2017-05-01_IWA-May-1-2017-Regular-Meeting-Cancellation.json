@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA May 1 2017 Regular Meeting Cancellation (pdf)",
+  "filename": "IWA-May-1-2017-Regular-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-May-1-2017-Regular-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:39:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c233531055a9afe22431f398800a23d81649a44b4691cbc28ee6c2528e72ecf0",
+  "bytes": 29464,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 May 2017 18:08:58 GMT",
+  "etag": "\"1662951-7318-54e7a51266280\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-05-01_IWA-May-1-2017-Regular-Meeting-Cancellation--c233531055a9.pdf",
+  "versions": [
+    {
+      "sha256": "c233531055a9afe22431f398800a23d81649a44b4691cbc28ee6c2528e72ecf0",
+      "bytes": 29464,
+      "retrieved_utc": "2026-11-25T07:39:07+00:00",
+      "http_last_modified": "Mon, 01 May 2017 18:08:58 GMT"
+    }
+  ]
+}

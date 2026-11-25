@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Inland Wetlands Agency June 12 2017 Agenda (pdf)",
+  "filename": "Inland-Wetlands-Agency-June-12-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Inland-Wetlands-Agency-June-12-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:38:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "aabdc02b876c5a7f17d45a2a55e9a3f4ae251a0cc1be06a1a6d7253f397522d1",
+  "bytes": 126737,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Jun 2017 17:17:25 GMT",
+  "etag": "\"1662b7d-1ef11-55161e8ebd340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-06-12_Inland-Wetlands-Agency-June-12-2017-Agenda--aabdc02b876c.pdf",
+  "versions": [
+    {
+      "sha256": "aabdc02b876c5a7f17d45a2a55e9a3f4ae251a0cc1be06a1a6d7253f397522d1",
+      "bytes": 126737,
+      "retrieved_utc": "2026-11-25T07:38:27+00:00",
+      "http_last_modified": "Wed, 07 Jun 2017 17:17:25 GMT"
+    }
+  ]
+}

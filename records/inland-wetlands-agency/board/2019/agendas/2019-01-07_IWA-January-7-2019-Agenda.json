@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "IWA January 7 2019 Agenda (pdf)",
+  "filename": "IWA-January-7-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/IWA-January-7-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-25T07:04:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f00cb13d96a68a95738c76a7de69d30a8d33aa89514abc882a7b03a7e58306e8",
+  "bytes": 129510,
+  "pages": 0,
+  "http_last_modified": "Mon, 31 Dec 2018 16:43:49 GMT",
+  "etag": "\"16c073f-1f9e6-57e541dfc9b40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2019/2019-01-07_IWA-January-7-2019-Agenda--f00cb13d96a6.pdf",
+  "versions": [
+    {
+      "sha256": "f00cb13d96a68a95738c76a7de69d30a8d33aa89514abc882a7b03a7e58306e8",
+      "bytes": 129510,
+      "retrieved_utc": "2026-11-25T07:04:28+00:00",
+      "http_last_modified": "Mon, 31 Dec 2018 16:43:49 GMT"
+    }
+  ]
+}

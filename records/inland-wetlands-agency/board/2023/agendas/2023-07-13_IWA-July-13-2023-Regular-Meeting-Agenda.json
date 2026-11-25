@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "IWA July 13 2023 Regular Meeting Agenda (pdf)",
+  "filename": "IWA-July-13-2023-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/IWA-July-13-2023-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-25T05:58:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72a74fe60d3fd3bc236e52777697de1d7fb926113cbc98dd36c399c639083ba8",
+  "bytes": 93512,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Jul 2023 20:48:51 GMT",
+  "etag": "\"16e0323-16d48-600281c22d2c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2023/2023-07-13_IWA-July-13-2023-Regular-Meeting-Agenda--72a74fe60d3f.pdf",
+  "versions": [
+    {
+      "sha256": "72a74fe60d3fd3bc236e52777697de1d7fb926113cbc98dd36c399c639083ba8",
+      "bytes": 93512,
+      "retrieved_utc": "2026-11-25T05:58:37+00:00",
+      "http_last_modified": "Mon, 10 Jul 2023 20:48:51 GMT"
+    }
+  ]
+}

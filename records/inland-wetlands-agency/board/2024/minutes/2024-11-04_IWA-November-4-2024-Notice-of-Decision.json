@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA November 4 2024 Notice of Decision (pdf)",
+  "filename": "IWA-November-4-2024-Notice-of-Decision.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/IWA-November-4-2024-Notice-of-Decision.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-minutes/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-25T05:49:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cd5dfad59aeb32c3839d2ad3dc50cf8a7e738c738a74692b90b8b23531bbaade",
+  "bytes": 40075,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Nov 2024 16:00:48 GMT",
+  "etag": "\"16808a4-9c8b-62732051e8c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-11-04_IWA-November-4-2024-Notice-of-Decision--cd5dfad59aeb.pdf",
+  "versions": [
+    {
+      "sha256": "cd5dfad59aeb32c3839d2ad3dc50cf8a7e738c738a74692b90b8b23531bbaade",
+      "bytes": 40075,
+      "retrieved_utc": "2026-11-25T05:49:55+00:00",
+      "http_last_modified": "Mon, 18 Nov 2024 16:00:48 GMT"
+    }
+  ]
+}

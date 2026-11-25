@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "IWA April 5 2022 Agenda (pdf)",
+  "filename": "IWA-April-5-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/IWA-April-5-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-25T06:15:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cde7700fbac2a6373a32dfc1b5e549c127927640200ba5a62f958f924f0bcec5",
+  "bytes": 90232,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Mar 2022 18:20:08 GMT",
+  "etag": "\"16a0a8e-16078-5dad2a9a98600\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2022/2022-04-05_IWA-April-5-2022-Agenda--cde7700fbac2.pdf",
+  "versions": [
+    {
+      "sha256": "cde7700fbac2a6373a32dfc1b5e549c127927640200ba5a62f958f924f0bcec5",
+      "bytes": 90232,
+      "retrieved_utc": "2026-11-25T06:15:40+00:00",
+      "http_last_modified": "Tue, 22 Mar 2022 18:20:08 GMT"
+    }
+  ]
+}

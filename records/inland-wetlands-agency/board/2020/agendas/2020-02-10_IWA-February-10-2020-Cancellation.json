@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA February 10 2020 Regular Meeting Cancellation (pdf)",
+  "filename": "IWA-February-10-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/IWA-February-10-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-25T06:47:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9de8a199f1aaec7a3d57c1f469eef4d53f59e4f2bd0ab3a6031ee15d2089394d",
+  "bytes": 33388,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Feb 2020 15:06:24 GMT",
+  "etag": "\"166176a-826c-59dc1621efc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-02-10_IWA-February-10-2020-Cancellation--9de8a199f1aa.pdf",
+  "versions": [
+    {
+      "sha256": "9de8a199f1aaec7a3d57c1f469eef4d53f59e4f2bd0ab3a6031ee15d2089394d",
+      "bytes": 33388,
+      "retrieved_utc": "2026-11-25T06:47:45+00:00",
+      "http_last_modified": "Tue, 04 Feb 2020 15:06:24 GMT"
+    }
+  ]
+}

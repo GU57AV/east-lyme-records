@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA April 29 2017 Site Walk Minutes (pdf)",
+  "filename": "IWA-April-29-2017-Site-Walk-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-April-29-2017-Site-Walk-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:49:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3da66d9c5b42da62f4b9b226f7533adf9a047c2c54536c990ce0b4443bf6a5f4",
+  "bytes": 28815,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 May 2017 12:31:15 GMT",
+  "etag": "\"1662c8a-708f-54e9dd5104ac0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-04-29_IWA-April-29-2017-Site-Walk-Minutes--3da66d9c5b42.pdf",
+  "versions": [
+    {
+      "sha256": "3da66d9c5b42da62f4b9b226f7533adf9a047c2c54536c990ce0b4443bf6a5f4",
+      "bytes": 28815,
+      "retrieved_utc": "2026-11-25T07:49:33+00:00",
+      "http_last_modified": "Wed, 03 May 2017 12:31:15 GMT"
+    }
+  ]
+}

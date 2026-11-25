@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "IWA September 28 2024 Cancellation (pdf)",
+  "filename": "IWA-September-28-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/IWA-September-28-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-25T05:39:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3d9b2aabe43a1ad1eb23bfb74b7e713aef66081a5436b4470585d2ab5e591a48",
+  "bytes": 31512,
+  "pages": 0,
+  "http_last_modified": "Tue, 24 Sep 2024 16:46:01 GMT",
+  "etag": "\"1680930-7b18-622e03d8e0440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2024/2024-09-28_IWA-September-28-2024-Cancellation--3d9b2aabe43a.pdf",
+  "versions": [
+    {
+      "sha256": "3d9b2aabe43a1ad1eb23bfb74b7e713aef66081a5436b4470585d2ab5e591a48",
+      "bytes": 31512,
+      "retrieved_utc": "2026-11-25T05:39:14+00:00",
+      "http_last_modified": "Tue, 24 Sep 2024 16:46:01 GMT"
+    }
+  ]
+}

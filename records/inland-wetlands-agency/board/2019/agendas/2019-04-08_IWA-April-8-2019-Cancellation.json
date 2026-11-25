@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "IWA April 8 2019 Cancellation (pdf)",
+  "filename": "IWA-April-8-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/IWA-April-8-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-25T07:01:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "582b6479ac941621baaa4e2cfba12de20d5ac1583bd8520c6d677e454618cd81",
+  "bytes": 31470,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Apr 2019 19:03:47 GMT",
+  "etag": "\"16c209c-7aee-585cd25788ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2019/2019-04-08_IWA-April-8-2019-Cancellation--582b6479ac94.pdf",
+  "versions": [
+    {
+      "sha256": "582b6479ac941621baaa4e2cfba12de20d5ac1583bd8520c6d677e454618cd81",
+      "bytes": 31470,
+      "retrieved_utc": "2026-11-25T07:01:48+00:00",
+      "http_last_modified": "Fri, 05 Apr 2019 19:03:47 GMT"
+    }
+  ]
+}

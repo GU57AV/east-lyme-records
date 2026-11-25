@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "IWA September 12 2016 Special Meeting Agenda (pdf)",
+  "filename": "IWA-September-12-2016-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/IWA-September-12-2016-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T07:53:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e7700fd98a2124b30dc0bfcfcaf06a8970d4a9ad19bcbd1031dd96a517e57ef2",
+  "bytes": 93847,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Sep 2016 18:27:21 GMT",
+  "etag": "\"16e03df-16e97-53bdaf280f440\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2016/2016-09-12_IWA-September-12-2016-Special-Meeting-Agenda--e7700fd98a21.pdf",
+  "versions": [
+    {
+      "sha256": "e7700fd98a2124b30dc0bfcfcaf06a8970d4a9ad19bcbd1031dd96a517e57ef2",
+      "bytes": 93847,
+      "retrieved_utc": "2026-11-25T07:53:53+00:00",
+      "http_last_modified": "Tue, 06 Sep 2016 18:27:21 GMT"
+    }
+  ]
+}

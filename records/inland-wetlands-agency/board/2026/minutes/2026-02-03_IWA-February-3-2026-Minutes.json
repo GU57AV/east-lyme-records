@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "IWA February 3 2026 Minutes (pdf)",
+  "filename": "IWA-February-3-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/IWA-February-3-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2026-minutes/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-25T05:21:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "97fdaab6d2a16d71c517f4f9a13b797e3dd97f1703d2167db3304d37d8c6000b",
+  "bytes": 270394,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Feb 2026 19:00:54 GMT",
+  "etag": "\"1700256-4203a-64a7cdffba39b\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2026/2026-02-03_IWA-February-3-2026-Minutes--97fdaab6d2a1.pdf",
+  "versions": [
+    {
+      "sha256": "97fdaab6d2a16d71c517f4f9a13b797e3dd97f1703d2167db3304d37d8c6000b",
+      "bytes": 270394,
+      "retrieved_utc": "2026-11-25T05:21:51+00:00",
+      "http_last_modified": "Tue, 10 Feb 2026 19:00:54 GMT"
+    }
+  ]
+}

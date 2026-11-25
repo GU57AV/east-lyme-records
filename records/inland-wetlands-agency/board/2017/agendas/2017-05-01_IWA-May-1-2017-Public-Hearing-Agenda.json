@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "IWA May 1 2017 Public Hearing Agenda (pdf)",
+  "filename": "IWA-May-1-2017-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-May-1-2017-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-25T07:40:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "aecf22d7fe122c7f59ff3ebf7bc2c47bc197a065c608919a88a5303cff8a6150",
+  "bytes": 42872,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Apr 2017 19:20:29 GMT",
+  "etag": "\"1662aad-a778-54e2ad98c5940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2017/2017-05-01_IWA-May-1-2017-Public-Hearing-Agenda--aecf22d7fe12.pdf",
+  "versions": [
+    {
+      "sha256": "aecf22d7fe122c7f59ff3ebf7bc2c47bc197a065c608919a88a5303cff8a6150",
+      "bytes": 42872,
+      "retrieved_utc": "2026-11-25T07:40:27+00:00",
+      "http_last_modified": "Thu, 27 Apr 2017 19:20:29 GMT"
+    }
+  ]
+}

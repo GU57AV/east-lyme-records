@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "IWA September 6 2022 Minutes (pdf)",
+  "filename": "IWA-September-6-2022-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/IWA-September-6-2022-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2022-minutes/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-25T06:20:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4dd387af5951850fd2afc5c42c94aaae802222dd9091f10d357c73ca0bef3ba9",
+  "bytes": 221760,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Sep 2022 19:19:31 GMT",
+  "etag": "\"16a1166-36240-5e8a8021a96c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2022/2022-09-06_IWA-September-6-2022-Meeting-Minutes--4dd387af5951.pdf",
+  "versions": [
+    {
+      "sha256": "4dd387af5951850fd2afc5c42c94aaae802222dd9091f10d357c73ca0bef3ba9",
+      "bytes": 221760,
+      "retrieved_utc": "2026-11-25T06:20:21+00:00",
+      "http_last_modified": "Wed, 14 Sep 2022 19:19:31 GMT"
+    }
+  ]
+}

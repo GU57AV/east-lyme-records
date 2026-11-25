@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "IWA July 2 2022 Site Walk Cancellation (pdf)",
+  "filename": "IWA-July-2-2022-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/IWA-July-2-2022-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-25T06:14:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "abbc84f7f8e8219683f5b94e16750b293e65a06d6aee2578a403bf62df169706",
+  "bytes": 31797,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Jun 2022 17:50:04 GMT",
+  "etag": "\"16a0f54-7c35-5e2ade6442b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2022/2022-07-02_IWA-July-2-2022-Site-Walk-Cancellation--abbc84f7f8e8.pdf",
+  "versions": [
+    {
+      "sha256": "abbc84f7f8e8219683f5b94e16750b293e65a06d6aee2578a403bf62df169706",
+      "bytes": 31797,
+      "retrieved_utc": "2026-11-25T06:14:00+00:00",
+      "http_last_modified": "Thu, 30 Jun 2022 17:50:04 GMT"
+    }
+  ]
+}

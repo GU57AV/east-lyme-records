@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "IWA August 6 2016 Site Walk Cancellation (pdf)",
+  "filename": "IWA-August-6-2016-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/IWA-August-6-2016-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T07:55:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eb649c21d13dbcda6cc3d449ed4053cd087245cea81dcf7cb3e864bd7821be6d",
+  "bytes": 30838,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Jul 2016 15:26:24 GMT",
+  "etag": "\"16e065a-7876-5387768332800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2016/2016-08-06_IWA-August-6-2016-Site-Walk-Cancellation--eb649c21d13d.pdf",
+  "versions": [
+    {
+      "sha256": "eb649c21d13dbcda6cc3d449ed4053cd087245cea81dcf7cb3e864bd7821be6d",
+      "bytes": 30838,
+      "retrieved_utc": "2026-11-25T07:55:13+00:00",
+      "http_last_modified": "Mon, 25 Jul 2016 15:26:24 GMT"
+    }
+  ]
+}

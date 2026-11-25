@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA May 18 2020 Special Meeting Agenda (Via Zoom) (pdf)",
+  "filename": "Special-Meeting-of-May-18-2020-Inland-Wetlands-Agency.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/Special-Meeting-of-May-18-2020-Inland-Wetlands-Agency.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-25T06:44:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "658c9d92beb044c7d6faad4a568c19decfab60797d25b05f0f04b5bcbfe99bd4",
+  "bytes": 217585,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 May 2020 12:50:11 GMT",
+  "etag": "\"166166f-351f1-5a587054306c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-05-18_Special-Meeting-of-May-18-2020-Inland-Wetlands-Agency--658c9d92beb0.pdf",
+  "versions": [
+    {
+      "sha256": "658c9d92beb044c7d6faad4a568c19decfab60797d25b05f0f04b5bcbfe99bd4",
+      "bytes": 217585,
+      "retrieved_utc": "2026-11-25T06:44:04+00:00",
+      "http_last_modified": "Wed, 13 May 2020 12:50:11 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "IWA December 14 Site Walk Agenda (pdf)",
+  "filename": "IWA-December-14-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/IWA-December-14-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2019-agendas/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-25T06:55:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7dc8633b95d3fc3126c572672790e4d993c98d06ca22b3f8960373e69c55d4d2",
+  "bytes": 49524,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Dec 2019 17:10:10 GMT",
+  "etag": "\"16c1859-c174-5995c95a1c080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2019/2019-12-14_IWA-December-14-Site-Walk-Agenda--7dc8633b95d3.pdf",
+  "versions": [
+    {
+      "sha256": "7dc8633b95d3fc3126c572672790e4d993c98d06ca22b3f8960373e69c55d4d2",
+      "bytes": 49524,
+      "retrieved_utc": "2026-11-25T06:55:26+00:00",
+      "http_last_modified": "Tue, 10 Dec 2019 17:10:10 GMT"
+    }
+  ]
+}

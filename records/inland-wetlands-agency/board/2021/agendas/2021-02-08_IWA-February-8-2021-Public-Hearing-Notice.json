@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA February 8 2021 Public Hearing Notice (pdf)",
+  "filename": "IWA-February-8-2021-Public-Hearing-Notice-.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/IWA-February-8-2021-Public-Hearing-Notice-.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-25T06:30:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8543bcb8457799251b31b6ff2d29f7bdd8b45e6e4823e8049526fb1d46ad8534",
+  "bytes": 238671,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Jan 2021 15:04:04 GMT",
+  "etag": "\"1663734-3a44f-5b83ca24c2100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-02-08_IWA-February-8-2021-Public-Hearing-Notice--8543bcb84577.pdf",
+  "versions": [
+    {
+      "sha256": "8543bcb8457799251b31b6ff2d29f7bdd8b45e6e4823e8049526fb1d46ad8534",
+      "bytes": 238671,
+      "retrieved_utc": "2026-11-25T06:30:22+00:00",
+      "http_last_modified": "Wed, 06 Jan 2021 15:04:04 GMT"
+    }
+  ]
+}

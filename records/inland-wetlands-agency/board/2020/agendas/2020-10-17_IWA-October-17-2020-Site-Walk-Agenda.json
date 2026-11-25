@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA October 17 2020 Site Walk Agenda (pdf)",
+  "filename": "IWA-October-17-2020-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/IWA-October-17-2020-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-25T06:38:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "108fe117bddb6a4243880fa62f7c71e5a71b50444b1b3c32f8815c7f46342cee",
+  "bytes": 195427,
+  "pages": 0,
+  "http_last_modified": "Tue, 13 Oct 2020 17:49:02 GMT",
+  "etag": "\"166196f-2fb63-5b19107c0bf80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-10-17_IWA-October-17-2020-Site-Walk-Agenda--108fe117bddb.pdf",
+  "versions": [
+    {
+      "sha256": "108fe117bddb6a4243880fa62f7c71e5a71b50444b1b3c32f8815c7f46342cee",
+      "bytes": 195427,
+      "retrieved_utc": "2026-11-25T06:38:44+00:00",
+      "http_last_modified": "Tue, 13 Oct 2020 17:49:02 GMT"
+    }
+  ]
+}

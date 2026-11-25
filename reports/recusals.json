@@ -2,7 +2,7 @@
  {
   "date": "2026-11-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -16,7 +16,7 @@
  {
   "date": "2025-06-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -30,7 +30,7 @@
  {
   "date": "2024-11-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -44,7 +44,7 @@
  {
   "date": "2024-11-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -58,7 +58,7 @@
  {
   "date": "2024-07-11",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -70,9 +70,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2024/07/Zoning-Commission-July-11-2024-Minutes.pdf"
  },
  {
+  "date": "2024-06-04",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "K. Chantrell"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "Application for Determination of Permitted/lr{on-Regulated Activity to reduce and existing deck and adding cascading stairs",
+  "excerpt": "(Date of Receipt 61412024) (K. Chantrell recused herselfl G. Goeschel stated the existing deck is proposed to be torn down and a smaller one with a cascading staircase will replace it.",
+  "minutes": "records/inland-wetlands-agency/board/2024/minutes/2024-06-04_IWA-June-4-2024-Minutes-1.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/IWA-June-4-2024-Minutes-1.pdf"
+ },
+ {
   "date": "2024-03-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -86,7 +100,7 @@
  {
   "date": "2024-02-15",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -100,7 +114,7 @@
  {
   "date": "2024-02-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -114,7 +128,7 @@
  {
   "date": "2023-10-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -128,7 +142,7 @@
  {
   "date": "2023-10-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -142,7 +156,7 @@
  {
   "date": "2023-10-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -156,7 +170,7 @@
  {
   "date": "2023-04-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -170,7 +184,7 @@
  {
   "date": "2023-04-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -184,7 +198,7 @@
  {
   "date": "2023-04-13",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -198,7 +212,7 @@
  {
   "date": "2023-04-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -212,7 +226,7 @@
  {
   "date": "2022-08-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -226,7 +240,7 @@
  {
   "date": "2022-03-03",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Ms. Rivera"
   ],
@@ -240,7 +254,7 @@
  {
   "date": "2022-03-03",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Steel"
   ],
@@ -254,7 +268,7 @@
  {
   "date": "2022-03-03",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Ms. Rivera"
   ],
@@ -268,7 +282,7 @@
  {
   "date": "2022-02-24",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Steel"
   ],
@@ -282,7 +296,7 @@
  {
   "date": "2022-02-17",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -294,9 +308,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Zoning-Commission-February-17-2022-Minutes.pdf"
  },
  {
+  "date": "2021-12-13",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Gregory Mclntire"
+  ],
+  "type": "recused",
+  "reason": "because he is not familiar with the application East Lyme Inland Wetlands and Watercourse Regular Meeting Minutes December I3,202L Page 2 of 6 G",
+  "item": "Application of Kristen Clarke, P",
+  "excerpt": "Gregory Mclntire recused himself because he is not familiar with the application East Lyme Inland Wetlands and Watercourse Regular Meeting Minutes December I3,202L Page 2 of 6 G. Goeschel introduced his memo with findings.",
+  "minutes": "records/inland-wetlands-agency/board/2021/minutes/2021-12-13_IWA-December-13-2021-Meeting-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/IWA-December-13-2021-Meeting-Minutes.pdf"
+ },
+ {
   "date": "2021-10-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "N. Peck"
   ],
@@ -310,7 +338,7 @@
  {
   "date": "2021-05-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Donovan"
   ],
@@ -324,7 +352,7 @@
  {
   "date": "2021-01-12",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "B. Bohmbach"
   ],
@@ -338,7 +366,7 @@
  {
   "date": "2020-12-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Thurlow"
   ],
@@ -352,7 +380,7 @@
  {
   "date": "2020-12-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -366,7 +394,7 @@
  {
   "date": "2020-11-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -380,7 +408,7 @@
  {
   "date": "2020-11-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -394,7 +422,7 @@
  {
   "date": "2020-11-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -408,7 +436,7 @@
  {
   "date": "2020-09-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -422,7 +450,7 @@
  {
   "date": "2020-08-13",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -436,7 +464,7 @@
  {
   "date": "2020-08-13",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -448,9 +476,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Zoning-Commission-August-13-2020-Public-Hearing-Special-Meeting-Minutes.pdf"
  },
  {
+  "date": "2020-06-08",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Attorney Zamarka"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "",
+  "excerpt": "East Lyme Assessor's Map 40.0, Lot23 and22, (Attorney Zamarkarecused himself from the application discussion) Attorney Gerahty stated there was a memo submitted from K. Clarke, P.E., who is a member of English Harbor Asset Management LLC, addressing some of the questions the members had at the last meeting.",
+  "minutes": "records/inland-wetlands-agency/board/2020/minutes/2020-06-08_IWA-June-8-2020-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/IWA-June-8-2020-Minutes.pdf"
+ },
+ {
   "date": "2020-01-07",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "R. Gordon"
   ],
@@ -464,7 +506,7 @@
  {
   "date": "2020-01-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Markovitz",
    "Ms. Thurlow"
@@ -479,7 +521,7 @@
  {
   "date": "2019-09-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Kalajainen",
    "Mr. McPherson"
@@ -494,7 +536,7 @@
  {
   "date": "2019-08-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -508,7 +550,7 @@
  {
   "date": "2019-08-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Kalajainen"
   ],
@@ -522,7 +564,7 @@
  {
   "date": "2019-07-11",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Kalajainen"
   ],
@@ -536,7 +578,7 @@
  {
   "date": "2019-06-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -550,7 +592,7 @@
  {
   "date": "2019-06-04",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Vice Chairman Fitzgerald"
   ],
@@ -564,7 +606,7 @@
  {
   "date": "2019-05-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -578,7 +620,7 @@
  {
   "date": "2019-05-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -592,7 +634,7 @@
  {
   "date": "2019-05-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -606,7 +648,7 @@
  {
   "date": "2019-01-16",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Nickerson"
   ],
@@ -618,9 +660,51 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/BOS-January-16-2019-Minutes.pdf"
  },
  {
+  "date": "2018-11-19",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Vice Chairman Cicchiello"
+  ],
+  "type": "abstained",
+  "reason": "due to personal relationship with the applicant; Ms",
+  "item": "application of Elizabeth Farrugia, 24 Green Valley Lake Rd, East Lyme for a vessel that floats inside property owners boundaries but moves with the tide at 24 Green Valley La",
+  "excerpt": "Motion passed 3-0-2 (Vice Chairman Cicchiello abstained due to personal relationship with the applicant; Ms. Berger abstained as she did not attend the site walk).",
+  "minutes": "records/inland-wetlands-agency/board/2018/minutes/2018-11-19_IWA-November-19-2018-Special-Meeting-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/11/IWA-November-19-2018-Special-Meeting-Minutes.pdf"
+ },
+ {
+  "date": "2018-10-15",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Ms. Cicchiello"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "Application for vessel that floats inside property owners boundaries but moves with the tide at 24 Green Valley Lake Rd, East Lyme",
+  "excerpt": "Ms. Cicchiello recused herself from this discussion.",
+  "minutes": "records/inland-wetlands-agency/board/2018/minutes/2018-10-15_IWA-October-15-2018-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/IWA-October-15-2018-Minutes.pdf"
+ },
+ {
+  "date": "2018-08-13",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Todd Bellucci"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "moved to APPROVE the East Lyme Inland Wetlands Special Meeting Minutes of July 16, 2018 with the following corrections: Page 13, paragraph 4, line 13, “rhea” should be “area”",
+  "excerpt": "Todd Bellucci recused himself for this discussion.",
+  "minutes": "records/inland-wetlands-agency/board/2018/minutes/2018-08-13_Inland-Wetlands-August-13-2018-Meeting-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Inland-Wetlands-August-13-2018-Meeting-Minutes.pdf"
+ },
+ {
   "date": "2018-06-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -634,7 +718,7 @@
  {
   "date": "2018-05-17",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -648,7 +732,7 @@
  {
   "date": "2018-05-17",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -662,7 +746,7 @@
  {
   "date": "2018-04-04",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Nickerson"
   ],
@@ -674,9 +758,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/BOS-April-4-2018-Minutes.pdf"
  },
  {
+  "date": "2017-08-17",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "D. Pazzaglia"
+  ],
+  "type": "recused",
+  "reason": "as he has moved his primary residence out of Town and is no longer eligible to vote",
+  "item": "",
+  "excerpt": "D. Pazzaglia recused himself from the discussion as he has moved his primary residence out of Town and is no longer eligible to vote.",
+  "minutes": "records/inland-wetlands-agency/board/2017/minutes/2017-08-17_IWA-August-17-2017-Special-Meeting-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/IWA-August-17-2017-Special-Meeting-Minutes.pdf"
+ },
+ {
   "date": "2017-07-13",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -690,7 +788,7 @@
  {
   "date": "2017-05-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -704,7 +802,7 @@
  {
   "date": "2017-04-04",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Palazzo"
   ],
@@ -718,7 +816,7 @@
  {
   "date": "2017-03-07",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Palazzo"
   ],
@@ -732,7 +830,7 @@
  {
   "date": "2017-03-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -746,7 +844,7 @@
  {
   "date": "2017-01-10",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Bengtson"
   ],
@@ -760,7 +858,7 @@
  {
   "date": "2016-12-06",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Palazzo"
   ],
@@ -774,7 +872,7 @@
  {
   "date": "2016-10-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -788,7 +886,7 @@
  {
   "date": "2016-10-04",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Palazzo"
   ],
@@ -800,9 +898,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Planning-Commission-October-4-2016-Public-Hearing-Minutes.pdf"
  },
  {
+  "date": "2016-09-12",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Mr. Pazzaglia"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "Application for a one-lot re-subdivision, specifically for a residential driveway that existed prior to the purchase of the lot, the area of which is 400’ in the upland review",
+  "excerpt": "(Mr. Pazzaglia recused himself for this item and left the table.) Robert Pfanner Jr.",
+  "minutes": "records/inland-wetlands-agency/board/2016/minutes/2016-09-12_IWA-September-12-2016-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/IWA-September-12-2016-Minutes.pdf"
+ },
+ {
   "date": "2016-06-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -816,7 +928,7 @@
  {
   "date": "2016-06-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -830,7 +942,7 @@
  {
   "date": "2016-03-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -842,9 +954,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Zoning-Commission-March-3-2016-Minutes.pdf"
  },
  {
+  "date": "2016-01-11",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Mr. Pazzaglia"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "moved to accept the IWA Regular Meeting Minutes of December 14, 2015 as amended",
+  "excerpt": "Antares Solar Field on property located at 20 Farm Meadow Road, East Lyme, CT, Assessor’s Map 52.0, Lot 126, East Lyme, CT (Note: 7:25 PM — Mr. Pazzaglia recused himself from this item and left the room) Mr. Goeschel said that he had received a report from Mr. Harris stating that they were working on the as-built survey copies and that with the exception of that and the activities with regard to t",
+  "minutes": "records/inland-wetlands-agency/board/2016/minutes/2016-01-11_IWA-January-11-2016-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/IWA-January-11-2016-Minutes.pdf"
+ },
+ {
   "date": "2015-12-10",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -858,7 +984,7 @@
  {
   "date": "2015-06-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -872,7 +998,7 @@
  {
   "date": "2015-04-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -886,7 +1012,7 @@
  {
   "date": "2015-04-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -900,7 +1026,7 @@
  {
   "date": "2015-04-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -914,7 +1040,7 @@
  {
   "date": "2014-10-21",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Chairman Schuch"
   ],
@@ -928,7 +1054,7 @@
  {
   "date": "2014-09-03",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica"
   ],
@@ -942,7 +1068,7 @@
  {
   "date": "2014-09-03",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Nickerson"
   ],
@@ -956,7 +1082,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Seery"
   ],
@@ -970,7 +1096,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Seery"
   ],
@@ -984,7 +1110,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Seery"
   ],
@@ -998,7 +1124,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Seery"
   ],
@@ -1012,7 +1138,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Seery"
   ],
@@ -1026,7 +1152,7 @@
  {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica"
   ],
@@ -1040,7 +1166,7 @@
  {
   "date": "2014-06-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1052,9 +1178,23 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2014/06/Zoning-Public-Hearing-Minutes-06-19-2014.pdf"
  },
  {
+  "date": "2014-04-09",
+  "board": "board-of-finance",
+  "board_name": "Board of Finance",
+  "members": [
+   "Mr. Harney"
+  ],
+  "type": "left the room",
+  "reason": "",
+  "item": "",
+  "excerpt": "(Note: Mr. Harney left the table momentarily and was not present for the vote.) **MOTION (38) Ms. Hogan moved to close department 114 — General Govt.",
+  "minutes": "records/board-of-finance/board/2014/minutes/2014-04-09_BOF-Regular-Meeting-Minutes-04-09-2014.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/BOF-Regular-Meeting-Minutes-04-09-2014.pdf"
+ },
+ {
   "date": "2014-04-01",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Ms. Bengtson"
   ],
@@ -1068,7 +1208,7 @@
  {
   "date": "2014-03-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Lukas"
   ],
@@ -1082,7 +1222,7 @@
  {
   "date": "2014-02-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1096,7 +1236,7 @@
  {
   "date": "2013-07-17",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica"
   ],
@@ -1110,7 +1250,7 @@
  {
   "date": "2013-06-05",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica",
    "Mr. Seery"
@@ -1125,7 +1265,7 @@
  {
   "date": "2013-03-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1139,7 +1279,7 @@
  {
   "date": "2013-03-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1153,7 +1293,7 @@
  {
   "date": "2013-03-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Donovan"
   ],
@@ -1167,7 +1307,7 @@
  {
   "date": "2013-03-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1181,7 +1321,7 @@
  {
   "date": "2013-03-06",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Ms. Cheeseman"
   ],
@@ -1195,7 +1335,7 @@
  {
   "date": "2013-01-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1209,7 +1349,7 @@
  {
   "date": "2012-10-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. McPherson"
   ],
@@ -1223,7 +1363,7 @@
  {
   "date": "2012-08-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1237,7 +1377,7 @@
  {
   "date": "2012-07-12",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1251,7 +1391,7 @@
  {
   "date": "2012-06-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1265,7 +1405,7 @@
  {
   "date": "2012-04-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Chairman Salemo"
   ],
@@ -1279,7 +1419,7 @@
  {
   "date": "2012-04-17",
   "board": "planning-commission",
-  "board_name": "East Lyme Planning Commission",
+  "board_name": "Planning Commission",
   "members": [
    "Chairman Bowers"
   ],
@@ -1293,7 +1433,7 @@
  {
   "date": "2012-03-07",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Ms. Cheeseman"
   ],
@@ -1307,7 +1447,7 @@
  {
   "date": "2012-02-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1321,7 +1461,7 @@
  {
   "date": "2012-01-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1335,7 +1475,7 @@
  {
   "date": "2012-01-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1349,7 +1489,7 @@
  {
   "date": "2011-12-21",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica"
   ],
@@ -1363,7 +1503,7 @@
  {
   "date": "2011-07-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1377,7 +1517,7 @@
  {
   "date": "2011-05-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1391,7 +1531,7 @@
  {
   "date": "2011-05-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Carpenteri"
   ],
@@ -1405,7 +1545,7 @@
  {
   "date": "2011-04-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1419,7 +1559,7 @@
  {
   "date": "2011-04-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1433,7 +1573,7 @@
  {
   "date": "2011-04-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1447,7 +1587,7 @@
  {
   "date": "2011-01-05",
   "board": "board-of-selectmen",
-  "board_name": "East Lyme Board of Selectmen",
+  "board_name": "Board of Selectmen",
   "members": [
    "Mr. Formica"
   ],
@@ -1461,7 +1601,7 @@
  {
   "date": "2009-09-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1475,7 +1615,7 @@
  {
   "date": "2009-09-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1489,7 +1629,7 @@
  {
   "date": "2009-06-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Carpenteri"
   ],
@@ -1503,7 +1643,7 @@
  {
   "date": "2009-06-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1517,7 +1657,7 @@
  {
   "date": "2009-06-04",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Carpenteri"
   ],
@@ -1531,7 +1671,7 @@
  {
   "date": "2009-05-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1545,7 +1685,7 @@
  {
   "date": "2009-05-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1559,7 +1699,7 @@
  {
   "date": "2009-05-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1573,7 +1713,7 @@
  {
   "date": "2009-05-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1587,7 +1727,7 @@
  {
   "date": "2009-04-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1601,7 +1741,7 @@
  {
   "date": "2009-04-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1615,7 +1755,7 @@
  {
   "date": "2009-04-02",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1629,7 +1769,7 @@
  {
   "date": "2008-09-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Pedt"
   ],
@@ -1643,7 +1783,7 @@
  {
   "date": "2008-06-19",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Pedr"
   ],
@@ -1657,7 +1797,7 @@
  {
   "date": "2008-06-05",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. PecJr"
   ],
@@ -1671,7 +1811,7 @@
  {
   "date": "2008-02-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1685,7 +1825,7 @@
  {
   "date": "2008-02-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1699,7 +1839,7 @@
  {
   "date": "2008-01-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1713,7 +1853,7 @@
  {
   "date": "2007-10-18",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1727,7 +1867,7 @@
  {
   "date": "2007-10-18",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1741,7 +1881,7 @@
  {
   "date": "2007-09-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1755,7 +1895,7 @@
  {
   "date": "2007-07-12",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1769,7 +1909,7 @@
  {
   "date": "2007-03-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Nickerson"
   ],
@@ -1783,7 +1923,7 @@
  {
   "date": "2007-03-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1797,7 +1937,7 @@
  {
   "date": "2007-03-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Nickerson"
   ],
@@ -1811,7 +1951,7 @@
  {
   "date": "2007-02-15",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1825,7 +1965,7 @@
  {
   "date": "2006-12-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peclt"
   ],
@@ -1839,7 +1979,7 @@
  {
   "date": "2006-09-21",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Dr. Byrnes"
   ],
@@ -1853,7 +1993,7 @@
  {
   "date": "2006-09-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Pamela Byrnes"
   ],
@@ -1867,7 +2007,7 @@
  {
   "date": "2006-09-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Dr. Byrnes"
   ],
@@ -1881,7 +2021,7 @@
  {
   "date": "2006-06-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Nickerson",
    "Mr. Peck"
@@ -1896,7 +2036,7 @@
  {
   "date": "2006-04-27",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Byrnes"
   ],
@@ -1910,7 +2050,7 @@
  {
   "date": "2006-04-27",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1924,7 +2064,7 @@
  {
   "date": "2006-04-06",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -1938,7 +2078,7 @@
  {
   "date": "2006-03-23",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Nickerson"
   ],
@@ -1952,7 +2092,7 @@
  {
   "date": "2006-03-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Byrnes"
   ],
@@ -1966,7 +2106,7 @@
  {
   "date": "2005-12-01",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Carabelas"
   ],
@@ -1980,7 +2120,7 @@
  {
   "date": "2005-11-17",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Ms. Carabelas"
   ],
@@ -1994,7 +2134,7 @@
  {
   "date": "2005-08-18",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Pecl",
    "Mr. Drryer"
@@ -2009,7 +2149,7 @@
  {
   "date": "2005-03-17",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2023,7 +2163,7 @@
  {
   "date": "2005-02-14",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2037,7 +2177,7 @@
  {
   "date": "2004-09-16",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2051,7 +2191,7 @@
  {
   "date": "2004-06-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2065,7 +2205,7 @@
  {
   "date": "2004-06-03",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Dwyer"
   ],
@@ -2079,7 +2219,7 @@
  {
   "date": "2003-08-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Gada"
   ],
@@ -2093,7 +2233,7 @@
  {
   "date": "2003-03-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2107,7 +2247,7 @@
  {
   "date": "2003-03-20",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Peck"
   ],
@@ -2121,7 +2261,7 @@
  {
   "date": "1999-10-07",
   "board": "zoning-commission",
-  "board_name": "East Lyme Zoning Commission",
+  "board_name": "Zoning Commission",
   "members": [
    "Mr. Formica"
   ],

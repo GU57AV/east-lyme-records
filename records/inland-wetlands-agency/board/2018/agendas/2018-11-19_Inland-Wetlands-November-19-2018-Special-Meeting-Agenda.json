@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA November 19 2018 Special Meeting Agenda (pdf)",
+  "filename": "Inland-Wetlands-November-19-2018-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/11/Inland-Wetlands-November-19-2018-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-agendas/",
+  "upload_folder": "2018-11",
+  "first_seen_utc": "2026-11-25T07:09:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4fa8657b417a86902919d3a8e397f1c0e10a5f5037ebbcbafcb72be93afb68eb",
+  "bytes": 122085,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Nov 2018 14:50:36 GMT",
+  "etag": "\"16c1269-1dce5-57ac94a3bc700\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-11-19_Inland-Wetlands-November-19-2018-Special-Meeting-Agenda--4fa8657b417a.pdf",
+  "versions": [
+    {
+      "sha256": "4fa8657b417a86902919d3a8e397f1c0e10a5f5037ebbcbafcb72be93afb68eb",
+      "bytes": 122085,
+      "retrieved_utc": "2026-11-25T07:09:29+00:00",
+      "http_last_modified": "Fri, 16 Nov 2018 14:50:36 GMT"
+    }
+  ]
+}

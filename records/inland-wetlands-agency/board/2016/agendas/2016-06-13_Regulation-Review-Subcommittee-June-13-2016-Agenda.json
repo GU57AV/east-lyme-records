@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Regulation Review Subcommittee June 13 2016 Agenda (pdf)",
+  "filename": "Regulation-Review-Subcommittee-June-13-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Regulation-Review-Subcommittee-June-13-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-25T07:56:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e27fb28628697738d27fe1c11ff50c4edc7e55ac78e4aedafdd6f626098275fa",
+  "bytes": 32441,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Jun 2016 18:55:16 GMT",
+  "etag": "\"16e06ca-7eb9-534dcf6770d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2016/2016-06-13_Regulation-Review-Subcommittee-June-13-2016-Agenda--e27fb2862869.pdf",
+  "versions": [
+    {
+      "sha256": "e27fb28628697738d27fe1c11ff50c4edc7e55ac78e4aedafdd6f626098275fa",
+      "bytes": 32441,
+      "retrieved_utc": "2026-11-25T07:56:34+00:00",
+      "http_last_modified": "Thu, 09 Jun 2016 18:55:16 GMT"
+    }
+  ]
+}

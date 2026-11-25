@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "IWA January 18 2022 Minutes (pdf)",
+  "filename": "IWA-January-18-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/IWA-January-18-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2022-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-25T06:22:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "76ab422deff16c97b8198d8fdab0a068ad32d050d4d892d07f54bf9e4e9c4f13",
+  "bytes": 228646,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Jan 2022 18:21:20 GMT",
+  "etag": "\"16a0e1d-37d26-5d65808ffc800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2022/2022-01-18_IWA-January-18-2022-Minutes--76ab422deff1.pdf",
+  "versions": [
+    {
+      "sha256": "76ab422deff16c97b8198d8fdab0a068ad32d050d4d892d07f54bf9e4e9c4f13",
+      "bytes": 228646,
+      "retrieved_utc": "2026-11-25T06:22:21+00:00",
+      "http_last_modified": "Mon, 24 Jan 2022 18:21:20 GMT"
+    }
+  ]
+}

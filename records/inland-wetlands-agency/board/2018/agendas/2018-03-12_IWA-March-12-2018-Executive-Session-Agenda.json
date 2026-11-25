@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA March 12 2018 Executive Session Agenda (pdf)",
+  "filename": "IWA-March-12-2018-Executive-Session-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/IWA-March-12-2018-Executive-Session-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-25T07:21:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01258210e8df753d09cc4e2d0d3a555d330eefd3c0a0295479091ce112cb1079",
+  "bytes": 42783,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Mar 2018 19:11:04 GMT",
+  "etag": "\"16c083a-a71f-566c334338200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-03-12_IWA-March-12-2018-Executive-Session-Agenda--01258210e8df.pdf",
+  "versions": [
+    {
+      "sha256": "01258210e8df753d09cc4e2d0d3a555d330eefd3c0a0295479091ce112cb1079",
+      "bytes": 42783,
+      "retrieved_utc": "2026-11-25T07:21:31+00:00",
+      "http_last_modified": "Tue, 06 Mar 2018 19:11:04 GMT"
+    }
+  ]
+}

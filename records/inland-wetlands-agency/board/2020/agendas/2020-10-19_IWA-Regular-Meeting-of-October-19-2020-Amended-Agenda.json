@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "IWA Regular Meeting of October 19 2020 Amended Agenda (pdf)",
+  "filename": "IWA-Regular-Meeting-of-October-19-2020-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/IWA-Regular-Meeting-of-October-19-2020-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-25T06:38:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "67a68c89b5ef7690ad93e149d2505321619ad46966730263fdbb4188b33610f1",
+  "bytes": 213949,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Oct 2020 19:16:57 GMT",
+  "etag": "\"16619b9-343bd-5b20af5371c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2020/2020-10-19_IWA-Regular-Meeting-of-October-19-2020-Amended-Agenda--67a68c89b5ef.pdf",
+  "versions": [
+    {
+      "sha256": "67a68c89b5ef7690ad93e149d2505321619ad46966730263fdbb4188b33610f1",
+      "bytes": 213949,
+      "retrieved_utc": "2026-11-25T06:38:04+00:00",
+      "http_last_modified": "Mon, 19 Oct 2020 19:16:57 GMT"
+    }
+  ]
+}

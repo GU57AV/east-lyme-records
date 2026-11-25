@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "IWA December 10 2018 Cancellation (pdf)",
+  "filename": "IWA-December-10-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/IWA-December-10-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2018-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-25T07:08:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bbaece5bd533faac2d8c5bc767c9b6bf479c3c50455f091074f49ab5d17f12db",
+  "bytes": 31173,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Dec 2018 20:33:47 GMT",
+  "etag": "\"16c06a6-79c5-57c382eb240c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2018/2018-12-10_IWA-December-10-2018-Cancellation--bbaece5bd533.pdf",
+  "versions": [
+    {
+      "sha256": "bbaece5bd533faac2d8c5bc767c9b6bf479c3c50455f091074f49ab5d17f12db",
+      "bytes": 31173,
+      "retrieved_utc": "2026-11-25T07:08:29+00:00",
+      "http_last_modified": "Tue, 04 Dec 2018 20:33:47 GMT"
+    }
+  ]
+}

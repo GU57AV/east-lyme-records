@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "IWA May 31 2025 Site Walk Agenda (pdf)",
+  "filename": "IWA-May-31-2025-Site-Walk-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/05/IWA-May-31-2025-Site-Walk-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-2025-agendas/",
+  "upload_folder": "2025-05",
+  "first_seen_utc": "2026-11-25T05:28:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d770baaa0d6092a0955c58b69872434e6f10aac165dd591042543638f3eb71ec",
+  "bytes": 34796,
+  "pages": 0,
+  "http_last_modified": "Tue, 27 May 2025 18:42:21 GMT",
+  "etag": "\"16a15b8-87ec-636226cb73d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2025/2025-05-31_IWA-May-31-2025-Site-Walk-Agenda--d770baaa0d60.pdf",
+  "versions": [
+    {
+      "sha256": "d770baaa0d6092a0955c58b69872434e6f10aac165dd591042543638f3eb71ec",
+      "bytes": 34796,
+      "retrieved_utc": "2026-11-25T05:28:32+00:00",
+      "http_last_modified": "Tue, 27 May 2025 18:42:21 GMT"
+    }
+  ]
+}

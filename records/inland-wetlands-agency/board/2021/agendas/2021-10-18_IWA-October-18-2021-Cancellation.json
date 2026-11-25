@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "IWA October 18 2021 Cancellation (pdf)",
+  "filename": "IWA-October-18-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/IWA-October-18-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetland-agency-2021-agendas/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-25T06:24:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ab505ff842a3f7f18b0b7449fbfc8668c2789d7d98ceedf1e63b5b18888d8bd4",
+  "bytes": 35291,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Oct 2021 18:24:49 GMT",
+  "etag": "\"168039d-89db-5cd9f25123e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2021/2021-10-18_IWA-October-18-2021-Cancellation--ab505ff842a3.pdf",
+  "versions": [
+    {
+      "sha256": "ab505ff842a3f7f18b0b7449fbfc8668c2789d7d98ceedf1e63b5b18888d8bd4",
+      "bytes": 35291,
+      "retrieved_utc": "2026-11-25T06:24:01+00:00",
+      "http_last_modified": "Tue, 05 Oct 2021 18:24:49 GMT"
+    }
+  ]
+}
