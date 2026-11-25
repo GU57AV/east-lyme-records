@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE July 14 2014 Minutes (pdf)",
+  "filename": "BOE-Minutes-07-14-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Minutes-07-14-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T18:17:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4701e45deda058dbe883bd97eb1a6e332f9575ab6ca4b51111b978d2ae3f5724",
+  "bytes": 258033,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Jul 2014 17:26:48 GMT",
+  "etag": "\"1661512-3eff1-4fe3eb65fc600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-07-14_BOE-Minutes-07-14-2014--4701e45deda0.pdf",
+  "versions": [
+    {
+      "sha256": "4701e45deda058dbe883bd97eb1a6e332f9575ab6ca4b51111b978d2ae3f5724",
+      "bytes": 258033,
+      "retrieved_utc": "2026-11-25T18:17:32+00:00",
+      "http_last_modified": "Tue, 15 Jul 2014 17:26:48 GMT"
+    }
+  ]
+}

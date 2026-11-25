@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "BOE March 12 2014 Joint Meeting w BOS & BOF Minutes (pdf)",
+  "filename": "BOE-Joint-Meeting-w-BOS-BOF-Minutes-03-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/BOE-Joint-Meeting-w-BOS-BOF-Minutes-03-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T18:21:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6e1395d2955515384aa043cd11af1c426809b0b19dd9497111f71a21eaa2f9f6",
+  "bytes": 1178820,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:11:42 GMT",
+  "etag": "\"1663429-11fcc4-5208229c27380\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-03-12_BOE-Joint-Meeting-w-BOS-BOF-Minutes-03-12-2014--6e1395d29555.pdf",
+  "versions": [
+    {
+      "sha256": "6e1395d2955515384aa043cd11af1c426809b0b19dd9497111f71a21eaa2f9f6",
+      "bytes": 1178820,
+      "retrieved_utc": "2026-11-25T18:21:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:11:42 GMT"
+    }
+  ]
+}

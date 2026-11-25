@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BOE May 28 2013 Regular Meeting Agenda (pdf)",
+  "filename": "5-28-13-BOE-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/5-28-13-BOE-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T18:27:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ffe4f1c498d87cdeeaa45a77695959fd2c34bce9206689e166eb55adac717236",
+  "bytes": 530505,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:43 GMT",
+  "etag": "\"1663d7c-81849-52082630a25c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2013/2013-05-28_5-28-13-BOE-Regular-Meeting-Agenda--ffe4f1c498d8.pdf",
+  "versions": [
+    {
+      "sha256": "ffe4f1c498d87cdeeaa45a77695959fd2c34bce9206689e166eb55adac717236",
+      "bytes": 530505,
+      "retrieved_utc": "2026-11-25T18:27:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:43 GMT"
+    }
+  ]
+}

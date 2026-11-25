@@ -1,6 +1,6 @@
 # Town calendar cross-check
 
-_Updated Nov 25, 2026 8:29 AM ET. Unofficial and automatic._
+_Updated Nov 25, 2026 1:45 PM ET. Unofficial and automatic._
 
 Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/) in the 30 days before and after today, for boards whose records this archive has fully imported, with whether an agenda and minutes have been posted. Snapshots of the calendar, with every change to every entry, are kept in [calendar/](../calendar/). The calendar is not the legal notice of a meeting, and entries can be changed at any time, so this is a cross-check, not proof.
 
@@ -14,7 +14,7 @@ Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/
 | Wed Dec 2, 2026 7:00 PM | Board of Selectmen | Board of Selectmen | [posted](../records/board-of-selectmen/board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) | — |
 | Wed Dec 2, 2026 7:00 PM | Special Town Meeting | Town Meetings | [posted](../records/town-meetings/board/2026/agendas/2026-12-02_Special-Town-Meeting-December-2-2026-Notice.md) | — |
 | Mon Nov 23, 2026 4:00 PM | Board of Police Commissioners (Special) | Board of Police Commissioners | [posted](../records/police-commission/board/2026/agendas/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Agenda.md) | posted |
-| Thu Nov 19, 2026 7:30 PM | Zoning Commission | Zoning Commission | [posted](../records/zoning-commission/board/2026/agendas/2026-11-19_Zoning-Commission-November-19-2026-Agenda.md) | not yet |
+| Thu Nov 19, 2026 7:30 PM | Zoning Commission | Zoning Commission | [posted](../records/zoning-commission/board/2026/agendas/2026-11-19_Zoning-Commission-November-19-2026-Agenda.md) | posted |
 | Wed Nov 18, 2026 7:05 PM | Board of Selectmen (Immed following Public Hearing) | Board of Selectmen | [posted](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Amended-Agenda.md) | not yet |
 | Wed Nov 18, 2026 7:00 PM | BOS (Public Hearing) | Board of Selectmen | [posted](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Public-Hearing-Notice.md) | posted |
 | Thu Nov 12, 2026 5:30 PM | BOF Hybrid Meeting | Board of Finance | [posted](../records/board-of-finance/board/2026/agendas/2026-11-12_BOF-November-12-2026-Agenda-with-Zoom-Link.md) | posted |

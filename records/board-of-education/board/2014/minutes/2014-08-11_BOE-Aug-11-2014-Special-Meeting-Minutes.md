@@ -1,0 +1,50 @@
+---
+title: "BOE Aug 11 2014 Special Meeting Minutes (pdf)"
+board: board-of-education
+kind: minutes
+source_url: https://eltownhall.com/wp-content/uploads/BOE-Aug-11-2014-Special-Meeting-Minutes.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2014/
+sha256: bc1b4f3a07dae4e24bd5d39212a3450c438ea5c1dd67aac706cb8a405e227cc1
+text_method: ocrmypdf (OCR)
+first_seen_utc: 2026-11-25T18:16:51+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-08-11_BOE-Aug-11-2014-Special-Meeting-Minutes--bc1b4f3a07da.pdf
+
+```text
+Not official until approved by the East Lyme Board of Education on August 25, 2014
+
+5029
+
+EAST LYME BOARD OF EDUCATION
+East Lyme, Connecticut
+
+SPECIAL MEETING
+Monday, August 11, 2014
+6:00 p.m.
+Main Office Conference Room, East Lyme High School
+
+MINUTES
+Board Members Present: AI Littlefield (Acting Chair), Candice Carlson (Acting Secretary), Joe
+Arcarese, Jill Carini, Rob Kupis, Marlene Nickerson, Pam Rowe, Barbara
+Senges, Jaime Barr Shelburn
+Board Members Absent: — Tim Hagen (Chair)
+Administrators Present: Dr. James Lombardo
+1. CALL TO ORDER -—_6:00 p.m. by Acting Chair Al Littlefield
+Il. EXECUTIVE SESSION
+MOTION: Jaime Shelburn moved to enter into Executive Session at 6:02pm to interview the
+recommended candidate for Interim Assistant Superintendent for Special Education and Pupil Personnel
+and to discuss personnel issues; Pam Rowe seconded.
+VOTE: UNANIMOUS MOTION CARRIED
+The Board exited Executive Session at 6:55pm.
+Il. ADJOURNMENT
+
+MOTION: Pam Rowe moved to adjourn the meeting at 6:55p.m.; Candice Carlson seconded.
+VOTE: UNANIMOUS MOTION CARRIED
+
+Respectfully submitted,
+Candice Carlow
+
+Candice Carlson, Acting Secretary
+East Lyme Board of Education
+```
