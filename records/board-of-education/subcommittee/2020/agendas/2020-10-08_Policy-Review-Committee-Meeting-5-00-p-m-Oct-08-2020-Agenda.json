@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting, 5:00 p.m. - Oct 08 2020 - Agenda",
+  "filename": "Policy-Review-Committee-Meeting-5-00-p-m-Oct-08-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6781",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=335",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:29:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d4b657e6f4cba22191fd4e01492ee0274acd254d41562ad4c7fd3ee59181eda8",
+  "bytes": 29122,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-10-08_Policy-Review-Committee-Meeting-5-00-p-m-Oct-08-2020-Agenda--d4b657e6f4cb.html",
+  "versions": [
+    {
+      "sha256": "d4b657e6f4cba22191fd4e01492ee0274acd254d41562ad4c7fd3ee59181eda8",
+      "bytes": 29122,
+      "retrieved_utc": "2026-11-26T08:29:53+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 335,
+  "meeting_date": "2020-10-08",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6781,
+  "portal_last_modified_utc": "2025-04-02T05:51:35+00:00"
+}

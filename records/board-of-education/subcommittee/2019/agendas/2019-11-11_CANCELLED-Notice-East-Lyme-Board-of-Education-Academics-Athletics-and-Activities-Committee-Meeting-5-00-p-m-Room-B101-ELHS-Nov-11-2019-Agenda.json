@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "CANCELLED- Notice-East Lyme Board of Education Academics, Athletics, and Activities Committee Meeting, 5:00 p.m., Room B101, ELHS - Nov 11 2019 - Agenda",
+  "filename": "CANCELLED-Notice-East-Lyme-Board-of-Education-Academics-Athletics-and-Activities-Committee-Meeting-5-00-p-m-Room-B101-ELHS-Nov-11-2019-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7245",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=397",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:06:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e10cfc8497e676823c55e5a68a5aeafbb1af2405884e4fdd18b6bc904a06d608",
+  "bytes": 5910,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-11-11_CANCELLED-Notice-East-Lyme-Board-of-Education-Academics-Athletics-and-Activities-Committee-Meeting-5-00-p-m-Room-B101-ELHS-Nov-11-2019-Agenda--e10cfc8497e6.html",
+  "versions": [
+    {
+      "sha256": "e10cfc8497e676823c55e5a68a5aeafbb1af2405884e4fdd18b6bc904a06d608",
+      "bytes": 5910,
+      "retrieved_utc": "2026-11-26T09:06:59+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 397,
+  "meeting_date": "2019-11-11",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7245,
+  "portal_last_modified_utc": "2025-04-02T06:02:11+00:00"
+}

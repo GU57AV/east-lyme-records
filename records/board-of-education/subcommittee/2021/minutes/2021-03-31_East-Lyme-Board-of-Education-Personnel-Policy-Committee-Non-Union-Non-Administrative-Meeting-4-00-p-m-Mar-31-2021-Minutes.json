@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education - Personnel Policy Committee (Non-Union/Non-Administrative) Meeting, 4:00 p.m. - Mar 31 2021 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-4-00-p-m-Mar-31-2021-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4842",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=294",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:02:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4ea58283133d9901c9c393f814032c77963b900d56547889b59983118f785b7",
+  "bytes": 11439,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-03-31_East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-4-00-p-m-Mar-31-2021-Minutes--a4ea58283133.html",
+  "versions": [
+    {
+      "sha256": "a4ea58283133d9901c9c393f814032c77963b900d56547889b59983118f785b7",
+      "bytes": 11439,
+      "retrieved_utc": "2026-11-26T08:02:54+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 294,
+  "meeting_date": "2021-03-31",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4842,
+  "portal_last_modified_utc": "2025-04-02T05:10:45+00:00"
+}

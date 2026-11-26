@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "REGULAR MEETING - Mar 12 2018 - Agenda",
+  "filename": "REGULAR-MEETING-Mar-12-2018-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7883",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=496",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T10:07:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a5fdf9f6acff28109f2b312badbd90b784e9eb28b442c6d3906b9e6e26e6424b",
+  "bytes": 48527,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-03-12_REGULAR-MEETING-Mar-12-2018-Agenda--a5fdf9f6acff.html",
+  "versions": [
+    {
+      "sha256": "a5fdf9f6acff28109f2b312badbd90b784e9eb28b442c6d3906b9e6e26e6424b",
+      "bytes": 48527,
+      "retrieved_utc": "2026-11-26T10:07:02+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 496,
+  "meeting_date": "2018-03-12",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7883,
+  "portal_last_modified_utc": "2025-04-02T06:17:08+00:00"
+}

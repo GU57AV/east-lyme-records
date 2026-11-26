@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "CANCELED-Academics, Athletics and Activities (AAA) Committee Meeting, 5:00 p.m., ELHS - Mar 09 2020 - Agenda",
+  "filename": "CANCELED-Academics-Athletics-and-Activities-AAA-Committee-Meeting-5-00-p-m-ELHS-Mar-09-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7089",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=370",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:51:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "62ad127f4709d9b539b739c947d72c4a761e12c3e724b05681c7e1d2ad691171",
+  "bytes": 14334,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-03-09_CANCELED-Academics-Athletics-and-Activities-AAA-Committee-Meeting-5-00-p-m-ELHS-Mar-09-2020-Agenda--62ad127f4709.html",
+  "versions": [
+    {
+      "sha256": "62ad127f4709d9b539b739c947d72c4a761e12c3e724b05681c7e1d2ad691171",
+      "bytes": 14334,
+      "retrieved_utc": "2026-11-26T08:51:08+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 370,
+  "meeting_date": "2020-03-09",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7089,
+  "portal_last_modified_utc": "2025-04-02T05:58:44+00:00"
+}

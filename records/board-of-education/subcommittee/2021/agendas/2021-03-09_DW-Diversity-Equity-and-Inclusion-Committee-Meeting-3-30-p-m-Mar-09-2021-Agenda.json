@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "DW Diversity, Equity and Inclusion Committee Meeting, 3:30 p.m. - Mar 09 2021 - Agenda",
+  "filename": "DW-Diversity-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-Mar-09-2021-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6461",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=301",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:07:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4f713e5e379c7768ed2cc3897eca192108c14e8eb0ed608ea12e95b2ed185b5f",
+  "bytes": 12147,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-03-09_DW-Diversity-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-Mar-09-2021-Agenda--4f713e5e379c.html",
+  "versions": [
+    {
+      "sha256": "4f713e5e379c7768ed2cc3897eca192108c14e8eb0ed608ea12e95b2ed185b5f",
+      "bytes": 12147,
+      "retrieved_utc": "2026-11-26T08:07:17+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 301,
+  "meeting_date": "2021-03-09",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6461,
+  "portal_last_modified_utc": "2025-04-02T05:44:31+00:00"
+}

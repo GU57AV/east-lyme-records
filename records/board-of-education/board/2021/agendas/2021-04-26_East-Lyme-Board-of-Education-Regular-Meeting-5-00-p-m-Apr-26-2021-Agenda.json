@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 5:00 p.m. - Apr 26 2021 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Apr-26-2021-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6389",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=291",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:00:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dd20d0697af034ec5d5419f59046df0dc05298afe821ccbdaa7fe2b784317194",
+  "bytes": 43588,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-04-26_East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Apr-26-2021-Agenda--dd20d0697af0.html",
+  "versions": [
+    {
+      "sha256": "dd20d0697af034ec5d5419f59046df0dc05298afe821ccbdaa7fe2b784317194",
+      "bytes": 43588,
+      "retrieved_utc": "2026-11-26T08:00:33+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 291,
+  "meeting_date": "2021-04-26",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6389,
+  "portal_last_modified_utc": "2025-04-02T05:42:51+00:00"
+}

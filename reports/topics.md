@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 26, 2026 12:19 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 26, 2026 5:21 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (18)
 
@@ -165,7 +165,7 @@ _Updated Nov 26, 2026 12:19 AM ET. Every archived document that mentions each wa
 - 2007-09-20 — Zoning Commission: [Zoning Commission September 20 2007 Public Hearing I & II Minutes (pdf)](../records/zoning-commission/board/2007/minutes/2007-09-20_Zoning-Commission-September-20-2007-Public-Hearing-I-II-Minutes.md) — “…2 Ms. Marocola sald that the doors arp lockable and that they also have surveillance cemeras throughout the faoility. Mr. Nickerson explalned the publlc portlon of the publi…”
 - 2004-09-29 — Zoning Commission: [Zoning September 29 2004 Public Hearing I Minutes (pdf)](../records/zoning-commission/board/2004/minutes/2004-09-29_Zoning-September-29-2004-Public-Hearing-I-Minutes.md) — “…ng the road. This stretgh of roadway is listed on ConnDOT's Suggested List of Surveillance Study Sites (SLOSSS). This publication lists roadways that have a higher than…”
 
-## executive session (1051)
+## executive session (1162)
 
 - 2026-12-02 — Board of Selectmen: [BOS December 2 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) — “…b) Discussion and Possible Action - Cannabis Funds - Pollinator Pathway 4. Executive Session - For the Purpose of Discussing Potential Litigation 5 a) Ex-Officio Reports…”
 - 2026-11-23 — Board of Police Commissioners: [Board of Police Commissioners November 23 2026 Special Meeting Agenda (pdf)](../records/police-commission/board/2026/agendas/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Agenda.md) — “…AGENDA L Call to order and Pledge ofAllegiance 2. Executive Session: For the purpose of conducting new hire applicant interview 3. Discussion and possible…”

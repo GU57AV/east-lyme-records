@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 26, 2026 12:19 AM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 5:21 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -10,6 +10,7 @@ Meetings from Nov 26, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Board of Education | 41 | 100% (41/41) | 100% (19/19) | 95% (38/40) | 100% (11/11) | 3 | 0 |
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
@@ -21,6 +22,7 @@ Meetings from Nov 26, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Board of Education | 105 | 100% (105/105) | 100% (26/26) | 90% (94/104) | 100% (12/12) | 3.5 | 0 |
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
@@ -40,6 +42,13 @@ Meetings from Nov 26, 2025 through yesterday.
 - Boards still being imported will appear once their history is complete.
 
 ## Details (last 12 months)
+
+<details><summary>Board of Education (2)</summary>
+
+- Tue Mar 3, 2026: no minutes found ([document](../records/board-of-education/subcommittee/2026/agendas/2026-03-03_Student-Belonging-Experience-Committee-Meeting-Mar-03-2026-Agenda.md))
+- Mon Oct 26, 2026: no minutes found ([document](../records/board-of-education/subcommittee/2026/agendas/2026-10-26_Culture-Climate-and-Innovation-Committee-Meetings-Oct-26-2026-Agenda.md))
+
+</details>
 
 <details><summary>Board of Finance (21)</summary>
 

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 5:30 p.m. - Feb 22 2021 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-5-30-p-m-Feb-22-2021-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6513",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=305",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:09:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cf2473e13c0ca71ca9c1b3d95c9b5f081a4469c6f50717a3540d5ae2f234de89",
+  "bytes": 49572,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-02-22_East-Lyme-Board-of-Education-Regular-Meeting-5-30-p-m-Feb-22-2021-Agenda--cf2473e13c0c.html",
+  "versions": [
+    {
+      "sha256": "cf2473e13c0ca71ca9c1b3d95c9b5f081a4469c6f50717a3540d5ae2f234de89",
+      "bytes": 49572,
+      "retrieved_utc": "2026-11-26T08:09:59+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 305,
+  "meeting_date": "2021-02-22",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6513,
+  "portal_last_modified_utc": "2025-04-02T05:45:35+00:00"
+}

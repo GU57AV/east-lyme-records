@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, 4:30 p.m. - Dec 14 2020 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-4-30-p-m-Dec-14-2020-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4982",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=324",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:22:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e8cb9ada9fe0ba53553be34034a2fd95234f5497b7e6eabbb317b7da240f55d5",
+  "bytes": 13053,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-12-14_East-Lyme-Board-of-Education-Special-Meeting-4-30-p-m-Dec-14-2020-Minutes--e8cb9ada9fe0.html",
+  "versions": [
+    {
+      "sha256": "e8cb9ada9fe0ba53553be34034a2fd95234f5497b7e6eabbb317b7da240f55d5",
+      "bytes": 13053,
+      "retrieved_utc": "2026-11-26T08:22:48+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 324,
+  "meeting_date": "2020-12-14",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4982,
+  "portal_last_modified_utc": "2025-04-02T05:13:22+00:00"
+}

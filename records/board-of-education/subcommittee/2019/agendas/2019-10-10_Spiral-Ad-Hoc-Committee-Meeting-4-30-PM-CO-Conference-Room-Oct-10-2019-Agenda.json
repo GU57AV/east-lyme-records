@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Spiral Ad Hoc Committee Meeting, 4:30 PM, CO, Conference Room - Oct 10 2019 - Agenda",
+  "filename": "Spiral-Ad-Hoc-Committee-Meeting-4-30-PM-CO-Conference-Room-Oct-10-2019-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7269",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=401",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:09:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e048cdf88be888b3c33e7f32b7d21ad9ee78e96dd258d5aaed028361060b3a7b",
+  "bytes": 9386,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-10-10_Spiral-Ad-Hoc-Committee-Meeting-4-30-PM-CO-Conference-Room-Oct-10-2019-Agenda--e048cdf88be8.html",
+  "versions": [
+    {
+      "sha256": "e048cdf88be888b3c33e7f32b7d21ad9ee78e96dd258d5aaed028361060b3a7b",
+      "bytes": 9386,
+      "retrieved_utc": "2026-11-26T09:09:00+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 401,
+  "meeting_date": "2019-10-10",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7269,
+  "portal_last_modified_utc": "2025-04-02T06:02:42+00:00"
+}

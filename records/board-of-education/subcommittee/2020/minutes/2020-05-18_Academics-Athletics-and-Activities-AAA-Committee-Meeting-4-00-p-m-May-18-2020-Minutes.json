@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Academics, Athletics and Activities (AAA) Committee Meeting, 4:00 p.m. - May 18 2020 - Minutes",
+  "filename": "Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-00-p-m-May-18-2020-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5129",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=355",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:42:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9a0a37ddc5aa68208c41d8f3d1448c0bc69396c5c5d028585a1d0236800fb130",
+  "bytes": 11243,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-05-18_Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-00-p-m-May-18-2020-Minutes--9a0a37ddc5aa.html",
+  "versions": [
+    {
+      "sha256": "9a0a37ddc5aa68208c41d8f3d1448c0bc69396c5c5d028585a1d0236800fb130",
+      "bytes": 11243,
+      "retrieved_utc": "2026-11-26T08:42:21+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 355,
+  "meeting_date": "2020-05-18",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5129,
+  "portal_last_modified_utc": "2025-04-02T05:16:15+00:00"
+}

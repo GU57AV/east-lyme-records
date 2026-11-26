@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "CANCELLED - Policy Review Committee Meeting of the East Lyme Board of Education - Feb 04 2019 - Agenda",
+  "filename": "CANCELLED-Policy-Review-Committee-Meeting-of-the-East-Lyme-Board-of-Education-Feb-04-2019-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7493",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=439",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:32:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "910463428dab4b3334bf88f6b346f8d589d21f7620f594fb85b7ec5aafb234ff",
+  "bytes": 5761,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-02-04_CANCELLED-Policy-Review-Committee-Meeting-of-the-East-Lyme-Board-of-Education-Feb-04-2019-Agenda--910463428dab.html",
+  "versions": [
+    {
+      "sha256": "910463428dab4b3334bf88f6b346f8d589d21f7620f594fb85b7ec5aafb234ff",
+      "bytes": 5761,
+      "retrieved_utc": "2026-11-26T09:32:17+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 439,
+  "meeting_date": "2019-02-04",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7493,
+  "portal_last_modified_utc": "2025-04-02T06:08:06+00:00"
+}

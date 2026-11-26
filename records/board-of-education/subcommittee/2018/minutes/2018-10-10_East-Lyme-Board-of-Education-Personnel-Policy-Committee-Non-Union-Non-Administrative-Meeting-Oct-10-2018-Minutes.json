@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education - Personnel Policy Committee (Non-Union/Non-Administrative) Meeting - Oct 10 2018 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-Oct-10-2018-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5575",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=465",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:48:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0a30afcfeb0254e32c37a99f905c2a45447bfaf945e4b67bea0bee2794dd5085",
+  "bytes": 15579,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-10-10_East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-Oct-10-2018-Minutes--0a30afcfeb02.html",
+  "versions": [
+    {
+      "sha256": "0a30afcfeb0254e32c37a99f905c2a45447bfaf945e4b67bea0bee2794dd5085",
+      "bytes": 15579,
+      "retrieved_utc": "2026-11-26T09:48:08+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 465,
+  "meeting_date": "2018-10-10",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5575,
+  "portal_last_modified_utc": "2025-04-02T05:24:38+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "Facilities and Operations (FFO) Committee Meeting of the East Lyme Board of Education, 4:30 p.m. - Jan 05 2021 - Agenda",
+  "filename": "Facilities-and-Operations-FFO-Committee-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Jan-05-2021-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6602",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=319",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:19:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56248daa76a00aab598c19dcca456b1e66986604d615fb64257b416f2e0b0353",
+  "bytes": 12685,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-01-05_Facilities-and-Operations-FFO-Committee-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Jan-05-2021-Agenda--56248daa76a0.html",
+  "versions": [
+    {
+      "sha256": "56248daa76a00aab598c19dcca456b1e66986604d615fb64257b416f2e0b0353",
+      "bytes": 12685,
+      "retrieved_utc": "2026-11-26T08:19:26+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 319,
+  "meeting_date": "2021-01-05",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6602,
+  "portal_last_modified_utc": "2025-04-02T05:47:40+00:00"
+}

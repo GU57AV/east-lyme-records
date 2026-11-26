@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education Diversity, Equity and Inclusion Ad Hoc Committee Meeting, 4:00 p.m. - Jan 21 2021 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Diversity-Equity-and-Inclusion-Ad-Hoc-Committee-Meeting-4-00-p-m-Jan-21-2021-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6581",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=314",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:16:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9160011e3aa8eb9702ee54b4700e4712164aa902796ea0084af18b7abb7bf15",
+  "bytes": 9731,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-01-21_East-Lyme-Board-of-Education-Diversity-Equity-and-Inclusion-Ad-Hoc-Committee-Meeting-4-00-p-m-Jan-21-2021-Agenda--e9160011e3aa.html",
+  "versions": [
+    {
+      "sha256": "e9160011e3aa8eb9702ee54b4700e4712164aa902796ea0084af18b7abb7bf15",
+      "bytes": 9731,
+      "retrieved_utc": "2026-11-26T08:16:03+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 314,
+  "meeting_date": "2021-01-21",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6581,
+  "portal_last_modified_utc": "2025-04-02T05:47:13+00:00"
+}

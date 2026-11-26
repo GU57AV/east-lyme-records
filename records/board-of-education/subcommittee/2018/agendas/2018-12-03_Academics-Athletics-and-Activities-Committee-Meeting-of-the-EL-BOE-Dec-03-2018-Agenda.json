@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "Academics, Athletics and Activities Committee Meeting of the EL BOE - Dec 03 2018 - Agenda",
+  "filename": "Academics-Athletics-and-Activities-Committee-Meeting-of-the-EL-BOE-Dec-03-2018-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7587",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=452",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:40:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4a89fbf9377024ca53d6b79d2403dd6303ffc0f93dc7be5047e1293ba91e117",
+  "bytes": 12404,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-12-03_Academics-Athletics-and-Activities-Committee-Meeting-of-the-EL-BOE-Dec-03-2018-Agenda--a4a89fbf9377.html",
+  "versions": [
+    {
+      "sha256": "a4a89fbf9377024ca53d6b79d2403dd6303ffc0f93dc7be5047e1293ba91e117",
+      "bytes": 12404,
+      "retrieved_utc": "2026-11-26T09:40:03+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 452,
+  "meeting_date": "2018-12-03",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7587,
+  "portal_last_modified_utc": "2025-04-02T06:10:12+00:00"
+}

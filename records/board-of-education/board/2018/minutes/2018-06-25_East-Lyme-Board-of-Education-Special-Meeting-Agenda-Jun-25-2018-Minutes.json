@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting Agenda - Jun 25 2018 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-Agenda-Jun-25-2018-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5630",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=479",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:56:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3387226bec44446e70839c22186d8252386dabe898fc9f1c85d39fac606d9b80",
+  "bytes": 18187,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-06-25_East-Lyme-Board-of-Education-Special-Meeting-Agenda-Jun-25-2018-Minutes--3387226bec44.html",
+  "versions": [
+    {
+      "sha256": "3387226bec44446e70839c22186d8252386dabe898fc9f1c85d39fac606d9b80",
+      "bytes": 18187,
+      "retrieved_utc": "2026-11-26T09:56:14+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 479,
+  "meeting_date": "2018-06-25",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5630,
+  "portal_last_modified_utc": "2025-04-02T05:25:39+00:00"
+}

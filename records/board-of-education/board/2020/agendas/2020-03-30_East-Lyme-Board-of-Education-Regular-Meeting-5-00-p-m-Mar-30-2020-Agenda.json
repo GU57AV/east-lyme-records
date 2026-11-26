@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 5:00 p.m. - Mar 30 2020 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Mar-30-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7058",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=365",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:48:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c5017b08b0d37c4fafbb507c0df7e635e7d8e64153ba5413e20f36d9e21de883",
+  "bytes": 43766,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-03-30_East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Mar-30-2020-Agenda--c5017b08b0d3.html",
+  "versions": [
+    {
+      "sha256": "c5017b08b0d37c4fafbb507c0df7e635e7d8e64153ba5413e20f36d9e21de883",
+      "bytes": 43766,
+      "retrieved_utc": "2026-11-26T08:48:46+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 365,
+  "meeting_date": "2020-03-30",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7058,
+  "portal_last_modified_utc": "2025-04-02T05:57:59+00:00"
+}

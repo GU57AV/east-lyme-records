@@ -1,6 +1,6 @@
 # Town calendar cross-check
 
-_Updated Nov 26, 2026 12:19 AM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 5:21 AM ET. Unofficial and automatic._
 
 Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/) in the 30 days before and after today, for boards whose records this archive has fully imported, with whether an agenda and minutes have been posted. Snapshots of the calendar, with every change to every entry, are kept in [calendar/](../calendar/). The calendar is not the legal notice of a meeting, and entries can be changed at any time, so this is a cross-check, not proof.
 

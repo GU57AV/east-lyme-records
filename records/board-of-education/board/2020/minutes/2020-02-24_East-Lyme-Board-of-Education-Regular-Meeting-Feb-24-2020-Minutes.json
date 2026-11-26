@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting - Feb 24 2020 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-Feb-24-2020-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5197",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=372",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:52:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6eb39a6b2ddeab4a20a846920984a70c928b53d740566449d549a5dc3feb3ff1",
+  "bytes": 89283,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-02-24_East-Lyme-Board-of-Education-Regular-Meeting-Feb-24-2020-Minutes--6eb39a6b2dde.html",
+  "versions": [
+    {
+      "sha256": "6eb39a6b2ddeab4a20a846920984a70c928b53d740566449d549a5dc3feb3ff1",
+      "bytes": 89283,
+      "retrieved_utc": "2026-11-26T08:52:29+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 372,
+  "meeting_date": "2020-02-24",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5197,
+  "portal_last_modified_utc": "2025-04-02T05:17:31+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Cancellation Notice - East Lyme Board of Education Regular Meeting of August 20, 2018 - Aug 20 2018 - Agenda",
+  "filename": "Cancellation-Notice-East-Lyme-Board-of-Education-Regular-Meeting-of-August-20-2018-Aug-20-2018-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7744",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=472",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:52:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1a1dd2f28646456230016e0df53f7dc6853e7132d3cff4db3490d4dfa8dd79db",
+  "bytes": 5800,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-08-20_Cancellation-Notice-East-Lyme-Board-of-Education-Regular-Meeting-of-August-20-2018-Aug-20-2018-Agenda--1a1dd2f28646.html",
+  "versions": [
+    {
+      "sha256": "1a1dd2f28646456230016e0df53f7dc6853e7132d3cff4db3490d4dfa8dd79db",
+      "bytes": 5800,
+      "retrieved_utc": "2026-11-26T09:52:11+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 472,
+  "meeting_date": "2018-08-20",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7744,
+  "portal_last_modified_utc": "2025-04-02T06:13:54+00:00"
+}

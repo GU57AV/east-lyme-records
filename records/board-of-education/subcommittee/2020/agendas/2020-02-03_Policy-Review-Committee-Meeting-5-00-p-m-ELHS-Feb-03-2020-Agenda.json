@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting, 5:00 p.m., ELHS - Feb 03 2020 - Agenda",
+  "filename": "Policy-Review-Committee-Meeting-5-00-p-m-ELHS-Feb-03-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7146",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=379",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:56:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7e5d8550eb349e360ff6f146b96ba07334264a228e5691fb9abc1cf477b4feb5",
+  "bytes": 22568,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-02-03_Policy-Review-Committee-Meeting-5-00-p-m-ELHS-Feb-03-2020-Agenda--7e5d8550eb34.html",
+  "versions": [
+    {
+      "sha256": "7e5d8550eb349e360ff6f146b96ba07334264a228e5691fb9abc1cf477b4feb5",
+      "bytes": 22568,
+      "retrieved_utc": "2026-11-26T08:56:11+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 379,
+  "meeting_date": "2020-02-03",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7146,
+  "portal_last_modified_utc": "2025-04-02T05:59:58+00:00"
+}

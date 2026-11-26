@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Facilities and Operations (FFO) Committee Meeting of the East Lyme Board of Education, 8:45 a.m., Central Office - Apr 25 2019 - Minutes",
+  "filename": "Facilities-and-Operations-FFO-Committee-Meeting-of-the-East-Lyme-Board-of-Education-8-45-a-m-Central-Office-Apr-25-2019-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5397",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=425",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:23:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e43cd4bff80ef214d417251cbc199f3887f41fdfb7a6094690d68669f8b4e8ab",
+  "bytes": 11827,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-04-25_Facilities-and-Operations-FFO-Committee-Meeting-of-the-East-Lyme-Board-of-Education-8-45-a-m-Central-Office-Apr-25-2019-Minutes--e43cd4bff80e.html",
+  "versions": [
+    {
+      "sha256": "e43cd4bff80ef214d417251cbc199f3887f41fdfb7a6094690d68669f8b4e8ab",
+      "bytes": 11827,
+      "retrieved_utc": "2026-11-26T09:23:31+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 425,
+  "meeting_date": "2019-04-25",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5397,
+  "portal_last_modified_utc": "2025-04-02T05:21:19+00:00"
+}

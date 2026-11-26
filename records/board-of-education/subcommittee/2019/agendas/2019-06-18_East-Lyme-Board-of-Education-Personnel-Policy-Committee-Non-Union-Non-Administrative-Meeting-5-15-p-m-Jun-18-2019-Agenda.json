@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education - Personnel Policy Committee (Non-Union/Non-Administrative) Meeting, 5:15 p.m. - Jun 18 2019 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-5-15-p-m-Jun-18-2019-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7341",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=414",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:17:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2dbd1849c546f587a86935f0252dfaf713e14b21e028da381d06e8c219b763cb",
+  "bytes": 10367,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-06-18_East-Lyme-Board-of-Education-Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-5-15-p-m-Jun-18-2019-Agenda--2dbd1849c546.html",
+  "versions": [
+    {
+      "sha256": "2dbd1849c546f587a86935f0252dfaf713e14b21e028da381d06e8c219b763cb",
+      "bytes": 10367,
+      "retrieved_utc": "2026-11-26T09:17:06+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 414,
+  "meeting_date": "2019-06-18",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7341,
+  "portal_last_modified_utc": "2025-04-02T06:04:22+00:00"
+}

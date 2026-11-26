@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting - Jan 13 2020 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-Jan-13-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7193",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=386",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:00:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c733789ec96a2944390896b681f456fb7ca760413e0051fc598a2d562b804da4",
+  "bytes": 45164,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-01-13_East-Lyme-Board-of-Education-Regular-Meeting-Jan-13-2020-Agenda--c733789ec96a.html",
+  "versions": [
+    {
+      "sha256": "c733789ec96a2944390896b681f456fb7ca760413e0051fc598a2d562b804da4",
+      "bytes": 45164,
+      "retrieved_utc": "2026-11-26T09:00:14+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 386,
+  "meeting_date": "2020-01-13",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7193,
+  "portal_last_modified_utc": "2025-04-02T06:01:02+00:00"
+}

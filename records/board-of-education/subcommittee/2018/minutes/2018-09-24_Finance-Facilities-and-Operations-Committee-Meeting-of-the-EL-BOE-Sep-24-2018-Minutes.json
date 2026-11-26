@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "Finance, Facilities and Operations Committee Meeting of the EL BOE - Sep 24 2018 - Minutes",
+  "filename": "Finance-Facilities-and-Operations-Committee-Meeting-of-the-EL-BOE-Sep-24-2018-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5582",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=467",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:49:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f453c9a79e10fa0d836f7d8f4158a4e7e3f883e30527189742640ec94e4e721",
+  "bytes": 13713,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-09-24_Finance-Facilities-and-Operations-Committee-Meeting-of-the-EL-BOE-Sep-24-2018-Minutes--0f453c9a79e1.html",
+  "versions": [
+    {
+      "sha256": "0f453c9a79e10fa0d836f7d8f4158a4e7e3f883e30527189742640ec94e4e721",
+      "bytes": 13713,
+      "retrieved_utc": "2026-11-26T09:49:29+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 467,
+  "meeting_date": "2018-09-24",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5582,
+  "portal_last_modified_utc": "2025-04-02T05:24:48+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": true,
+  "link_text": "ELBOE Policy Review Committee Meeting - Dec 03 2018 - Minutes",
+  "filename": "ELBOE-Policy-Review-Committee-Meeting-Dec-03-2018-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5524",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=453",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:41:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "66414cdc46ae9e8a5bfc0c01f6d435b51d87fd1cfc0a6443f05c3d4d96436b7b",
+  "bytes": 16034,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2018/2018-12-03_ELBOE-Policy-Review-Committee-Meeting-Dec-03-2018-Minutes--66414cdc46ae.html",
+  "versions": [
+    {
+      "sha256": "66414cdc46ae9e8a5bfc0c01f6d435b51d87fd1cfc0a6443f05c3d4d96436b7b",
+      "bytes": 16034,
+      "retrieved_utc": "2026-11-26T09:41:03+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 453,
+  "meeting_date": "2018-12-03",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5524,
+  "portal_last_modified_utc": "2025-04-02T05:23:37+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Committee of the Whole Meeting - Budget Workshop #1 - Nov 18 2019 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Committee-of-the-Whole-Meeting-Budget-Workshop-1-Nov-18-2019-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7237",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=394",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T09:04:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "634442ade0fb8808bcc3a188b5812772d940c6ea7f47860f560fed161f9ed1e7",
+  "bytes": 9477,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2019/2019-11-18_East-Lyme-Board-of-Education-Committee-of-the-Whole-Meeting-Budget-Workshop-1-Nov-18-2019-Agenda--634442ade0fb.html",
+  "versions": [
+    {
+      "sha256": "634442ade0fb8808bcc3a188b5812772d940c6ea7f47860f560fed161f9ed1e7",
+      "bytes": 9477,
+      "retrieved_utc": "2026-11-26T09:04:58+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 394,
+  "meeting_date": "2019-11-18",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7237,
+  "portal_last_modified_utc": "2025-04-02T06:01:58+00:00"
+}

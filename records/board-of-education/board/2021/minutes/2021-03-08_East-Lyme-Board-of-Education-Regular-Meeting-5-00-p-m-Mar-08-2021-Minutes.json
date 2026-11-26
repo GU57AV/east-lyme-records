@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 5:00 p.m. - Mar 08 2021 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Mar-08-2021-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4877",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=302",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:08:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "18b6bbf0fa5d869c2521b4db72e5b2b74c378c10afb0160c92bbae13b1646524",
+  "bytes": 50329,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-03-08_East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Mar-08-2021-Minutes--18b6bbf0fa5d.html",
+  "versions": [
+    {
+      "sha256": "18b6bbf0fa5d869c2521b4db72e5b2b74c378c10afb0160c92bbae13b1646524",
+      "bytes": 50329,
+      "retrieved_utc": "2026-11-26T08:08:18+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 302,
+  "meeting_date": "2021-03-08",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4877,
+  "portal_last_modified_utc": "2025-04-02T05:11:23+00:00"
+}

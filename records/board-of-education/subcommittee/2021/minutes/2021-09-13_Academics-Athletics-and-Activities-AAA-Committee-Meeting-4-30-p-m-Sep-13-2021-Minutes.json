@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": true,
+  "link_text": "Academics, Athletics and Activities (AAA) Committee Meeting, 4:30 p.m. - Sep 13 2021 - Minutes",
+  "filename": "Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Sep-13-2021-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4729",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=270",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T07:48:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a2601a3f6b00f3d59e90c5f20dbe6e232a346988ebf01e63fc7fcf547d3f5947",
+  "bytes": 17109,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2021/2021-09-13_Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Sep-13-2021-Minutes--a2601a3f6b00.html",
+  "versions": [
+    {
+      "sha256": "a2601a3f6b00f3d59e90c5f20dbe6e232a346988ebf01e63fc7fcf547d3f5947",
+      "bytes": 17109,
+      "retrieved_utc": "2026-11-26T07:48:04+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 270,
+  "meeting_date": "2021-09-13",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4729,
+  "portal_last_modified_utc": "2025-04-02T05:08:39+00:00"
+}

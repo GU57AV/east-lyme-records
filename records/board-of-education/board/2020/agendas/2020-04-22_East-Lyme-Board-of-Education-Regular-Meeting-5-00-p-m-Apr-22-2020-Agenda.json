@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 5:00 p.m. - Apr 22 2020 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Apr-22-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7043",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=361",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:46:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7ec8df99405b16c9266ad5012a787d33ab875c73b69d4c39cca67ba3be9746c",
+  "bytes": 39636,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-04-22_East-Lyme-Board-of-Education-Regular-Meeting-5-00-p-m-Apr-22-2020-Agenda--f7ec8df99405.html",
+  "versions": [
+    {
+      "sha256": "f7ec8df99405b16c9266ad5012a787d33ab875c73b69d4c39cca67ba3be9746c",
+      "bytes": 39636,
+      "retrieved_utc": "2026-11-26T08:46:04+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 361,
+  "meeting_date": "2020-04-22",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7043,
+  "portal_last_modified_utc": "2025-04-02T05:57:38+00:00"
+}

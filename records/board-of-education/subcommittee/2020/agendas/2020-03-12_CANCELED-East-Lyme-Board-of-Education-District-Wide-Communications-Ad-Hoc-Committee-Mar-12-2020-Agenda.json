@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "CANCELED-East Lyme Board of Education District-Wide Communications Ad-Hoc Committee - Mar 12 2020 - Agenda",
+  "filename": "CANCELED-East-Lyme-Board-of-Education-District-Wide-Communications-Ad-Hoc-Committee-Mar-12-2020-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/7067",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=368",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T08:50:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4ba460cdfab791695244131242d122c5b737867a912dc6bd6062e113ae4665a3",
+  "bytes": 9212,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2020/2020-03-12_CANCELED-East-Lyme-Board-of-Education-District-Wide-Communications-Ad-Hoc-Committee-Mar-12-2020-Agenda--4ba460cdfab7.html",
+  "versions": [
+    {
+      "sha256": "4ba460cdfab791695244131242d122c5b737867a912dc6bd6062e113ae4665a3",
+      "bytes": 9212,
+      "retrieved_utc": "2026-11-26T08:50:07+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 368,
+  "meeting_date": "2020-03-12",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 7067,
+  "portal_last_modified_utc": "2025-04-02T05:58:12+00:00"
+}
