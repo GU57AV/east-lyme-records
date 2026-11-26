@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, 7:00 p.m. (Immediately following Public Hearing), Room B101, ELHS - Feb 28 2022 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-7-00-p-m-Immediately-following-Public-Hearing-Room-B101-ELHS-Feb-28-2022-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4568",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=236",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:52:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "59a00bcf18008503d44c29188496118992759f89080bb15612b17c537751a959",
+  "bytes": 158189,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-02-28_East-Lyme-Board-of-Education-Special-Meeting-7-00-p-m-Immediately-following-Public-Hearing-Room-B101-ELHS-Feb-28-2022-Minutes--59a00bcf1800.html",
+  "versions": [
+    {
+      "sha256": "59a00bcf18008503d44c29188496118992759f89080bb15612b17c537751a959",
+      "bytes": 158189,
+      "retrieved_utc": "2026-11-26T04:52:54+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 236,
+  "meeting_date": "2022-02-28",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4568,
+  "portal_last_modified_utc": "2025-04-02T05:05:35+00:00"
+}

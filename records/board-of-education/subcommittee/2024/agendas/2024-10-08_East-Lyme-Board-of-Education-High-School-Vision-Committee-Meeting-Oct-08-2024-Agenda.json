@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education High School Vision Committee Meeting - Oct 08 2024 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-High-School-Vision-Committee-Meeting-Oct-08-2024-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4224",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=80",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:18:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0efbefb6c96a1f0d3f41a446a1d9d2ee595ebe059c6b0342a715e3137fab77dd",
+  "bytes": 9837,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2024/2024-10-08_East-Lyme-Board-of-Education-High-School-Vision-Committee-Meeting-Oct-08-2024-Agenda--0efbefb6c96a.html",
+  "versions": [
+    {
+      "sha256": "0efbefb6c96a1f0d3f41a446a1d9d2ee595ebe059c6b0342a715e3137fab77dd",
+      "bytes": 9837,
+      "retrieved_utc": "2026-11-26T03:18:48+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 80,
+  "meeting_date": "2024-10-08",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4224,
+  "portal_last_modified_utc": "2025-04-02T04:59:02+00:00"
+}

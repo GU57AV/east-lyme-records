@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting, 4:30 p.m. - Apr 05 2022 - Agenda",
+  "filename": "Policy-Review-Committee-Meeting-4-30-p-m-Apr-05-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5953",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=230",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:48:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "421deb16a8b88734928dd9776d6dc9321f07559c1d83f0dd2fad5675be93c8ef",
+  "bytes": 10666,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-04-05_Policy-Review-Committee-Meeting-4-30-p-m-Apr-05-2022-Agenda--421deb16a8b8.html",
+  "versions": [
+    {
+      "sha256": "421deb16a8b88734928dd9776d6dc9321f07559c1d83f0dd2fad5675be93c8ef",
+      "bytes": 10666,
+      "retrieved_utc": "2026-11-26T04:48:51+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 230,
+  "meeting_date": "2022-04-05",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5953,
+  "portal_last_modified_utc": "2025-04-02T05:32:38+00:00"
+}

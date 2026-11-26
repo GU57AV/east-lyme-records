@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "CANCELLED - Board of Education Regular Meeting - Sep 08 2025 - Agenda",
+  "filename": "CANCELLED-Board-of-Education-Regular-Meeting-Sep-08-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/9706/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=542",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:45:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "18527716bada821f4b698646e3a4e308b071b2a3d76e4477cd39e29ad8efe9f7",
+  "bytes": 35291,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-08_CANCELLED-Board-of-Education-Regular-Meeting-Sep-08-2025-Agenda--18527716bada.pdf",
+  "versions": [
+    {
+      "sha256": "18527716bada821f4b698646e3a4e308b071b2a3d76e4477cd39e29ad8efe9f7",
+      "bytes": 35291,
+      "retrieved_utc": "2026-11-26T02:45:44+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 542,
+  "meeting_date": "2025-09-08",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 9706,
+  "portal_last_modified_utc": "2025-09-04T17:47:35+00:00"
+}

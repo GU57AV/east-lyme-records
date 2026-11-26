@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "DW Equity and Inclusion Committee Meeting, 3:30 p.m. - Dec 01 2022 - Agenda",
+  "filename": "DW-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-Dec-01-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5446",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=186",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:21:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2b3ef089f24c9e180fd4d01ec3fb62211f7eebbff1bd35b78873d207101b858e",
+  "bytes": 11459,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-12-01_DW-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-Dec-01-2022-Agenda--2b3ef089f24c.html",
+  "versions": [
+    {
+      "sha256": "2b3ef089f24c9e180fd4d01ec3fb62211f7eebbff1bd35b78873d207101b858e",
+      "bytes": 11459,
+      "retrieved_utc": "2026-11-26T04:21:33+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 186,
+  "meeting_date": "2022-12-01",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5446,
+  "portal_last_modified_utc": "2025-04-02T05:22:10+00:00"
+}

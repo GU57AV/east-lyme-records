@@ -1,9 +1,21 @@
 {
  "month": "2027-01",
  "source_url": "https://eltownhall.com/wp-json/my-calendar/v1/events?from=2027-01-01&to=2027-01-31",
- "sha256": "b5f24d7610849d623513e8111782b97eb9a159f9786852e1786ab5cab6dbd584",
+ "sha256": "2e66d62bec3cab3626b1a83c79f44a06657315c58b9bd5457216cd4172b9b02a",
  "note": "Unofficial snapshot of the Town of East Lyme calendar. Times are local (America/New_York).",
  "events": {
+  "5785": {
+   "occur_id": "5785",
+   "event_id": "5047",
+   "title": "IWA Site Walk",
+   "begin": "2027-01-02 09:00",
+   "end": "2027-01-02 20:00",
+   "added": "2026-11-25 14:10",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-26T00:06:46+00:00"
+  },
   "5310": {
    "occur_id": "5310",
    "event_id": "4452",
@@ -16,6 +28,18 @@
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
    "seen_in_backfill": true
+  },
+  "5797": {
+   "occur_id": "5797",
+   "event_id": "5059",
+   "title": "IWA",
+   "begin": "2027-01-05 19:00",
+   "end": "2027-01-05 20:00",
+   "added": "2026-11-25 14:30",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-26T00:06:46+00:00"
   },
   "5617": {
    "occur_id": "5617",
@@ -80,6 +104,18 @@
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
    "seen_in_backfill": true
+  },
+  "5761": {
+   "occur_id": "5761",
+   "event_id": "5035",
+   "title": "Planning Commission",
+   "begin": "2027-01-12 19:00",
+   "end": "2027-01-12 20:00",
+   "added": "2026-11-25 13:47",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-26T00:06:46+00:00"
   },
   "5702": {
    "occur_id": "5702",
@@ -196,6 +232,18 @@
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
    "seen_in_backfill": true
+  },
+  "5786": {
+   "occur_id": "5786",
+   "event_id": "5048",
+   "title": "IWA Site Walk",
+   "begin": "2027-01-30 09:00",
+   "end": "2027-01-30 20:00",
+   "added": "2026-11-25 14:10",
+   "link": "",
+   "location": "",
+   "category": "Meetings",
+   "first_seen_utc": "2026-11-26T00:06:46+00:00"
   }
  }
 }

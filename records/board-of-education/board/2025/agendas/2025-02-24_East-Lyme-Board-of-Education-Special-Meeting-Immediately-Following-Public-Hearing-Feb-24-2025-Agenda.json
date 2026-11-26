@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, (Immediately Following Public Hearing) - Feb 24 2025 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-Immediately-Following-Public-Hearing-Feb-24-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/3812",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=56",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:04:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "911f582250480bdca2f313ca9652be24df60f13cc5c7efc62ef3759c4239b85b",
+  "bytes": 11807,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-02-24_East-Lyme-Board-of-Education-Special-Meeting-Immediately-Following-Public-Hearing-Feb-24-2025-Agenda--911f58225048.html",
+  "versions": [
+    {
+      "sha256": "911f582250480bdca2f313ca9652be24df60f13cc5c7efc62ef3759c4239b85b",
+      "bytes": 11807,
+      "retrieved_utc": "2026-11-26T03:04:19+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 56,
+  "meeting_date": "2025-02-24",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 3812,
+  "portal_last_modified_utc": "2025-04-02T04:51:55+00:00"
+}

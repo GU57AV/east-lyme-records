@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting - Sep 22 2025 - Agenda Packet",
+  "filename": "Policy-Review-Committee-Meeting-Sep-22-2025-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/11170",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=540",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:43:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a6b39d7749f4f9659bd342693e84ccb390d98a1bb8a379a029a6547ae9bd5d4c",
+  "bytes": 183210,
+  "pages": 0,
+  "http_last_modified": "Fri, 19 Sep 2025 18:16:03",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-22_Policy-Review-Committee-Meeting-Sep-22-2025-Agenda-Packet--a6b39d7749f4.pdf",
+  "versions": [
+    {
+      "sha256": "a6b39d7749f4f9659bd342693e84ccb390d98a1bb8a379a029a6547ae9bd5d4c",
+      "bytes": 183210,
+      "retrieved_utc": "2026-11-26T02:43:02+00:00",
+      "http_last_modified": "Fri, 19 Sep 2025 18:16:03"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 540,
+  "meeting_date": "2025-09-22",
+  "meeting_type": "Policy Review Committee Meeting",
+  "portal_document_id": 11170,
+  "portal_last_modified_utc": "2025-09-19T18:16:03+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Education Special Meeting - Dec 15 2025 - Agenda",
+  "filename": "Board-of-Education-Special-Meeting-Dec-15-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/12236/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=560",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:26:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "12a346d9e1a85ac43bfad10869ccfe5f278c1eeba52de570dcdbd88f7fb9d205",
+  "bytes": 88040,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-12-15_Board-of-Education-Special-Meeting-Dec-15-2025-Agenda--12a346d9e1a8.pdf",
+  "versions": [
+    {
+      "sha256": "12a346d9e1a85ac43bfad10869ccfe5f278c1eeba52de570dcdbd88f7fb9d205",
+      "bytes": 88040,
+      "retrieved_utc": "2026-11-26T02:26:25+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 560,
+  "meeting_date": "2025-12-15",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 12236,
+  "portal_last_modified_utc": "2025-12-15T17:01:50+00:00"
+}

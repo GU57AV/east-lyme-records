@@ -1,7 +1,7 @@
 {
  "month": "2026-12",
  "source_url": "https://eltownhall.com/wp-json/my-calendar/v1/events?from=2026-12-01&to=2026-12-31",
- "sha256": "117f17476be4d2c6f52ed87053f5a13efdc06956badd21164da69e27d6e12052",
+ "sha256": "b8facbab5e43094e12f8654d0c3cef3587566645f8ede5173136231c666c92dd",
  "note": "Unofficial snapshot of the Town of East Lyme calendar. Times are local (America/New_York).",
  "events": {
   "5529": {
@@ -111,11 +111,22 @@
    "begin": "2026-12-03 19:30",
    "end": "2026-12-03 20:30",
    "added": "2025-11-25 14:32",
-   "link": "",
+   "link": "https://eltownhall.com/wp-content/uploads/2026/11/Zoning-Commission-December-3-2026-Agenda.pdf",
    "location": "",
    "category": "Meetings",
    "first_seen_utc": "2026-11-23T21:06:55+00:00",
-   "seen_in_backfill": true
+   "seen_in_backfill": true,
+   "history": [
+    {
+     "at": "2026-11-26T00:06:46+00:00",
+     "changes": {
+      "link": [
+       "",
+       "https://eltownhall.com/wp-content/uploads/2026/11/Zoning-Commission-December-3-2026-Agenda.pdf"
+      ]
+     }
+    }
+   ]
   },
   "5262": {
    "occur_id": "5262",

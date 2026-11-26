@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Committee of the Whole - Budget Workshop - Dec 15 2025 - Agenda",
+  "filename": "Committee-of-the-Whole-Budget-Workshop-Dec-15-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/12240/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=557",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:25:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f115cab7263ddaed507c0d1b17576e27a50742d3d220fa29d6735a19afcb28ab",
+  "bytes": 50390,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-12-15_Committee-of-the-Whole-Budget-Workshop-Dec-15-2025-Agenda--f115cab7263d.pdf",
+  "versions": [
+    {
+      "sha256": "f115cab7263ddaed507c0d1b17576e27a50742d3d220fa29d6735a19afcb28ab",
+      "bytes": 50390,
+      "retrieved_utc": "2026-11-26T02:25:24+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 557,
+  "meeting_date": "2025-12-15",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 12240,
+  "portal_last_modified_utc": "2025-12-15T23:47:20+00:00"
+}

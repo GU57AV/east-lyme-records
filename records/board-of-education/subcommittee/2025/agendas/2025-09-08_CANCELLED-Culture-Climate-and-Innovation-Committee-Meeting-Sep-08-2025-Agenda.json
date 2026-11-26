@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "CANCELLED - Culture, Climate, and Innovation Committee Meeting - Sep 08 2025 - Agenda",
+  "filename": "CANCELLED-Culture-Climate-and-Innovation-Committee-Meeting-Sep-08-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/9700/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=543",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:46:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "060abaaece9af6136598fb8c16deff243dd99beb6b04c388d8d1ef840d34ea40",
+  "bytes": 35159,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-08_CANCELLED-Culture-Climate-and-Innovation-Committee-Meeting-Sep-08-2025-Agenda--060abaaece9a.pdf",
+  "versions": [
+    {
+      "sha256": "060abaaece9af6136598fb8c16deff243dd99beb6b04c388d8d1ef840d34ea40",
+      "bytes": 35159,
+      "retrieved_utc": "2026-11-26T02:46:25+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 543,
+  "meeting_date": "2025-09-08",
+  "meeting_type": "Culture, Climate, and Innovation Committee Meeting",
+  "portal_document_id": 9700,
+  "portal_last_modified_utc": "2025-09-04T17:46:23+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 6:00 p.m. - Aug 12 2024 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Aug-12-2024-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4359",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=88",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:23:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "59b9920deb591990310e81e3a4a9cc8070783b0a6abc1ad78a204cc0bfed3560",
+  "bytes": 44952,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2024/2024-08-12_East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Aug-12-2024-Agenda--59b9920deb59.html",
+  "versions": [
+    {
+      "sha256": "59b9920deb591990310e81e3a4a9cc8070783b0a6abc1ad78a204cc0bfed3560",
+      "bytes": 44952,
+      "retrieved_utc": "2026-11-26T03:23:52+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 88,
+  "meeting_date": "2024-08-12",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4359,
+  "portal_last_modified_utc": "2025-04-02T05:01:24+00:00"
+}

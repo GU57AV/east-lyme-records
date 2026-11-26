@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Culture, Climate, and Innovation Committee Meetings - Oct 27 2025 - Agenda Packet",
+  "filename": "Culture-Climate-and-Innovation-Committee-Meetings-Oct-27-2025-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/11751",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=553",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:34:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c4671298fb7b6b1ce49a80c3bc0e99b96d85f728d044269e589161feb6a9f0a8",
+  "bytes": 47322,
+  "pages": 0,
+  "http_last_modified": "Fri, 24 Oct 2025 13:35:31",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-10-27_Culture-Climate-and-Innovation-Committee-Meetings-Oct-27-2025-Agenda-Packet--c4671298fb7b.pdf",
+  "versions": [
+    {
+      "sha256": "c4671298fb7b6b1ce49a80c3bc0e99b96d85f728d044269e589161feb6a9f0a8",
+      "bytes": 47322,
+      "retrieved_utc": "2026-11-26T02:34:34+00:00",
+      "http_last_modified": "Fri, 24 Oct 2025 13:35:31"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 553,
+  "meeting_date": "2025-10-27",
+  "meeting_type": "Culture, Climate, and Innovation Committee Meeting",
+  "portal_document_id": 11751,
+  "portal_last_modified_utc": "2025-10-24T13:35:31+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, 6:00 p.m. - Apr 22 2024 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Apr-22-2024-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4006",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=99",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:30:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "21ea7ad2f8d26e278a05dd25f788d8efa67df3bc6b0d4654a3b76f50d60e3f27",
+  "bytes": 120878,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2024/2024-04-22_East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Apr-22-2024-Minutes--21ea7ad2f8d2.html",
+  "versions": [
+    {
+      "sha256": "21ea7ad2f8d26e278a05dd25f788d8efa67df3bc6b0d4654a3b76f50d60e3f27",
+      "bytes": 120878,
+      "retrieved_utc": "2026-11-26T03:30:16+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 99,
+  "meeting_date": "2024-04-22",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4006,
+  "portal_last_modified_utc": "2025-04-02T04:55:08+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 6:00 p.m. - Mar 06 2023 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Mar-06-2023-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5238",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=165",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:08:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2304a2c4324b7fe0a947b768288dd4172c570a9968c3845ffb23d55b2a16b0d2",
+  "bytes": 43080,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-03-06_East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Mar-06-2023-Agenda--2304a2c4324b.html",
+  "versions": [
+    {
+      "sha256": "2304a2c4324b7fe0a947b768288dd4172c570a9968c3845ffb23d55b2a16b0d2",
+      "bytes": 43080,
+      "retrieved_utc": "2026-11-26T04:08:03+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 165,
+  "meeting_date": "2023-03-06",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5238,
+  "portal_last_modified_utc": "2025-04-02T05:18:18+00:00"
+}

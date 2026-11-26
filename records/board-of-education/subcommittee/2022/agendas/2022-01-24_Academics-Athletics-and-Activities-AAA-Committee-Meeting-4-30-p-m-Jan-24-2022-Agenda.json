@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Academics, Athletics and Activities (AAA) Committee Meeting, 4:30 p.m. - Jan 24 2022 - Agenda",
+  "filename": "Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Jan-24-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6042",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=246",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:58:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "89193e1a8f8523219db814c7c45fd2dda7ecfa3064645dfb58f59727960758f5",
+  "bytes": 14373,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-01-24_Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Jan-24-2022-Agenda--89193e1a8f85.html",
+  "versions": [
+    {
+      "sha256": "89193e1a8f8523219db814c7c45fd2dda7ecfa3064645dfb58f59727960758f5",
+      "bytes": 14373,
+      "retrieved_utc": "2026-11-26T04:58:58+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 246,
+  "meeting_date": "2022-01-24",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6042,
+  "portal_last_modified_utc": "2025-04-02T05:34:40+00:00"
+}

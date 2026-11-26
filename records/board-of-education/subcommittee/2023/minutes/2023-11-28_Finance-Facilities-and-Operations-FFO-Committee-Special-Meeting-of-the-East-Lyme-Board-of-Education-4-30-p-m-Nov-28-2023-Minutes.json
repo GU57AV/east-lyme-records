@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "Finance, Facilities, and Operations (FFO) Committee Special Meeting of the East Lyme Board of Education, 4:30 p.m. - Nov 28 2023 - Minutes",
+  "filename": "Finance-Facilities-and-Operations-FFO-Committee-Special-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Nov-28-2023-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4105",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=124",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:44:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7cb1744fa04ce1f4e92089249beb7e7ca44e6019c1dcee0293b1a14af630a8f1",
+  "bytes": 35279,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-11-28_Finance-Facilities-and-Operations-FFO-Committee-Special-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Nov-28-2023-Minutes--7cb1744fa04c.html",
+  "versions": [
+    {
+      "sha256": "7cb1744fa04ce1f4e92089249beb7e7ca44e6019c1dcee0293b1a14af630a8f1",
+      "bytes": 35279,
+      "retrieved_utc": "2026-11-26T03:44:46+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 124,
+  "meeting_date": "2023-11-28",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4105,
+  "portal_last_modified_utc": "2025-04-02T04:56:47+00:00"
+}

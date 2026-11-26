@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "High School Vision Committee Meeting - Oct 21 2025 - Signed Minutes",
+  "filename": "High-School-Vision-Committee-Meeting-Oct-21-2025-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/12147",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=555",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:36:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "46ff9e442ca5f3ef8eee02018937c49d16094e82306449b10173dbb3dd8ade27",
+  "bytes": 62875,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Dec 2025 15:16:10",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-10-21_High-School-Vision-Committee-Meeting-Oct-21-2025-Signed-Minutes--46ff9e442ca5.pdf",
+  "versions": [
+    {
+      "sha256": "46ff9e442ca5f3ef8eee02018937c49d16094e82306449b10173dbb3dd8ade27",
+      "bytes": 62875,
+      "retrieved_utc": "2026-11-26T02:36:56+00:00",
+      "http_last_modified": "Tue, 09 Dec 2025 15:16:10"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 555,
+  "meeting_date": "2025-10-21",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 12147,
+  "portal_last_modified_utc": "2025-12-09T15:16:10+00:00"
+}

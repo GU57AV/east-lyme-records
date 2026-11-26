@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education High School Vision Committee Meeting, 5:00 p.m. - Apr 08 2025 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-High-School-Vision-Committee-Meeting-5-00-p-m-Apr-08-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/8874",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=536",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:57:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a564d288560372a2551fde3e757ba92c8f13b7731adc114e35ac169d9d87b7a2",
+  "bytes": 11845,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-04-08_East-Lyme-Board-of-Education-High-School-Vision-Committee-Meeting-5-00-p-m-Apr-08-2025-Agenda--a564d2885603.html",
+  "versions": [
+    {
+      "sha256": "a564d288560372a2551fde3e757ba92c8f13b7731adc114e35ac169d9d87b7a2",
+      "bytes": 11845,
+      "retrieved_utc": "2026-11-26T02:57:34+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 536,
+  "meeting_date": "2025-04-08",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 8874,
+  "portal_last_modified_utc": "2025-08-12T04:02:49+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, 6:00 p.m. - Apr 21 2025 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Apr-21-2025-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/8747",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=535",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:57:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7c7d726563ab79ce124ea2368bdc44c8e0ba649e16eae7bb5b97ca581570b411",
+  "bytes": 24400,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-04-21_East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Apr-21-2025-Minutes--7c7d726563ab.html",
+  "versions": [
+    {
+      "sha256": "7c7d726563ab79ce124ea2368bdc44c8e0ba649e16eae7bb5b97ca581570b411",
+      "bytes": 24400,
+      "retrieved_utc": "2026-11-26T02:57:14+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 535,
+  "meeting_date": "2025-04-21",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 8747,
+  "portal_last_modified_utc": "2025-08-12T04:00:07+00:00"
+}

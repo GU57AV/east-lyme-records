@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Academics, Athletics and Activities (AAA) Special Committee Meeting, 4:30 p.m. - Oct 17 2022 - Agenda",
+  "filename": "Academics-Athletics-and-Activities-AAA-Special-Committee-Meeting-4-30-p-m-Oct-17-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5608",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=197",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:28:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "364e0c459896738eea2f63ca6d385fc3e66f7d11f8a6f0647066e14352f1d546",
+  "bytes": 13879,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-10-17_Academics-Athletics-and-Activities-AAA-Special-Committee-Meeting-4-30-p-m-Oct-17-2022-Agenda--364e0c459896.html",
+  "versions": [
+    {
+      "sha256": "364e0c459896738eea2f63ca6d385fc3e66f7d11f8a6f0647066e14352f1d546",
+      "bytes": 13879,
+      "retrieved_utc": "2026-11-26T04:28:17+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 197,
+  "meeting_date": "2022-10-17",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5608,
+  "portal_last_modified_utc": "2025-04-02T05:25:16+00:00"
+}

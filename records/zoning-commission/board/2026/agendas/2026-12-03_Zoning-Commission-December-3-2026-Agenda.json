@@ -1,0 +1,29 @@
+{
+  "board": "zoning-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Zoning Commission December 3 2026 Agenda (pdf)",
+  "filename": "Zoning-Commission-December-3-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Zoning-Commission-December-3-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/zoning-commission/zoning-commission-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-26T01:15:22+00:00",
+  "seen_in_initial_import": false,
+  "not_on_site_at_utc": "2026-11-25T19:31:19+00:00",
+  "sha256": "4190b6dfc539fb5fed96c3bfcecc19c17e2e4738eda10a5333f9837b8ac44a27",
+  "bytes": 117794,
+  "pages": 0,
+  "http_last_modified": "Wed, 25 Nov 2026 20:26:47 GMT",
+  "etag": "\"17c01a0-1cc22-6611fa5676b86\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/zoning-commission-2026/2026-12-03_Zoning-Commission-December-3-2026-Agenda--4190b6dfc539.pdf",
+  "versions": [
+    {
+      "sha256": "4190b6dfc539fb5fed96c3bfcecc19c17e2e4738eda10a5333f9837b8ac44a27",
+      "bytes": 117794,
+      "retrieved_utc": "2026-11-26T01:15:22+00:00",
+      "http_last_modified": "Wed, 25 Nov 2026 20:26:47 GMT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Canceled Policy Review Committee Meeting, 4:30 p.m. - Feb 07 2022 - Agenda",
+  "filename": "Canceled-Policy-Review-Committee-Meeting-4-30-p-m-Feb-07-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/6007",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=241",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:55:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eefdf68a5c75ef76268aa87b3a12192dd3030c35248e27a3d3e34474b8666319",
+  "bytes": 5825,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-02-07_Canceled-Policy-Review-Committee-Meeting-4-30-p-m-Feb-07-2022-Agenda--eefdf68a5c75.html",
+  "versions": [
+    {
+      "sha256": "eefdf68a5c75ef76268aa87b3a12192dd3030c35248e27a3d3e34474b8666319",
+      "bytes": 5825,
+      "retrieved_utc": "2026-11-26T04:55:56+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 241,
+  "meeting_date": "2022-02-07",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 6007,
+  "portal_last_modified_utc": "2025-04-02T05:33:55+00:00"
+}

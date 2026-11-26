@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Culture, Climate, and Innovation Committee Special Meeting - Sep 15 2025 - Agenda",
+  "filename": "Culture-Climate-and-Innovation-Committee-Special-Meeting-Sep-15-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/9769/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=516",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:44:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2279c45e12ef6be8bd03d25c5630b8ae25314cfd05e8f6ec807eb9e678b78fda",
+  "bytes": 43541,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-15_Culture-Climate-and-Innovation-Committee-Special-Meeting-Sep-15-2025-Agenda--2279c45e12ef.pdf",
+  "versions": [
+    {
+      "sha256": "2279c45e12ef6be8bd03d25c5630b8ae25314cfd05e8f6ec807eb9e678b78fda",
+      "bytes": 43541,
+      "retrieved_utc": "2026-11-26T02:44:43+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 516,
+  "meeting_date": "2025-09-15",
+  "meeting_type": "Culture, Climate, and Innovation Committee Meeting",
+  "portal_document_id": 9769,
+  "portal_last_modified_utc": "2025-09-17T15:37:35+00:00"
+}

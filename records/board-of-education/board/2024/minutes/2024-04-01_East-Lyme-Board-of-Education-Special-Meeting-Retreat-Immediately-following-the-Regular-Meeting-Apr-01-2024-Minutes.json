@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting - Retreat, Immediately following the Regular Meeting - Apr 01 2024 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-Retreat-Immediately-following-the-Regular-Meeting-Apr-01-2024-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4033",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=104",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:33:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "55d670704ee45c121677ab32d38bc3eceeddd1c0419f6076c32566238258d1dc",
+  "bytes": 9422,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2024/2024-04-01_East-Lyme-Board-of-Education-Special-Meeting-Retreat-Immediately-following-the-Regular-Meeting-Apr-01-2024-Minutes--55d670704ee4.html",
+  "versions": [
+    {
+      "sha256": "55d670704ee45c121677ab32d38bc3eceeddd1c0419f6076c32566238258d1dc",
+      "bytes": 9422,
+      "retrieved_utc": "2026-11-26T03:33:18+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 104,
+  "meeting_date": "2024-04-01",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4033,
+  "portal_last_modified_utc": "2025-04-02T04:55:34+00:00"
+}

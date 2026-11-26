@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Education Regular Meeting - Nov 03 2025 - Agenda Packet",
+  "filename": "Board-of-Education-Regular-Meeting-Nov-03-2025-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/11816",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=546",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:32:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4223837564ef72f2308d72f7c4a286e2caec4efa59f4f734aa276091d5c888b5",
+  "bytes": 2504889,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Nov 2025 17:39:11",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-11-03_Board-of-Education-Regular-Meeting-Nov-03-2025-Agenda-Packet--4223837564ef.pdf",
+  "versions": [
+    {
+      "sha256": "4223837564ef72f2308d72f7c4a286e2caec4efa59f4f734aa276091d5c888b5",
+      "bytes": 2504889,
+      "retrieved_utc": "2026-11-26T02:32:32+00:00",
+      "http_last_modified": "Mon, 03 Nov 2025 17:39:11"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 546,
+  "meeting_date": "2025-11-03",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 11816,
+  "portal_last_modified_utc": "2025-11-03T17:39:11+00:00"
+}

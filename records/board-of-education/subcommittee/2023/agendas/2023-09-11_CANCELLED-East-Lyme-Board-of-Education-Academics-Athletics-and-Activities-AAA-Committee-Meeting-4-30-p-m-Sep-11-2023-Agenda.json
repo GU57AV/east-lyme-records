@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "CANCELLED - East Lyme Board of Education Academics, Athletics and Activities (AAA) Committee Meeting, 4:30 p.m. - Sep 11 2023 - Agenda",
+  "filename": "CANCELLED-East-Lyme-Board-of-Education-Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Sep-11-2023-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4983",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=142",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:54:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dc5b430a6177aa0609a1f760fff558dfdc4f2eba667bee278bbcf504b87c606d",
+  "bytes": 5749,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-09-11_CANCELLED-East-Lyme-Board-of-Education-Academics-Athletics-and-Activities-AAA-Committee-Meeting-4-30-p-m-Sep-11-2023-Agenda--dc5b430a6177.html",
+  "versions": [
+    {
+      "sha256": "dc5b430a6177aa0609a1f760fff558dfdc4f2eba667bee278bbcf504b87c606d",
+      "bytes": 5749,
+      "retrieved_utc": "2026-11-26T03:54:13+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 142,
+  "meeting_date": "2023-09-11",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4983,
+  "portal_last_modified_utc": "2025-04-02T05:13:22+00:00"
+}

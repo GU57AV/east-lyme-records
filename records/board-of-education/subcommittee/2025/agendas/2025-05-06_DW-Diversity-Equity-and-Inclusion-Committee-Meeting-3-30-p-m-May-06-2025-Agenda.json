@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "DW Diversity, Equity and Inclusion Committee Meeting, 3:30 p.m. - May 06 2025 - Agenda",
+  "filename": "DW-Diversity-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-May-06-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/8868",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=534",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:56:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "97c37501f14a8cd09a5708f5c936b657a66e1aaff1fe7e2ea2c55c5bc77e0e20",
+  "bytes": 10791,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-05-06_DW-Diversity-Equity-and-Inclusion-Committee-Meeting-3-30-p-m-May-06-2025-Agenda--97c37501f14a.html",
+  "versions": [
+    {
+      "sha256": "97c37501f14a8cd09a5708f5c936b657a66e1aaff1fe7e2ea2c55c5bc77e0e20",
+      "bytes": 10791,
+      "retrieved_utc": "2026-11-26T02:56:33+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 534,
+  "meeting_date": "2025-05-06",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 8868,
+  "portal_last_modified_utc": "2025-08-12T04:02:43+00:00"
+}

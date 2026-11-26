@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 6:00 p.m. - Apr 07 2025 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Apr-07-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/8905",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=537",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:58:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff61902b6078790d20d044f7a5f5ae28e6be1c985044d9ae26ac655ab59c7700",
+  "bytes": 50011,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-04-07_East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Apr-07-2025-Agenda--ff61902b6078.html",
+  "versions": [
+    {
+      "sha256": "ff61902b6078790d20d044f7a5f5ae28e6be1c985044d9ae26ac655ab59c7700",
+      "bytes": 50011,
+      "retrieved_utc": "2026-11-26T02:58:14+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 537,
+  "meeting_date": "2025-04-07",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 8905,
+  "portal_last_modified_utc": "2025-08-12T04:03:20+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Regular Meeting, 6:00 p.m. - Nov 06 2023 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Nov-06-2023-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4116",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=131",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:48:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3a6a7d6ad0bca5f272f15c7b8f657c51af34036a4b59a50175e7874f808b26af",
+  "bytes": 43812,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-11-06_East-Lyme-Board-of-Education-Regular-Meeting-6-00-p-m-Nov-06-2023-Minutes--3a6a7d6ad0bc.html",
+  "versions": [
+    {
+      "sha256": "3a6a7d6ad0bca5f272f15c7b8f657c51af34036a4b59a50175e7874f808b26af",
+      "bytes": 43812,
+      "retrieved_utc": "2026-11-26T03:48:09+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 131,
+  "meeting_date": "2023-11-06",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4116,
+  "portal_last_modified_utc": "2025-04-02T04:57:00+00:00"
+}

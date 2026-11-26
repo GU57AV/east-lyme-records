@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Student Belonging & Experience Committee Meeting - Sep 23 2025 - Agenda",
+  "filename": "Student-Belonging-Experience-Committee-Meeting-Sep-23-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/11177/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=552",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:41:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "693ca8087c5fa820e1433da15959cb48bab9a56b898a381aeab4ebddefd22b7e",
+  "bytes": 49412,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-23_Student-Belonging-Experience-Committee-Meeting-Sep-23-2025-Agenda--693ca8087c5f.pdf",
+  "versions": [
+    {
+      "sha256": "693ca8087c5fa820e1433da15959cb48bab9a56b898a381aeab4ebddefd22b7e",
+      "bytes": 49412,
+      "retrieved_utc": "2026-11-26T02:41:00+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 552,
+  "meeting_date": "2025-09-23",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 11177,
+  "portal_last_modified_utc": "2025-09-19T18:45:37+00:00"
+}

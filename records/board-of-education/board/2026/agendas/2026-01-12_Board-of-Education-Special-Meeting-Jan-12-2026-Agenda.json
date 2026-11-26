@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Education Special Meeting - Jan 12 2026 - Agenda",
+  "filename": "Board-of-Education-Special-Meeting-Jan-12-2026-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/13696/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=561",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:23:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bb14e6afe79b7017f2a92bec51d0a3ae63d286fa9b4999916d59a71546b3b683",
+  "bytes": 88034,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-01-12_Board-of-Education-Special-Meeting-Jan-12-2026-Agenda--bb14e6afe79b.pdf",
+  "versions": [
+    {
+      "sha256": "bb14e6afe79b7017f2a92bec51d0a3ae63d286fa9b4999916d59a71546b3b683",
+      "bytes": 88034,
+      "retrieved_utc": "2026-11-26T02:23:43+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 561,
+  "meeting_date": "2026-01-12",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 13696,
+  "portal_last_modified_utc": "2026-01-14T15:42:23+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Special Meeting - Dec 08 2025 - Signed Minutes",
+  "filename": "Policy-Review-Committee-Special-Meeting-Dec-08-2025-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15098",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=559",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:29:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "19e5e9c32ec6db2575706e661008bcc7e749c2b5ef790b2454d10a8d38d81bcd",
+  "bytes": 160278,
+  "pages": 0,
+  "http_last_modified": "Tue, 03 Feb 2026 14:56:19",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-12-08_Policy-Review-Committee-Special-Meeting-Dec-08-2025-Signed-Minutes--19e5e9c32ec6.pdf",
+  "versions": [
+    {
+      "sha256": "19e5e9c32ec6db2575706e661008bcc7e749c2b5ef790b2454d10a8d38d81bcd",
+      "bytes": 160278,
+      "retrieved_utc": "2026-11-26T02:29:08+00:00",
+      "http_last_modified": "Tue, 03 Feb 2026 14:56:19"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 559,
+  "meeting_date": "2025-12-08",
+  "meeting_type": "Policy Review Committee Meeting",
+  "portal_document_id": 15098,
+  "portal_last_modified_utc": "2026-02-03T14:56:19+00:00"
+}

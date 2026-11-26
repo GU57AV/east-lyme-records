@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Facilities and Operations (FFO) Special Committee Meeting of the East Lyme Board of Education, 4:30 p.m. - Sep 12 2022 - Agenda",
+  "filename": "Facilities-and-Operations-FFO-Special-Committee-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Sep-12-2022-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5693",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=203",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:32:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "96380e20a03ee81b7e94db661a40f4ffe0c5ded884778e119a215d5ed87d5c06",
+  "bytes": 13174,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2022/2022-09-12_Facilities-and-Operations-FFO-Special-Committee-Meeting-of-the-East-Lyme-Board-of-Education-4-30-p-m-Sep-12-2022-Agenda--96380e20a03e.html",
+  "versions": [
+    {
+      "sha256": "96380e20a03ee81b7e94db661a40f4ffe0c5ded884778e119a215d5ed87d5c06",
+      "bytes": 13174,
+      "retrieved_utc": "2026-11-26T04:32:20+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 203,
+  "meeting_date": "2022-09-12",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5693,
+  "portal_last_modified_utc": "2025-04-02T05:26:57+00:00"
+}

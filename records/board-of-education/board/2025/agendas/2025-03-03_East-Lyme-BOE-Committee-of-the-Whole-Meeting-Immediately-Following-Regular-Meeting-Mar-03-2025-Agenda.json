@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme BOE Committee of the Whole Meeting (Immediately Following Regular Meeting) - Mar 03 2025 - Agenda",
+  "filename": "East-Lyme-BOE-Committee-of-the-Whole-Meeting-Immediately-Following-Regular-Meeting-Mar-03-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/3754",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=54",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:02:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1143161ab9ad7120ee82bbd6b03dc1494b9483392c61c4e212d6969bce5a4d4",
+  "bytes": 10517,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-03-03_East-Lyme-BOE-Committee-of-the-Whole-Meeting-Immediately-Following-Regular-Meeting-Mar-03-2025-Agenda--b1143161ab9a.html",
+  "versions": [
+    {
+      "sha256": "b1143161ab9ad7120ee82bbd6b03dc1494b9483392c61c4e212d6969bce5a4d4",
+      "bytes": 10517,
+      "retrieved_utc": "2026-11-26T03:02:58+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 54,
+  "meeting_date": "2025-03-03",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 3754,
+  "portal_last_modified_utc": "2025-04-02T04:51:03+00:00"
+}

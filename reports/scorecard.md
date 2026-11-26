@@ -1,12 +1,12 @@
 # Transparency scorecard
 
-_Updated Nov 25, 2026 7:03 PM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 12:19 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
 ## Last 12 months
 
-Meetings from Nov 25, 2025 through yesterday.
+Meetings from Nov 26, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "BOE Climate, Culture, & Innovation (CCI) Committee Meeting - CANCELLED - May 19 2025 - Agenda",
+  "filename": "BOE-Climate-Culture-Innovation-CCI-Committee-Meeting-CANCELLED-May-19-2025-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/8847",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=531",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:54:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8c4df0f837ac1b03eb5ee702ad0ed93adb59efa900f792930070880f3b8d4301",
+  "bytes": 5661,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-05-19_BOE-Climate-Culture-Innovation-CCI-Committee-Meeting-CANCELLED-May-19-2025-Agenda--8c4df0f837ac.html",
+  "versions": [
+    {
+      "sha256": "8c4df0f837ac1b03eb5ee702ad0ed93adb59efa900f792930070880f3b8d4301",
+      "bytes": 5661,
+      "retrieved_utc": "2026-11-26T02:54:52+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 531,
+  "meeting_date": "2025-05-19",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 8847,
+  "portal_last_modified_utc": "2025-08-12T04:02:28+00:00"
+}

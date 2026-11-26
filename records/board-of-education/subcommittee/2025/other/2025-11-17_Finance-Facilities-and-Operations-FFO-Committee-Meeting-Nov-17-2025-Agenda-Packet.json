@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Finance, Facilities, and Operations (FFO) Committee Meeting - Nov 17 2025 - Agenda Packet",
+  "filename": "Finance-Facilities-and-Operations-FFO-Committee-Meeting-Nov-17-2025-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/11931",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=550",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:30:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2f82449f9ee4abb7ed1c417b5d7ea950c4f2d619dac121cee1c332b1ea755624",
+  "bytes": 392303,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Nov 2025 18:08:49",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-11-17_Finance-Facilities-and-Operations-FFO-Committee-Meeting-Nov-17-2025-Agenda-Packet--2f82449f9ee4.pdf",
+  "versions": [
+    {
+      "sha256": "2f82449f9ee4abb7ed1c417b5d7ea950c4f2d619dac121cee1c332b1ea755624",
+      "bytes": 392303,
+      "retrieved_utc": "2026-11-26T02:30:50+00:00",
+      "http_last_modified": "Mon, 17 Nov 2025 18:08:49"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 550,
+  "meeting_date": "2025-11-17",
+  "meeting_type": "Finance, Facilities, and Operations (FFO) Committee Meeting",
+  "portal_document_id": 11931,
+  "portal_last_modified_utc": "2025-11-17T18:08:49+00:00"
+}

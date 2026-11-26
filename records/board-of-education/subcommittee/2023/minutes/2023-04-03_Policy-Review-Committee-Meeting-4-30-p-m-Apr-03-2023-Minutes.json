@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting, 4:30 p.m. - Apr 03 2023 - Minutes",
+  "filename": "Policy-Review-Committee-Meeting-4-30-p-m-Apr-03-2023-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4223",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=160",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:05:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6b0d77d8c1e573ee859033acd63e09c9aa48b589991f40f737e2123e4c2ff0b4",
+  "bytes": 12862,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-04-03_Policy-Review-Committee-Meeting-4-30-p-m-Apr-03-2023-Minutes--6b0d77d8c1e5.html",
+  "versions": [
+    {
+      "sha256": "6b0d77d8c1e573ee859033acd63e09c9aa48b589991f40f737e2123e4c2ff0b4",
+      "bytes": 12862,
+      "retrieved_utc": "2026-11-26T04:05:01+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 160,
+  "meeting_date": "2023-04-03",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4223,
+  "portal_last_modified_utc": "2025-04-02T04:59:00+00:00"
+}

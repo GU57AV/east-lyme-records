@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting, 6:00 p.m. - Jul 31 2023 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Jul-31-2023-Agenda.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/5039",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=145",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T03:55:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "71c4c7dc2c3be218fe297c21e066af639cf88f478fb7482bb826e63a75215a78",
+  "bytes": 29713,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-07-31_East-Lyme-Board-of-Education-Special-Meeting-6-00-p-m-Jul-31-2023-Agenda--71c4c7dc2c3b.html",
+  "versions": [
+    {
+      "sha256": "71c4c7dc2c3be218fe297c21e066af639cf88f478fb7482bb826e63a75215a78",
+      "bytes": 29713,
+      "retrieved_utc": "2026-11-26T03:55:54+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 145,
+  "meeting_date": "2023-07-31",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 5039,
+  "portal_last_modified_utc": "2025-04-02T05:14:22+00:00"
+}

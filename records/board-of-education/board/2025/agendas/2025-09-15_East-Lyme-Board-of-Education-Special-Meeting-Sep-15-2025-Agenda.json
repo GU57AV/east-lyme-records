@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Board of Education Special Meeting - Sep 15 2025 - Agenda",
+  "filename": "East-Lyme-Board-of-Education-Special-Meeting-Sep-15-2025-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/9774/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=513",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:43:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7142a803bc566ccb694b7ccb959dcdc43ba51f401c90ad037c8a1ce574e66c26",
+  "bytes": 86614,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-09-15_East-Lyme-Board-of-Education-Special-Meeting-Sep-15-2025-Agenda--7142a803bc56.pdf",
+  "versions": [
+    {
+      "sha256": "7142a803bc566ccb694b7ccb959dcdc43ba51f401c90ad037c8a1ce574e66c26",
+      "bytes": 86614,
+      "retrieved_utc": "2026-11-26T02:43:42+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 513,
+  "meeting_date": "2025-09-15",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 9774,
+  "portal_last_modified_utc": "2025-12-09T15:21:31+00:00"
+}

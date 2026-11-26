@@ -6,5 +6,5 @@ What happened each week (Monday to Sunday) in East Lyme's boards and commissions
 
 | Week | At a glance |
 |---|---|
-| [Week of Nov 23–29, 2026](2026-W48.md) | 4 meetings on the calendar · 5 new documents · 0 changed or removed · 4 alerts |
+| [Week of Nov 23–29, 2026](2026-W48.md) | 4 meetings on the calendar · 6 new documents · 0 changed or removed · 5 alerts |
 | [Week of Nov 16–22, 2026](2026-W47.md) | 11 meetings on the calendar · 0 new documents · 0 changed or removed · 0 alerts |

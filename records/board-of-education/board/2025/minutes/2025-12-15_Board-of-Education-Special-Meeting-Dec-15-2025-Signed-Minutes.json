@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Board of Education Special Meeting - Dec 15 2025 - Signed Minutes",
+  "filename": "Board-of-Education-Special-Meeting-Dec-15-2025-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15092",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=560",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T02:27:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "46205bb86cdbc2a704e9defadde5de4f05db84fc5d2c0fcf4ff7dda581ac0b10",
+  "bytes": 182844,
+  "pages": 0,
+  "http_last_modified": "Tue, 03 Feb 2026 14:32:45",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2025/2025-12-15_Board-of-Education-Special-Meeting-Dec-15-2025-Signed-Minutes--46205bb86cdb.pdf",
+  "versions": [
+    {
+      "sha256": "46205bb86cdbc2a704e9defadde5de4f05db84fc5d2c0fcf4ff7dda581ac0b10",
+      "bytes": 182844,
+      "retrieved_utc": "2026-11-26T02:27:06+00:00",
+      "http_last_modified": "Tue, 03 Feb 2026 14:32:45"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 560,
+  "meeting_date": "2025-12-15",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 15092,
+  "portal_last_modified_utc": "2026-02-03T14:32:45+00:00"
+}

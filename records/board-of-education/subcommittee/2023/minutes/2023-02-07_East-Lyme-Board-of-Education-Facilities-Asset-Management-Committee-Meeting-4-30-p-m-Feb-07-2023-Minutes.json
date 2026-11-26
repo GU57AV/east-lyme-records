@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "East Lyme Board of Education Facilities Asset Management Committee Meeting, 4:30 p.m. - Feb 07 2023 - Minutes",
+  "filename": "East-Lyme-Board-of-Education-Facilities-Asset-Management-Committee-Meeting-4-30-p-m-Feb-07-2023-Minutes.html",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/4282",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=172",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T04:12:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2a2bbe9ce5acaa696941dcea6dd15e3b99dadff4e812f322992d606f77a9aec7",
+  "bytes": 101926,
+  "pages": null,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "html text",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2023/2023-02-07_East-Lyme-Board-of-Education-Facilities-Asset-Management-Committee-Meeting-4-30-p-m-Feb-07-2023-Minutes--2a2bbe9ce5ac.html",
+  "versions": [
+    {
+      "sha256": "2a2bbe9ce5acaa696941dcea6dd15e3b99dadff4e812f322992d606f77a9aec7",
+      "bytes": 101926,
+      "retrieved_utc": "2026-11-26T04:12:47+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 172,
+  "meeting_date": "2023-02-07",
+  "meeting_type": "BoardDocs Imported Meetings 2018- 2025",
+  "portal_document_id": 4282,
+  "portal_last_modified_utc": "2025-04-02T05:00:05+00:00"
+}
