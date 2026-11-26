@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": true,
+  "link_text": "BOE June 2 2009 Building & Grounds Comm Minutes (pdf)",
+  "filename": "BOE-bldg-n-grounds6-2-09Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-bldg-n-grounds6-2-09Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:55:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1957f4eb777009b6d41609bcb8dae9721ddcb011abf28d2ed2a8c833920a1cf",
+  "bytes": 65843,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:05 GMT",
+  "etag": "\"1663823-10133-5208267ed5e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-06-02_BOE-bldg-n-grounds6-2-09Minutes--b1957f4eb777.pdf",
+  "versions": [
+    {
+      "sha256": "b1957f4eb777009b6d41609bcb8dae9721ddcb011abf28d2ed2a8c833920a1cf",
+      "bytes": 65843,
+      "retrieved_utc": "2026-11-25T22:55:03+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:05 GMT"
+    }
+  ]
+}

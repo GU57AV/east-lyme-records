@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "East Lyme/Salem Cooperative Meeting - Sep 21 2026 - Agenda Packet",
+  "filename": "East-Lyme-Salem-Cooperative-Meeting-Sep-21-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16909",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=606",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:13:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d8f12dd6dd8afc769153e95b7accd8b6acde3cdf6dcb8e52f1bc73759bfdcbf",
+  "bytes": 663170,
+  "pages": 0,
+  "http_last_modified": "Fri, 18 Sep 2026 13:02:04",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-09-21_East-Lyme-Salem-Cooperative-Meeting-Sep-21-2026-Agenda-Packet--8d8f12dd6dd8.pdf",
+  "versions": [
+    {
+      "sha256": "8d8f12dd6dd8afc769153e95b7accd8b6acde3cdf6dcb8e52f1bc73759bfdcbf",
+      "bytes": 663170,
+      "retrieved_utc": "2026-11-25T23:13:21+00:00",
+      "http_last_modified": "Fri, 18 Sep 2026 13:02:04"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 606,
+  "meeting_date": "2026-09-21",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 16909,
+  "portal_last_modified_utc": "2026-09-18T13:02:04+00:00"
+}

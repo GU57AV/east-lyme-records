@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "BOE May 16 2011 Salem EL Coop Study Agenda (pdf)",
+  "filename": "BOEsalemELCoopAgenda05-16-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEsalemELCoopAgenda05-16-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:30:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1813d2666feff7c7a8727bf8819a5e4d39da6db761eb97128938b34c42d4a97a",
+  "bytes": 20065,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:34 GMT",
+  "etag": "\"1663956-4e61-5208269a7df80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-05-16_BOEsalemELCoopAgenda05-16-11--1813d2666fef.pdf",
+  "versions": [
+    {
+      "sha256": "1813d2666feff7c7a8727bf8819a5e4d39da6db761eb97128938b34c42d4a97a",
+      "bytes": 20065,
+      "retrieved_utc": "2026-11-25T22:30:33+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:34 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE March 24 2014 FFO Agenda (pdf)",
+  "filename": "FFO-Agenda-03-24-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/FFO-Agenda-03-24-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T22:01:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3e098244d97c7f296c6c90345e40d3b41b5efe36e8f001d3509ad6720deeb053",
+  "bytes": 45915,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:12:10 GMT",
+  "etag": "\"16634a6-b35b-520822b6db280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-03-24_FFO-Agenda-03-24-2014--3e098244d97c.pdf",
+  "versions": [
+    {
+      "sha256": "3e098244d97c7f296c6c90345e40d3b41b5efe36e8f001d3509ad6720deeb053",
+      "bytes": 45915,
+      "retrieved_utc": "2026-11-25T22:01:20+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:12:10 GMT"
+    }
+  ]
+}

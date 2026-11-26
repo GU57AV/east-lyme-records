@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Policy Review Committee Agenda 09-22-2014 (pdf)",
+  "filename": "BOE-Policy-Review-Committee-Agenda-09-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Policy-Review-Committee-Agenda-09-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:52:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a9b65a2e6e57da262c157071cd82369536fa15b79b7ff8ef2ab831db85052ce2",
+  "bytes": 91307,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:07 GMT",
+  "etag": "\"16639c2-164ab-52082680be2c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-22_BOE-Policy-Review-Committee-Agenda-09-22-2014--a9b65a2e6e57.pdf",
+  "versions": [
+    {
+      "sha256": "a9b65a2e6e57da262c157071cd82369536fa15b79b7ff8ef2ab831db85052ce2",
+      "bytes": 91307,
+      "retrieved_utc": "2026-11-25T21:52:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:07 GMT"
+    }
+  ]
+}

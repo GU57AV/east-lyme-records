@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOE Jan 4 2012 Special Meeting Agenda (pdf)",
+  "filename": "1-4-12-BOE-Sp-Mtg-Agenda-PDF.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/1-4-12-BOE-Sp-Mtg-Agenda-PDF.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:10:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "23e1c878e2b075d16854d9f9bc149c9c7029464788bd5f7f86eb9a079ab760e8",
+  "bytes": 30744,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:26:49 GMT",
+  "etag": "\"1663cbd-7818-520825fd22c40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-01-04_1-4-12-BOE-Sp-Mtg-Agenda-PDF--23e1c878e2b0.pdf",
+  "versions": [
+    {
+      "sha256": "23e1c878e2b075d16854d9f9bc149c9c7029464788bd5f7f86eb9a079ab760e8",
+      "bytes": 30744,
+      "retrieved_utc": "2026-11-25T21:10:16+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:26:49 GMT"
+    }
+  ]
+}

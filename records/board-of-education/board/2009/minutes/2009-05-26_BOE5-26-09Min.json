@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOE May 26 2009 Meeting Minutes (pdf)",
+  "filename": "BOE5-26-09Min.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE5-26-09Min.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:48:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "207707fd51d6faf53493cb5535f8b1602463f191da2d61a1cd235132f382c077",
+  "bytes": 140281,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Jul 2014 15:57:46 GMT",
+  "etag": "\"1661fe2-223f9-4feb62b039280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-05-26_BOE5-26-09Min--207707fd51d6.pdf",
+  "versions": [
+    {
+      "sha256": "207707fd51d6faf53493cb5535f8b1602463f191da2d61a1cd235132f382c077",
+      "bytes": 140281,
+      "retrieved_utc": "2026-11-25T21:48:55+00:00",
+      "http_last_modified": "Mon, 21 Jul 2014 15:57:46 GMT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "BOE Special Meeting - Mar 24 2026 - Signed Minutes",
+  "filename": "BOE-Special-Meeting-Mar-24-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16193",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=600",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:32:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b3c619b7058046ccd69f1e112e279d1943b30f9e22ea5c6c353809a0ad004ab8",
+  "bytes": 72394,
+  "pages": 0,
+  "http_last_modified": "Thu, 21 May 2026 16:40:51",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-03-24_BOE-Special-Meeting-Mar-24-2026-Signed-Minutes--b3c619b70580.pdf",
+  "versions": [
+    {
+      "sha256": "b3c619b7058046ccd69f1e112e279d1943b30f9e22ea5c6c353809a0ad004ab8",
+      "bytes": 72394,
+      "retrieved_utc": "2026-11-25T23:32:20+00:00",
+      "http_last_modified": "Thu, 21 May 2026 16:40:51"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 600,
+  "meeting_date": "2026-03-24",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 16193,
+  "portal_last_modified_utc": "2026-05-21T16:40:51+00:00"
+}

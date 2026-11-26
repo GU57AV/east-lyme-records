@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE August 20 2012 Special Meeting Retreat Minutes (pdf)",
+  "filename": "8-20-12-BOE-Special-Meeting-Retreat-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/8-20-12-BOE-Special-Meeting-Retreat-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:21:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "26f7d11ac11c62f65384a1744291721e445c5a9a2951bfc91fe60be0ba195754",
+  "bytes": 107099,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:06 GMT",
+  "etag": "\"166406e-1a25b-5208264691980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-08-20_8-20-12-BOE-Special-Meeting-Retreat-Minutes--26f7d11ac11c.pdf",
+  "versions": [
+    {
+      "sha256": "26f7d11ac11c62f65384a1744291721e445c5a9a2951bfc91fe60be0ba195754",
+      "bytes": 107099,
+      "retrieved_utc": "2026-11-25T22:21:09+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:06 GMT"
+    }
+  ]
+}

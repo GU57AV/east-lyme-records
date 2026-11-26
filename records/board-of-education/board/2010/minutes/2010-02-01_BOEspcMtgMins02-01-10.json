@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE February 1 2010 Special Meeting Minutes (pdf)",
+  "filename": "BOEspcMtgMins02-01-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEspcMtgMins02-01-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:40:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c258aec9b273cb3c6b51d7a16d87de3441689519cabfc7c452e508646916c3e7",
+  "bytes": 100019,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jul 2014 15:02:28 GMT",
+  "etag": "\"1661dc0-186b3-4fe50d00a0900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-02-01_BOEspcMtgMins02-01-10--c258aec9b273.pdf",
+  "versions": [
+    {
+      "sha256": "c258aec9b273cb3c6b51d7a16d87de3441689519cabfc7c452e508646916c3e7",
+      "bytes": 100019,
+      "retrieved_utc": "2026-11-25T21:40:10+00:00",
+      "http_last_modified": "Wed, 16 Jul 2014 15:02:28 GMT"
+    }
+  ]
+}

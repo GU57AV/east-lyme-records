@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE March 22 2010 Special Meeting Agenda (pdf)",
+  "filename": "BOEspcMtgAgenda03-22-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEspcMtgAgenda03-22-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:31:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "68cab04064dc98871cc6660870cc89e01914af16beb4e36f5874d0e80e42ae0c",
+  "bytes": 76436,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:36 GMT",
+  "etag": "\"1663988-12a94-5208269c66400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-03-22_BOEspcMtgAgenda03-22-10--68cab04064dc.pdf",
+  "versions": [
+    {
+      "sha256": "68cab04064dc98871cc6660870cc89e01914af16beb4e36f5874d0e80e42ae0c",
+      "bytes": 76436,
+      "retrieved_utc": "2026-11-25T21:31:06+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE October 12 2010 Special Meeting Agenda (pdf)",
+  "filename": "BOEspcMtgAgenda10-12-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEspcMtgAgenda10-12-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:27:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4155af808a673775baad3cd27140b24b235b78b68fdd0d8e818486fd78c5f63d",
+  "bytes": 56207,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:37 GMT",
+  "etag": "\"1661ed0-db8f-5208269d5a640\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-10-12_BOEspcMtgAgenda10-12-10--4155af808a67.pdf",
+  "versions": [
+    {
+      "sha256": "4155af808a673775baad3cd27140b24b235b78b68fdd0d8e818486fd78c5f63d",
+      "bytes": 56207,
+      "retrieved_utc": "2026-11-25T21:27:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:37 GMT"
+    }
+  ]
+}

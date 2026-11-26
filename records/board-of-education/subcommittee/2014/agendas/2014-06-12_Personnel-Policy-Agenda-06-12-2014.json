@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE June 12 2014 Personnel Policy Agenda (pdf)",
+  "filename": "Personnel-Policy-Agenda-06-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Personnel-Policy-Agenda-06-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T21:57:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "29273747a0e59a4e3a6409cd55833d4e463f2b20e2b98abd525aeec79bd1d55b",
+  "bytes": 31042,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:12:23 GMT",
+  "etag": "\"166346f-7942-520822c340fc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-06-12_Personnel-Policy-Agenda-06-12-2014--29273747a0e5.pdf",
+  "versions": [
+    {
+      "sha256": "29273747a0e59a4e3a6409cd55833d4e463f2b20e2b98abd525aeec79bd1d55b",
+      "bytes": 31042,
+      "retrieved_utc": "2026-11-25T21:57:18+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:12:23 GMT"
+    }
+  ]
+}

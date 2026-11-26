@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOE June 8 2009 Regular Meeting Agenda (pdf)",
+  "filename": "BOEAgenda6-8-09Regular-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEAgenda6-8-09Regular-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:45:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b91523ee975e69aa13559dc0ac07b7f9d2946bdb63bece40d47ac6784ae18df4",
+  "bytes": 145444,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:17 GMT",
+  "etag": "\"1663896-23824-5208268a47940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-06-08_BOEAgenda6-8-09Regular-Meeting--b91523ee975e.pdf",
+  "versions": [
+    {
+      "sha256": "b91523ee975e69aa13559dc0ac07b7f9d2946bdb63bece40d47ac6784ae18df4",
+      "bytes": 145444,
+      "retrieved_utc": "2026-11-25T21:45:53+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:17 GMT"
+    }
+  ]
+}

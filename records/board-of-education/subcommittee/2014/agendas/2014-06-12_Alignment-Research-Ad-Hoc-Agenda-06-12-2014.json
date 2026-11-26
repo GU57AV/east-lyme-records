@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE June 12 2014 Alignment Research Ad Hoc Agenda (pdf)",
+  "filename": "Alignment-Research-Ad-Hoc-Agenda-06-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Alignment-Research-Ad-Hoc-Agenda-06-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T21:57:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e7b77ede2f053467958a368dd4a8afd6e5a10aedb342b04ad4a0616a7f97018a",
+  "bytes": 36816,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:10:33 GMT",
+  "etag": "\"1663483-8fd0-5208225a59840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-06-12_Alignment-Research-Ad-Hoc-Agenda-06-12-2014--e7b77ede2f05.pdf",
+  "versions": [
+    {
+      "sha256": "e7b77ede2f053467958a368dd4a8afd6e5a10aedb342b04ad4a0616a7f97018a",
+      "bytes": 36816,
+      "retrieved_utc": "2026-11-25T21:57:38+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:10:33 GMT"
+    }
+  ]
+}

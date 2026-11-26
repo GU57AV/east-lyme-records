@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOE April 24 2012 Regular Meeting Minutes (pdf)",
+  "filename": "4-24-12-BOE-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/4-24-12-BOE-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:13:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "03c2c3b30d2de4bceebd49503741db8f63ae915248fa5d4075cd29f8aa58a0e4",
+  "bytes": 113189,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:34 GMT",
+  "etag": "\"1663f1e-1ba25-520826280d180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-04-24_4-24-12-BOE-Regular-Meeting-Minutes--03c2c3b30d2d.pdf",
+  "versions": [
+    {
+      "sha256": "03c2c3b30d2de4bceebd49503741db8f63ae915248fa5d4075cd29f8aa58a0e4",
+      "bytes": 113189,
+      "retrieved_utc": "2026-11-25T21:13:17+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:34 GMT"
+    }
+  ]
+}

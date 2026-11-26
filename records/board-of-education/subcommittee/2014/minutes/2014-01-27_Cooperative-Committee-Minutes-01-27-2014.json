@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Jan 27 2014 Cooperative Committee Minutes (pdf)",
+  "filename": "Cooperative-Committee-Minutes-01-27-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Cooperative-Committee-Minutes-01-27-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T22:11:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b6b5814924a8e5910f3edc6d80155e4a268c0fd63698a938070dc54613713c5b",
+  "bytes": 124828,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:12:03 GMT",
+  "etag": "\"166344e-1e79c-520822b02e2c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-01-27_Cooperative-Committee-Minutes-01-27-2014--b6b5814924a8.pdf",
+  "versions": [
+    {
+      "sha256": "b6b5814924a8e5910f3edc6d80155e4a268c0fd63698a938070dc54613713c5b",
+      "bytes": 124828,
+      "retrieved_utc": "2026-11-25T22:11:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:12:03 GMT"
+    }
+  ]
+}

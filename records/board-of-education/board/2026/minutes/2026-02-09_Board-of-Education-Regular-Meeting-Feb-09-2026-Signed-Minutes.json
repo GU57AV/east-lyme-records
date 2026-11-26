@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Education Regular Meeting - Feb 09 2026 - Signed Minutes",
+  "filename": "Board-of-Education-Regular-Meeting-Feb-09-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15692",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=563",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:43:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9bb4a2239a0b4b6e5664b684f8b28a3e74367b3152204cd05096afeeadc27f3e",
+  "bytes": 138824,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Mar 2026 14:52:21",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-02-09_Board-of-Education-Regular-Meeting-Feb-09-2026-Signed-Minutes--9bb4a2239a0b.pdf",
+  "versions": [
+    {
+      "sha256": "9bb4a2239a0b4b6e5664b684f8b28a3e74367b3152204cd05096afeeadc27f3e",
+      "bytes": 138824,
+      "retrieved_utc": "2026-11-25T23:43:51+00:00",
+      "http_last_modified": "Wed, 11 Mar 2026 14:52:21"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 563,
+  "meeting_date": "2026-02-09",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 15692,
+  "portal_last_modified_utc": "2026-03-11T14:52:21+00:00"
+}

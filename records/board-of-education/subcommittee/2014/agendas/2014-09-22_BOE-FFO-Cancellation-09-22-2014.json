@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE FFO Cancellation 09-22-2014 (pdf)",
+  "filename": "BOE-FFO-Cancellation-09-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-FFO-Cancellation-09-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:52:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d58a449959ffd586bebf5f0dd445e957efc48afff750339da8e757ce86b9750a",
+  "bytes": 46525,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:06 GMT",
+  "etag": "\"1663a41-b5bd-5208267fca080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-22_BOE-FFO-Cancellation-09-22-2014--d58a449959ff.pdf",
+  "versions": [
+    {
+      "sha256": "d58a449959ffd586bebf5f0dd445e957efc48afff750339da8e757ce86b9750a",
+      "bytes": 46525,
+      "retrieved_utc": "2026-11-25T21:52:56+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:06 GMT"
+    }
+  ]
+}

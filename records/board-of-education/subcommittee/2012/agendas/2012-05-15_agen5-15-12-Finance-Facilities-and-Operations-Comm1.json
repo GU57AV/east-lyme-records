@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE May 15 2012 FFO Comm Agenda (pdf)",
+  "filename": "agen5-15-12-Finance-Facilities-and-Operations-Comm1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/agen5-15-12-Finance-Facilities-and-Operations-Comm1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2012-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:16:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "67fea2f2e7ae65aacbc56f45d525f96c3b42536ccf53e63db205afb3f706b861",
+  "bytes": 9982,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:13 GMT",
+  "etag": "\"1661fc4-26fe-5208264d3e940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-05-15_agen5-15-12-Finance-Facilities-and-Operations-Comm1--67fea2f2e7ae.pdf",
+  "versions": [
+    {
+      "sha256": "67fea2f2e7ae65aacbc56f45d525f96c3b42536ccf53e63db205afb3f706b861",
+      "bytes": 9982,
+      "retrieved_utc": "2026-11-25T22:16:47+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:13 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-selectmen",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BOS November 18 2026 Regular Meeting Minutes (pdf)",
+  "filename": "BOS-November-18-2026-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/BOS-November-18-2026-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-selectmen/board-of-selectmen-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-25T19:16:20+00:00",
+  "seen_in_initial_import": false,
+  "not_on_site_at_utc": "2026-11-25T13:35:34+00:00",
+  "sha256": "9f65c66e9374a35b54dc2b40b55743115535e6999b21e5d54b9440336d5c4ed3",
+  "bytes": 304997,
+  "pages": 0,
+  "http_last_modified": "Wed, 25 Nov 2026 16:24:01 GMT",
+  "etag": "\"17c019b-4a765-6611c41324534\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-selectmen-2026/2026-11-18_BOS-November-18-2026-Regular-Meeting-Minutes--9f65c66e9374.pdf",
+  "versions": [
+    {
+      "sha256": "9f65c66e9374a35b54dc2b40b55743115535e6999b21e5d54b9440336d5c4ed3",
+      "bytes": 304997,
+      "retrieved_utc": "2026-11-25T19:16:20+00:00",
+      "http_last_modified": "Wed, 25 Nov 2026 16:24:01 GMT"
+    }
+  ]
+}

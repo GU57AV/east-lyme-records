@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "School Reorganization Meeting - Oct 01 2026 - Agenda Packet",
+  "filename": "School-Reorganization-Meeting-Oct-01-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/17059",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=611",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:09:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "52e8b70d07fb805b116105a6f1b3c21e37d5b50ccfb62d23bdd9ade0aec1d58b",
+  "bytes": 71976,
+  "pages": 0,
+  "http_last_modified": "Wed, 30 Sep 2026 12:31:48",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-10-01_School-Reorganization-Meeting-Oct-01-2026-Agenda-Packet--52e8b70d07fb.pdf",
+  "versions": [
+    {
+      "sha256": "52e8b70d07fb805b116105a6f1b3c21e37d5b50ccfb62d23bdd9ade0aec1d58b",
+      "bytes": 71976,
+      "retrieved_utc": "2026-11-25T23:09:38+00:00",
+      "http_last_modified": "Wed, 30 Sep 2026 12:31:48"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 611,
+  "meeting_date": "2026-10-01",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 17059,
+  "portal_last_modified_utc": "2026-09-30T12:31:48+00:00"
+}

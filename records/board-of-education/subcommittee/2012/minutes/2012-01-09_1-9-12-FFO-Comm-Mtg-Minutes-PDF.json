@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE Jan 9 2012 FFO Comm Minutes (pdf)",
+  "filename": "1-9-12-FFO-Comm-Mtg-Minutes-PDF.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/1-9-12-FFO-Comm-Mtg-Minutes-PDF.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:25:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "aef3f3d8c1eed2a6d3b9cda28d257b5985cee0b7806d5fb4c4b554a19ee1a854",
+  "bytes": 67781,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:26:51 GMT",
+  "etag": "\"1661d9b-108c5-520825ff0b0c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-01-09_1-9-12-FFO-Comm-Mtg-Minutes-PDF--aef3f3d8c1ee.pdf",
+  "versions": [
+    {
+      "sha256": "aef3f3d8c1eed2a6d3b9cda28d257b5985cee0b7806d5fb4c4b554a19ee1a854",
+      "bytes": 67781,
+      "retrieved_utc": "2026-11-25T22:25:51+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:26:51 GMT"
+    }
+  ]
+}

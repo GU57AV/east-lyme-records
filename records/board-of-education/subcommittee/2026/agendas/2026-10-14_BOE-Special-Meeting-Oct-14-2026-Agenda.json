@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "BOE Special Meeting - Oct 14 2026 - Agenda",
+  "filename": "BOE-Special-Meeting-Oct-14-2026-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/17277/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=616",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:04:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "818b1389e76bffd8d7416976d0dcc61267645cb147a2dc2b912bf65a957b1d0a",
+  "bytes": 46813,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-10-14_BOE-Special-Meeting-Oct-14-2026-Agenda--818b1389e76b.pdf",
+  "versions": [
+    {
+      "sha256": "818b1389e76bffd8d7416976d0dcc61267645cb147a2dc2b912bf65a957b1d0a",
+      "bytes": 46813,
+      "retrieved_utc": "2026-11-25T23:04:53+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 616,
+  "meeting_date": "2026-10-14",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 17277,
+  "portal_last_modified_utc": "2026-10-13T16:08:21+00:00"
+}

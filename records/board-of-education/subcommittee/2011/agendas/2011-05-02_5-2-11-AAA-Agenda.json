@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "BOE May 2 2011 AAA Comm Meeting Agenda (pdf)",
+  "filename": "5-2-11-AAA-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/5-2-11-AAA-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:31:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "efb888b4d36d750f2d92dc18e2d12f95cfb626ec8c5b7a5ff8beb3c3198d150b",
+  "bytes": 58761,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jul 2014 15:30:04 GMT",
+  "etag": "\"1663da5-e589-4fe28f70fd700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-05-02_5-2-11-AAA-Agenda--efb888b4d36d.pdf",
+  "versions": [
+    {
+      "sha256": "efb888b4d36d750f2d92dc18e2d12f95cfb626ec8c5b7a5ff8beb3c3198d150b",
+      "bytes": 58761,
+      "retrieved_utc": "2026-11-25T22:31:13+00:00",
+      "http_last_modified": "Mon, 14 Jul 2014 15:30:04 GMT"
+    }
+  ]
+}

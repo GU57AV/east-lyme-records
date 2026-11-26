@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE January 25 2010 Regular Meeting Minutes (pdf)",
+  "filename": "BOEregMins01-25-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMins01-25-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:40:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "403bd4120b5942174ffeb33fa49a34ffab219fb07552242a43d36987023ef560",
+  "bytes": 138460,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jul 2014 15:00:42 GMT",
+  "etag": "\"1663aa9-21cdc-4fe50c9b89a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-01-25_BOEregMins01-25-10--403bd4120b59.pdf",
+  "versions": [
+    {
+      "sha256": "403bd4120b5942174ffeb33fa49a34ffab219fb07552242a43d36987023ef560",
+      "bytes": 138460,
+      "retrieved_utc": "2026-11-25T21:40:30+00:00",
+      "http_last_modified": "Wed, 16 Jul 2014 15:00:42 GMT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Culture, Climate, and Innovation Committee Meetings - Oct 26 2026 - Agenda Packet",
+  "filename": "Culture-Climate-and-Innovation-Committee-Meetings-Oct-26-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/17406",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=617",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:02:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75f73b9c4dce28bc6391cbb05d401aff307ecb207d5325d294d885b82ffc6d17",
+  "bytes": 4035322,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Oct 2026 13:10:54",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-10-26_Culture-Climate-and-Innovation-Committee-Meetings-Oct-26-2026-Agenda-Packet--75f73b9c4dce.pdf",
+  "versions": [
+    {
+      "sha256": "75f73b9c4dce28bc6391cbb05d401aff307ecb207d5325d294d885b82ffc6d17",
+      "bytes": 4035322,
+      "retrieved_utc": "2026-11-25T23:02:31+00:00",
+      "http_last_modified": "Fri, 23 Oct 2026 13:10:54"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 617,
+  "meeting_date": "2026-10-26",
+  "meeting_type": "Culture, Climate, and Innovation Committee Meeting",
+  "portal_document_id": 17406,
+  "portal_last_modified_utc": "2026-10-23T13:10:54+00:00"
+}

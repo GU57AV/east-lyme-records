@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "BOE April 11 2011 FFO Comm Minutes (pdf)",
+  "filename": "FFO-Minutes-4-11-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/FFO-Minutes-4-11-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:36:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8dd1f166e60be7124f914b7777a878010835dec7428b2cd547ccf4ee48e00c4d",
+  "bytes": 95824,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jul 2014 16:57:32 GMT",
+  "etag": "\"1663dd0-17650-4fe2a2fddf700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-04-11_FFO-Minutes-4-11-11--8dd1f166e60b.pdf",
+  "versions": [
+    {
+      "sha256": "8dd1f166e60be7124f914b7777a878010835dec7428b2cd547ccf4ee48e00c4d",
+      "bytes": 95824,
+      "retrieved_utc": "2026-11-25T22:36:15+00:00",
+      "http_last_modified": "Mon, 14 Jul 2014 16:57:32 GMT"
+    }
+  ]
+}

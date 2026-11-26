@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Finance, Facilities, and Operations (FFO) Committee Meetings - Aug 31 2026 - Agenda Packet",
+  "filename": "Finance-Facilities-and-Operations-FFO-Committee-Meetings-Aug-31-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16754",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=608",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:18:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1255b517b078f362f0e8f11629f32717b016e5a2148ffe9e8da32aad0f2e3e46",
+  "bytes": 254252,
+  "pages": 0,
+  "http_last_modified": "Fri, 28 Aug 2026 19:16:17",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-08-31_Finance-Facilities-and-Operations-FFO-Committee-Meetings-Aug-31-2026-Agenda-Packet--1255b517b078.pdf",
+  "versions": [
+    {
+      "sha256": "1255b517b078f362f0e8f11629f32717b016e5a2148ffe9e8da32aad0f2e3e46",
+      "bytes": 254252,
+      "retrieved_utc": "2026-11-25T23:18:06+00:00",
+      "http_last_modified": "Fri, 28 Aug 2026 19:16:17"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 608,
+  "meeting_date": "2026-08-31",
+  "meeting_type": "Finance, Facilities, and Operations (FFO) Committee Meeting",
+  "portal_document_id": 16754,
+  "portal_last_modified_utc": "2026-08-28T19:16:17+00:00"
+}

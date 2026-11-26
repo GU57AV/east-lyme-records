@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": true,
+  "link_text": "BOE June 3 2009 Budget Comm Minutes (pdf)",
+  "filename": "BOE6-03-09BudgetComMins.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE6-03-09BudgetComMins.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:54:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3e02425cba18c9ffe524d31986fc30e948f8a617f83ac1861c6c3b9f7db71bc",
+  "bytes": 55921,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:15 GMT",
+  "etag": "\"1663efd-da71-520826885f4c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-06-03_BOE6-03-09BudgetComMins--a3e02425cba1.pdf",
+  "versions": [
+    {
+      "sha256": "a3e02425cba18c9ffe524d31986fc30e948f8a617f83ac1861c6c3b9f7db71bc",
+      "bytes": 55921,
+      "retrieved_utc": "2026-11-25T22:54:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:15 GMT"
+    }
+  ]
+}

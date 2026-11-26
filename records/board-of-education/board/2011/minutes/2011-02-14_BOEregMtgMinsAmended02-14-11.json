@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOE Feb 14 2011 Regular Meeting Minutes (pdf)",
+  "filename": "BOEregMtgMinsAmended02-14-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMtgMinsAmended02-14-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:24:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b472a8708424ab1e7debaf9391c8210e0a11474f78911fe9214b8e4318841c29",
+  "bytes": 186407,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:31 GMT",
+  "etag": "\"1661ea2-2d827-52082697a18c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-02-14_BOEregMtgMinsAmended02-14-11--b472a8708424.pdf",
+  "versions": [
+    {
+      "sha256": "b472a8708424ab1e7debaf9391c8210e0a11474f78911fe9214b8e4318841c29",
+      "bytes": 186407,
+      "retrieved_utc": "2026-11-25T21:24:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:31 GMT"
+    }
+  ]
+}

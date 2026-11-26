@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Personnel Policy Committee (Non-Union/Non-Administrative) Meeting - Mar 16 2026 - Agenda Packet",
+  "filename": "Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-Mar-16-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15731",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=598",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:34:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6a27e23de3e92d897c891fa1b1fb6193655fb05e8c883045b5cdd1cda8c85175",
+  "bytes": 50034,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Mar 2026 16:03:15",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-03-16_Personnel-Policy-Committee-Non-Union-Non-Administrative-Meeting-Mar-16-2026-Agenda-Packet--6a27e23de3e9.pdf",
+  "versions": [
+    {
+      "sha256": "6a27e23de3e92d897c891fa1b1fb6193655fb05e8c883045b5cdd1cda8c85175",
+      "bytes": 50034,
+      "retrieved_utc": "2026-11-25T23:34:01+00:00",
+      "http_last_modified": "Mon, 16 Mar 2026 16:03:15"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 598,
+  "meeting_date": "2026-03-16",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 15731,
+  "portal_last_modified_utc": "2026-03-16T16:03:15+00:00"
+}

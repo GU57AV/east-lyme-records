@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOE Jan 19 2011 Special Meeting Minutes (pdf)",
+  "filename": "BOEspcMtgMins01-19-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEspcMtgMins01-19-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:26:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7f5b31162211b40021c55f5b0953b4a2dc356632044fc7dcd8160fcb1ac2900a",
+  "bytes": 202524,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jul 2014 16:04:10 GMT",
+  "etag": "\"166385c-3171c-4fe2971035280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-01-19_BOEspcMtgMins01-19-11--7f5b31162211.pdf",
+  "versions": [
+    {
+      "sha256": "7f5b31162211b40021c55f5b0953b4a2dc356632044fc7dcd8160fcb1ac2900a",
+      "bytes": 202524,
+      "retrieved_utc": "2026-11-25T21:26:03+00:00",
+      "http_last_modified": "Mon, 14 Jul 2014 16:04:10 GMT"
+    }
+  ]
+}

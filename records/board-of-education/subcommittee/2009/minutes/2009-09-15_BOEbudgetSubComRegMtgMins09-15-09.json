@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": true,
+  "link_text": "BOE September 15 2009 Budget Comm Minutes (pdf)",
+  "filename": "BOEbudgetSubComRegMtgMins09-15-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEbudgetSubComRegMtgMins09-15-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:53:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c35435219e5e532db5c8980c100418607106d9e7b052dc9d6b862720c1d3e0c8",
+  "bytes": 53845,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:19 GMT",
+  "etag": "\"1661b8c-d255-5208268c2fdc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-09-15_BOEbudgetSubComRegMtgMins09-15-09--c35435219e5e.pdf",
+  "versions": [
+    {
+      "sha256": "c35435219e5e532db5c8980c100418607106d9e7b052dc9d6b862720c1d3e0c8",
+      "bytes": 53845,
+      "retrieved_utc": "2026-11-25T22:53:43+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:19 GMT"
+    }
+  ]
+}

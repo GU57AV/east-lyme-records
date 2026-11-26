@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE June 11 2012 AAA Comm Minutes (pdf)",
+  "filename": "6-11-12-AAA-Committee-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/6-11-12-AAA-Committee-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:22:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2794279eaa19e06a58dda4475468becbda087d5e7d2663f7ab55f3c2c41b1836",
+  "bytes": 238020,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:53 GMT",
+  "etag": "\"1663b2e-3a1c4-5208263a2bc40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-06-11_6-11-12-AAA-Committee-Minutes--2794279eaa19.pdf",
+  "versions": [
+    {
+      "sha256": "2794279eaa19e06a58dda4475468becbda087d5e7d2663f7ab55f3c2c41b1836",
+      "bytes": 238020,
+      "retrieved_utc": "2026-11-25T22:22:29+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:53 GMT"
+    }
+  ]
+}

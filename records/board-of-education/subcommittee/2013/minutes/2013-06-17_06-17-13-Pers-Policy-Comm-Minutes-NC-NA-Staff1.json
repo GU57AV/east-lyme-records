@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": true,
+  "link_text": "BOE June 17 2013 Pers Policy Comm Minutes -- NC-NA Staff (pdf)",
+  "filename": "06-17-13-Pers-Policy-Comm-Minutes-NC-NA-Staff1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/06-17-13-Pers-Policy-Comm-Minutes-NC-NA-Staff1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-2013-sub-committee-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:13:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3cf3771ce4ff3e49b0c31479025417798dc0bf4c8f6c61b8c73a6bd916bb00c5",
+  "bytes": 246483,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:26:47 GMT",
+  "etag": "\"1663835-3c2d3-520825fb3a7c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2013/2013-06-17_06-17-13-Pers-Policy-Comm-Minutes-NC-NA-Staff1--3cf3771ce4ff.pdf",
+  "versions": [
+    {
+      "sha256": "3cf3771ce4ff3e49b0c31479025417798dc0bf4c8f6c61b8c73a6bd916bb00c5",
+      "bytes": 246483,
+      "retrieved_utc": "2026-11-25T22:13:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:26:47 GMT"
+    }
+  ]
+}

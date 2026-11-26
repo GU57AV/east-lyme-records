@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE February 8 2010 Regular Meeting Agenda (pdf)",
+  "filename": "BOEregAgenda02-8-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregAgenda02-8-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:32:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "034572eb2a13a6c5f0c00d09977127f03e357e2f128440b7db1546f843686533",
+  "bytes": 111096,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jul 2014 13:16:58 GMT",
+  "etag": "\"1661bc0-1b1f8-4fe4f56bde680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-02-08_BOEregAgenda02-8-10--034572eb2a13.pdf",
+  "versions": [
+    {
+      "sha256": "034572eb2a13a6c5f0c00d09977127f03e357e2f128440b7db1546f843686533",
+      "bytes": 111096,
+      "retrieved_utc": "2026-11-25T21:32:47+00:00",
+      "http_last_modified": "Wed, 16 Jul 2014 13:16:58 GMT"
+    }
+  ]
+}

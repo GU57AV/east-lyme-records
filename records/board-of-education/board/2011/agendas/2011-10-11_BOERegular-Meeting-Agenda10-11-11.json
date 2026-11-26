@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOE October 11 2011 Regular Meeting Agenda (pdf)",
+  "filename": "BOERegular-Meeting-Agenda10-11-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOERegular-Meeting-Agenda10-11-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:19:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c45e5a9dbd8c5761e2ae18a88c6148e39b6c4143dafcf03fbbad8a129d0c131a",
+  "bytes": 134049,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:31 GMT",
+  "etag": "\"1661f9c-20ba1-52082697a18c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-10-11_BOERegular-Meeting-Agenda10-11-11--c45e5a9dbd8c.pdf",
+  "versions": [
+    {
+      "sha256": "c45e5a9dbd8c5761e2ae18a88c6148e39b6c4143dafcf03fbbad8a129d0c131a",
+      "bytes": 134049,
+      "retrieved_utc": "2026-11-25T21:19:20+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:31 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Jan 13 2014 Aquatic & Fitness Center Minutes (pdf)",
+  "filename": "Aquatic-Fitness-Center-Minutes-01-13-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Aquatic-Fitness-Center-Minutes-01-13-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T22:12:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4bcfb9b91314c7f9df602dd497034c4a2e32b5da086b7ee274e53d8a06665f2",
+  "bytes": 68889,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:10:35 GMT",
+  "etag": "\"16634c1-10d19-5208225c41cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-01-13_Aquatic-Fitness-Center-Minutes-01-13-2014--a4bcfb9b9131.pdf",
+  "versions": [
+    {
+      "sha256": "a4bcfb9b91314c7f9df602dd497034c4a2e32b5da086b7ee274e53d8a06665f2",
+      "bytes": 68889,
+      "retrieved_utc": "2026-11-25T22:12:05+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:10:35 GMT"
+    }
+  ]
+}

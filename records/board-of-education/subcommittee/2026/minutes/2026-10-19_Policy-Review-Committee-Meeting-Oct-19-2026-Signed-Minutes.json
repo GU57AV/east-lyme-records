@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Policy Review Committee Meeting - Oct 19 2026 - Signed Minutes",
+  "filename": "Policy-Review-Committee-Meeting-Oct-19-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/17588",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=612",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:03:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a03d3ec585336ed00015bfa4a83bce59bafbe82a2cd2c454b1ca205b57db7066",
+  "bytes": 82495,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Nov 2026 16:39:32",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-10-19_Policy-Review-Committee-Meeting-Oct-19-2026-Signed-Minutes--a03d3ec58533.pdf",
+  "versions": [
+    {
+      "sha256": "a03d3ec585336ed00015bfa4a83bce59bafbe82a2cd2c454b1ca205b57db7066",
+      "bytes": 82495,
+      "retrieved_utc": "2026-11-25T23:03:32+00:00",
+      "http_last_modified": "Wed, 04 Nov 2026 16:39:32"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 612,
+  "meeting_date": "2026-10-19",
+  "meeting_type": "Policy Review Committee Meeting",
+  "portal_document_id": 17588,
+  "portal_last_modified_utc": "2026-11-04T16:39:32+00:00"
+}

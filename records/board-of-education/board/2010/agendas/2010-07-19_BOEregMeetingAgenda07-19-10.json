@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE July 19 2010 Regular Meeting Agenda (pdf)",
+  "filename": "BOEregMeetingAgenda07-19-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMeetingAgenda07-19-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:28:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ba21add27cfd8d9116b0ff49a4442f8186efd75fa5c9ebc9014bf6a7b9e57970",
+  "bytes": 107042,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:25 GMT",
+  "etag": "\"1663ba5-1a222-52082691e8b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-07-19_BOEregMeetingAgenda07-19-10--ba21add27cfd.pdf",
+  "versions": [
+    {
+      "sha256": "ba21add27cfd8d9116b0ff49a4442f8186efd75fa5c9ebc9014bf6a7b9e57970",
+      "bytes": 107042,
+      "retrieved_utc": "2026-11-25T21:28:45+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:25 GMT"
+    }
+  ]
+}

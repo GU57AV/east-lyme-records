@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOE November 14 2011 Regular Meeting Agenda (pdf)",
+  "filename": "BOEagn11-14-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEagn11-14-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:18:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3e6cf45a8b69c0661fcaee3b7e24aee68cb8a1a1eb934c136b25576cd96c8a5c",
+  "bytes": 82907,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jul 2014 15:07:52 GMT",
+  "etag": "\"1661b94-143db-4fe28a7ab2200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-11-14_BOEagn11-14-11--3e6cf45a8b69.pdf",
+  "versions": [
+    {
+      "sha256": "3e6cf45a8b69c0661fcaee3b7e24aee68cb8a1a1eb934c136b25576cd96c8a5c",
+      "bytes": 82907,
+      "retrieved_utc": "2026-11-25T21:18:19+00:00",
+      "http_last_modified": "Mon, 14 Jul 2014 15:07:52 GMT"
+    }
+  ]
+}

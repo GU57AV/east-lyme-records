@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": true,
+  "link_text": "BOE November 9 2009 Building Grounds Comm Agenda (pdf)",
+  "filename": "BOEagendaBldg-a-Grnds11-09-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEagendaBldg-a-Grnds11-09-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:51:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "85d8b6b739943f441b0e28dbc591dd838b654755b8e0db30369d62bd84568e61",
+  "bytes": 53231,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:17 GMT",
+  "etag": "\"166398b-cfef-5208268a47940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-11-09_BOEagendaBldg-a-Grnds11-09-09--85d8b6b73994.pdf",
+  "versions": [
+    {
+      "sha256": "85d8b6b739943f441b0e28dbc591dd838b654755b8e0db30369d62bd84568e61",
+      "bytes": 53231,
+      "retrieved_utc": "2026-11-25T22:51:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:17 GMT"
+    }
+  ]
+}

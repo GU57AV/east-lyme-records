@@ -1,0 +1,29 @@
+{
+  "board": "planning-commission",
+  "kind": "agendas",
+  "year": "2027",
+  "subcommittee": false,
+  "link_text": "Planning Commission 2027 Schedule of Meetings (pdf)",
+  "filename": "Planning-Commission-2027-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Planning-Commission-2027-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/planning-commission/planning-commission-2027-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-25T20:23:00+00:00",
+  "seen_in_initial_import": false,
+  "not_on_site_at_utc": "2026-11-25T14:42:54+00:00",
+  "sha256": "f0c983caa3f2affdde661c53e1571dbbb69ba6276445b44fd71b39d3219928cd",
+  "bytes": 55338,
+  "pages": 0,
+  "http_last_modified": "Wed, 25 Nov 2026 19:23:57 GMT",
+  "etag": "\"17c019d-d82a-6611ec4b9e289\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/planning-commission-2027/2026-11-00_Planning-Commission-2027-Schedule-of-Meetings--f0c983caa3f2.pdf",
+  "versions": [
+    {
+      "sha256": "f0c983caa3f2affdde661c53e1571dbbb69ba6276445b44fd71b39d3219928cd",
+      "bytes": 55338,
+      "retrieved_utc": "2026-11-25T20:23:00+00:00",
+      "http_last_modified": "Wed, 25 Nov 2026 19:23:57 GMT"
+    }
+  ]
+}

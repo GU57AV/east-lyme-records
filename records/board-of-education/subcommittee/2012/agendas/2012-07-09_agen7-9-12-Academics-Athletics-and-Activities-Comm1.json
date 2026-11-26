@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE July 9 2012 AAA Comm Agenda (pdf)",
+  "filename": "agen7-9-12-Academics-Athletics-and-Activities-Comm1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/agen7-9-12-Academics-Athletics-and-Activities-Comm1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2012-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:14:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "52bd020576e52fd9d7a7894a8768034ab58dbbc5f0d8f85f65d4eaa49ecc8cd1",
+  "bytes": 10287,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:16 GMT",
+  "etag": "\"166404b-282f-520826501b000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-07-09_agen7-9-12-Academics-Athletics-and-Activities-Comm1--52bd020576e5.pdf",
+  "versions": [
+    {
+      "sha256": "52bd020576e52fd9d7a7894a8768034ab58dbbc5f0d8f85f65d4eaa49ecc8cd1",
+      "bytes": 10287,
+      "retrieved_utc": "2026-11-25T22:14:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:16 GMT"
+    }
+  ]
+}

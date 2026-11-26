@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "CANCELLED - Board of Education Regular Meeting - Jan 26 2026 - Agenda Packet",
+  "filename": "CANCELLED-Board-of-Education-Regular-Meeting-Jan-26-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/14988",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=589",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:47:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6a1b0c346dec974e522ab4456f33fb6c962905469fb384bbe8b19fa153d2f4ef",
+  "bytes": 34471,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Jan 2026 20:06:24",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-01-26_CANCELLED-Board-of-Education-Regular-Meeting-Jan-26-2026-Agenda-Packet--6a1b0c346dec.pdf",
+  "versions": [
+    {
+      "sha256": "6a1b0c346dec974e522ab4456f33fb6c962905469fb384bbe8b19fa153d2f4ef",
+      "bytes": 34471,
+      "retrieved_utc": "2026-11-25T23:47:55+00:00",
+      "http_last_modified": "Tue, 20 Jan 2026 20:06:24"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 589,
+  "meeting_date": "2026-01-26",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 14988,
+  "portal_last_modified_utc": "2026-01-20T20:06:24+00:00"
+}

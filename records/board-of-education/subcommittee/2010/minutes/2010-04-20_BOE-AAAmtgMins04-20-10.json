@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": true,
+  "link_text": "BOE April 20 2010 AAA Comm Meeting Minutes (pdf)",
+  "filename": "BOE-AAAmtgMins04-20-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-AAAmtgMins04-20-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:48:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "44fd42655b7ddd10b13c9d03b69fd6e4ac4e96fe61c9b8cb294a0bd624474604",
+  "bytes": 66610,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jul 2014 15:32:00 GMT",
+  "etag": "\"1661daf-10432-4fe5139a89c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-04-20_BOE-AAAmtgMins04-20-10--44fd42655b7d.pdf",
+  "versions": [
+    {
+      "sha256": "44fd42655b7ddd10b13c9d03b69fd6e4ac4e96fe61c9b8cb294a0bd624474604",
+      "bytes": 66610,
+      "retrieved_utc": "2026-11-25T22:48:21+00:00",
+      "http_last_modified": "Wed, 16 Jul 2014 15:32:00 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE January 19 2010 Public Hearing Minutes (pdf)",
+  "filename": "BOEpubHearingMinutes01-19-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEpubHearingMinutes01-19-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:41:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f680a0fa53f3302471bc6f4b7edb043c7fb800080f07619f6713f8e7ebd20f1e",
+  "bytes": 85911,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:24 GMT",
+  "etag": "\"1663b37-14f97-52082690f4900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-01-19_BOEpubHearingMinutes01-19-10--f680a0fa53f3.pdf",
+  "versions": [
+    {
+      "sha256": "f680a0fa53f3302471bc6f4b7edb043c7fb800080f07619f6713f8e7ebd20f1e",
+      "bytes": 85911,
+      "retrieved_utc": "2026-11-25T21:41:11+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:24 GMT"
+    }
+  ]
+}

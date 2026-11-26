@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "East Lyme/Salem Cooperative Meeting - Sep 21 2026 - Signed Minutes",
+  "filename": "East-Lyme-Salem-Cooperative-Meeting-Sep-21-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16935",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=606",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:14:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d4dc1cd6ac068fae8cb8fbd647405d8f222d0d39c474603aad6ed051432ee5ff",
+  "bytes": 125121,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Sep 2026 20:07:07",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-09-21_East-Lyme-Salem-Cooperative-Meeting-Sep-21-2026-Signed-Minutes--d4dc1cd6ac06.pdf",
+  "versions": [
+    {
+      "sha256": "d4dc1cd6ac068fae8cb8fbd647405d8f222d0d39c474603aad6ed051432ee5ff",
+      "bytes": 125121,
+      "retrieved_utc": "2026-11-25T23:14:02+00:00",
+      "http_last_modified": "Wed, 23 Sep 2026 20:07:07"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 606,
+  "meeting_date": "2026-09-21",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 16935,
+  "portal_last_modified_utc": "2026-09-23T20:07:07+00:00"
+}

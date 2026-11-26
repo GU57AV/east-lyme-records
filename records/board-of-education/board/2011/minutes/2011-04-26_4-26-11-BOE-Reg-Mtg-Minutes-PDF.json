@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BOE April 26 2011 Regular Meeting Minutes (pdf)",
+  "filename": "4-26-11-BOE-Reg-Mtg-Minutes-PDF.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/4-26-11-BOE-Reg-Mtg-Minutes-PDF.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:23:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d943486ba9d54f9831326968a3f92d4ff4487b10585aa6c9359367dd92856615",
+  "bytes": 299201,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:36 GMT",
+  "etag": "\"1661fdc-490c1-52082629f5600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-04-26_4-26-11-BOE-Reg-Mtg-Minutes-PDF--d943486ba9d5.pdf",
+  "versions": [
+    {
+      "sha256": "d943486ba9d54f9831326968a3f92d4ff4487b10585aa6c9359367dd92856615",
+      "bytes": 299201,
+      "retrieved_utc": "2026-11-25T21:23:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:36 GMT"
+    }
+  ]
+}

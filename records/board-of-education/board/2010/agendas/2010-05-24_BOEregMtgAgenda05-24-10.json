@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE May 24 2010 Regular Meeting Agenda (pdf)",
+  "filename": "BOEregMtgAgenda05-24-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMtgAgenda05-24-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:29:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "38b1c123997fae004a8265ca63f7cc8b81548f048a095a672308fe064766e5bc",
+  "bytes": 199079,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:28 GMT",
+  "etag": "\"16640f1-309a7-52082694c5200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-05-24_BOEregMtgAgenda05-24-10--38b1c123997f.pdf",
+  "versions": [
+    {
+      "sha256": "38b1c123997fae004a8265ca63f7cc8b81548f048a095a672308fe064766e5bc",
+      "bytes": 199079,
+      "retrieved_utc": "2026-11-25T21:29:25+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:28 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE March 22 2010 Regular Meeting Agenda (pdf)",
+  "filename": "BOEregMtgAgenda03-22-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMtgAgenda03-22-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:31:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72b38185d201c33fcc5c55b42dabed6f783403d763bc1b89c638c18c834cb0c2",
+  "bytes": 143228,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:26 GMT",
+  "etag": "\"16637a3-22f7c-52082692dcd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-03-22_BOEregMtgAgenda03-22-10--72b38185d201.pdf",
+  "versions": [
+    {
+      "sha256": "72b38185d201c33fcc5c55b42dabed6f783403d763bc1b89c638c18c834cb0c2",
+      "bytes": 143228,
+      "retrieved_utc": "2026-11-25T21:31:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:26 GMT"
+    }
+  ]
+}

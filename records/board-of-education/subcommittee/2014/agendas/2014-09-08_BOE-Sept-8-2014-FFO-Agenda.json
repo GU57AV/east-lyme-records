@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Sept 8 2014 FFO Agenda (pdf)",
+  "filename": "BOE-Sept-8-2014-FFO-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Sept-8-2014-FFO-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:53:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f2acd2d85ddb83754cdc01a4915f2ebc1325b30c7a911292b24b6495aa09e96c",
+  "bytes": 44060,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:14 GMT",
+  "etag": "\"1663c14-ac1c-520826876b280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-09-08_BOE-Sept-8-2014-FFO-Agenda--f2acd2d85ddb.pdf",
+  "versions": [
+    {
+      "sha256": "f2acd2d85ddb83754cdc01a4915f2ebc1325b30c7a911292b24b6495aa09e96c",
+      "bytes": 44060,
+      "retrieved_utc": "2026-11-25T21:53:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:14 GMT"
+    }
+  ]
+}

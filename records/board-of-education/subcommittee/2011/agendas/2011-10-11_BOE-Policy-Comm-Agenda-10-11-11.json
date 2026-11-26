@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": true,
+  "link_text": "BOE Oct 11 2011 Pers Policy Agenda (pdf)",
+  "filename": "BOE-Policy-Comm-Agenda-10-11-11.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Policy-Comm-Agenda-10-11-11.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:28:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7b3546f0eae980e53d92ede9c67337e52ac7b907cd9a7b711f751b85bbdcb77a",
+  "bytes": 77779,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:07 GMT",
+  "etag": "\"1661f4d-12fd3-52082680be2c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2011/2011-10-11_BOE-Policy-Comm-Agenda-10-11-11--7b3546f0eae9.pdf",
+  "versions": [
+    {
+      "sha256": "7b3546f0eae980e53d92ede9c67337e52ac7b907cd9a7b711f751b85bbdcb77a",
+      "bytes": 77779,
+      "retrieved_utc": "2026-11-25T22:28:12+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:07 GMT"
+    }
+  ]
+}

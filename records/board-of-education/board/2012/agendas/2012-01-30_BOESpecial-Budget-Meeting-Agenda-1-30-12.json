@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOE Jan 30 2012 Special Budget Meeting Agenda (pdf)",
+  "filename": "BOESpecial-Budget-Meeting-Agenda-1-30-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOESpecial-Budget-Meeting-Agenda-1-30-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:09:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d43cd47758c3e258f140acd7a1e96f6a42db1e95da8ceeaf3cfb6cc5bfc0259d",
+  "bytes": 22456,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:38 GMT",
+  "etag": "\"16614a4-57b8-5208269e4e880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-01-30_BOESpecial-Budget-Meeting-Agenda-1-30-12--d43cd47758c3.pdf",
+  "versions": [
+    {
+      "sha256": "d43cd47758c3e258f140acd7a1e96f6a42db1e95da8ceeaf3cfb6cc5bfc0259d",
+      "bytes": 22456,
+      "retrieved_utc": "2026-11-25T21:09:35+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:38 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE May 29 2012 Pers Policy Comm Non-Union Non-Admin (pdf)",
+  "filename": "min5-29-12-Pers-Policy-Comm-Non-Union-Non-Admin-FINAL.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/min5-29-12-Pers-Policy-Comm-Non-Union-Non-Admin-FINAL.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:22:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dd8bf5e3c208d009840f37789e0fe4e99b6d520f7dec3a44292d6c7a0b3ef167",
+  "bytes": 91254,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:43 GMT",
+  "etag": "\"1663813-16476-52082b54b46c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-05-29_min5-29-12-Pers-Policy-Comm-Non-Union-Non-Admin-FINAL--dd8bf5e3c208.pdf",
+  "versions": [
+    {
+      "sha256": "dd8bf5e3c208d009840f37789e0fe4e99b6d520f7dec3a44292d6c7a0b3ef167",
+      "bytes": 91254,
+      "retrieved_utc": "2026-11-25T22:22:50+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:43 GMT"
+    }
+  ]
+}

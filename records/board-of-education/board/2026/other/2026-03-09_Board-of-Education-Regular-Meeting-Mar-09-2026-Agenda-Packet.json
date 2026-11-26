@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Board of Education Regular Meeting - Mar 09 2026 - Agenda Packet",
+  "filename": "Board-of-Education-Regular-Meeting-Mar-09-2026-Agenda-Packet.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15598",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=568",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:36:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c65cf52f203584a13b2e7b03cc550d54e2c2f9ca7ad04fd9c40bc7903ef38195",
+  "bytes": 8126633,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Mar 2026 14:50:40",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-03-09_Board-of-Education-Regular-Meeting-Mar-09-2026-Agenda-Packet--c65cf52f2035.pdf",
+  "versions": [
+    {
+      "sha256": "c65cf52f203584a13b2e7b03cc550d54e2c2f9ca7ad04fd9c40bc7903ef38195",
+      "bytes": 8126633,
+      "retrieved_utc": "2026-11-25T23:36:03+00:00",
+      "http_last_modified": "Wed, 11 Mar 2026 14:50:40"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 568,
+  "meeting_date": "2026-03-09",
+  "meeting_type": "Board of Education Regular Meeting",
+  "portal_document_id": 15598,
+  "portal_last_modified_utc": "2026-03-11T14:50:40+00:00"
+}

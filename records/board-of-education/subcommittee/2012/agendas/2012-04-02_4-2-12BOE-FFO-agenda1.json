@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": true,
+  "link_text": "BOE April 2 2012 FFO Comm Agenda (pdf)",
+  "filename": "4-2-12BOE-FFO-agenda1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/4-2-12BOE-FFO-agenda1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2012-2/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:17:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "528a732f6c4b536bdcce72bc7aad6c21ce6fd3a708fa8df4244b7c2bc4519c85",
+  "bytes": 6811,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 Jul 2014 15:18:04 GMT",
+  "etag": "\"16637db-1a9b-4fdec729f6300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-04-02_4-2-12BOE-FFO-agenda1--528a732f6c4b.pdf",
+  "versions": [
+    {
+      "sha256": "528a732f6c4b536bdcce72bc7aad6c21ce6fd3a708fa8df4244b7c2bc4519c85",
+      "bytes": 6811,
+      "retrieved_utc": "2026-11-25T22:17:48+00:00",
+      "http_last_modified": "Fri, 11 Jul 2014 15:18:04 GMT"
+    }
+  ]
+}

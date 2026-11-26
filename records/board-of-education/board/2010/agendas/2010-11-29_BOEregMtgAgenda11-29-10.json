@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BOE November 29 2010 Regular Meeting Agenda (pdf)",
+  "filename": "BOEregMtgAgenda11-29-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMtgAgenda11-29-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:26:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6828a7016154b0b6f6ca9775202f833180117ae512cc00ba68eae09ae904a78c",
+  "bytes": 96922,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:30 GMT",
+  "etag": "\"1663ff7-17a9a-52082696ad680\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-11-29_BOEregMtgAgenda11-29-10--6828a7016154.pdf",
+  "versions": [
+    {
+      "sha256": "6828a7016154b0b6f6ca9775202f833180117ae512cc00ba68eae09ae904a78c",
+      "bytes": 96922,
+      "retrieved_utc": "2026-11-25T21:26:44+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:30 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOE Jan 9 2012 Reg Mtg Minutes (pdf)",
+  "filename": "1-9-12-BOE-Reg-Mtg-Minutes-PDF.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/1-9-12-BOE-Reg-Mtg-Minutes-PDF.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:17:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "137cd712851590cbbe47a626457f36dd7180b65baf46b05bf14dc687e69ed7a2",
+  "bytes": 206001,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:26:50 GMT",
+  "etag": "\"1661f60-324b1-520825fe16e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-01-09_1-9-12-BOE-Reg-Mtg-Minutes-PDF--137cd7128515.pdf",
+  "versions": [
+    {
+      "sha256": "137cd712851590cbbe47a626457f36dd7180b65baf46b05bf14dc687e69ed7a2",
+      "bytes": 206001,
+      "retrieved_utc": "2026-11-25T21:17:19+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:26:50 GMT"
+    }
+  ]
+}

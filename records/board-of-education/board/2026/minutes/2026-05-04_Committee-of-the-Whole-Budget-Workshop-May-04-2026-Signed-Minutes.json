@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Committee of the Whole Budget Workshop - May 04 2026 - Signed Minutes",
+  "filename": "Committee-of-the-Whole-Budget-Workshop-May-04-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16183",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=602",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:28:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "514bc107da3f665fccce4a5a456d2705836f354bbb4d1cf742e8e1ed7a27875f",
+  "bytes": 75547,
+  "pages": 0,
+  "http_last_modified": "Thu, 21 May 2026 16:21:19",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-05-04_Committee-of-the-Whole-Budget-Workshop-May-04-2026-Signed-Minutes--514bc107da3f.pdf",
+  "versions": [
+    {
+      "sha256": "514bc107da3f665fccce4a5a456d2705836f354bbb4d1cf742e8e1ed7a27875f",
+      "bytes": 75547,
+      "retrieved_utc": "2026-11-25T23:28:57+00:00",
+      "http_last_modified": "Thu, 21 May 2026 16:21:19"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 602,
+  "meeting_date": "2026-05-04",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 16183,
+  "portal_last_modified_utc": "2026-05-21T16:21:19+00:00"
+}

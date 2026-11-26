@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": true,
+  "link_text": "BOE November 8 2010 AAA Comm Agenda (pdf)",
+  "filename": "BOE-AAAregMtgAgenda11-08-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-AAAregMtgAgenda11-08-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:38:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2502c5689c4a01d83cb47eeaee981ffd24477b58c517c83fbb3d8ae717d2d4ba",
+  "bytes": 19908,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:01 GMT",
+  "etag": "\"1664017-4dc4-5208267b05540\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-11-08_BOE-AAAregMtgAgenda11-08-10--2502c5689c4a.pdf",
+  "versions": [
+    {
+      "sha256": "2502c5689c4a01d83cb47eeaee981ffd24477b58c517c83fbb3d8ae717d2d4ba",
+      "bytes": 19908,
+      "retrieved_utc": "2026-11-25T22:38:56+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:01 GMT"
+    }
+  ]
+}

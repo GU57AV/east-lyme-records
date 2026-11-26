@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": true,
+  "link_text": "BOE May 12 2010 EL Salem Coop Minutes (pdf)",
+  "filename": "BOEsalemCoopGroupMins05-12-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEsalemCoopGroupMins05-12-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-minutes-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:47:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9de1176bfdb620254d3bff408efe29c63a4948f2b83ccf2d48fe1f61293407e6",
+  "bytes": 56643,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:33 GMT",
+  "etag": "\"1663e2b-dd43-5208269989d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-05-12_BOEsalemCoopGroupMins05-12-10--9de1176bfdb6.pdf",
+  "versions": [
+    {
+      "sha256": "9de1176bfdb620254d3bff408efe29c63a4948f2b83ccf2d48fe1f61293407e6",
+      "bytes": 56643,
+      "retrieved_utc": "2026-11-25T22:47:20+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:33 GMT"
+    }
+  ]
+}

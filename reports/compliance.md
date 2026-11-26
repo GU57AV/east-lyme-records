@@ -1,6 +1,6 @@
 # Posting-deadline report
 
-_Updated Nov 25, 2026 1:45 PM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
+_Updated Nov 25, 2026 7:03 PM ET. Unofficial and automatic: each flag is a lead to review, not a finding._
 
 **How this works.** For documents first seen after the archive started, the archive records the last check of the Town's page that did *not* show the document and the check that first did. A flag is raised only when the document was provably missing at a check made after its deadline. Documents already online when the archive started are not checked.
 

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2010",
+  "subcommittee": true,
+  "link_text": "BOE August 9 2010 FFO Comm Agenda (pdf)",
+  "filename": "BOE-FFOagenda08-09-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-FFOagenda08-09-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2010/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T22:39:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d20c21bfb6948921da1c4f0e6e078bfc7f2f23a073276a1d2a16b23cab3c26dd",
+  "bytes": 67890,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Jul 2014 14:31:34 GMT",
+  "etag": "\"16639cf-10932-4fe5061883d80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2010/2010-08-09_BOE-FFOagenda08-09-10--d20c21bfb694.pdf",
+  "versions": [
+    {
+      "sha256": "d20c21bfb6948921da1c4f0e6e078bfc7f2f23a073276a1d2a16b23cab3c26dd",
+      "bytes": 67890,
+      "retrieved_utc": "2026-11-25T22:39:17+00:00",
+      "http_last_modified": "Wed, 16 Jul 2014 14:31:34 GMT"
+    }
+  ]
+}

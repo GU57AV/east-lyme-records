@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOE December 15 2009 Regular Meeting Agenda (pdf)",
+  "filename": "BOE-Agenda-12-15-09-Regular-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Agenda-12-15-09-Regular-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-agendas-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:41:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4d8a0e0569c7e6650ac6fb9b7e5a73bdaf027ff844ca45ba0a5d84074b485a71",
+  "bytes": 128526,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:29:03 GMT",
+  "etag": "\"166386a-1f60e-5208267ced9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-12-15_BOE-Agenda-12-15-09-Regular-Meeting--4d8a0e0569c7.pdf",
+  "versions": [
+    {
+      "sha256": "4d8a0e0569c7e6650ac6fb9b7e5a73bdaf027ff844ca45ba0a5d84074b485a71",
+      "bytes": 128526,
+      "retrieved_utc": "2026-11-25T21:41:51+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:29:03 GMT"
+    }
+  ]
+}

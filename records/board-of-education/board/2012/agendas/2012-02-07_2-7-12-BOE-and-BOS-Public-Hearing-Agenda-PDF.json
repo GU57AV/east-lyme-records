@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BOE and BOS Feb 7 2012 Public Hearing Agenda (pdf)",
+  "filename": "2-7-12-BOE-and-BOS-Public-Hearing-Agenda-PDF.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2-7-12-BOE-and-BOS-Public-Hearing-Agenda-PDF.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:08:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4433884244098d8fcf7c156f6b14d4afbe5707f412653ef4bad42a4e78d1b4cf",
+  "bytes": 17135,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:27:01 GMT",
+  "etag": "\"1663847-42ef-5208260894740\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2012/2012-02-07_2-7-12-BOE-and-BOS-Public-Hearing-Agenda-PDF--443388424409.pdf",
+  "versions": [
+    {
+      "sha256": "4433884244098d8fcf7c156f6b14d4afbe5707f412653ef4bad42a4e78d1b4cf",
+      "bytes": 17135,
+      "retrieved_utc": "2026-11-25T21:08:35+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:27:01 GMT"
+    }
+  ]
+}

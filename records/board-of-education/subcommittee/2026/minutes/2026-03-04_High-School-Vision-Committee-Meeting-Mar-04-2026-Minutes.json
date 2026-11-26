@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "High School Vision Committee Meeting - Mar 04 2026 - Minutes",
+  "filename": "High-School-Vision-Committee-Meeting-Mar-04-2026-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15620/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=595",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:37:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ab9ef7e43e66dda38397e9340969389b951f2850fab75f4f3e6f1121cba6c2f0",
+  "bytes": 51254,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-03-04_High-School-Vision-Committee-Meeting-Mar-04-2026-Minutes--ab9ef7e43e66.pdf",
+  "versions": [
+    {
+      "sha256": "ab9ef7e43e66dda38397e9340969389b951f2850fab75f4f3e6f1121cba6c2f0",
+      "bytes": 51254,
+      "retrieved_utc": "2026-11-25T23:37:25+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 595,
+  "meeting_date": "2026-03-04",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 15620,
+  "portal_last_modified_utc": "2026-03-09T18:30:58+00:00"
+}

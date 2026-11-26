@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "BOE June 22 2009 Meeting Minutes (pdf)",
+  "filename": "BOEregMtgMins06-22-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOEregMtgMins06-22-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-minutes-2009/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:48:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "536bdd9f4cdac6ae67b5530c36f3ae89959f82f2af80869190770474453dc99a",
+  "bytes": 127246,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Jul 2014 15:57:56 GMT",
+  "etag": "\"1663f8b-1f10e-4feb62b9c2900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2009/2009-06-22_BOEregMtgMins06-22-09--536bdd9f4cda.pdf",
+  "versions": [
+    {
+      "sha256": "536bdd9f4cdac6ae67b5530c36f3ae89959f82f2af80869190770474453dc99a",
+      "bytes": 127246,
+      "retrieved_utc": "2026-11-25T21:48:14+00:00",
+      "http_last_modified": "Mon, 21 Jul 2014 15:57:56 GMT"
+    }
+  ]
+}

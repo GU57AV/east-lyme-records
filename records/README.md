@@ -2,13 +2,13 @@
 
 | Board or commission | Documents | Status |
 |---|---|---|
-| [East Lyme Board of Selectmen](board-of-selectmen/INDEX.md) | 1722 | complete |
+| [East Lyme Board of Selectmen](board-of-selectmen/INDEX.md) | 1723 | complete |
 | [East Lyme Town Meetings](town-meetings/INDEX.md) | 185 | complete |
 | [East Lyme Zoning Commission](zoning-commission/INDEX.md) | 2009 | complete |
-| [East Lyme Planning Commission](planning-commission/INDEX.md) | 667 | complete |
+| [East Lyme Planning Commission](planning-commission/INDEX.md) | 668 | complete |
 | [East Lyme Board of Finance](board-of-finance/INDEX.md) | 876 | complete |
 | [East Lyme Board of Police Commissioners](police-commission/INDEX.md) | 373 | complete |
-| [East Lyme Board of Education](board-of-education/INDEX.md) | 85 | import in progress |
+| [East Lyme Board of Education](board-of-education/INDEX.md) | 569 | import in progress |
 | [East Lyme Zoning Board of Appeals](zoning-board-of-appeals/INDEX.md) | 141 | complete |
 | [East Lyme Inland Wetlands Agency](inland-wetlands-agency/INDEX.md) | 552 | import in progress |
 | East Lyme Water & Sewer Commission | 0 | import in progress |

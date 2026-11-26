@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Elementary Schools Design Steering Committee Agenda 10-28-2014 (pdf)",
+  "filename": "BOE-Elementary-Schools-Design-Steering-Committee-Agenda-10-28-20141.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOE-Elementary-Schools-Design-Steering-Committee-Agenda-10-28-20141.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T21:50:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bdf065ed1fa6fea45e784810d93b36636d387f9961f0d14c7670e0646fa73ad2",
+  "bytes": 51331,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Oct 2014 15:19:00 GMT",
+  "etag": "\"16637f1-c883-506189574e100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-10-28_BOE-Elementary-Schools-Design-Steering-Committee-Agenda-10-28-20141--bdf065ed1fa6.pdf",
+  "versions": [
+    {
+      "sha256": "bdf065ed1fa6fea45e784810d93b36636d387f9961f0d14c7670e0646fa73ad2",
+      "bytes": 51331,
+      "retrieved_utc": "2026-11-25T21:50:55+00:00",
+      "http_last_modified": "Thu, 23 Oct 2014 15:19:00 GMT"
+    }
+  ]
+}

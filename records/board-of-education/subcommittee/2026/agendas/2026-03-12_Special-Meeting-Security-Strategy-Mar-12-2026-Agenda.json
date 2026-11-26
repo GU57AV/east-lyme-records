@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Special Meeting - Security Strategy - Mar 12 2026 - Agenda",
+  "filename": "Special-Meeting-Security-Strategy-Mar-12-2026-Agenda.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/15679/?printPdf=true",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=596",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:34:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e5596690236ca92b9026f41562729017634613a9a8692f31eb8a41a13e6e68db",
+  "bytes": 48670,
+  "pages": 0,
+  "http_last_modified": null,
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-03-12_Special-Meeting-Security-Strategy-Mar-12-2026-Agenda--e5596690236c.pdf",
+  "versions": [
+    {
+      "sha256": "e5596690236ca92b9026f41562729017634613a9a8692f31eb8a41a13e6e68db",
+      "bytes": 48670,
+      "retrieved_utc": "2026-11-25T23:34:42+00:00",
+      "http_last_modified": null
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 596,
+  "meeting_date": "2026-03-12",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 15679,
+  "portal_last_modified_utc": "2026-03-12T18:34:46+00:00"
+}

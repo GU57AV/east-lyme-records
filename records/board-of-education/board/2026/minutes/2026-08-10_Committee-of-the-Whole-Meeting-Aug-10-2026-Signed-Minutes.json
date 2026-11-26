@@ -1,0 +1,35 @@
+{
+  "board": "board-of-education",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Committee of the Whole Meeting - Aug 10 2026 - Signed Minutes",
+  "filename": "Committee-of-the-Whole-Meeting-Aug-10-2026-Signed-Minutes.pdf",
+  "source_url": "https://eastlymeschools.community.highbond.com/document/16795",
+  "listing_page": "https://eastlymeschools.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=607",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-25T23:20:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "48608e7387843684b0a7fadeea1031d8ac0e9c83bf34c052ecbb3df8577c8ffb",
+  "bytes": 61496,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Sep 2026 19:38:22",
+  "etag": null,
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2026/2026-08-10_Committee-of-the-Whole-Meeting-Aug-10-2026-Signed-Minutes--48608e738784.pdf",
+  "versions": [
+    {
+      "sha256": "48608e7387843684b0a7fadeea1031d8ac0e9c83bf34c052ecbb3df8577c8ffb",
+      "bytes": 61496,
+      "retrieved_utc": "2026-11-25T23:20:49+00:00",
+      "http_last_modified": "Fri, 04 Sep 2026 19:38:22"
+    }
+  ],
+  "source": "highbond",
+  "meeting_id": 607,
+  "meeting_date": "2026-08-10",
+  "meeting_type": "Ad Hoc Committee Meeting",
+  "portal_document_id": 16795,
+  "portal_last_modified_utc": "2026-09-04T19:38:22+00:00"
+}

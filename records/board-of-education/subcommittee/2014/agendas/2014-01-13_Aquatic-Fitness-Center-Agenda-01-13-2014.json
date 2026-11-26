@@ -1,0 +1,29 @@
+{
+  "board": "board-of-education",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "BOE Jan 13 2014 Aquatic & Fitness Center Agenda (pdf)",
+  "filename": "Aquatic-Fitness-Center-Agenda-01-13-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Aquatic-Fitness-Center-Agenda-01-13-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-education/board-of-education-sub-committee-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-25T22:03:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a990205b87502f2f77333db0b0b2c8305d07078c64a1cbcad249915af5976434",
+  "bytes": 33617,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:10:34 GMT",
+  "etag": "\"1663488-8351-5208225b4da80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-education-2014/2014-01-13_Aquatic-Fitness-Center-Agenda-01-13-2014--a990205b8750.pdf",
+  "versions": [
+    {
+      "sha256": "a990205b87502f2f77333db0b0b2c8305d07078c64a1cbcad249915af5976434",
+      "bytes": 33617,
+      "retrieved_utc": "2026-11-25T22:03:41+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:10:34 GMT"
+    }
+  ]
+}
