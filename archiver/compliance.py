@@ -323,6 +323,10 @@ def calendar_entries(cfg: dict, by_file: dict):
                "link_only": bool(linkbase) and not linked and linkbase.endswith((".pdf", ".doc", ".docx"))}
 
 
+# Filed on a board's minutes page but not minutes (the ZBA posts its decision notices there).
+NOT_MINUTES = re.compile(r"notice\W+of\W+decision|decision\W+notice|legal\W+notice", re.I)
+
+
 def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
     """Cross-check the Town calendar against posted agendas and minutes.
 
@@ -347,8 +351,10 @@ def calendar_checks(docs, boards: dict, cfg: dict, now: dt.datetime):
             continue
         if m.get("kind") == "agendas" and not re.search(r"schedule", title, re.I):
             agendas.setdefault((m["board"], d), []).append((side, m))
-        elif m.get("kind") == "minutes":
+        elif m.get("kind") == "minutes" and not NOT_MINUTES.search(title):
             minutes.add((m["board"], d, mtype(m)))
+            if re.search(r"meeting", title, re.I):  # "Public Hearing and Regular Meeting Minutes" covers both
+                minutes.add((m["board"], d, "meeting"))
     flags, notes, soon = [], [], []
     summary = {"entries": 0, "matched": 0, "unmatched": {}, "not_covered": {}, "retroactive": 0, "rows": []}
     for ce in calendar_entries(cfg, by_file):

@@ -1,6 +1,6 @@
 # Ordinance enactments: notice and publication check
 
-_Updated 2026-11-26 15:23 UTC._
+_Updated 2026-11-26 15:58 UTC._
 
 Every Board of Selectmen vote enacting an ordinance that the archive can read in the minutes, checked against the Charter:
 
@@ -8,6 +8,19 @@ Every Board of Selectmen vote enacting an ordinance that the archive can read in
 - **§ 3.4.3:** after enactment, notice of adoption *along with the full text* must be published on the Town's website and filed with the Town Clerk. The ordinance can't take effect sooner than 10 days after that notice, and electors have those 10 days to file an overrule petition (200 signatures).
 
 **How to read this.** These are leads to review, not findings. The text comes from OCR, which can misread titles and dates. *Not found* means not found among the pages this archive saves, which may not include every place the Town posts notices. Filing with the Town Clerk and newspaper publication can't be checked here. Posting dates are the archive's own observations for documents that appeared after archiving began; for older files they're the server's file date, which shows when the file was uploaded but isn't proof. The website requirements took effect with the current Charter on December 7, 2023, so only enactments since then are checked.
+
+## November 18, 2026: Amendment To Ordinance Authorizing The Use Of Automated Traffic Enforcement Safety Devices
+
+- **Vote:** passed — [minutes](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2026/minutes/2026-11-18_BOS-November-18-2026-Regular-Meeting-Minutes.md)
+- **Hearing(s):** Nov 18, 2026
+- **Hearing notice / proposed text (§ 3.4.2):** [BOS November 18 2026 Public Hearing Notice (pdf)](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Public-Hearing-Notice.md) — server file date Nov 5, 2026 (upload folder 2026-11)
+- **Notice of adoption (§ 3.4.3):** not found on the Town's website in the archive
+- **Full text posted after adoption:** not found in the archive
+- **On a third-party site (not the Town's website):** [Ord_74.08.pdf (linked from American Legal Publishing — East Lyme Advance Legislative Service (new ordinances not yet in the Code))](https://github.com/GU57AV/east-lyme-records/blob/main/records/watched/amlegal-advance-legislative-service/linked/Ord_74.08.md) — server file date Nov 21, 2026
+
+**To review:**
+- no notice of adoption found on the Town's website in the archive
+- no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive
 
 ## January 21, 2026: Various Water Charges
 
@@ -74,7 +87,7 @@ Every Board of Selectmen vote enacting an ordinance that the archive can read in
 - no notice of adoption found on the Town's website in the archive
 - no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive
 
-## June 4, 2025: Ordinance Establishing The East Lyme Climate Change and Coastal Resiliency Reserve Fund
+## June 4, 2025: Ordinance Establishing The East Lyme Climate Change And Coastal Resiliency Reserve Fund
 
 - **Vote:** passed — [minutes](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2025/minutes/2025-06-04_BOS-June-4-2025-Regular-Meeting-Minutes.md)
 - **Hearing(s):** Jun 4, 2025

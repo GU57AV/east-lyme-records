@@ -59,6 +59,19 @@ def clean(s: str) -> str:
     return " ".join(s.split())
 
 
+def hearing_title(docs, doc_text, day: dt.date) -> str | None:
+    """Title of the ordinance in a Board of Selectmen hearing notice for that day ("... ordinance titled X")."""
+    for side, m in docs:
+        if (m.get("board") == "board-of-selectmen" and side.stem.startswith(day.isoformat())
+                and re.search(r"hearing", f"{m.get('link_text')} {m.get('filename')}", re.I)
+                and m.get("kind") != "minutes"):
+            t = clean(doc_text(side))
+            mt = re.search(rf"ordinance\s+(?:titled|entitled)\W+(.{{6,180}}?)\s*(?:[{QUOTE}]|''|\.\s)", t, re.I)
+            if mt:
+                return clean(mt.group(1)).strip(" '.,:").title()
+    return None
+
+
 def enactments(docs, doc_text) -> list[dict]:
     """Passed motions to enact/adopt an ordinance, from Board of Selectmen minutes."""
     out = []
@@ -76,8 +89,13 @@ def enactments(docs, doc_text) -> list[dict]:
             seg = t[mv.start(): mv.start() + 1500]
             end = re.search(r"Seconded|SECOND(?:ED)?\b", seg[20:], re.I)
             motion = seg[: end.start() + 20] if end else seg[:900]
-            if not re.search(r"\b(?:to|and)\s+(?:enact|adopt)(?:\s+and\s+approve)?\s+(?:the\s+)?(?:proposed\s+)?"
-                             r"(?:amendments?|revisions?|ordinances?|following)\b", motion, re.I):
+            enact = re.search(r"\b(?:to|and)\s+(?:enact|adopt)(?:\s+and\s+approve)?\s+(?:the\s+)?(?:proposed\s+)?"
+                              r"(?:amendments?|revisions?|ordinances?|following)\b", motion, re.I)
+            # "approve the amendment to § 74.08 of the Ordinances ..." (approve counts only for an ordinance)
+            approve = re.search(r"\bapprove\s+(?:the\s+)?(?:proposed\s+)?(?:amendments?|revisions?)\s+to\b.{0,80}?"
+                                r"\bordinances?\b|\bapprove\s+(?:the\s+|an?\s+)?(?:proposed\s+)?ordinance\b",
+                                motion[:400], re.I)
+            if not (enact or approve):
                 continue
             if re.search(r"notice is hereby given|consider the adoption|request\w*\s+(?:the\s+)?board|"
                          r"\b(table|postpone|schedule|set|hold)\w*\b.{0,40}\bhearing", motion[:300], re.I):
@@ -98,16 +116,26 @@ def enactments(docs, doc_text) -> list[dict]:
             titles = [clean(x) for x in re.findall(rf"[{QUOTE}]\s*([^{QUOTE}]{{6,180}}?)\s*[{QUOTE}]", core)]
             if not titles:
                 mt = (re.search(r"(?:entitled|titled|entiled|entitted)\W+(.{6,180}?)(?:,{1,2}|\.)?\s*$", core, re.I)
-                      or re.search(r"(?:enact|adopt)\s+the\s+(.{6,180}?)[,\s]*$", core, re.I))
+                      or re.search(r"(?:enact|adopt|approve)\s+the\s+(.{6,180}?)[,\s]*$", core, re.I))
                 if mt:
                     titles = [clean(mt.group(1).strip(" '.,:"))]
             titles = [x.strip(" '.,:") for x in titles]
+            quoted = bool(re.search(rf"[{QUOTE}]", core))
+            if not quoted and re.search(r"hearing", motion, re.I):
+                # No quoted title in the motion: use the title from that day's hearing notice, if one exists.
+                t2 = hearing_title(docs, doc_text, mdate)
+                if t2:
+                    titles = [t2]
+            titles = [re.sub(r"(§\s*\d+)\.[Oo](\d)", r"\1.0\2", re.sub(r"\$\s*(?=\d)", "§ ", x)) for x in titles]
             if not titles:
                 titles = ["(title not readable in the minutes)"]
             hearings = []
             hm = re.search(r"public hearings?\b(.{0,160})", motion, re.I)
             if hm:
                 hearings = [d for d in parse_dates(hm.group(1)) if d <= mdate]
+                if not hearings and re.search(r"earlier\s+(?:this|that)\s+evening|this\s+evening|tonight|same\s+(?:evening|night|date)",
+                                              hm.group(0), re.I):
+                    hearings = [mdate]
             for title in titles:
                 key = f"{mdate}|{re.sub(r'[^a-z]', '', title.lower())[:60]}"
                 if any(e["key"] == key for e in out):
