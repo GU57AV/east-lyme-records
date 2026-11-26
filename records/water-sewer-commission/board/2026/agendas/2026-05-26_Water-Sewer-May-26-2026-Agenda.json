@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer May 26 2026 Agenda (pdf)",
+  "filename": "Water-Sewer-May-26-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/Water-Sewer-May-26-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-agendas/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-26T14:33:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bf942d22e9c5d2e37106f691a3df2cff61c620dbdc6f5db1c3bb83fac7b56788",
+  "bytes": 42722,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 May 2026 18:04:50 GMT",
+  "etag": "\"1700a47-a6e2-6521b661ae4d1\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-05-26_Water-Sewer-May-26-2026-Agenda--bf942d22e9c5.pdf",
+  "versions": [
+    {
+      "sha256": "bf942d22e9c5d2e37106f691a3df2cff61c620dbdc6f5db1c3bb83fac7b56788",
+      "bytes": 42722,
+      "retrieved_utc": "2026-11-26T14:33:42+00:00",
+      "http_last_modified": "Mon, 18 May 2026 18:04:50 GMT"
+    }
+  ]
+}

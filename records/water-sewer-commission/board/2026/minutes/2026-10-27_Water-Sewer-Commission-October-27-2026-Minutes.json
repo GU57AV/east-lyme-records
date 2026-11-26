@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 27 2026 Minutes (pdf)",
+  "filename": "Water-Sewer-Commission-October-27-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Water-Sewer-Commission-October-27-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-26T14:46:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8326dda5f787afa53f9a01c33584438ff06b38816f0d5564fc563099c33a239f",
+  "bytes": 259971,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Nov 2026 13:44:55 GMT",
+  "etag": "\"17c0027-3f783-65f9bd14320dd\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-10-27_Water-Sewer-Commission-October-27-2026-Minutes--8326dda5f787.pdf",
+  "versions": [
+    {
+      "sha256": "8326dda5f787afa53f9a01c33584438ff06b38816f0d5564fc563099c33a239f",
+      "bytes": 259971,
+      "retrieved_utc": "2026-11-26T14:46:57+00:00",
+      "http_last_modified": "Fri, 06 Nov 2026 13:44:55 GMT"
+    }
+  ]
+}

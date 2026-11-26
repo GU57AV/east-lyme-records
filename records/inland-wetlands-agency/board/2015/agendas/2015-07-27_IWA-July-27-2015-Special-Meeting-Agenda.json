@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "IWA July 27 2015 Special Meeting Agenda (pdf)",
+  "filename": "IWA-July-27-2015-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWA-July-27-2015-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T13:20:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "13380a56b4ba669ff1eb038432e90490965ef84a7c6983df1530ecf1a8122f49",
+  "bytes": 48625,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:14 GMT",
+  "etag": "\"16638fe-bdf1-52082affd3e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2015/2015-07-27_IWA-July-27-2015-Special-Meeting-Agenda--13380a56b4ba.pdf",
+  "versions": [
+    {
+      "sha256": "13380a56b4ba669ff1eb038432e90490965ef84a7c6983df1530ecf1a8122f49",
+      "bytes": 48625,
+      "retrieved_utc": "2026-11-26T13:20:17+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:14 GMT"
+    }
+  ]
+}

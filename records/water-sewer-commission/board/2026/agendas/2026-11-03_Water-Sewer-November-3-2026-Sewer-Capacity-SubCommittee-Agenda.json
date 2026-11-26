@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Sewer Capacity Subcommittee November 3 2026 Agenda (pdf)",
+  "filename": "Water-Sewer-November-3-2026-Sewer-Capacity-SubCommittee-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/10/Water-Sewer-November-3-2026-Sewer-Capacity-SubCommittee-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-agendas/",
+  "upload_folder": "2026-10",
+  "first_seen_utc": "2026-11-26T14:20:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d5730f91f8c238724899ea8bb40a5815bd3ddf991ac1616457dac8318f9f5886",
+  "bytes": 23936,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Oct 2026 19:46:33 GMT",
+  "etag": "\"17000ce-5d80-65effefd4b354\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-11-03_Water-Sewer-November-3-2026-Sewer-Capacity-SubCommittee-Agenda--d5730f91f8c2.pdf",
+  "versions": [
+    {
+      "sha256": "d5730f91f8c238724899ea8bb40a5815bd3ddf991ac1616457dac8318f9f5886",
+      "bytes": 23936,
+      "retrieved_utc": "2026-11-26T14:20:50+00:00",
+      "http_last_modified": "Thu, 29 Oct 2026 19:46:33 GMT"
+    }
+  ]
+}

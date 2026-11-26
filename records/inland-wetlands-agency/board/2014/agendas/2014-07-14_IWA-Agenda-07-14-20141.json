@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "IWA July 14 2014 Agenda (pdf)",
+  "filename": "IWA-Agenda-07-14-20141.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWA-Agenda-07-14-20141.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/iwa-meeting-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T13:40:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "835ee042ecea3d9b1a30ec806f6fd3df7fdf5883dabf06af260d9f7afd869e07",
+  "bytes": 81207,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Jul 2014 18:53:50 GMT",
+  "etag": "\"16638bb-13d37-4fdc73a94eb80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2014/2014-07-14_IWA-Agenda-07-14-20141--835ee042ecea.pdf",
+  "versions": [
+    {
+      "sha256": "835ee042ecea3d9b1a30ec806f6fd3df7fdf5883dabf06af260d9f7afd869e07",
+      "bytes": 81207,
+      "retrieved_utc": "2026-11-26T13:40:01+00:00",
+      "http_last_modified": "Wed, 09 Jul 2014 18:53:50 GMT"
+    }
+  ]
+}

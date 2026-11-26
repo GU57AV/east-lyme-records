@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 26, 2026 5:21 AM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 10:23 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -14,6 +14,7 @@ Meetings from Nov 26, 2025 through yesterday.
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
+| Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 1 |
 | Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (20/21) | 50% (10/20) | 7.5 | 0 |
@@ -26,6 +27,7 @@ Meetings from Nov 26, 2025 through yesterday.
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
+| Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 1 |
 | Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (63/64) | 81% (51/63) | 4 | 0 |
@@ -82,6 +84,21 @@ Meetings from Nov 26, 2025 through yesterday.
 - Mon Mar 9, 2026 — BOS (Special): current minutes file uploaded after 9 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-03-09_BOS-March-9-2026-Special-Meeting-Agenda-With-Zoom-Link.md))
 - Wed Apr 15, 2026 — Board of Selectmen: current minutes file uploaded after 8 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-04-15_BOS-April-15-2026-Agenda.md))
 - Wed Nov 4, 2026 — Board of Selectmen: current minutes file uploaded after 8 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-11-04_BOS-November-4-2026-Agenda.md))
+
+</details>
+
+<details><summary>Inland Wetlands Agency (10)</summary>
+
+- Tue Dec 2, 2025 — IWA: current minutes file uploaded after 58 days ([document](../records/inland-wetlands-agency/board/2025/agendas/2025-12-02_IWA-December-2-2025-Agenda.md))
+- Tue Mar 3, 2026 — IWA: current minutes file uploaded after 10 days ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-03-03_IWA-March-3-2026-Agenda.md))
+- Sat Apr 4, 2026 — IWA Site Walk: no agenda found; no minutes found
+- Sat May 30, 2026 — IWA Site Walk: no minutes found ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-05-30_IWA-May-30-2026-Site-Walk-Agenda.md))
+- Tue Jun 2, 2026 — IWA: current minutes file uploaded after 24 days ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-06-02_IWA-June-2-2026-Agenda.md))
+- Sat Jun 27, 2026 — IWA Site Walk: no agenda found; no minutes found
+- Tue Jul 7, 2026 — IWA: current minutes file uploaded after 9 days ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-07-07_IWA-July-7-2026-Agenda.md))
+- Tue Aug 4, 2026 — IWA: current minutes file uploaded after 8 days ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-08-04_IWA-August-4-2026-Agenda.md))
+- Sat Aug 29, 2026 — IWA Site Walk: no minutes found ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-08-29_IWA-August-29-2026-Site-Walk-Agenda.md))
+- Sat Oct 3, 2026 — IWA Site Walk: no minutes found ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-10-03_IWA-October-3-2026-Site-Walk-Agenda.md))
 
 </details>
 

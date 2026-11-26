@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Sewer Capacity Sub-Committee November 5 2025 Special Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-Sewer-Capacity-Sub-Committee-November-5-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/Water-Sewer-Sewer-Capacity-Sub-Committee-November-5-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-26T14:52:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "706c7f91e0287baeddf1763174e7b2272b6fe3b1f15183583ea4bae2aaafc1b6",
+  "bytes": 32876,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Nov 2025 15:14:17 GMT",
+  "etag": "\"1760002-806c-642b22b3e56ce\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2025/2025-11-05_Water-Sewer-Sewer-Capacity-Sub-Committee-November-5-2025-Special-Meeting-Agenda--706c7f91e028.pdf",
+  "versions": [
+    {
+      "sha256": "706c7f91e0287baeddf1763174e7b2272b6fe3b1f15183583ea4bae2aaafc1b6",
+      "bytes": 32876,
+      "retrieved_utc": "2026-11-26T14:52:45+00:00",
+      "http_last_modified": "Mon, 03 Nov 2025 15:14:17 GMT"
+    }
+  ]
+}

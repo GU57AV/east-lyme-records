@@ -14,6 +14,20 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Zoning-Commission-November-5-2026-Minutes.pdf"
  },
  {
+  "date": "2026-06-23",
+  "board": "water-sewer-commission",
+  "board_name": "Water & Sewer Commission",
+  "members": [
+   "Mr. Zoller"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "",
+  "excerpt": ".d (v.+ Soinnaker.odf WMr. Zoller recused himself from this item.",
+  "minutes": "records/water-sewer-commission/board/2026/minutes/2026-06-23_Water-Sewer-June-23-2026-Meeting-Minutes-1.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/07/Water-Sewer-June-23-2026-Meeting-Minutes-1.pdf"
+ },
+ {
   "date": "2025-06-19",
   "board": "zoning-commission",
   "board_name": "Zoning Commission",
@@ -1080,6 +1094,20 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/BOS-09-03-2014-Regular-Meeting-Minutes.pdf"
  },
  {
+  "date": "2014-08-11",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Mr. Bender"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "Application of Andrew & Christine Towpasz for the construction of a 46’ by 120' garage and associated 20 foot access drive on property located at 21 Pattagansett Drive, East",
+  "excerpt": "Ms. Lozanov noted that Mr. Bender has recused himself from this item and has left the meeting.",
+  "minutes": "records/inland-wetlands-agency/board/2014/minutes/2014-08-11_inland.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/inland.pdf"
+ },
+ {
   "date": "2014-07-02",
   "board": "board-of-selectmen",
   "board_name": "Board of Selectmen",
@@ -1176,6 +1204,20 @@
   "excerpt": "APPLICATION OF J. ROBERT PFANNER, APPLICANT, FOR JEANETTE V. TUTHILL, OWNER, FOR A SPECIAL PERMIT UNDER SECTION 8.2.7 FAST FOOD, FOR A SUBWAY RESTAURANT, AT PROPERTY IDENTIFIED IN THE APPLICATION AS 23 CHESTERFIELD ROAD, EAST LYME Mr. Peck recused himself for Item 1.",
   "minutes": "records/zoning-commission/board/2014/minutes/2014-06-19_Zoning-Public-Hearing-Minutes-06-19-2014.md",
   "source_url": "https://eltownhall.com/wp-content/uploads/2014/06/Zoning-Public-Hearing-Minutes-06-19-2014.pdf"
+ },
+ {
+  "date": "2014-06-09",
+  "board": "inland-wetlands-agency",
+  "board_name": "Inland Wetlands Agency",
+  "members": [
+   "Mr. Bender"
+  ],
+  "type": "recused",
+  "reason": "as he is a member of the Land Trust",
+  "item": "",
+  "excerpt": "It was noted that Mr. Bender had recused himself from the hearing as he is a member of the Land Trust.",
+  "minutes": "records/inland-wetlands-agency/board/2014/minutes/2014-06-09_Inland-Wetlands-Show-Cause-Hearing-Minutes-06-09-2014.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Inland-Wetlands-Show-Cause-Hearing-Minutes-06-09-2014.pdf"
  },
  {
   "date": "2014-04-09",

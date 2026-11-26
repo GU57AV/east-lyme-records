@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer April 28 2026 Public Hearing Minutes (pdf)",
+  "filename": "Water-Sewer-April-28-2026-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/Water-Sewer-April-28-2026-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-minutes/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-26T14:49:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "beec65453abc56c1f8c9f57de977d471b9ae1b0c0505ba3ef7c3eb87f19f3bd8",
+  "bytes": 114856,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 May 2026 13:22:51 GMT",
+  "etag": "\"1700a1f-1c0a8-6519ec29826c3\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-04-28_Water-Sewer-April-28-2026-Public-Hearing-Minutes--beec65453abc.pdf",
+  "versions": [
+    {
+      "sha256": "beec65453abc56c1f8c9f57de977d471b9ae1b0c0505ba3ef7c3eb87f19f3bd8",
+      "bytes": 114856,
+      "retrieved_utc": "2026-11-26T14:49:41+00:00",
+      "http_last_modified": "Tue, 12 May 2026 13:22:51 GMT"
+    }
+  ]
+}

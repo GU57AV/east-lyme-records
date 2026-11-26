@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "IWA February 8 2014 Site Walk Cancellation (pdf)",
+  "filename": "February-8-2014-Site-Walk-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/February-8-2014-Site-Walk-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/iwa-meeting-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-26T13:44:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "66b715c63b763a706ebc342be3fe6081081e6cc6ded6ddaffc407a7c9f54fc01",
+  "bytes": 102055,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:08:25 GMT",
+  "etag": "\"166309d-18ea7-520821e047840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2014/2014-02-08_February-8-2014-Site-Walk-Cancellation--66b715c63b76.pdf",
+  "versions": [
+    {
+      "sha256": "66b715c63b763a706ebc342be3fe6081081e6cc6ded6ddaffc407a7c9f54fc01",
+      "bytes": 102055,
+      "retrieved_utc": "2026-11-26T13:44:47+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:08:25 GMT"
+    }
+  ]
+}

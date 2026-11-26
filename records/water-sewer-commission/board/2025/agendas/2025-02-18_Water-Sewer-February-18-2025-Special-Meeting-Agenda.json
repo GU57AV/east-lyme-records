@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Water & Sewer February 18 2025 Special Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-February-18-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/Water-Sewer-February-18-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-26T15:20:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "651bddd3a8029244a8260f5da774094580b691cb553d1f7c34f8501e48a80920",
+  "bytes": 48536,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Feb 2025 16:56:15 GMT",
+  "etag": "\"16c0125-bd98-62df4d1c6c9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2025/2025-02-18_Water-Sewer-February-18-2025-Special-Meeting-Agenda--651bddd3a802.pdf",
+  "versions": [
+    {
+      "sha256": "651bddd3a8029244a8260f5da774094580b691cb553d1f7c34f8501e48a80920",
+      "bytes": 48536,
+      "retrieved_utc": "2026-11-26T15:20:30+00:00",
+      "http_last_modified": "Wed, 12 Feb 2025 16:56:15 GMT"
+    }
+  ]
+}

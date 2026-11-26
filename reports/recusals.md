@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 26, 2026 5:21 AM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 10:23 AM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -12,8 +12,9 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 |---|---|
 | Zoning Commission | 121 |
 | Board of Selectmen | 20 |
+| Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
-| Inland Wetlands Agency | 9 |
+| Water & Sewer Commission | 1 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -21,6 +22,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | Date | Board | Member(s) | How | Reason given | Matter | Minutes |
 |---|---|---|---|---|---|---|
 | 2026-11-05 | Zoning Commission | Mr. Peck | recused | — | Application of Harry Heller for proposed TextAmendment to Section 25 | [minutes](../records/zoning-commission/board/2026/minutes/2026-11-05_Zoning-Commission-November-5-2026-Minutes.md) |
+| 2026-06-23 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2026/minutes/2026-06-23_Water-Sewer-June-23-2026-Meeting-Minutes-1.md) |
 | 2025-06-19 | Zoning Commission | Mr. Peck | recused | — | Application of the East Lyme Zoning Commission for Proposed Text Amendment to the East Lyme ZoningRegulations Section 20 | [minutes](../records/zoning-commission/board/2025/minutes/2025-06-19_Zoning-Commission-June-19-2025-Minutes-1.md) |
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | moved to approve the Proposed Amendments to the East Lyme Zoning Regutations Sections 1, 3, 4, 5, 6,7, 8, 9, 12 to compt | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
@@ -97,6 +99,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2014-10-21 | Planning Commission | Chairman Schuch | recused | — | moved to approve the Minutes of September 16, 2014 | [minutes](../records/planning-commission/board/2014/minutes/2014-10-21_Planning-Minutes-10-21-2014.md) |
 | 2014-09-03 | Board of Selectmen | Mr. Formica | recused | — | — | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-09-03_BOS-09-03-2014-Regular-Meeting-Minutes.md) |
 | 2014-09-03 | Board of Selectmen | Mr. Nickerson | recused | — | — | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-09-03_BOS-09-03-2014-Regular-Meeting-Minutes.md) |
+| 2014-08-11 | Inland Wetlands Agency | Mr. Bender | recused | — | Application of Andrew & Christine Towpasz for the construction of a 46’ by 120' garage and associated 20 foot access dri | [minutes](../records/inland-wetlands-agency/board/2014/minutes/2014-08-11_inland.md) |
 | 2014-07-02 | Board of Selectmen | Mr. Seery | left the room | — | — | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-07-02 | Board of Selectmen | Mr. Seery | left the room | — | moved to approve a transfer in the amount of $15,000 from account 4- 01-30-317-100-311 (Regular Payroll - Highway) to th | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-07-02 | Board of Selectmen | Mr. Seery | left the room | — | moved to approve the carry over of the remaining balance of $18,708 | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
@@ -104,6 +107,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2014-07-02 | Board of Selectmen | Mr. Seery | left the room | — | moved to approve carry-over of grant funds of $12,400 in the 2014 Comprehensive DUI Enforcement Program (Revenue account | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-07-02 | Board of Selectmen | Mr. Formica | recused | — | moved to approve the IAFF Agreement as negotiated | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-06-19 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2014/minutes/2014-06-19_Zoning-Public-Hearing-Minutes-06-19-2014.md) |
+| 2014-06-09 | Inland Wetlands Agency | Mr. Bender | recused | as he is a member of the Land Trust | — | [minutes](../records/inland-wetlands-agency/board/2014/minutes/2014-06-09_Inland-Wetlands-Show-Cause-Hearing-Minutes-06-09-2014.md) |
 | 2014-04-09 | Board of Finance | Mr. Harney | left the room | — | — | [minutes](../records/board-of-finance/board/2014/minutes/2014-04-09_BOF-Regular-Meeting-Minutes-04-09-2014.md) |
 | 2014-04-01 | Planning Commission | Ms. Bengtson | abstained | because she resides near the Solar Farm | — | [minutes](../records/planning-commission/board/2014/minutes/2014-04-01_Planning-Minutes-of-April-1-2014.md) |
 | 2014-03-06 | Zoning Commission | Mr. Lukas | recused | — | moved to approve the application of William Heenan for Anmar, LLC for a Special Permit for Mixed Use Development, at pro | [minutes](../records/zoning-commission/board/2014/minutes/2014-03-06_ZC-Regular-Meeting-Minutes-of-March-6-2014.md) |

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "IWA November 9 2015 Minutes (pdf)",
+  "filename": "IWA-November-9-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/IWA-November-9-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agency-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-26T13:30:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1d09d3cf7adbc7d5e08511a111990eccb3ba3a6264ef15306ee880eb4fea2194",
+  "bytes": 510396,
+  "pages": 0,
+  "http_last_modified": "Tue, 17 Nov 2015 19:11:23 GMT",
+  "etag": "\"166306b-7c9bc-524c14aa26cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2015/2015-11-09_IWA-November-9-2015-Minutes--1d09d3cf7adb.pdf",
+  "versions": [
+    {
+      "sha256": "1d09d3cf7adbc7d5e08511a111990eccb3ba3a6264ef15306ee880eb4fea2194",
+      "bytes": 510396,
+      "retrieved_utc": "2026-11-26T13:30:10+00:00",
+      "http_last_modified": "Tue, 17 Nov 2015 19:11:23 GMT"
+    }
+  ]
+}

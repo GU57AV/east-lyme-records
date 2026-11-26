@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "IWAagn02-11-12sitewlkCancel (pdf)",
+  "filename": "IWAagn02-11-12sitewlkCancel.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWAagn02-11-12sitewlkCancel.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T14:02:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f107abd0efcf137ea3948960d9033b08ca1d0bea476fac3cd68c9755c2e264b7",
+  "bytes": 39636,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:51 GMT",
+  "etag": "\"1663eea-9ad4-52082b231d1c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2012/2012-00-00_IWAagn02-11-12sitewlkCancel--f107abd0efcf.pdf",
+  "versions": [
+    {
+      "sha256": "f107abd0efcf137ea3948960d9033b08ca1d0bea476fac3cd68c9755c2e264b7",
+      "bytes": 39636,
+      "retrieved_utc": "2026-11-26T14:02:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:51 GMT"
+    }
+  ]
+}

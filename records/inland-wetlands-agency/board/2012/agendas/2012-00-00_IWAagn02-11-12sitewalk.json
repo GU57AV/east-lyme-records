@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "IWAagn02-11-12sitewalk (pdf)",
+  "filename": "IWAagn02-11-12sitewalk.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWAagn02-11-12sitewalk.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T14:03:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9bce7ddf2c2f6927e33604295635c554c91a5968dc4a56887e09e37d3d4b4dc3",
+  "bytes": 29557,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Jul 2014 17:42:32 GMT",
+  "etag": "\"1663e48-7375-4fdb21dc07200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2012/2012-00-00_IWAagn02-11-12sitewalk--9bce7ddf2c2f.pdf",
+  "versions": [
+    {
+      "sha256": "9bce7ddf2c2f6927e33604295635c554c91a5968dc4a56887e09e37d3d4b4dc3",
+      "bytes": 29557,
+      "retrieved_utc": "2026-11-26T14:03:17+00:00",
+      "http_last_modified": "Tue, 08 Jul 2014 17:42:32 GMT"
+    }
+  ]
+}

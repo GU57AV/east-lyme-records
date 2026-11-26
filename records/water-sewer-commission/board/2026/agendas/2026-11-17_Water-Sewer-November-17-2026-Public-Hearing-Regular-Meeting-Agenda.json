@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer November 17 2026 Public Hearing & Regular Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-November-17-2026-Public-Hearing-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Water-Sewer-November-17-2026-Public-Hearing-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-26T14:20:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "35c6d4eed87a55e10b774e7d05454141a5ee67d70855cb3b8ccf86e935dfe0ad",
+  "bytes": 76040,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Nov 2026 19:28:33 GMT",
+  "etag": "\"17c0057-12908-65ff115865fa4\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-11-17_Water-Sewer-November-17-2026-Public-Hearing-Regular-Meeting-Agenda--35c6d4eed87a.pdf",
+  "versions": [
+    {
+      "sha256": "35c6d4eed87a55e10b774e7d05454141a5ee67d70855cb3b8ccf86e935dfe0ad",
+      "bytes": 76040,
+      "retrieved_utc": "2026-11-26T14:20:10+00:00",
+      "http_last_modified": "Tue, 10 Nov 2026 19:28:33 GMT"
+    }
+  ]
+}

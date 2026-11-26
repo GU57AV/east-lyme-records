@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Sewer Capacity Subcommittee August 19 2026 (pdf)",
+  "filename": "Water-Sewer-Sewer-Capacity-Subcommittee-August-19-2026.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Water-Sewer-Sewer-Capacity-Subcommittee-August-19-2026.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-minutes/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-26T14:47:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cafecaf9143b8c2ba73d3ef140ce389220869c7115ae4a5c512abbc1bba7c78d",
+  "bytes": 82138,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Sep 2026 16:19:11 GMT",
+  "etag": "\"16e0f61-140da-65b87e92ed080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-08-19_Water-Sewer-Sewer-Capacity-Subcommittee-August-19-2026--cafecaf9143b.pdf",
+  "versions": [
+    {
+      "sha256": "cafecaf9143b8c2ba73d3ef140ce389220869c7115ae4a5c512abbc1bba7c78d",
+      "bytes": 82138,
+      "retrieved_utc": "2026-11-26T14:47:38+00:00",
+      "http_last_modified": "Tue, 15 Sep 2026 16:19:11 GMT"
+    }
+  ]
+}

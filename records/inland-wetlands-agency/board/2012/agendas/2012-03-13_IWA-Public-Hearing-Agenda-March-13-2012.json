@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "IWA Public Hearing Agenda March 13 2012 (pdf)",
+  "filename": "IWA-Public-Hearing-Agenda-March-13-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWA-Public-Hearing-Agenda-March-13-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T14:00:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ba356f42a04335f24d9afbcce9a984e2af44d39bbcdf3545428f49e3a94ffa82",
+  "bytes": 34096,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:45 GMT",
+  "etag": "\"16639fc-8530-52082b1d64440\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2012/2012-03-13_IWA-Public-Hearing-Agenda-March-13-2012--ba356f42a043.pdf",
+  "versions": [
+    {
+      "sha256": "ba356f42a04335f24d9afbcce9a984e2af44d39bbcdf3545428f49e3a94ffa82",
+      "bytes": 34096,
+      "retrieved_utc": "2026-11-26T14:00:34+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:45 GMT"
+    }
+  ]
+}

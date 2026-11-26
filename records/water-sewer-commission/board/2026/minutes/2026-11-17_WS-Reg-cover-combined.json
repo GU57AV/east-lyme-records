@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer November 17 2026 Regular Meeting Minutes (pdf)",
+  "filename": "WS-Reg-cover-combined.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/WS-Reg-cover-combined.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-minutes/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-26T14:46:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "18e6f334b3c922ce62d7c8a1a9c8a6cf6484e192115f69d95da4ec6db87bba13",
+  "bytes": 68583,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 Nov 2026 14:51:20 GMT",
+  "etag": "\"17c017a-10be7-660f2ba0ea7c5\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-11-17_WS-Reg-cover-combined--18e6f334b3c9.pdf",
+  "versions": [
+    {
+      "sha256": "18e6f334b3c922ce62d7c8a1a9c8a6cf6484e192115f69d95da4ec6db87bba13",
+      "bytes": 68583,
+      "retrieved_utc": "2026-11-26T14:46:16+00:00",
+      "http_last_modified": "Mon, 23 Nov 2026 14:51:20 GMT"
+    }
+  ]
+}

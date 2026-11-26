@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Finance Subcommittee February 6 2026 Special Meeting Minutes (pdf)",
+  "filename": "Water-Sewer-Finance-Subcommittee-February-6-2026-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/Water-Sewer-Finance-Subcommittee-February-6-2026-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-minutes/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-26T14:51:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e84258f99465f1d83814400e75d365e0f6aa64e9c393fbe92a92f8142deee910",
+  "bytes": 93676,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Feb 2026 14:45:00 GMT",
+  "etag": "\"1700567-16dec-64ab5a65d374f\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-02-06_Water-Sewer-Finance-Subcommittee-February-6-2026-Special-Meeting-Minutes--e84258f99465.pdf",
+  "versions": [
+    {
+      "sha256": "e84258f99465f1d83814400e75d365e0f6aa64e9c393fbe92a92f8142deee910",
+      "bytes": 93676,
+      "retrieved_utc": "2026-11-26T14:51:03+00:00",
+      "http_last_modified": "Fri, 13 Feb 2026 14:45:00 GMT"
+    }
+  ]
+}

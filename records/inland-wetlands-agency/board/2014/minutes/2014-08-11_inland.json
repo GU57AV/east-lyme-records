@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "IWA August 11 2014 Regular Meeting Minutes (pdf)",
+  "filename": "inland.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/inland.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/iwa-meeting-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T13:49:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "32b6fd2c76d61708d3fb30bfa0c57708e7ff01ca10cb324102918341f808a5df",
+  "bytes": 1426058,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Aug 2014 16:28:08 GMT",
+  "etag": "\"1663e52-15c28a-500ad81a57600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2014/2014-08-11_inland--32b6fd2c76d6.pdf",
+  "versions": [
+    {
+      "sha256": "32b6fd2c76d61708d3fb30bfa0c57708e7ff01ca10cb324102918341f808a5df",
+      "bytes": 1426058,
+      "retrieved_utc": "2026-11-26T13:49:18+00:00",
+      "http_last_modified": "Fri, 15 Aug 2014 16:28:08 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "inland-wetlands-agency",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "IWA Site Walk Cancellation June 9 2012 (pdf)",
+  "filename": "IWA-Site-Walk-Cancellation-June-9-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/IWA-Site-Walk-Cancellation-June-9-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/inland-wetlands-agency/inland-wetlands-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-26T13:57:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "07d4ca14977562c520626b9a14a87095f94575f45b529f7aee8a08b2fceeaaef",
+  "bytes": 31513,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:50 GMT",
+  "etag": "\"1661f48-7b19-52082b2228f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/inland-wetlands-agency-2012/2012-06-09_IWA-Site-Walk-Cancellation-June-9-2012--07d4ca149775.pdf",
+  "versions": [
+    {
+      "sha256": "07d4ca14977562c520626b9a14a87095f94575f45b529f7aee8a08b2fceeaaef",
+      "bytes": 31513,
+      "retrieved_utc": "2026-11-26T13:57:31+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:50 GMT"
+    }
+  ]
+}

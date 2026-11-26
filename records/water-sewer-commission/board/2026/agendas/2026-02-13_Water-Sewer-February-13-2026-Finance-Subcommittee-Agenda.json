@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Water & Sewer February 13 2026 Finance Subcommittee Agenda (pdf)",
+  "filename": "Water-Sewer-February-13-2026-Finance-Subcommittee-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/02/Water-Sewer-February-13-2026-Finance-Subcommittee-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2026-agendas/",
+  "upload_folder": "2026-02",
+  "first_seen_utc": "2026-11-26T14:43:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9abcc5b79a07aaacd39f92f43673b31c23ceb1d1e3d2ccd556984bd694a7a466",
+  "bytes": 26018,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Feb 2026 18:45:28 GMT",
+  "etag": "\"1700259-65a2-64a7ca8d04a99\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2026/2026-02-13_Water-Sewer-February-13-2026-Finance-Subcommittee-Agenda--9abcc5b79a07.pdf",
+  "versions": [
+    {
+      "sha256": "9abcc5b79a07aaacd39f92f43673b31c23ceb1d1e3d2ccd556984bd694a7a466",
+      "bytes": 26018,
+      "retrieved_utc": "2026-11-26T14:43:13+00:00",
+      "http_last_modified": "Tue, 10 Feb 2026 18:45:28 GMT"
+    }
+  ]
+}
