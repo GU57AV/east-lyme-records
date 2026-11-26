@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Water & Sewer June 28 2022 Amended Agenda (pdf)",
+  "filename": "Water-Sewer-June-28-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Water-Sewer-June-28-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-26T19:31:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7d592b032eca8010b65442dc88b4dc6ca1559057aed4b7d84a5d8a256cf96031",
+  "bytes": 56719,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Jun 2022 15:17:00 GMT",
+  "etag": "\"16a0ed7-dd8f-5e169e5657300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2022/2022-06-28_Water-Sewer-June-28-2022-Amended-Agenda--7d592b032eca.pdf",
+  "versions": [
+    {
+      "sha256": "7d592b032eca8010b65442dc88b4dc6ca1559057aed4b7d84a5d8a256cf96031",
+      "bytes": 56719,
+      "retrieved_utc": "2026-11-26T19:31:01+00:00",
+      "http_last_modified": "Tue, 14 Jun 2022 15:17:00 GMT"
+    }
+  ]
+}

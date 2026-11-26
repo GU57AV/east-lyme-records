@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Water & Sewer December 27 2023 Amended Agenda (pdf)",
+  "filename": "Water-Sewer-December-27-2023-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/Water-Sewer-December-27-2023-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2023-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-26T19:04:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4bc84d0e3b3478bd40a0704b547a92dbf40bf7b72155c51f733bfed11233333a",
+  "bytes": 26120,
+  "pages": 0,
+  "http_last_modified": "Tue, 26 Dec 2023 21:06:23 GMT",
+  "etag": "\"16c2279-6608-60d700e0571c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2023/2023-12-27_Water-Sewer-December-27-2023-Amended-Agenda--4bc84d0e3b34.pdf",
+  "versions": [
+    {
+      "sha256": "4bc84d0e3b3478bd40a0704b547a92dbf40bf7b72155c51f733bfed11233333a",
+      "bytes": 26120,
+      "retrieved_utc": "2026-11-26T19:04:25+00:00",
+      "http_last_modified": "Tue, 26 Dec 2023 21:06:23 GMT"
+    }
+  ]
+}

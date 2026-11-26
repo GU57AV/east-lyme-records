@@ -439,6 +439,7 @@ and its time, on a public Bitcoin block explorer.
 <!-- proofs:start -->
 | Manifest | Documents | Bitcoin block | Block time | Proof |
 |---|---|---|---|---|
+| [2026-11-26T202502Z](manifests/2026-11-26T202502Z.txt) | 8596 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-26T202502Z.txt.ots) |
 | [2026-11-26T152315Z](manifests/2026-11-26T152315Z.txt) | 8330 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-26T152315Z.txt.ots) |
 | [2026-11-26T102132Z](manifests/2026-11-26T102132Z.txt) | 8119 | [977,669](https://mempool.space/block/977669) | 2026-11-26 10:42 UTC | [.ots](manifests/2026-11-26T102132Z.txt.ots) |
 | [2026-11-26T051931Z](manifests/2026-11-26T051931Z.txt) | 7676 | [977,634](https://mempool.space/block/977634) | 2026-11-26 05:38 UTC | [.ots](manifests/2026-11-26T051931Z.txt.ots) |

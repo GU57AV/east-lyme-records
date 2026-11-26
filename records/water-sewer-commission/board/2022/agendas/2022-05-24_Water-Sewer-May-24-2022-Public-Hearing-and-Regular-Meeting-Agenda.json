@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Water & Sewer May 24 2022 Public Hearing and Regular Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-May-24-2022-Public-Hearing-and-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/Water-Sewer-May-24-2022-Public-Hearing-and-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-26T19:34:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "42a2ad191dff1e0c9ac551879a3fb3fffac77184a3515d40385841b2b9c95eca",
+  "bytes": 63457,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 May 2022 14:49:15 GMT",
+  "etag": "\"16a0b04-f7e1-5df5e7a47d0c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2022/2022-05-24_Water-Sewer-May-24-2022-Public-Hearing-and-Regular-Meeting-Agenda--42a2ad191dff.pdf",
+  "versions": [
+    {
+      "sha256": "42a2ad191dff1e0c9ac551879a3fb3fffac77184a3515d40385841b2b9c95eca",
+      "bytes": 63457,
+      "retrieved_utc": "2026-11-26T19:34:45+00:00",
+      "http_last_modified": "Thu, 19 May 2022 14:49:15 GMT"
+    }
+  ]
+}

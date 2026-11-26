@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Water & Sewer November 17 2020 Agenda (pdf)",
+  "filename": "Water-Sewer-November-17-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/Water-Sewer-November-17-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2020-agendas/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-26T20:05:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ebabfbb457f201e2098121020798871edff48104d53e38595a950287da2ce232",
+  "bytes": 58800,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Nov 2020 19:46:13 GMT",
+  "etag": "\"1661889-e5b0-5b3c5ee63cb40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2020/2020-11-17_Water-Sewer-November-17-2020-Agenda--ebabfbb457f2.pdf",
+  "versions": [
+    {
+      "sha256": "ebabfbb457f201e2098121020798871edff48104d53e38595a950287da2ce232",
+      "bytes": 58800,
+      "retrieved_utc": "2026-11-26T20:05:50+00:00",
+      "http_last_modified": "Tue, 10 Nov 2020 19:46:13 GMT"
+    }
+  ]
+}

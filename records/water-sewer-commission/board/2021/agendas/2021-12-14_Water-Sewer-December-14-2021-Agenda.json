@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer December 14 2021 Agenda (pdf)",
+  "filename": "Water-Sewer-December-14-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/Water-Sewer-December-14-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-agendas/",
+  "upload_folder": "2021-12",
+  "first_seen_utc": "2026-11-26T19:47:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6f3a164dd1234d80db00ba8f76176b0a19e0b6c589a98c874362e78f50fe999a",
+  "bytes": 45384,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Dec 2021 14:23:28 GMT",
+  "etag": "\"1663540-b148-5d2a33bc7b800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-12-14_Water-Sewer-December-14-2021-Agenda--6f3a164dd123.pdf",
+  "versions": [
+    {
+      "sha256": "6f3a164dd1234d80db00ba8f76176b0a19e0b6c589a98c874362e78f50fe999a",
+      "bytes": 45384,
+      "retrieved_utc": "2026-11-26T19:47:59+00:00",
+      "http_last_modified": "Wed, 08 Dec 2021 14:23:28 GMT"
+    }
+  ]
+}

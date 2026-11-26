@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 26, 2026 10:23 AM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 3:25 PM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -14,7 +14,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | Board of Selectmen | 20 |
 | Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
-| Water & Sewer Commission | 1 |
+| Water & Sewer Commission | 5 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -23,6 +23,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 |---|---|---|---|---|---|---|
 | 2026-11-05 | Zoning Commission | Mr. Peck | recused | — | Application of Harry Heller for proposed TextAmendment to Section 25 | [minutes](../records/zoning-commission/board/2026/minutes/2026-11-05_Zoning-Commission-November-5-2026-Minutes.md) |
 | 2026-06-23 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2026/minutes/2026-06-23_Water-Sewer-June-23-2026-Meeting-Minutes-1.md) |
+| 2025-07-22 | Water & Sewer Commission | Mr. Zoller | recused | since he lives at Spinnaker | — | [minutes](../records/water-sewer-commission/board/2025/minutes/2025-07-22_Minutes-of-East-Lyme-Water-and-Sewer-Commission-Regular-Meeting-07_22_25-1.md) |
 | 2025-06-19 | Zoning Commission | Mr. Peck | recused | — | Application of the East Lyme Zoning Commission for Proposed Text Amendment to the East Lyme ZoningRegulations Section 20 | [minutes](../records/zoning-commission/board/2025/minutes/2025-06-19_Zoning-Commission-June-19-2025-Minutes-1.md) |
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
 | 2024-11-21 | Zoning Commission | Mr. Peck | recused | — | moved to approve the Proposed Amendments to the East Lyme Zoning Regutations Sections 1, 3, 4, 5, 6,7, 8, 9, 12 to compt | [minutes](../records/zoning-commission/board/2024/minutes/2024-11-21_Zoning-Commission-November-21-2024-Minutes.md) |
@@ -34,11 +35,13 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2023-10-19 | Zoning Commission | Mr. Peck | recused | — | Application of Waterview Landscaping, LLC, Agent for Roderick Cornish, Owner, for a Special Permit for outdoor dining at | [minutes](../records/zoning-commission/board/2023/minutes/2023-10-19_Zoning-Commission-October-19-2023-Minutes.md) |
 | 2023-10-05 | Zoning Commission | Mr. Peck | recused | — | Application of Waterview LandscapinB, LLC, Agent for Roderick Cornish, Owner, for a Special Permit for outdoor dining at | [minutes](../records/zoning-commission/board/2023/minutes/2023-10-05_Zoning-Commission-October-5-2023-Minutes.md) |
 | 2023-10-05 | Zoning Commission | Mr. Peck | recused | — | Application of Waterview Landscaping, LLC, Agent for Roderick Cornish, Owner, for a Special Permit for Outdoor Dining at | [minutes](../records/zoning-commission/board/2023/minutes/2023-10-05_Zoning-Commission-October-5-2023-Minutes.md) |
+| 2023-07-25 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2023/minutes/2023-07-25_Water-Sewer-July-25-2023-Minutes.md) |
 | 2023-04-20 | Zoning Commission | N. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2023/minutes/2023-04-20_Zoning-Commission-April-20-2023-Minutes.md) |
 | 2023-04-20 | Zoning Commission | N. Peck | recused | — | Application of ZDM Properties ,LLC for a special Permit and Design Review to redevelop properties identified in the appl | [minutes](../records/zoning-commission/board/2023/minutes/2023-04-20_Zoning-Commission-April-20-2023-Minutes.md) |
 | 2023-04-13 | Zoning Commission | N. Peck | recused | — | Application of ZDM PropertiesrLLC for a special Permit and Design Review to redevelop properties identified in the appli | [minutes](../records/zoning-commission/board/2023/minutes/2023-04-13_Zoning-April-13-2023-Minutes.md) |
 | 2023-04-06 | Zoning Commission | N. Peck | recused | — | Application of ZD1[4 Properties,LLC for a special Permit and Design Review to redevelop properties identified in the app | [minutes](../records/zoning-commission/board/2023/minutes/2023-04-06_Zoning-Commission-April-6-2023-Minutes.md) |
 | 2022-08-04 | Zoning Commission | N. Peck | recused | — | Application of 138 BPR LLC, for a Special Permit under Section 8 | [minutes](../records/zoning-commission/board/2022/minutes/2022-08-04_Zoning-August-4-2022-Minutes.md) |
+| 2022-06-28 | Water & Sewer Commission | Mr. Zoller | recused | — | moved to approve the following DOT Engineering Analysis bill: Weston & Sampson lnv | [minutes](../records/water-sewer-commission/board/2022/minutes/2022-06-28_Water-Sewer-June-28-2022-Minutes.md) |
 | 2022-03-03 | Board of Selectmen | Ms. Rivera | recused | — | MOVED to approve the minutes of the February 3,2022 minutes, as submitted | [minutes](../records/board-of-selectmen/subcommittee/2022/minutes/2022-03-03_ARP-Sub-Committee-March-3-2022-Minutes.md) |
 | 2022-03-03 | Board of Selectmen | Mr. Steel | recused | — | MOVED to approve the minutes of the February 3,2022 minutes, as submitted | [minutes](../records/board-of-selectmen/subcommittee/2022/minutes/2022-03-03_ARP-Sub-Committee-March-3-2022-Minutes.md) |
 | 2022-03-03 | Board of Selectmen | Ms. Rivera | recused | — | — | [minutes](../records/board-of-selectmen/subcommittee/2022/minutes/2022-03-03_ARP-Sub-Committee-March-3-2022-Minutes.md) |
@@ -46,6 +49,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2022-02-17 | Zoning Commission | N. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2022/minutes/2022-02-17_Zoning-Commission-February-17-2022-Minutes.md) |
 | 2021-12-13 | Inland Wetlands Agency | Gregory Mclntire | recused | because he is not familiar with the application East Lyme Inland Wetlands and Watercourse  | Application of Kristen Clarke, P | [minutes](../records/inland-wetlands-agency/board/2021/minutes/2021-12-13_IWA-December-13-2021-Meeting-Minutes.md) |
 | 2021-10-21 | Zoning Commission | N. Peck | recused | — | application for a landscaping business that came before them | [minutes](../records/zoning-commission/board/2021/minutes/2021-10-21_Zoning-Commission-October-21-2021-Minutes.md) |
+| 2021-06-22 | Water & Sewer Commission | Mr. Zoller | recused | — | moved to approve the following Well 1A/6 Treatment Project bill: GIRMA,lnv | [minutes](../records/water-sewer-commission/board/2021/minutes/2021-06-22_Water-Sewer-June-22-2021-Minutes.md) |
 | 2021-05-20 | Zoning Commission | Mr. Donovan | recused | — | Application of Todd Sakowski for a text amendment to the East Lyme Zoning Regulations Section 20 | [minutes](../records/zoning-commission/board/2021/minutes/2021-05-20_Zoning-Commission-May-20-2021-Minutes.md) |
 | 2021-01-12 | Planning Commission | B. Bohmbach | recused | — | Application for a 4-lot re-subdivision of approximately 3 | [minutes](../records/planning-commission/board/2021/minutes/2021-01-12_Planning-Commission-January-12-2021-Minutes.md) |
 | 2020-12-03 | Zoning Commission | Ms. Thurlow | recused | due to her absence from the previous meeting and noted she had read the meeting minutes bu | Application of Landmark Development Group, LLC and Jarvis of Gheshire, LLC c/o Timothy Hollister, Shipman & Goodwin, LLP | [minutes](../records/zoning-commission/board/2020/minutes/2020-12-03_Zoning-December-3-2020-Regular-Meeting-Minutes.md) |

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Water & Sewer August 4 2020 Executive Session (Via Zoom) (pdf)",
+  "filename": "Water-Sewer-August-4-2020-Executive-Session-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/Water-Sewer-August-4-2020-Executive-Session-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2020-agendas/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-26T20:07:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ac9c0b1aa6fe5f70c72d4d3c779ae00f33d48a2b1d8f2898bc0eeb960ea107f2",
+  "bytes": 28478,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Jul 2020 20:01:57 GMT",
+  "etag": "\"1661b38-6f3e-5abc242d7d740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2020/2020-08-04_Water-Sewer-August-4-2020-Executive-Session-Via-Zoom--ac9c0b1aa6fe.pdf",
+  "versions": [
+    {
+      "sha256": "ac9c0b1aa6fe5f70c72d4d3c779ae00f33d48a2b1d8f2898bc0eeb960ea107f2",
+      "bytes": 28478,
+      "retrieved_utc": "2026-11-26T20:07:10+00:00",
+      "http_last_modified": "Fri, 31 Jul 2020 20:01:57 GMT"
+    }
+  ]
+}

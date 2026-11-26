@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Water & Sewer April 28 2020 Agenda (Via Zoom) with revised instructions (pdf)",
+  "filename": "Water-Sewer-April-28-2020-Via-Zoom-Agenda-with-revised-instructions.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/Water-Sewer-April-28-2020-Via-Zoom-Agenda-with-revised-instructions.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-26T20:08:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "340f6fc2d28ec42a911748b114397782bf1113cf867736db678d288ef254d1ef",
+  "bytes": 90073,
+  "pages": 0,
+  "http_last_modified": "Tue, 28 Apr 2020 16:01:40 GMT",
+  "etag": "\"16619ea-15fd9-5a45bf270a100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2020/2020-04-28_Water-Sewer-April-28-2020-Via-Zoom-Agenda-with-revised-instructions--340f6fc2d28e.pdf",
+  "versions": [
+    {
+      "sha256": "340f6fc2d28ec42a911748b114397782bf1113cf867736db678d288ef254d1ef",
+      "bytes": 90073,
+      "retrieved_utc": "2026-11-26T20:08:31+00:00",
+      "http_last_modified": "Tue, 28 Apr 2020 16:01:40 GMT"
+    }
+  ]
+}

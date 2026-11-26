@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Notice of November 16 2021 Public Hearing for Proposed Water Rates (pdf)",
+  "filename": "Water-Sewer-Notice-of-November-16-2021-Public-Hearing-for-Proposed-Water-Rates.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/Water-Sewer-Notice-of-November-16-2021-Public-Hearing-for-Proposed-Water-Rates.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-26T19:49:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7737b11d8e63f7f91c417244dd642d108f8405b1fd312b32271193c84a82d962",
+  "bytes": 82356,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Nov 2021 18:10:20 GMT",
+  "etag": "\"168018f-141b4-5cfe652ac3b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-11-16_Water-Sewer-Notice-of-November-16-2021-Public-Hearing-for-Proposed-Water-Rates--7737b11d8e63.pdf",
+  "versions": [
+    {
+      "sha256": "7737b11d8e63f7f91c417244dd642d108f8405b1fd312b32271193c84a82d962",
+      "bytes": 82356,
+      "retrieved_utc": "2026-11-26T19:49:40+00:00",
+      "http_last_modified": "Wed, 03 Nov 2021 18:10:20 GMT"
+    }
+  ]
+}

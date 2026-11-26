@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 22 2019 Public Hearing II Minutes (pdf)",
+  "filename": "Water-Sewer-October-22-2019-Public-Hearing-II-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Water-Sewer-October-22-2019-Public-Hearing-II-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2019-minutes/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-26T20:24:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8c58279f1e2119afc1b65f44e0194ff6554a52ca40028ecdf42cca13375907e9",
+  "bytes": 177357,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Oct 2019 14:20:56 GMT",
+  "etag": "\"16c1fdc-2b4cd-5960d53124200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2019/2019-10-22_Water-Sewer-October-22-2019-Public-Hearing-II-Minutes--8c58279f1e21.pdf",
+  "versions": [
+    {
+      "sha256": "8c58279f1e2119afc1b65f44e0194ff6554a52ca40028ecdf42cca13375907e9",
+      "bytes": 177357,
+      "retrieved_utc": "2026-11-26T20:24:00+00:00",
+      "http_last_modified": "Tue, 29 Oct 2019 14:20:56 GMT"
+    }
+  ]
+}

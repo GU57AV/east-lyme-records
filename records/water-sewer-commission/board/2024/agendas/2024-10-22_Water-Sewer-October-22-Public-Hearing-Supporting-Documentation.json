@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 22 Public Hearing Supporting Documentation (pdf)",
+  "filename": "Water-Sewer-October-22-Public-Hearing-Supporting-Documentation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Water-Sewer-October-22-Public-Hearing-Supporting-Documentation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-26T18:28:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "07c30d534558982a5431fe6140f3a9f00c19f52c82c67c52579a9ff0a58d46d7",
+  "bytes": 1447955,
+  "pages": 0,
+  "http_last_modified": "Fri, 25 Oct 2024 12:49:52 GMT",
+  "etag": "\"1680999-161813-6254c8e18dc00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2024/2024-10-22_Water-Sewer-October-22-Public-Hearing-Supporting-Documentation--07c30d534558.pdf",
+  "versions": [
+    {
+      "sha256": "07c30d534558982a5431fe6140f3a9f00c19f52c82c67c52579a9ff0a58d46d7",
+      "bytes": 1447955,
+      "retrieved_utc": "2026-11-26T18:28:35+00:00",
+      "http_last_modified": "Fri, 25 Oct 2024 12:49:52 GMT"
+    }
+  ]
+}

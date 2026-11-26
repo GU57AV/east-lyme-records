@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer July 27 2021 Agenda (pdf)",
+  "filename": "Water-Sewer-July-27-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/Water-Sewer-July-27-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-agendas/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-26T19:53:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4c4e94157b6d0326bafe7523829f6b6ed07d49d6b8f2f305fe5d49dfd5e92a69",
+  "bytes": 37816,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Jul 2021 18:09:07 GMT",
+  "etag": "\"16804f7-93b8-5c7a610fbf6c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-07-27_Water-Sewer-July-27-2021-Agenda--4c4e94157b6d.pdf",
+  "versions": [
+    {
+      "sha256": "4c4e94157b6d0326bafe7523829f6b6ed07d49d6b8f2f305fe5d49dfd5e92a69",
+      "bytes": 37816,
+      "retrieved_utc": "2026-11-26T19:53:22+00:00",
+      "http_last_modified": "Wed, 21 Jul 2021 18:09:07 GMT"
+    }
+  ]
+}

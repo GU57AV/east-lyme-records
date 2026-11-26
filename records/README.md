@@ -11,7 +11,7 @@
 | [East Lyme Board of Education](board-of-education/INDEX.md) | 1497 | complete |
 | [East Lyme Zoning Board of Appeals](zoning-board-of-appeals/INDEX.md) | 141 | complete |
 | [East Lyme Inland Wetlands Agency](inland-wetlands-agency/INDEX.md) | 679 | complete |
-| [East Lyme Water & Sewer Commission](water-sewer-commission/INDEX.md) | 84 | import in progress |
+| [East Lyme Water & Sewer Commission](water-sewer-commission/INDEX.md) | 350 | import in progress |
 | East Lyme Charter Revision Commission | 0 | import in progress |
 | East Lyme Ad Hoc Short-Term Rental Committee | 0 | import in progress |
 | East Lyme Aquifer Protection Agency | 0 | import in progress |

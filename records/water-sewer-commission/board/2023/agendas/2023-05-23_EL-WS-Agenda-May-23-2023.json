@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Water & Sewer May 23 2023 Supporting Documentation (pdf)",
+  "filename": "EL-WS-Agenda-May-23-2023.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/EL-WS-Agenda-May-23-2023.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-26T19:12:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c67e7bedc3b6b660c9cfca9d6077954d9941c67862d71833eb797d753ad65c07",
+  "bytes": 3885958,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 May 2023 13:48:16 GMT",
+  "etag": "\"16c237a-3b4b86-5fc70c178a800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2023/2023-05-23_EL-WS-Agenda-May-23-2023--c67e7bedc3b6.pdf",
+  "versions": [
+    {
+      "sha256": "c67e7bedc3b6b660c9cfca9d6077954d9941c67862d71833eb797d753ad65c07",
+      "bytes": 3885958,
+      "retrieved_utc": "2026-11-26T19:12:49+00:00",
+      "http_last_modified": "Wed, 24 May 2023 13:48:16 GMT"
+    }
+  ]
+}

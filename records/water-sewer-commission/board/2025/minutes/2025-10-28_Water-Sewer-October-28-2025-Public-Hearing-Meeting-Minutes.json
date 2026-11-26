@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Commission October 28 2025 Public Hearing Meeting Minutes (pdf)",
+  "filename": "Water-Sewer-October-28-2025-Public-Hearing-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/Water-Sewer-October-28-2025-Public-Hearing-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2025-minutes/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-26T18:18:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cd7cb1052af151e738960656f5180914f05427b5c9824012a29bd58bb474233a",
+  "bytes": 94450,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Nov 2025 21:36:09 GMT",
+  "etag": "\"1761df8-170f2-6434451c67f81\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2025/2025-10-28_Water-Sewer-October-28-2025-Public-Hearing-Meeting-Minutes--cd7cb1052af1.pdf",
+  "versions": [
+    {
+      "sha256": "cd7cb1052af151e738960656f5180914f05427b5c9824012a29bd58bb474233a",
+      "bytes": 94450,
+      "retrieved_utc": "2026-11-26T18:18:26+00:00",
+      "http_last_modified": "Mon, 10 Nov 2025 21:36:09 GMT"
+    }
+  ]
+}

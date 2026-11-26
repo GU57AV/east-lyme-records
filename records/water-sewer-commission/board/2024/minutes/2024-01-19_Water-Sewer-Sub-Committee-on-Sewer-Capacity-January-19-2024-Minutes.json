@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Sub-Committee on Sewer Capacity January 19 2024 Minutes (pdf)",
+  "filename": "Water-Sewer-Sub-Committee-on-Sewer-Capacity-January-19-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/Water-Sewer-Sub-Committee-on-Sewer-Capacity-January-19-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2024-minutes/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-26T19:03:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e0b797eb480033208a2d4a4adf0b17e363c8b1578ababee17b964a986a3173b0",
+  "bytes": 86805,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Feb 2024 19:48:26 GMT",
+  "etag": "\"16807e0-15315-610574760f680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2024/2024-01-19_Water-Sewer-Sub-Committee-on-Sewer-Capacity-January-19-2024-Minutes--e0b797eb4800.pdf",
+  "versions": [
+    {
+      "sha256": "e0b797eb480033208a2d4a4adf0b17e363c8b1578ababee17b964a986a3173b0",
+      "bytes": 86805,
+      "retrieved_utc": "2026-11-26T19:03:45+00:00",
+      "http_last_modified": "Thu, 01 Feb 2024 19:48:26 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Water & Sewer May 26 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "Water-Sewer-May-26-2020-Meeting-Agenda-via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/05/Water-Sewer-May-26-2020-Meeting-Agenda-via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2020-agendas/",
+  "upload_folder": "2020-05",
+  "first_seen_utc": "2026-11-26T20:08:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dd5638f2b452dee746dfd7a74a5dddfa86e9a721b88a419415eb2538d6bdaff4",
+  "bytes": 90683,
+  "pages": 0,
+  "http_last_modified": "Fri, 22 May 2020 13:57:31 GMT",
+  "etag": "\"16616cd-1623b-5a63d02a2e8c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2020/2020-05-26_Water-Sewer-May-26-2020-Meeting-Agenda-via-Zoom--dd5638f2b452.pdf",
+  "versions": [
+    {
+      "sha256": "dd5638f2b452dee746dfd7a74a5dddfa86e9a721b88a419415eb2538d6bdaff4",
+      "bytes": 90683,
+      "retrieved_utc": "2026-11-26T20:08:11+00:00",
+      "http_last_modified": "Fri, 22 May 2020 13:57:31 GMT"
+    }
+  ]
+}

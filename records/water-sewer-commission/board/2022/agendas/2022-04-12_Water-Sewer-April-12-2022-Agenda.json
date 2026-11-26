@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Water & Sewer April 12 2022 Agenda (pdf)",
+  "filename": "Water-Sewer-April-12-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/Water-Sewer-April-12-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-26T19:39:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37527d3b4b8520bd34585d82f602e8a0e5035fc605fa933879e7266e9e45e336",
+  "bytes": 26369,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Apr 2022 12:31:15 GMT",
+  "etag": "\"16a1299-6701-5dc601ec8cac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2022/2022-04-12_Water-Sewer-April-12-2022-Agenda--37527d3b4b85.pdf",
+  "versions": [
+    {
+      "sha256": "37527d3b4b8520bd34585d82f602e8a0e5035fc605fa933879e7266e9e45e336",
+      "bytes": 26369,
+      "retrieved_utc": "2026-11-26T19:39:11+00:00",
+      "http_last_modified": "Mon, 11 Apr 2022 12:31:15 GMT"
+    }
+  ]
+}

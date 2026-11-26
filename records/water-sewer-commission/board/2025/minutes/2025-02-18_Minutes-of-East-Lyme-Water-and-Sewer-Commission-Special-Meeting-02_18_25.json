@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Water & Sewer February 18 2025 Meeting Minutes (pdf)",
+  "filename": "Minutes-of-East-Lyme-Water-and-Sewer-Commission-Special-Meeting-02_18_25.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/Minutes-of-East-Lyme-Water-and-Sewer-Commission-Special-Meeting-02_18_25.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2025-minutes/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-26T18:22:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3fd4319923f2c49ad31d02cce936b2d0f479862b75a32f5a71096bca1e742d7b",
+  "bytes": 68861,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Feb 2025 13:43:37 GMT",
+  "etag": "\"16c01e5-10cfd-62ee386f63440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2025/2025-02-18_Minutes-of-East-Lyme-Water-and-Sewer-Commission-Special-Meeting-02_18_25--3fd4319923f2.pdf",
+  "versions": [
+    {
+      "sha256": "3fd4319923f2c49ad31d02cce936b2d0f479862b75a32f5a71096bca1e742d7b",
+      "bytes": 68861,
+      "retrieved_utc": "2026-11-26T18:22:08+00:00",
+      "http_last_modified": "Mon, 24 Feb 2025 13:43:37 GMT"
+    }
+  ]
+}

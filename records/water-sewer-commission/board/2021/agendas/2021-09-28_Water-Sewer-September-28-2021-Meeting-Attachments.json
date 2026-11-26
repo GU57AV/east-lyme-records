@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer September 28 2021 Meeting Attachments (pdf)",
+  "filename": "Water-Sewer-September-28-2021-Meeting-Attachments.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Water-Sewer-September-28-2021-Meeting-Attachments.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-26T19:51:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e304c5361c4cbe0c0bf917f7e24b1799e9cdc71272183a8b98b601df0b09cc68",
+  "bytes": 6078261,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 Sep 2021 15:43:21 GMT",
+  "etag": "\"1680327-5cbf35-5cd243092d840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-09-28_Water-Sewer-September-28-2021-Meeting-Attachments--e304c5361c4c.pdf",
+  "versions": [
+    {
+      "sha256": "e304c5361c4cbe0c0bf917f7e24b1799e9cdc71272183a8b98b601df0b09cc68",
+      "bytes": 6078261,
+      "retrieved_utc": "2026-11-26T19:51:21+00:00",
+      "http_last_modified": "Wed, 29 Sep 2021 15:43:21 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer June 22 2021 Meeting Minutes (pdf)",
+  "filename": "Water-Sewer-June-22-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/Water-Sewer-June-22-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-minutes/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-26T20:01:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4e6be07169c6b066f1bd3b35892066208a69cd04be68123f696d27e7166e78fd",
+  "bytes": 263713,
+  "pages": 0,
+  "http_last_modified": "Tue, 29 Jun 2021 14:11:04 GMT",
+  "etag": "\"168004a-40621-5c5e82d246e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-06-22_Water-Sewer-June-22-2021-Minutes--4e6be07169c6.pdf",
+  "versions": [
+    {
+      "sha256": "4e6be07169c6b066f1bd3b35892066208a69cd04be68123f696d27e7166e78fd",
+      "bytes": 263713,
+      "retrieved_utc": "2026-11-26T20:01:27+00:00",
+      "http_last_modified": "Tue, 29 Jun 2021 14:11:04 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Water & Sewer June 22 2021 Amended Agenda (pdf)",
+  "filename": "WS.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/06/WS.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2021-agendas/",
+  "upload_folder": "2021-06",
+  "first_seen_utc": "2026-11-26T19:53:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "985b39f2f01c28d24c2cb421ae20753e7902eb5077b2a5fd109551c05a75c733",
+  "bytes": 48218,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Jun 2021 19:46:01 GMT",
+  "etag": "\"1680043-bc5a-5c54bec495040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2021/2021-06-22_WS--985b39f2f01c.pdf",
+  "versions": [
+    {
+      "sha256": "985b39f2f01c28d24c2cb421ae20753e7902eb5077b2a5fd109551c05a75c733",
+      "bytes": 48218,
+      "retrieved_utc": "2026-11-26T19:53:43+00:00",
+      "http_last_modified": "Mon, 21 Jun 2021 19:46:01 GMT"
+    }
+  ]
+}

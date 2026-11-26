@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 22 2019 Agenda (pdf)",
+  "filename": "Water-Sewer-October-22-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Water-Sewer-October-22-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2019-agendas/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-26T20:16:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b7d55b9b3d7bb11efdd7a13828a35dac9e75ffb333877da80677c75eac54ce8",
+  "bytes": 62993,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Oct 2019 19:01:38 GMT",
+  "etag": "\"16c1fc9-f611-5950bbafee880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2019/2019-10-22_Water-Sewer-October-22-2019-Agenda--0b7d55b9b3d7.pdf",
+  "versions": [
+    {
+      "sha256": "0b7d55b9b3d7bb11efdd7a13828a35dac9e75ffb333877da80677c75eac54ce8",
+      "bytes": 62993,
+      "retrieved_utc": "2026-11-26T20:16:36+00:00",
+      "http_last_modified": "Wed, 16 Oct 2019 19:01:38 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Water & Sewer February 27 2024 Supporting Documentation (pdf)",
+  "filename": "Water-Sewer-February-27-2024-Supporting-Documentation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Water-Sewer-February-27-2024-Supporting-Documentation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-26T18:54:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dd9e9c79141af3794fa12096c0951aaa1d6ca09eb2414cc04381e7621c7c9daf",
+  "bytes": 1951517,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Mar 2024 16:05:49 GMT",
+  "etag": "\"1680625-1dc71d-6129b8ca33140\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2024/2024-02-27_Water-Sewer-February-27-2024-Supporting-Documentation--dd9e9c79141a.pdf",
+  "versions": [
+    {
+      "sha256": "dd9e9c79141af3794fa12096c0951aaa1d6ca09eb2414cc04381e7621c7c9daf",
+      "bytes": 1951517,
+      "retrieved_utc": "2026-11-26T18:54:22+00:00",
+      "http_last_modified": "Fri, 01 Mar 2024 16:05:49 GMT"
+    }
+  ]
+}

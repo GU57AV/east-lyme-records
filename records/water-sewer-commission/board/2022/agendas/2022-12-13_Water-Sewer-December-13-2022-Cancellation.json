@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Water & Sewer December 13 2022 Cancellation (pdf)",
+  "filename": "Water-Sewer-December-13-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Water-Sewer-December-13-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-26T19:24:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1cb7d65b27e4182a68be7210c4bc179c79ce0824201ae07cd3529da4dbce5d66",
+  "bytes": 35317,
+  "pages": 0,
+  "http_last_modified": "Mon, 28 Nov 2022 20:52:14 GMT",
+  "etag": "\"16a10da-89f5-5ee8e0bc85b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2022/2022-12-13_Water-Sewer-December-13-2022-Cancellation--1cb7d65b27e4.pdf",
+  "versions": [
+    {
+      "sha256": "1cb7d65b27e4182a68be7210c4bc179c79ce0824201ae07cd3529da4dbce5d66",
+      "bytes": 35317,
+      "retrieved_utc": "2026-11-26T19:24:17+00:00",
+      "http_last_modified": "Mon, 28 Nov 2022 20:52:14 GMT"
+    }
+  ]
+}

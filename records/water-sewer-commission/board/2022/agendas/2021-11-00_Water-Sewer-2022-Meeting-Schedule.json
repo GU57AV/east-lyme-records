@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Water & Sewer 2022 Meeting Schedule (pdf)",
+  "filename": "Water-Sewer-2022-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/Water-Sewer-2022-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2022-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-26T19:41:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e1ada4e7ce7a14482fd2f43a135da7d7c49ad6797a767a9801e7909aafea0210",
+  "bytes": 40996,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Nov 2021 16:19:54 GMT",
+  "etag": "\"168021c-a024-5d1771c8efe80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2022/2021-11-00_Water-Sewer-2022-Meeting-Schedule--e1ada4e7ce7a.pdf",
+  "versions": [
+    {
+      "sha256": "e1ada4e7ce7a14482fd2f43a135da7d7c49ad6797a767a9801e7909aafea0210",
+      "bytes": 40996,
+      "retrieved_utc": "2026-11-26T19:41:55+00:00",
+      "http_last_modified": "Tue, 23 Nov 2021 16:19:54 GMT"
+    }
+  ]
+}
