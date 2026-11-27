@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "COA November 10 2025 Agenda (pdf)",
+  "filename": "COA-November-10-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/COA-November-10-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-27T20:40:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "594f89c4ac6281d2334c278b0294fe614abbba00f976ef26d24fd7d7b5f4edc8",
+  "bytes": 48640,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Nov 2025 17:24:38 GMT",
+  "etag": "\"17601b7-be00-642b3fd6f0798\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2025/2025-11-10_COA-November-10-2025-Agenda--594f89c4ac62.pdf",
+  "versions": [
+    {
+      "sha256": "594f89c4ac6281d2334c278b0294fe614abbba00f976ef26d24fd7d7b5f4edc8",
+      "bytes": 48640,
+      "retrieved_utc": "2026-11-27T20:40:24+00:00",
+      "http_last_modified": "Mon, 03 Nov 2025 17:24:38 GMT"
+    }
+  ]
+}

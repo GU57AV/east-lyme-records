@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "COA January 9 2023 Minutes (pdf)",
+  "filename": "COA-January-9-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/COA-January-9-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2023-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-27T21:03:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a6e04b13a81ce7fa16e5d215ed26dfb3f562fd049c155f753c72042836f2d14c",
+  "bytes": 267068,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Jan 2023 14:33:05 GMT",
+  "etag": "\"16c23e5-4133c-5f211feb20a40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2023/2023-01-09_COA-January-9-2023-Minutes--a6e04b13a81c.pdf",
+  "versions": [
+    {
+      "sha256": "a6e04b13a81ce7fa16e5d215ed26dfb3f562fd049c155f753c72042836f2d14c",
+      "bytes": 267068,
+      "retrieved_utc": "2026-11-27T21:03:07+00:00",
+      "http_last_modified": "Thu, 12 Jan 2023 14:33:05 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "COA December 13 2021 Agenda (pdf)",
+  "filename": "COA-December-13-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/COA-December-13-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2021-agendas/",
+  "upload_folder": "2021-12",
+  "first_seen_utc": "2026-11-27T21:11:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f811b64cdee959a9f95a817e1ac7fc1a9ef1ccb39c56c25bd7f1dfef6139718",
+  "bytes": 67796,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Dec 2021 15:34:53 GMT",
+  "etag": "\"1663598-108d4-5d2b859070140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2021/2021-12-13_COA-December-13-2021-Agenda--0f811b64cdee.pdf",
+  "versions": [
+    {
+      "sha256": "0f811b64cdee959a9f95a817e1ac7fc1a9ef1ccb39c56c25bd7f1dfef6139718",
+      "bytes": 67796,
+      "retrieved_utc": "2026-11-27T21:11:56+00:00",
+      "http_last_modified": "Thu, 09 Dec 2021 15:34:53 GMT"
+    }
+  ]
+}

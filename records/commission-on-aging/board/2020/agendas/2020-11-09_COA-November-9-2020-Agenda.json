@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "COA November 9 2020 Agenda (pdf)",
+  "filename": "COA-November-9-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/COA-November-9-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2020-agendas/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-27T21:20:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1f16dea143bb41a5711a0fbd3113b474c0c9da7d540dea86e343a1d0cfc57f35",
+  "bytes": 56768,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Nov 2020 16:32:06 GMT",
+  "etag": "\"1661855-ddc0-5b35ea2f7cd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2020/2020-11-09_COA-November-9-2020-Agenda--1f16dea143bb.pdf",
+  "versions": [
+    {
+      "sha256": "1f16dea143bb41a5711a0fbd3113b474c0c9da7d540dea86e343a1d0cfc57f35",
+      "bytes": 56768,
+      "retrieved_utc": "2026-11-27T21:20:04+00:00",
+      "http_last_modified": "Thu, 05 Nov 2020 16:32:06 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "COA January 10 2022 Agenda (pdf)",
+  "filename": "COA-January-10-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/COA-January-10-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2022-agendas/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-27T21:07:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9d64bfb9c7f3cfd33987523fa7ec83c4cd0f091da69f17c7e0e92cde218697e",
+  "bytes": 63880,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Jan 2022 17:35:21 GMT",
+  "etag": "\"16a0dc2-f988-5d4ed4b680840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2022/2022-01-10_COA-January-10-2022-Agenda--d9d64bfb9c7f.pdf",
+  "versions": [
+    {
+      "sha256": "d9d64bfb9c7f3cfd33987523fa7ec83c4cd0f091da69f17c7e0e92cde218697e",
+      "bytes": 63880,
+      "retrieved_utc": "2026-11-27T21:07:31+00:00",
+      "http_last_modified": "Thu, 06 Jan 2022 17:35:21 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "COA March 13 2023 Agenda (pdf)",
+  "filename": "COA-March-13-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/03/COA-March-13-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2023-agendas/",
+  "upload_folder": "2023-03",
+  "first_seen_utc": "2026-11-27T20:58:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0098d63c74df36226a2c46a2522ee68b0b3cf1e95e49b32f9139dd98b4d43814",
+  "bytes": 55090,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Mar 2023 18:06:24 GMT",
+  "etag": "\"16c231d-d732-5f67b80b04800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2023/2023-03-13_COA-March-13-2023-Agenda--0098d63c74df.pdf",
+  "versions": [
+    {
+      "sha256": "0098d63c74df36226a2c46a2522ee68b0b3cf1e95e49b32f9139dd98b4d43814",
+      "bytes": 55090,
+      "retrieved_utc": "2026-11-27T20:58:41+00:00",
+      "http_last_modified": "Thu, 09 Mar 2023 18:06:24 GMT"
+    }
+  ]
+}

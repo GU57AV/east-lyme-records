@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "COA April 14 2025 Agenda (pdf)",
+  "filename": "COA-April-14-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/COA-April-14-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2025-agendas/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-27T20:42:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "93ea7625b6aa7266f747308a8b9fcb50d3df26695a327c2816d4117e3c67d2ce",
+  "bytes": 54852,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Apr 2025 12:18:48 GMT",
+  "etag": "\"16c0257-d644-6322f3cf7fa00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2025/2025-04-14_COA-April-14-2025-Agenda--93ea7625b6aa.pdf",
+  "versions": [
+    {
+      "sha256": "93ea7625b6aa7266f747308a8b9fcb50d3df26695a327c2816d4117e3c67d2ce",
+      "bytes": 54852,
+      "retrieved_utc": "2026-11-27T20:42:25+00:00",
+      "http_last_modified": "Mon, 07 Apr 2025 12:18:48 GMT"
+    }
+  ]
+}

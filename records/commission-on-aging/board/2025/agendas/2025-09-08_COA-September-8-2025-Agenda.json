@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "COA September 8 2025 Agenda (pdf)",
+  "filename": "COA-September-8-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/COA-September-8-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-27T20:41:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "83817b7bd1e8eb2950517023bddeb4edb1447f7e6681136c14df222b5b07b58d",
+  "bytes": 41484,
+  "pages": 0,
+  "http_last_modified": "Thu, 28 Aug 2025 13:43:06 GMT",
+  "etag": "\"16c2546-a20c-63d6d15c8f201\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2025/2025-09-08_COA-September-8-2025-Agenda--83817b7bd1e8.pdf",
+  "versions": [
+    {
+      "sha256": "83817b7bd1e8eb2950517023bddeb4edb1447f7e6681136c14df222b5b07b58d",
+      "bytes": 41484,
+      "retrieved_utc": "2026-11-27T20:41:04+00:00",
+      "http_last_modified": "Thu, 28 Aug 2025 13:43:06 GMT"
+    }
+  ]
+}

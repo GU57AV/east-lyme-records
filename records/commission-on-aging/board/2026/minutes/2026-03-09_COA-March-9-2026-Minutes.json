@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "COA March 9 2026 Minutes (pdf)",
+  "filename": "COA-March-9-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/COA-March-9-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2026-minutes/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-27T20:39:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a44a7541ddaa3352b67b3930c9c21374d778efd82b8aaa838b0098b8db1fa0b0",
+  "bytes": 140946,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Mar 2026 14:19:28 GMT",
+  "etag": "\"1700242-22692-64cc052ed4639\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2026/2026-03-09_COA-March-9-2026-Minutes--a44a7541ddaa.pdf",
+  "versions": [
+    {
+      "sha256": "a44a7541ddaa3352b67b3930c9c21374d778efd82b8aaa838b0098b8db1fa0b0",
+      "bytes": 140946,
+      "retrieved_utc": "2026-11-27T20:39:02+00:00",
+      "http_last_modified": "Wed, 11 Mar 2026 14:19:28 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA October 21 2024 Minutes (pdf)",
+  "filename": "COA-October-21-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/COA-October-21-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-minutes/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-27T20:52:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "497c7f8065991ea62f5cc928b7ae44dd446288a436ad707ac05ee17a098063e8",
+  "bytes": 168348,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Oct 2024 13:45:18 GMT",
+  "etag": "\"16809b8-2919c-6253936803780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-10-21_COA-October-21-2024-Minutes--497c7f806599.pdf",
+  "versions": [
+    {
+      "sha256": "497c7f8065991ea62f5cc928b7ae44dd446288a436ad707ac05ee17a098063e8",
+      "bytes": 168348,
+      "retrieved_utc": "2026-11-27T20:52:56+00:00",
+      "http_last_modified": "Thu, 24 Oct 2024 13:45:18 GMT"
+    }
+  ]
+}

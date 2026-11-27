@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA June 10 2024 Agenda (pdf)",
+  "filename": "COA-June-10-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/COA-June-10-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-27T20:49:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8bb81d381d97b40372988a95ffb4e8482ca03c7c60f30b612e49a566dece97e2",
+  "bytes": 58338,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Jun 2024 17:52:36 GMT",
+  "etag": "\"1680726-e3e2-619ffff9b8100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-06-10_COA-June-10-2024-Agenda--8bb81d381d97.pdf",
+  "versions": [
+    {
+      "sha256": "8bb81d381d97b40372988a95ffb4e8482ca03c7c60f30b612e49a566dece97e2",
+      "bytes": 58338,
+      "retrieved_utc": "2026-11-27T20:49:32+00:00",
+      "http_last_modified": "Mon, 03 Jun 2024 17:52:36 GMT"
+    }
+  ]
+}

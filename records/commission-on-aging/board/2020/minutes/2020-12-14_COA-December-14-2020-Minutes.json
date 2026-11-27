@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "COA December 14 2020 Minutes (pdf)",
+  "filename": "COA-December-14-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/COA-December-14-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2020-minutes/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-27T21:24:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6c781e73049824ce685a6e79553fbd7fe036e6465e282ef82cc7329b42538d32",
+  "bytes": 131753,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Dec 2020 18:36:49 GMT",
+  "etag": "\"1661535-202a9-5b6850aa45240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2020/2020-12-14_COA-December-14-2020-Minutes--6c781e730498.pdf",
+  "versions": [
+    {
+      "sha256": "6c781e73049824ce685a6e79553fbd7fe036e6465e282ef82cc7329b42538d32",
+      "bytes": 131753,
+      "retrieved_utc": "2026-11-27T21:24:48+00:00",
+      "http_last_modified": "Tue, 15 Dec 2020 18:36:49 GMT"
+    }
+  ]
+}

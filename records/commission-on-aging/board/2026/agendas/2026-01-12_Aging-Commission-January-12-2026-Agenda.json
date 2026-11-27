@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "COA January 12 2026 Agenda (pdf)",
+  "filename": "Aging-Commission-January-12-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/Aging-Commission-January-12-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2026-agendas/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-27T20:36:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "296ca38875422664111a7ce43bdd20ad19012b585fae99202316576f108eb3a0",
+  "bytes": 49264,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Jan 2026 14:15:15 GMT",
+  "etag": "\"170110c-c070-647ccebca9594\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2026/2026-01-12_Aging-Commission-January-12-2026-Agenda--296ca3887542.pdf",
+  "versions": [
+    {
+      "sha256": "296ca38875422664111a7ce43bdd20ad19012b585fae99202316576f108eb3a0",
+      "bytes": 49264,
+      "retrieved_utc": "2026-11-27T20:36:19+00:00",
+      "http_last_modified": "Wed, 07 Jan 2026 14:15:15 GMT"
+    }
+  ]
+}

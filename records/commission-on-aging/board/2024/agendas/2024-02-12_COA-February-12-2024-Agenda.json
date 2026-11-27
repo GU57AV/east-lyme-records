@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA February 12 2024 Agenda (pdf)",
+  "filename": "COA-February-12-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/COA-February-12-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T20:51:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "67f6a2549ab9198341fb2ad0ef5433b750a83c506734063c11661d8c0f9f28b0",
+  "bytes": 53310,
+  "pages": 0,
+  "http_last_modified": "Tue, 30 Jan 2024 19:37:51 GMT",
+  "etag": "\"16806f3-d03e-6102ee5d8e1c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-02-12_COA-February-12-2024-Agenda--67f6a2549ab9.pdf",
+  "versions": [
+    {
+      "sha256": "67f6a2549ab9198341fb2ad0ef5433b750a83c506734063c11661d8c0f9f28b0",
+      "bytes": 53310,
+      "retrieved_utc": "2026-11-27T20:51:14+00:00",
+      "http_last_modified": "Tue, 30 Jan 2024 19:37:51 GMT"
+    }
+  ]
+}

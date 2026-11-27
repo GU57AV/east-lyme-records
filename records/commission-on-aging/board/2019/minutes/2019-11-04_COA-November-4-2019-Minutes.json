@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "COA November 4 2019 Minutes (pdf)",
+  "filename": "COA-November-4-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/COA-November-4-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2019-minutes/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-27T21:31:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d6c56169fa4c3b8354616c7bda2f45beba6625a06912af5e8a5581c3062b7c7c",
+  "bytes": 190352,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Nov 2019 19:48:38 GMT",
+  "etag": "\"16c1f3e-2e790-596b2d5bf9180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2019/2019-11-04_COA-November-4-2019-Minutes--d6c56169fa4c.pdf",
+  "versions": [
+    {
+      "sha256": "d6c56169fa4c3b8354616c7bda2f45beba6625a06912af5e8a5581c3062b7c7c",
+      "bytes": 190352,
+      "retrieved_utc": "2026-11-27T21:31:15+00:00",
+      "http_last_modified": "Wed, 06 Nov 2019 19:48:38 GMT"
+    }
+  ]
+}

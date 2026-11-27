@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "COA April 12 2021 Minutes (pdf)",
+  "filename": "COA-April-12-2021-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/COA-April-12-2021-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2021-minutes/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-27T21:18:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3742386b226960f8034db3de936f5ccb9dd8bc0d6250760ece92d4569fc4f434",
+  "bytes": 198490,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Apr 2021 15:31:20 GMT",
+  "etag": "\"1680455-3075a-5bff070424200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2021/2021-04-12_COA-April-12-2021-Meeting-Minutes--3742386b2269.pdf",
+  "versions": [
+    {
+      "sha256": "3742386b226960f8034db3de936f5ccb9dd8bc0d6250760ece92d4569fc4f434",
+      "bytes": 198490,
+      "retrieved_utc": "2026-11-27T21:18:22+00:00",
+      "http_last_modified": "Wed, 14 Apr 2021 15:31:20 GMT"
+    }
+  ]
+}

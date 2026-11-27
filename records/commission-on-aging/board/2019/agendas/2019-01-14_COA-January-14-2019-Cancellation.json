@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "COA January 14 2019 Cancellation (pdf)",
+  "filename": "COA-January-14-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/01/COA-January-14-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2019-agendas/",
+  "upload_folder": "2019-01",
+  "first_seen_utc": "2026-11-27T21:30:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "134abf9dc75950c1ad12ed088ce4b128214f04b5da26e3c79a41471e2c7144e5",
+  "bytes": 27797,
+  "pages": 0,
+  "http_last_modified": "Thu, 10 Jan 2019 15:57:45 GMT",
+  "etag": "\"16c1bf7-6c95-57f1ca3a71040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2019/2019-01-14_COA-January-14-2019-Cancellation--134abf9dc759.pdf",
+  "versions": [
+    {
+      "sha256": "134abf9dc75950c1ad12ed088ce4b128214f04b5da26e3c79a41471e2c7144e5",
+      "bytes": 27797,
+      "retrieved_utc": "2026-11-27T21:30:14+00:00",
+      "http_last_modified": "Thu, 10 Jan 2019 15:57:45 GMT"
+    }
+  ]
+}

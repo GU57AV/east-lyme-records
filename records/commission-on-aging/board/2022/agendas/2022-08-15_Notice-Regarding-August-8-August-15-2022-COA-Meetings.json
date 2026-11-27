@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "COA Notice Regarding August 8 & August 15 2022 Meetings (pdf)",
+  "filename": "Notice-Regarding-August-8-August-15-2022-COA-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Notice-Regarding-August-8-August-15-2022-COA-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2022-agendas/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-27T21:04:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "63c82d1694d082fc90fec6a97dc31865cda8d1467fbc942e7ab15888f6f336d3",
+  "bytes": 34713,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Aug 2022 14:43:21 GMT",
+  "etag": "\"16a13b7-8799-5e65cc50e9440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2022/2022-08-15_Notice-Regarding-August-8-August-15-2022-COA-Meetings--63c82d1694d0.pdf",
+  "versions": [
+    {
+      "sha256": "63c82d1694d082fc90fec6a97dc31865cda8d1467fbc942e7ab15888f6f336d3",
+      "bytes": 34713,
+      "retrieved_utc": "2026-11-27T21:04:48+00:00",
+      "http_last_modified": "Tue, 16 Aug 2022 14:43:21 GMT"
+    }
+  ]
+}

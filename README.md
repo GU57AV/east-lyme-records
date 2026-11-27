@@ -439,7 +439,8 @@ and its time, on a public Bitcoin block explorer.
 <!-- proofs:start -->
 | Manifest | Documents | Bitcoin block | Block time | Proof |
 |---|---|---|---|---|
-| [2026-11-27T163149Z](manifests/2026-11-27T163149Z.txt) | 9660 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-27T163149Z.txt.ots) |
+| [2026-11-27T213340Z](manifests/2026-11-27T213340Z.txt) | 9841 | pending (usually confirms within a few hours) | | [.ots](manifests/2026-11-27T213340Z.txt.ots) |
+| [2026-11-27T163149Z](manifests/2026-11-27T163149Z.txt) | 9660 | [977,825](https://mempool.space/block/977825) | 2026-11-27 17:13 UTC | [.ots](manifests/2026-11-27T163149Z.txt.ots) |
 | [2026-11-27T113008Z](manifests/2026-11-27T113008Z.txt) | 9446 | [977,801](https://mempool.space/block/977801) | 2026-11-27 11:47 UTC | [.ots](manifests/2026-11-27T113008Z.txt.ots) |
 | [2026-11-27T062837Z](manifests/2026-11-27T062837Z.txt) | 9181 | [977,772](https://mempool.space/block/977772) | 2026-11-27 07:07 UTC | [.ots](manifests/2026-11-27T062837Z.txt.ots) |
 | [2026-11-27T012646Z](manifests/2026-11-27T012646Z.txt) | 8922 | [977,743](https://mempool.space/block/977743) | 2026-11-27 02:37 UTC | [.ots](manifests/2026-11-27T012646Z.txt.ots) |

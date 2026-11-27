@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "COA May 9 2022 Minutes (pdf)",
+  "filename": "COA-May-9-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/COA-May-9-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2022-minutes/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-27T21:10:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c2ecd498a86546b4797e95f0d4ab0d92e74eeb617027f335c8f4ecf877ad6ec0",
+  "bytes": 177664,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 May 2022 19:07:30 GMT",
+  "etag": "\"16a0d84-2b600-5ded544f72080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2022/2022-05-09_COA-May-9-2022-Minutes--c2ecd498a865.pdf",
+  "versions": [
+    {
+      "sha256": "c2ecd498a86546b4797e95f0d4ab0d92e74eeb617027f335c8f4ecf877ad6ec0",
+      "bytes": 177664,
+      "retrieved_utc": "2026-11-27T21:10:14+00:00",
+      "http_last_modified": "Thu, 12 May 2022 19:07:30 GMT"
+    }
+  ]
+}

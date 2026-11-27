@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "COA April 13 2020 Cancellation (pdf)",
+  "filename": "COA-April-13-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/COA-April-13-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-27T21:22:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b8defb219ab7240ab095226427f00c1f16a8af708cbccaa80fa0b1e125aa7803",
+  "bytes": 25251,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Apr 2020 13:46:31 GMT",
+  "etag": "\"16619e5-62a3-5a2c7ba479bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2020/2020-04-13_COA-April-13-2020-Cancellation--b8defb219ab7.pdf",
+  "versions": [
+    {
+      "sha256": "b8defb219ab7240ab095226427f00c1f16a8af708cbccaa80fa0b1e125aa7803",
+      "bytes": 25251,
+      "retrieved_utc": "2026-11-27T21:22:06+00:00",
+      "http_last_modified": "Wed, 08 Apr 2020 13:46:31 GMT"
+    }
+  ]
+}

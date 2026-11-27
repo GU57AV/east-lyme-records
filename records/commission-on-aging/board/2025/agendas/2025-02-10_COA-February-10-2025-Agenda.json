@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "COA February 10 2025 Agenda (pdf)",
+  "filename": "COA-February-10-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/COA-February-10-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-27T20:43:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c60d134654b59a2ba048db8a2d583880d678363840840f73ab088a113ffdc4f3",
+  "bytes": 48413,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Jan 2025 20:20:11 GMT",
+  "etag": "\"16c001a-bd1d-62cf2272974c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2025/2025-02-10_COA-February-10-2025-Agenda--c60d134654b5.pdf",
+  "versions": [
+    {
+      "sha256": "c60d134654b59a2ba048db8a2d583880d678363840840f73ab088a113ffdc4f3",
+      "bytes": 48413,
+      "retrieved_utc": "2026-11-27T20:43:06+00:00",
+      "http_last_modified": "Thu, 30 Jan 2025 20:20:11 GMT"
+    }
+  ]
+}

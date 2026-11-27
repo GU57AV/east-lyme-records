@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA March 4 2024 Special Meeting Minutes (pdf)",
+  "filename": "COA-March-4-2024-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/COA-March-4-2024-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-minutes/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-27T20:54:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e895e6112ff165ac96d656047f1b79254392bc8e02f5c5c5ca07437fa2b86066",
+  "bytes": 172638,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Mar 2024 20:07:46 GMT",
+  "etag": "\"168062b-2a25e-61303831fe880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-03-04_COA-March-4-2024-Special-Meeting-Minutes--e895e6112ff1.pdf",
+  "versions": [
+    {
+      "sha256": "e895e6112ff165ac96d656047f1b79254392bc8e02f5c5c5ca07437fa2b86066",
+      "bytes": 172638,
+      "retrieved_utc": "2026-11-27T20:54:38+00:00",
+      "http_last_modified": "Wed, 06 Mar 2024 20:07:46 GMT"
+    }
+  ]
+}

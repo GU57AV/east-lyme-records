@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA September 16 2024 Agenda (pdf)",
+  "filename": "COA-September-16-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/COA-September-16-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-27T20:48:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2f7f0dfb3b56e60fcdfbe745d817f16f8471d95f2ecbc2593ea8feb745737b9b",
+  "bytes": 55386,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Sep 2024 15:11:43 GMT",
+  "etag": "\"1680920-d85a-6214c977c49c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-09-16_COA-September-16-2024-Agenda--2f7f0dfb3b56.pdf",
+  "versions": [
+    {
+      "sha256": "2f7f0dfb3b56e60fcdfbe745d817f16f8471d95f2ecbc2593ea8feb745737b9b",
+      "bytes": 55386,
+      "retrieved_utc": "2026-11-27T20:48:52+00:00",
+      "http_last_modified": "Wed, 04 Sep 2024 15:11:43 GMT"
+    }
+  ]
+}

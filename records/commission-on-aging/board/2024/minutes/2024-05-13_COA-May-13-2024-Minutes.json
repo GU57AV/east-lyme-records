@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "COA May 13 2024 Minutes (pdf)",
+  "filename": "COA-May-13-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/05/COA-May-13-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2024-minutes/",
+  "upload_folder": "2024-05",
+  "first_seen_utc": "2026-11-27T20:53:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3217a771cd82213065a93b5fb6b2541c04585b28202737532b2bb6882d5b4d8e",
+  "bytes": 202322,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 May 2024 12:52:19 GMT",
+  "etag": "\"168068f-31652-618e22beea6c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2024/2024-05-13_COA-May-13-2024-Minutes--3217a771cd82.pdf",
+  "versions": [
+    {
+      "sha256": "3217a771cd82213065a93b5fb6b2541c04585b28202737532b2bb6882d5b4d8e",
+      "bytes": 202322,
+      "retrieved_utc": "2026-11-27T20:53:57+00:00",
+      "http_last_modified": "Mon, 20 May 2024 12:52:19 GMT"
+    }
+  ]
+}

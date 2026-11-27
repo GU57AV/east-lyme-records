@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "COA July 12 2021 Agenda (pdf)",
+  "filename": "COA-July-12-2021-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/COA-July-12-2021-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2021-agendas/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-27T21:13:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c9da007375d40ef5a0b98aa201b79bbc06d2624fa42dd009c0cd5ddab461893d",
+  "bytes": 58891,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Jul 2021 14:17:35 GMT",
+  "etag": "\"168051a-e60b-5c689332d9dc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2021/2021-07-12_COA-July-12-2021-Agenda-1--c9da007375d4.pdf",
+  "versions": [
+    {
+      "sha256": "c9da007375d40ef5a0b98aa201b79bbc06d2624fa42dd009c0cd5ddab461893d",
+      "bytes": 58891,
+      "retrieved_utc": "2026-11-27T21:13:17+00:00",
+      "http_last_modified": "Wed, 07 Jul 2021 14:17:35 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "COA September 8 2025 Minutes (pdf)",
+  "filename": "COA-September-8-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/COA-September-8-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2025-minutes/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-27T20:45:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1109324cd14fb87d74ccfa558712a6e63fc9724e8c8a53aae94e52e2deab3969",
+  "bytes": 139719,
+  "pages": 0,
+  "http_last_modified": "Wed, 10 Sep 2025 13:59:32 GMT",
+  "etag": "\"17204fd-221c7-63e72d47d2407\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2025/2025-09-08_COA-September-8-2025-Minutes--1109324cd14f.pdf",
+  "versions": [
+    {
+      "sha256": "1109324cd14fb87d74ccfa558712a6e63fc9724e8c8a53aae94e52e2deab3969",
+      "bytes": 139719,
+      "retrieved_utc": "2026-11-27T20:45:08+00:00",
+      "http_last_modified": "Wed, 10 Sep 2025 13:59:32 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "COA 2023 Schedule of Meetings (pdf)",
+  "filename": "COA-2023-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/COA-2023-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2023-agendas/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-27T20:59:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fc56ef6f91fa088ec73117a215d2b3c9315da0f41bf75414c7704fbb61b9b4a2",
+  "bytes": 31468,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Jan 2023 14:27:31 GMT",
+  "etag": "\"16c23fe-7aec-5f1d591437ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2023/2023-01-00_COA-2023-Schedule-of-Meetings--fc56ef6f91fa.pdf",
+  "versions": [
+    {
+      "sha256": "fc56ef6f91fa088ec73117a215d2b3c9315da0f41bf75414c7704fbb61b9b4a2",
+      "bytes": 31468,
+      "retrieved_utc": "2026-11-27T20:59:42+00:00",
+      "http_last_modified": "Mon, 09 Jan 2023 14:27:31 GMT"
+    }
+  ]
+}

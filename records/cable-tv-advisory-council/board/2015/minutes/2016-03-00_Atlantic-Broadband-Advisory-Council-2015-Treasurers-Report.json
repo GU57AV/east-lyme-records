@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Atlantic Broadband Advisory Council 2015 Treasurers Report (pdf)",
+  "filename": "Atlantic-Broadband-Advisory-Council-2015-Treasurers-Report.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/03/Atlantic-Broadband-Advisory-Council-2015-Treasurers-Report.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2015-minutes/",
+  "upload_folder": "2016-03",
+  "first_seen_utc": "2026-11-27T20:20:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "76be9ca40afe18ae79875f0fac52e6a92213605bf54322184f26d487375f2813",
+  "bytes": 311406,
+  "pages": 0,
+  "http_last_modified": "Sat, 02 Sep 2017 19:43:49 GMT",
+  "etag": "\"166201e-4c06e-5583a18aea740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2015/2016-03-00_Atlantic-Broadband-Advisory-Council-2015-Treasurers-Report--76be9ca40afe.pdf",
+  "versions": [
+    {
+      "sha256": "76be9ca40afe18ae79875f0fac52e6a92213605bf54322184f26d487375f2813",
+      "bytes": 311406,
+      "retrieved_utc": "2026-11-27T20:20:17+00:00",
+      "http_last_modified": "Sat, 02 Sep 2017 19:43:49 GMT"
+    }
+  ]
+}
