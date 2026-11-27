@@ -53,7 +53,7 @@ check the Town's original, then look here to see whether and when it changed.
 
 ### Reading the Charter and Code
 
-Open the [Charter and Code contents page](https://github.com/GU57AV/east-lyme-records/blob/main/code/README.md) and click a chapter. Every section
+Open the [Charter and Code contents page](https://github.com/GU57AV/east-lyme-records/blob/main/charter_code/README.md) and click a chapter. Every section
 is a heading you can link to: hover over it and click the small link icon to copy a link straight to,
 say, Charter § 3.4. The page shows which edition it is; newer ordinances not yet in that edition are
 tracked through the publisher's new-ordinance list described above.
@@ -390,7 +390,7 @@ Currently archived: the Board of Selectmen and every board and commission on the
 [Boards & Commissions page](https://eltownhall.com/government/boards-commissions/), plus Town Meetings.
 See the [list of archived boards](records/README.md).
 
-Also here: a searchable copy of the **[Town Charter and Code of Ordinances](code/README.md)**, one page per
+Also here: a searchable copy of the **[Town Charter and Code of Ordinances](charter_code/README.md)**, one page per
 chapter, from American Legal Publishing's 2025 S-7 edition (current through April 16, 2025).
 
 Also kept: dated snapshots of the **Town calendar** in [`calendar/`](calendar), one file per month, read

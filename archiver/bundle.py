@@ -87,11 +87,11 @@ README = """East Lyme public records - unofficial archive download
 Built {built} UTC from https://github.com/{repo}
 
 WHAT'S IN HERE
-  records/   the text of every archived agenda, minutes, notice and other document,
-             one .txt file each, in folders by board, year and kind. File names start
-             with the meeting date (YYYY-MM-DD) so they sort in date order.
-  code/      the Town Charter and Code of Ordinances (unofficial copy).
-  reports/   the posting-deadline, topic, upcoming-deadline and ordinance reports.
+  records/       the text of every archived agenda, minutes, notice and other document,
+                 one .txt file each, in folders by board, year and kind. File names
+                 start with the meeting date (YYYY-MM-DD) so they sort in date order.
+  charter_code/  the Town Charter and Code of Ordinances (unofficial copy).
+  reports/       the posting-deadline, topic, upcoming-deadline and ordinance reports.
 
 HOW TO SEARCH
   Windows: open the folder in File Explorer and type in the search box (top right).
@@ -129,7 +129,7 @@ def build() -> list[Path]:
                     f"Original: {r['source_url']}\r\nSHA-256 of original: {r['sha256']}\r\n"
                     f"Unofficial text copy; OCR may contain errors.\r\n{'=' * 60}\r\n\r\n")
             z.writestr(r["_zip"], head + r["_text"].replace("\r\n", "\n").replace("\n", "\r\n"))
-        for sub in ("code", "reports"):
+        for sub in ("charter_code", "reports"):
             for p in sorted((ROOT / sub).rglob("*.md")):
                 z.write(p, p.relative_to(ROOT).with_suffix(".txt").as_posix())
 

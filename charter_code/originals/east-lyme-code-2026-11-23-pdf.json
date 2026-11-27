@@ -1,5 +1,5 @@
 {
-  "board": "code",
+  "board": "charter_code",
   "kind": "code-export",
   "link_text": "East Lyme Charter and Code of Ordinances (PDF export)",
   "filename": "east-lyme-code-2026-11-23.pdf",
@@ -8,6 +8,6 @@
   "edition": "2025 S-7 Supplement; local legislation current through April 16, 2025",
   "sha256": "7fb15b943742c11fcc7259638c4ec372b37daa8b9f9a7a091b7f09b1c01c34aa",
   "bytes": 1106352,
-  "original_copy": "code/originals/east-lyme-code-2026-11-23.pdf",
+  "original_copy": "charter_code/originals/east-lyme-code-2026-11-23.pdf",
   "first_seen_utc": "2026-11-23T15:28:00+00:00"
 }

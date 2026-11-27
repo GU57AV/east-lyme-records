@@ -283,7 +283,7 @@ def run(args) -> int:
         if items:
             notify("East Lyme: new-ordinance list or a linked ordinance changed",
                    "\n".join(x.split(" — ")[0] for x in items[:8]) + ("\n…" if len(items) > 8 else ""),
-                   priority="high", tags=["scroll"], click=repo_url("code/new-ordinances.md"))
+                   priority="high", tags=["scroll"], click=repo_url("charter_code/new-ordinances.md"))
         write_manifest()
     write_new_ordinances(cfg)
     if not initial and not args.force and state.get("last_full_run_utc"):
@@ -692,7 +692,7 @@ def write_manifest() -> None:
     """Write a dated manifest of every archived file's SHA-256 when the set of hashes changes.
     The workflow stamps each new manifest with OpenTimestamps (Bitcoin-anchored proof)."""
     rows = []
-    sides = (sorted((ROOT / "records").rglob("*.json")) + sorted((ROOT / "code").rglob("*.json"))
+    sides = (sorted((ROOT / "records").rglob("*.json")) + sorted((ROOT / "charter_code").rglob("*.json"))
              + sorted((ROOT / "calendar").rglob("*.json")))
     for side in sides:
         m = load_json(side, None)
@@ -903,7 +903,7 @@ def new_edition_alert(w: dict, prev: dict, rows: list[dict], since: str | None) 
     if sig in done:
         return
     edition = "unknown"
-    readme = ROOT / "code" / "README.md"
+    readme = ROOT / "charter_code" / "README.md"
     if readme.exists():
         m = re.search(r"current through \*\*(.+?)\*\*", readme.read_text(encoding="utf-8"))
         edition = m.group(1) if m else edition
@@ -940,7 +940,7 @@ def new_edition_alert(w: dict, prev: dict, rows: list[dict], since: str | None) 
 
 
 def write_new_ordinances(cfg: dict) -> None:
-    """code/new-ordinances.md: ordinances adopted since the last Code edition, from the publisher's
+    """charter_code/new-ordinances.md: ordinances adopted since the last Code edition, from the publisher's
     Advance Legislative Service list, each linked to its archived text and original."""
     for w in cfg.get("watch", []):
         if not w.get("follow_links"):
@@ -993,7 +993,7 @@ def write_new_ordinances(cfg: dict) -> None:
                          "so archived copies are listed below instead.")
             for u in info.get("links_in_order", []):
                 lines.append(f"  - {u}")
-        out = ROOT / "code" / "new-ordinances.md"
+        out = ROOT / "charter_code" / "new-ordinances.md"
         out.parent.mkdir(exist_ok=True)
         out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
