@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council 2017 Meeting Schedule - Amended (pdf)",
+  "filename": "Cable-Advisory-Council-2017-Meeting-Schedule-Amended.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Cable-Advisory-Council-2017-Meeting-Schedule-Amended.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T16:21:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e8b108fd734d641218499d0a76966e228e3c70c5c4efd55b32719207268f1b32",
+  "bytes": 243741,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Jul 2017 15:02:02 GMT",
+  "etag": "\"16623e5-3b81d-55393484f2e80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2017/2016-11-00_Cable-Advisory-Council-2017-Meeting-Schedule-Amended--e8b108fd734d.pdf",
+  "versions": [
+    {
+      "sha256": "e8b108fd734d641218499d0a76966e228e3c70c5c4efd55b32719207268f1b32",
+      "bytes": 243741,
+      "retrieved_utc": "2026-11-27T16:21:53+00:00",
+      "http_last_modified": "Wed, 05 Jul 2017 15:02:02 GMT"
+    }
+  ]
+}

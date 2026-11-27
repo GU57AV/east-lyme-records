@@ -16,8 +16,8 @@
 | [East Lyme Ad Hoc Short-Term Rental Committee](ad-hoc-short-term-rental-committee/INDEX.md) | 69 | complete |
 | [East Lyme Aquifer Protection Agency](aquifer-protection-agency/INDEX.md) | 69 | complete |
 | [East Lyme Board of Assessment Appeals](board-of-assessment-appeals/INDEX.md) | 186 | complete |
-| [East Lyme Brookside Farm Museum Commission](brookside-farm-museum-commission/INDEX.md) | 218 | import in progress |
-| East Lyme Cable TV Advisory Council | 0 | import in progress |
+| [East Lyme Brookside Farm Museum Commission](brookside-farm-museum-commission/INDEX.md) | 271 | complete |
+| [East Lyme Cable TV Advisory Council](cable-tv-advisory-council/INDEX.md) | 161 | import in progress |
 | East Lyme Commission On Aging | 0 | import in progress |
 | East Lyme Conservation of Natural Resources Commission | 0 | import in progress |
 | East Lyme East Lyme Public Library Board of Trustees | 0 | import in progress |

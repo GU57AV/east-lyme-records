@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Smith Harris House April 23 2014 Minutes (pdf)",
+  "filename": "Smith-Harris-House-Minutes-04-23-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Smith-Harris-House-Minutes-04-23-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-minutes-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-27T15:26:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d92ccf8e7555996d0bde908c377733509953fd2028554bdec09c2708dde560a3",
+  "bytes": 231209,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:12:27 GMT",
+  "etag": "\"1663427-38729-520822c7118c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2014/2014-04-23_Smith-Harris-House-Minutes-04-23-2014--d92ccf8e7555.pdf",
+  "versions": [
+    {
+      "sha256": "d92ccf8e7555996d0bde908c377733509953fd2028554bdec09c2708dde560a3",
+      "bytes": 231209,
+      "retrieved_utc": "2026-11-27T15:26:25+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:12:27 GMT"
+    }
+  ]
+}

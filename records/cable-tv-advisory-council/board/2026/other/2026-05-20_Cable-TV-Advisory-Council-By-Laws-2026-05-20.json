@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "By-Laws",
+  "filename": "Cable-TV-Advisory-Council-By-Laws-2026-05-20.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/05/Cable-TV-Advisory-Council-By-Laws-2026-05-20.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/",
+  "upload_folder": "2026-05",
+  "first_seen_utc": "2026-11-27T15:37:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "424e57b350eca6e22d07f2525ce8d67db6ccb0314a6282c50febc69a5aed45ea",
+  "bytes": 339076,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 May 2026 23:16:15 GMT",
+  "etag": "\"17009d0-52c84-65247fb7591d9\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2026/2026-05-20_Cable-TV-Advisory-Council-By-Laws-2026-05-20--424e57b350ec.pdf",
+  "versions": [
+    {
+      "sha256": "424e57b350eca6e22d07f2525ce8d67db6ccb0314a6282c50febc69a5aed45ea",
+      "bytes": 339076,
+      "retrieved_utc": "2026-11-27T15:37:14+00:00",
+      "http_last_modified": "Wed, 20 May 2026 23:16:15 GMT"
+    }
+  ]
+}

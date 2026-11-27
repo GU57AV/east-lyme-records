@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Smith Harris House Oct 29 2015 Special Meeting Agenda (pdf)",
+  "filename": "Smith-Harris-House-Oct-29-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/Smith-Harris-House-Oct-29-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-27T15:12:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "58b28e9c186d4b02f6210b58184a7f9b3a1b8d51aba25e2ba53cc926385cf3a8",
+  "bytes": 36456,
+  "pages": 0,
+  "http_last_modified": "Mon, 26 Oct 2015 14:10:44 GMT",
+  "etag": "\"1663065-8e68-5230286eae100\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2015/2015-10-29_Smith-Harris-House-Oct-29-2015-Agenda--58b28e9c186d.pdf",
+  "versions": [
+    {
+      "sha256": "58b28e9c186d4b02f6210b58184a7f9b3a1b8d51aba25e2ba53cc926385cf3a8",
+      "bytes": 36456,
+      "retrieved_utc": "2026-11-27T15:12:26+00:00",
+      "http_last_modified": "Mon, 26 Oct 2015 14:10:44 GMT"
+    }
+  ]
+}

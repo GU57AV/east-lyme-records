@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Atlantic Broadband Advisory Council 2021 Treasurers Report (pdf)",
+  "filename": "Atlantic-Broadband-Advisory-Council-2021-Treasurers-Report.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/10/Atlantic-Broadband-Advisory-Council-2021-Treasurers-Report.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2021-minutes/",
+  "upload_folder": "2021-10",
+  "first_seen_utc": "2026-11-27T16:06:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1dc2a00ca79351850f3ff8d0799949e9a1681d805a2659f86baf66488c83022f",
+  "bytes": 129192,
+  "pages": 0,
+  "http_last_modified": "Mon, 04 Oct 2021 20:03:10 GMT",
+  "etag": "\"1680397-1f8a8-5cd8c66f4fb80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2021/2021-10-00_Atlantic-Broadband-Advisory-Council-2021-Treasurers-Report--1dc2a00ca793.pdf",
+  "versions": [
+    {
+      "sha256": "1dc2a00ca79351850f3ff8d0799949e9a1681d805a2659f86baf66488c83022f",
+      "bytes": 129192,
+      "retrieved_utc": "2026-11-27T16:06:54+00:00",
+      "http_last_modified": "Mon, 04 Oct 2021 20:03:10 GMT"
+    }
+  ]
+}

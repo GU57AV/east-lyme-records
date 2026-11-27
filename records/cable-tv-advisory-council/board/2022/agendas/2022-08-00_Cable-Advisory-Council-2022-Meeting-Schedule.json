@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council 2022 Meeting Schedule (pdf)",
+  "filename": "Cable-Advisory-Council-2022-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Cable-Advisory-Council-2022-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2022-agendas/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-27T15:57:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "682a1caf3a176bfc58a45fe85ab1e86918a83a7e2cee1e248d75c3990ecbfecc",
+  "bytes": 64613,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Aug 2022 15:40:15 GMT",
+  "etag": "\"16a132a-fc65-5e580484af5c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2022/2022-08-00_Cable-Advisory-Council-2022-Meeting-Schedule--682a1caf3a17.pdf",
+  "versions": [
+    {
+      "sha256": "682a1caf3a176bfc58a45fe85ab1e86918a83a7e2cee1e248d75c3990ecbfecc",
+      "bytes": 64613,
+      "retrieved_utc": "2026-11-27T15:57:42+00:00",
+      "http_last_modified": "Fri, 05 Aug 2022 15:40:15 GMT"
+    }
+  ]
+}

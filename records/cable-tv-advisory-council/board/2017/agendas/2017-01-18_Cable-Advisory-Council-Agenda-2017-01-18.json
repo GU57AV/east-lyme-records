@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council Agenda 2017-01-18 (pdf)",
+  "filename": "Cable-Advisory-Council-Agenda-2017-01-18.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Cable-Advisory-Council-Agenda-2017-01-18.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T16:23:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7ec8d01b8efb54d5e73106e2fc4fd0fb7968f229e2f46ab46e33d4ebb35eda2",
+  "bytes": 135360,
+  "pages": 0,
+  "http_last_modified": "Sat, 17 Dec 2016 15:37:37 GMT",
+  "etag": "\"16623bb-210c0-543dc774db240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2017/2017-01-18_Cable-Advisory-Council-Agenda-2017-01-18--f7ec8d01b8ef.pdf",
+  "versions": [
+    {
+      "sha256": "f7ec8d01b8efb54d5e73106e2fc4fd0fb7968f229e2f46ab46e33d4ebb35eda2",
+      "bytes": 135360,
+      "retrieved_utc": "2026-11-27T16:23:35+00:00",
+      "http_last_modified": "Sat, 17 Dec 2016 15:37:37 GMT"
+    }
+  ]
+}

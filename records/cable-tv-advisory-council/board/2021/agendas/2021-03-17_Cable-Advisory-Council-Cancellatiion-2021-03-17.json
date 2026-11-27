@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council Cancellatiion 2021-03-17 (pdf)",
+  "filename": "Cable-Advisory-Council-Cancellatiion-2021-03-17.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/03/Cable-Advisory-Council-Cancellatiion-2021-03-17.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2021-agendas/",
+  "upload_folder": "2021-03",
+  "first_seen_utc": "2026-11-27T16:03:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "03de364b20aa809b35b35f5a57fc3e6b6cb95326c4ccfc710bbf3c999ec2f224",
+  "bytes": 50598,
+  "pages": 0,
+  "http_last_modified": "Wed, 10 Mar 2021 22:43:31 GMT",
+  "etag": "\"16635e0-c5a6-5bd36656bcac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2021/2021-03-17_Cable-Advisory-Council-Cancellatiion-2021-03-17--03de364b20aa.pdf",
+  "versions": [
+    {
+      "sha256": "03de364b20aa809b35b35f5a57fc3e6b6cb95326c4ccfc710bbf3c999ec2f224",
+      "bytes": 50598,
+      "retrieved_utc": "2026-11-27T16:03:29+00:00",
+      "http_last_modified": "Wed, 10 Mar 2021 22:43:31 GMT"
+    }
+  ]
+}

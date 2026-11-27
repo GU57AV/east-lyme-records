@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Smith-Harris House Oct 28 2015 Cancelled Meeting (pdf)",
+  "filename": "Smith-Harris-House-Oct-28-2015-Cancelled-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/Smith-Harris-House-Oct-28-2015-Cancelled-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-agendas-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-27T15:12:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "16d7aa14e83495ae2fe868fe57e9705dddff874ef8f9f0e5f0de7cf2a1fb5dc3",
+  "bytes": 30022,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Oct 2015 14:18:26 GMT",
+  "etag": "\"166304b-7546-521846b785080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2015/2015-10-28_Smith-Harris-House-Oct-28-2015-Cancelled-Meeting--16d7aa14e834.pdf",
+  "versions": [
+    {
+      "sha256": "16d7aa14e83495ae2fe868fe57e9705dddff874ef8f9f0e5f0de7cf2a1fb5dc3",
+      "bytes": 30022,
+      "retrieved_utc": "2026-11-27T15:12:46+00:00",
+      "http_last_modified": "Wed, 07 Oct 2015 14:18:26 GMT"
+    }
+  ]
+}

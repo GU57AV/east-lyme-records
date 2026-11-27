@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Cable TV Advisory Council of Eastern Connecticut 2024 Treasurer Report (pdf)",
+  "filename": "Cable-TV-Advisory-Council-of-Eastern-Connecticut-2024-Treasurer-Report.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Cable-TV-Advisory-Council-of-Eastern-Connecticut-2024-Treasurer-Report.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2024-minutes/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-27T15:51:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "80e67174ef344b0063d8fdc0684d7a94402e805f1c3dfb882193c3b55a22b684",
+  "bytes": 157227,
+  "pages": 0,
+  "http_last_modified": "Wed, 02 Oct 2024 14:43:04 GMT",
+  "etag": "\"1680990-2662b-6237f7494ee00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2024/2024-10-00_Cable-TV-Advisory-Council-of-Eastern-Connecticut-2024-Treasurer-Report--80e67174ef34.pdf",
+  "versions": [
+    {
+      "sha256": "80e67174ef344b0063d8fdc0684d7a94402e805f1c3dfb882193c3b55a22b684",
+      "bytes": 157227,
+      "retrieved_utc": "2026-11-27T15:51:54+00:00",
+      "http_last_modified": "Wed, 02 Oct 2024 14:43:04 GMT"
+    }
+  ]
+}

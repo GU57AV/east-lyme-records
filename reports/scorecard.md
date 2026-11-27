@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 27, 2026 6:30 AM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 11:31 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -16,6 +16,7 @@ Meetings from Nov 27, 2025 through yesterday.
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (29/29) | 86% (25/29) | 6 | 1 |
+| Brookside Farm Museum Commission | 3 | 67% (2/3) | 100% (2/2) | 67% (2/3) | 0% (0/2) | 17 | 15 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
@@ -33,6 +34,7 @@ Meetings from Nov 27, 2025 through yesterday.
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (85/86) | 87% (74/85) | 5 | 1 |
+| Brookside Farm Museum Commission | 21 | 57% (12/21) | 92% (11/12) | 62% (13/21) | 69% (9/13) | 6 | 15 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |
@@ -98,6 +100,14 @@ Meetings from Nov 27, 2025 through yesterday.
 - Mon Mar 9, 2026 — BOS (Special): current minutes file uploaded after 9 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-03-09_BOS-March-9-2026-Special-Meeting-Agenda-With-Zoom-Link.md))
 - Wed Apr 15, 2026 — Board of Selectmen: current minutes file uploaded after 8 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-04-15_BOS-April-15-2026-Agenda.md))
 - Wed Nov 4, 2026 — Board of Selectmen: current minutes file uploaded after 8 days ([document](../records/board-of-selectmen/board/2026/agendas/2026-11-04_BOS-November-4-2026-Agenda.md))
+
+</details>
+
+<details><summary>Brookside Farm Museum Commission (3)</summary>
+
+- Wed Aug 26, 2026 — Brookside Farm (Zoom): current minutes file uploaded after 13 days ([document](../records/brookside-farm-museum-commission/board/2026/agendas/2026-08-26_Brookside-Farm-August-26-2026-Agenda-With-Zoom-Link.md))
+- Wed Sep 23, 2026 — Brookside Farm Museum Meeting: no minutes found ([document](../records/brookside-farm-museum-commission/board/2026/agendas/2026-09-23_Brookside-Farm-Museum-September-23-2026-Agenda.md))
+- Mon Sep 28, 2026: no agenda found; current minutes file uploaded after 21 days ([document](../records/brookside-farm-museum-commission/board/2026/minutes/2026-09-28_Brookside-Farm-September-28-2026-Minutes.md))
 
 </details>
 

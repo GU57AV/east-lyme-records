@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Smith-Harris House March 25 2015 Informal Discussion (pdf)",
+  "filename": "Smith-Harris-Informal-Discussion-Minutes-03-25-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Smith-Harris-Informal-Discussion-Minutes-03-25-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T15:19:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4359e2b9228e000f9588addd90f846a509f9af95bc8e83469c4cdf1cc31335dd",
+  "bytes": 315897,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:55:15 GMT",
+  "etag": "\"1663dfa-4d1f9-52082c581aac0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2015/2015-03-25_Smith-Harris-Informal-Discussion-Minutes-03-25-2015--4359e2b9228e.pdf",
+  "versions": [
+    {
+      "sha256": "4359e2b9228e000f9588addd90f846a509f9af95bc8e83469c4cdf1cc31335dd",
+      "bytes": 315897,
+      "retrieved_utc": "2026-11-27T15:19:16+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:55:15 GMT"
+    }
+  ]
+}

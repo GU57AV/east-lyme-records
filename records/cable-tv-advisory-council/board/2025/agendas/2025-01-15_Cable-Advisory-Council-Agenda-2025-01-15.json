@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council Agenda 2025-01-15 (pdf)",
+  "filename": "Cable-Advisory-Council-Agenda-2025-01-15.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/Cable-Advisory-Council-Agenda-2025-01-15.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2025-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-27T15:44:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c7d51280417cdaf2d41c0ba17f8fd4e169698cc695fc2e6e5e1fb348de8777da",
+  "bytes": 149709,
+  "pages": 0,
+  "http_last_modified": "Sun, 29 Dec 2024 20:23:29 GMT",
+  "etag": "\"1680574-248cd-62a6e780ab240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2025/2025-01-15_Cable-Advisory-Council-Agenda-2025-01-15--c7d51280417c.pdf",
+  "versions": [
+    {
+      "sha256": "c7d51280417cdaf2d41c0ba17f8fd4e169698cc695fc2e6e5e1fb348de8777da",
+      "bytes": 149709,
+      "retrieved_utc": "2026-11-27T15:44:23+00:00",
+      "http_last_modified": "Sun, 29 Dec 2024 20:23:29 GMT"
+    }
+  ]
+}

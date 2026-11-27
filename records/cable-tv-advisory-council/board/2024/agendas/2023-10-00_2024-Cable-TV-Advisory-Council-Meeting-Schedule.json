@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "2024 Cable TV Advisory Council Meeting Schedule (pdf)",
+  "filename": "2024-Cable-TV-Advisory-Council-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/2024-Cable-TV-Advisory-Council-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2024-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-27T15:49:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "43d5ef93dfdde26713a3b665ab5a90fb99200afa0ee3534a86964196afc512df",
+  "bytes": 66881,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Oct 2023 14:47:03 GMT",
+  "etag": "\"16e0217-10541-609043a4e67c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2024/2023-10-00_2024-Cable-TV-Advisory-Council-Meeting-Schedule--43d5ef93dfdd.pdf",
+  "versions": [
+    {
+      "sha256": "43d5ef93dfdde26713a3b665ab5a90fb99200afa0ee3534a86964196afc512df",
+      "bytes": 66881,
+      "retrieved_utc": "2026-11-27T15:49:30+00:00",
+      "http_last_modified": "Tue, 31 Oct 2023 14:47:03 GMT"
+    }
+  ]
+}

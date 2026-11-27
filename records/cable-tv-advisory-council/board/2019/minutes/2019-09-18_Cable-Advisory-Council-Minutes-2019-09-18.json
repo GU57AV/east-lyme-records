@@ -1,0 +1,29 @@
+{
+  "board": "cable-tv-advisory-council",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Cable Advisory Council Minutes 2019-09-18 (pdf)",
+  "filename": "Cable-Advisory-Council-Minutes-2019-09-18.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Cable-Advisory-Council-Minutes-2019-09-18.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/cable-tv-advisory-council/cable-tv-advisory-council-2019-minutes/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-27T16:14:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9bbad0a8c9aeceece5c5b2158cf69179fd37ef9e703ca821e46b4225f6c3f300",
+  "bytes": 39510,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Jan 2020 16:06:16 GMT",
+  "etag": "\"16616ef-9a56-59bb73058ce00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/cable-tv-advisory-council-2019/2019-09-18_Cable-Advisory-Council-Minutes-2019-09-18--9bbad0a8c9ae.pdf",
+  "versions": [
+    {
+      "sha256": "9bbad0a8c9aeceece5c5b2158cf69179fd37ef9e703ca821e46b4225f6c3f300",
+      "bytes": 39510,
+      "retrieved_utc": "2026-11-27T16:14:43+00:00",
+      "http_last_modified": "Thu, 09 Jan 2020 16:06:16 GMT"
+    }
+  ]
+}
