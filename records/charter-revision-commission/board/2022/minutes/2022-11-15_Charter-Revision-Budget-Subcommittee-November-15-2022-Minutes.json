@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Charter Revision Budget Subcommittee November 15 2022 Minutes (pdf)",
+  "filename": "Charter-Revision-Budget-Subcommittee-November-15-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Charter-Revision-Budget-Subcommittee-November-15-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2022-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-27T01:13:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3284ff8ea14980d95a2c53f86dfc807642e95ca6c9e8e25a7523ab01c5c627cc",
+  "bytes": 28803,
+  "pages": 0,
+  "http_last_modified": "Mon, 05 Dec 2022 19:01:32 GMT",
+  "etag": "\"16a0967-7083-5ef1950c71b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2022/2022-11-15_Charter-Revision-Budget-Subcommittee-November-15-2022-Minutes--3284ff8ea149.pdf",
+  "versions": [
+    {
+      "sha256": "3284ff8ea14980d95a2c53f86dfc807642e95ca6c9e8e25a7523ab01c5c627cc",
+      "bytes": 28803,
+      "retrieved_utc": "2026-11-27T01:13:47+00:00",
+      "http_last_modified": "Mon, 05 Dec 2022 19:01:32 GMT"
+    }
+  ]
+}

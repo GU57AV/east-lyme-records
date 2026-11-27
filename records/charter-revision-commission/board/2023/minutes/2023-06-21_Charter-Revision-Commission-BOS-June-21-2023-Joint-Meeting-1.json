@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision Commission & BOS June 21 2023 Joint Meeting (pdf)",
+  "filename": "Charter-Revision-Commission-BOS-June-21-2023-Joint-Meeting-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/Charter-Revision-Commission-BOS-June-21-2023-Joint-Meeting-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-minutes/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-27T01:00:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4d9fc436d9ea7713b2ddaf49084a4fff747378a3e9b0b619149f6bd013b18d72",
+  "bytes": 55758,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jun 2023 13:16:17 GMT",
+  "etag": "\"16e005f-d9ce-5ff4481608a40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-06-21_Charter-Revision-Commission-BOS-June-21-2023-Joint-Meeting-1--4d9fc436d9ea.pdf",
+  "versions": [
+    {
+      "sha256": "4d9fc436d9ea7713b2ddaf49084a4fff747378a3e9b0b619149f6bd013b18d72",
+      "bytes": 55758,
+      "retrieved_utc": "2026-11-27T01:00:33+00:00",
+      "http_last_modified": "Thu, 29 Jun 2023 13:16:17 GMT"
+    }
+  ]
+}

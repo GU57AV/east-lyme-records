@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Report of member Anne Thurlow, \u201cLotteries, Caps & Zoning Regulations\u201d (pdf)",
+  "filename": "Lotteries-CAPS-Zoning-Regs.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Lotteries-CAPS-Zoning-Regs.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-january-29-meeting-materials/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T01:24:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bf6c78f119a0ba620725bfcf7999489d22a42e2f0b46ed8806bc611411a89b3d",
+  "bytes": 137512,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Jan 2024 18:01:00 GMT",
+  "etag": "\"16806ec-21928-60f3c25638f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-01-00_Lotteries-CAPS-Zoning-Regs--bf6c78f119a0.pdf",
+  "versions": [
+    {
+      "sha256": "bf6c78f119a0ba620725bfcf7999489d22a42e2f0b46ed8806bc611411a89b3d",
+      "bytes": 137512,
+      "retrieved_utc": "2026-11-27T01:24:22+00:00",
+      "http_last_modified": "Thu, 18 Jan 2024 18:01:00 GMT"
+    }
+  ]
+}

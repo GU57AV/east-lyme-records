@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 23 2018 Regular Meeting Minutes (pdf)",
+  "filename": "Water-Sewer-October-23-2018-Regular-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/Water-Sewer-October-23-2018-Regular-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2018-minutes/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-26T23:34:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fd177533cd458b8d30101152426bb532d7586af2df1cb5fef70ff0fb27b2e57c",
+  "bytes": 567587,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Oct 2018 18:47:05 GMT",
+  "etag": "\"16c1435-8a923-57926254bdc40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2018/2018-10-23_Water-Sewer-October-23-2018-Regular-Meeting-Minutes--fd177533cd45.pdf",
+  "versions": [
+    {
+      "sha256": "fd177533cd458b8d30101152426bb532d7586af2df1cb5fef70ff0fb27b2e57c",
+      "bytes": 567587,
+      "retrieved_utc": "2026-11-26T23:34:10+00:00",
+      "http_last_modified": "Fri, 26 Oct 2018 18:47:05 GMT"
+    }
+  ]
+}

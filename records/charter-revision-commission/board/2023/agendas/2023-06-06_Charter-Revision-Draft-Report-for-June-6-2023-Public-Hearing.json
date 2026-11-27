@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision Draft Report for June 6 2023 Public Hearing (pdf)",
+  "filename": "Charter-Revision-Draft-Report-for-June-6-2023-Public-Hearing.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/Charter-Revision-Draft-Report-for-June-6-2023-Public-Hearing.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-27T00:51:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "84be3a98d3831fce481f6a97545776641b928d31d75c6069804f827266f8a06f",
+  "bytes": 2436108,
+  "pages": 0,
+  "http_last_modified": "Tue, 30 May 2023 13:45:07 GMT",
+  "etag": "\"16c2395-252c0c-5fce96940fec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-06-06_Charter-Revision-Draft-Report-for-June-6-2023-Public-Hearing--84be3a98d383.pdf",
+  "versions": [
+    {
+      "sha256": "84be3a98d3831fce481f6a97545776641b928d31d75c6069804f827266f8a06f",
+      "bytes": 2436108,
+      "retrieved_utc": "2026-11-27T00:51:25+00:00",
+      "http_last_modified": "Tue, 30 May 2023 13:45:07 GMT"
+    }
+  ]
+}

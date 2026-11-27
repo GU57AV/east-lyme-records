@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision Commission January 3 2023 Agenda (pdf)",
+  "filename": "Charter-Revision-Commission-January-3-2023-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Charter-Revision-Commission-January-3-2023-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-27T00:59:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e834179fb720933296c8fd722e7c96dd14975f9558c38f6bb45b9678643561e0",
+  "bytes": 86807,
+  "pages": 0,
+  "http_last_modified": "Fri, 30 Dec 2022 15:41:40 GMT",
+  "etag": "\"16a08e2-15317-5f10d70081500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-01-03_Charter-Revision-Commission-January-3-2023-Agenda-1--e834179fb720.pdf",
+  "versions": [
+    {
+      "sha256": "e834179fb720933296c8fd722e7c96dd14975f9558c38f6bb45b9678643561e0",
+      "bytes": 86807,
+      "retrieved_utc": "2026-11-27T00:59:32+00:00",
+      "http_last_modified": "Fri, 30 Dec 2022 15:41:40 GMT"
+    }
+  ]
+}

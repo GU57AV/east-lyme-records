@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Water & Sewer July 22 2014 Cancellation (pdf)",
+  "filename": "Water-Sewer-Cancellation-07-22-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Water-Sewer-Cancellation-07-22-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-a-sewer-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:32:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7fe0dd492cb21fe8a36fc6ab5cd6c7269b688cce5a58ac269a2dabbfc365527",
+  "bytes": 27229,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:57:23 GMT",
+  "etag": "\"166376b-6a5d-52082cd22cac0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2014/2014-07-22_Water-Sewer-Cancellation-07-22-2014--f7fe0dd492cb.pdf",
+  "versions": [
+    {
+      "sha256": "f7fe0dd492cb21fe8a36fc6ab5cd6c7269b688cce5a58ac269a2dabbfc365527",
+      "bytes": 27229,
+      "retrieved_utc": "2026-11-27T00:32:01+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:57:23 GMT"
+    }
+  ]
+}

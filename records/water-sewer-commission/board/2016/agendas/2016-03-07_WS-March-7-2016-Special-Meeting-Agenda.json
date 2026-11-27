@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Water & Sewer March 7 2016 Special Meeting Agenda (pdf)",
+  "filename": "WS-March-7-2016-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/WS-March-7-2016-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-26T23:59:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ead03a051ed9b5c46e4201c4640f25cadb92eb0f87777cd44bea8c505fc49c84",
+  "bytes": 22549,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Mar 2016 17:32:13 GMT",
+  "etag": "\"16e03c3-5815-52d3c7ed92140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2016/2016-03-07_WS-March-7-2016-Special-Meeting-Agenda--ead03a051ed9.pdf",
+  "versions": [
+    {
+      "sha256": "ead03a051ed9b5c46e4201c4640f25cadb92eb0f87777cd44bea8c505fc49c84",
+      "bytes": 22549,
+      "retrieved_utc": "2026-11-26T23:59:18+00:00",
+      "http_last_modified": "Fri, 04 Mar 2016 17:32:13 GMT"
+    }
+  ]
+}

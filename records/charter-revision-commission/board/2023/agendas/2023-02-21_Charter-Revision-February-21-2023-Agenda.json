@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision Commission February 21 2023 Agenda (pdf)",
+  "filename": "Charter-Revision-February-21-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/Charter-Revision-February-21-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-27T00:56:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72d0cda427ebe6f8d4907fe67305981df2c12de4f75e90cd0bcff16f47978ab0",
+  "bytes": 116277,
+  "pages": 0,
+  "http_last_modified": "Fri, 24 Feb 2023 15:44:33 GMT",
+  "etag": "\"16e00e5-1c635-5f5740174da40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-02-21_Charter-Revision-February-21-2023-Agenda--72d0cda427eb.pdf",
+  "versions": [
+    {
+      "sha256": "72d0cda427ebe6f8d4907fe67305981df2c12de4f75e90cd0bcff16f47978ab0",
+      "bytes": 116277,
+      "retrieved_utc": "2026-11-27T00:56:30+00:00",
+      "http_last_modified": "Fri, 24 Feb 2023 15:44:33 GMT"
+    }
+  ]
+}

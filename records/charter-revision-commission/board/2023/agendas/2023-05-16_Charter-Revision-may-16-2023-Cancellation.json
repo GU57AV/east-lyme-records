@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision Commission May 16 2023 Cancellation (pdf)",
+  "filename": "Charter-Revision-may-16-2023-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/Charter-Revision-may-16-2023-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-agendas/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-27T00:52:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3d595ced111b0b7a9b9aaf36d405001db37d6e32b0feed5682237e046b482230",
+  "bytes": 43091,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 May 2023 17:51:48 GMT",
+  "etag": "\"16c236e-a853-5fb324af41500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-05-16_Charter-Revision-may-16-2023-Cancellation--3d595ced111b.pdf",
+  "versions": [
+    {
+      "sha256": "3d595ced111b0b7a9b9aaf36d405001db37d6e32b0feed5682237e046b482230",
+      "bytes": 43091,
+      "retrieved_utc": "2026-11-27T00:52:26+00:00",
+      "http_last_modified": "Mon, 08 May 2023 17:51:48 GMT"
+    }
+  ]
+}

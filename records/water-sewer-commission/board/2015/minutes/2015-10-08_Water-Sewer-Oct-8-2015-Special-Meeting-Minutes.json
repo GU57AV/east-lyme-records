@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "W&S Oct 8 2015 Special Meeting Minutes (pdf)",
+  "filename": "Water-Sewer-Oct-8-2015-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/10/Water-Sewer-Oct-8-2015-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-minutes-2015/",
+  "upload_folder": "2015-10",
+  "first_seen_utc": "2026-11-27T00:23:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c83a9bd6ae658a51f7fab1d0a2e4f820b92b081a36a37f832417a6aa65e111cc",
+  "bytes": 685171,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Oct 2015 14:56:42 GMT",
+  "etag": "\"16e0832-a7473-52225e30d7e80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2015/2015-10-08_Water-Sewer-Oct-8-2015-Special-Meeting-Minutes--c83a9bd6ae65.pdf",
+  "versions": [
+    {
+      "sha256": "c83a9bd6ae658a51f7fab1d0a2e4f820b92b081a36a37f832417a6aa65e111cc",
+      "bytes": 685171,
+      "retrieved_utc": "2026-11-27T00:23:02+00:00",
+      "http_last_modified": "Thu, 15 Oct 2015 14:56:42 GMT"
+    }
+  ]
+}

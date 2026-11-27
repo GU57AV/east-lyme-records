@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Water & Sewer May 22 2018 Agenda (pdf)",
+  "filename": "WS-May-22-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/WS-May-22-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-26T23:30:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8e73aacb12baeed156ce423f9ae1f46c90c174b251297e4f0de8cc8c7931f853",
+  "bytes": 40199,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 May 2018 18:06:12 GMT",
+  "etag": "\"16c0abf-9d07-56c6ab0cb4d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2018/2018-05-22_WS-May-22-2018-Agenda--8e73aacb12ba.pdf",
+  "versions": [
+    {
+      "sha256": "8e73aacb12baeed156ce423f9ae1f46c90c174b251297e4f0de8cc8c7931f853",
+      "bytes": 40199,
+      "retrieved_utc": "2026-11-26T23:30:42+00:00",
+      "http_last_modified": "Thu, 17 May 2018 18:06:12 GMT"
+    }
+  ]
+}

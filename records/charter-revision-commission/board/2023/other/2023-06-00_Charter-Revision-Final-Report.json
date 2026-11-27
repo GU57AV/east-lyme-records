@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Final Report",
+  "filename": "Charter-Revision-Final-Report.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/Charter-Revision-Final-Report.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-27T00:48:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56c4c80725d8426f2acd6414ca124e2971174de4a7b728a7aef48d7b2284c650",
+  "bytes": 2068832,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jun 2023 18:17:21 GMT",
+  "etag": "\"16e0052-1f9160-5ff48b6134e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-06-00_Charter-Revision-Final-Report--56c4c80725d8.pdf",
+  "versions": [
+    {
+      "sha256": "56c4c80725d8426f2acd6414ca124e2971174de4a7b728a7aef48d7b2284c650",
+      "bytes": 2068832,
+      "retrieved_utc": "2026-11-27T00:48:02+00:00",
+      "http_last_modified": "Thu, 29 Jun 2023 18:17:21 GMT"
+    }
+  ]
+}

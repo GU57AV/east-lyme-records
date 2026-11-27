@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Water & Sewer August 23 2016 Public Hearing Agenda (pdf)",
+  "filename": "Water-Sewer-August-23-2016-Public-Hearing-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Water-Sewer-August-23-2016-Public-Hearing-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-26T23:56:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75b3d008e5561b669a6d6a0e3410e3a95646983da512f7d0af030f46547248e4",
+  "bytes": 26040,
+  "pages": 0,
+  "http_last_modified": "Fri, 19 Aug 2016 17:26:51 GMT",
+  "etag": "\"16e06bc-65b8-53a7000feccc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2016/2016-08-23_Water-Sewer-August-23-2016-Public-Hearing-Agenda--75b3d008e556.pdf",
+  "versions": [
+    {
+      "sha256": "75b3d008e5561b669a6d6a0e3410e3a95646983da512f7d0af030f46547248e4",
+      "bytes": 26040,
+      "retrieved_utc": "2026-11-26T23:56:16+00:00",
+      "http_last_modified": "Fri, 19 Aug 2016 17:26:51 GMT"
+    }
+  ]
+}

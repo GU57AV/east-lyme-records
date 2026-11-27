@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "CRC Regular Meeting Minutes - March 23, 2009 (pdf)",
+  "filename": "localhost_el_attachments_280_CRCregMtgMins03-23-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2009/06/localhost_el_attachments_280_CRCregMtgMins03-23-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/crc-meeting-minutes-2009/",
+  "upload_folder": "2009-06",
+  "first_seen_utc": "2026-11-27T01:17:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f6244258f1066ae0462064d24e7de7f405a3f64442261ac3448d2d9a8cd86a0d",
+  "bytes": 76680,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT",
+  "etag": "\"1661c3f-12b88-4fbaf4c7dbd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2009/2009-03-23_localhost_el_attachments_280_CRCregMtgMins03-23-09--f6244258f106.pdf",
+  "versions": [
+    {
+      "sha256": "f6244258f1066ae0462064d24e7de7f405a3f64442261ac3448d2d9a8cd86a0d",
+      "bytes": 76680,
+      "retrieved_utc": "2026-11-27T01:17:10+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT"
+    }
+  ]
+}

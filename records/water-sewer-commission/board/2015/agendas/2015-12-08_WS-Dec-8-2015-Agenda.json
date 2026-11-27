@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "W&S Dec 8 2015 Agenda (pdf)",
+  "filename": "WS-Dec-8-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/WS-Dec-8-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-27T00:14:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2ec849186f2baa1a51a0fd5ea28a8d5fe8791478fecc2da041787df3ecaf4c01",
+  "bytes": 34184,
+  "pages": 0,
+  "http_last_modified": "Fri, 04 Dec 2015 16:40:19 GMT",
+  "etag": "\"16633d4-8588-5261529ae22c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2015/2015-12-08_WS-Dec-8-2015-Agenda--2ec849186f2b.pdf",
+  "versions": [
+    {
+      "sha256": "2ec849186f2baa1a51a0fd5ea28a8d5fe8791478fecc2da041787df3ecaf4c01",
+      "bytes": 34184,
+      "retrieved_utc": "2026-11-27T00:14:53+00:00",
+      "http_last_modified": "Fri, 04 Dec 2015 16:40:19 GMT"
+    }
+  ]
+}

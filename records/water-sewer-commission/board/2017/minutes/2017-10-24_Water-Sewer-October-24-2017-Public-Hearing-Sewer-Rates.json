@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 24 2017 Public Hearing (Sewer Rates) Minutes (pdf)",
+  "filename": "Water-Sewer-October-24-2017-Public-Hearing-Sewer-Rates.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Water-Sewer-October-24-2017-Public-Hearing-Sewer-Rates.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-26T23:48:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "62b078d7f652df154f921632501275382d387fdc9cc0c9d8fc47c5ba3808c5c5",
+  "bytes": 435209,
+  "pages": 0,
+  "http_last_modified": "Thu, 26 Oct 2017 17:13:00 GMT",
+  "etag": "\"1662eae-6a409-55c7648c01f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2017/2017-10-24_Water-Sewer-October-24-2017-Public-Hearing-Sewer-Rates--62b078d7f652.pdf",
+  "versions": [
+    {
+      "sha256": "62b078d7f652df154f921632501275382d387fdc9cc0c9d8fc47c5ba3808c5c5",
+      "bytes": 435209,
+      "retrieved_utc": "2026-11-26T23:48:14+00:00",
+      "http_last_modified": "Thu, 26 Oct 2017 17:13:00 GMT"
+    }
+  ]
+}

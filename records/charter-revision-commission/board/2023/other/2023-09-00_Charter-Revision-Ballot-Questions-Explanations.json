@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Ballot Questions Explanations",
+  "filename": "Charter-Revision-Ballot-Questions-Explanations.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/Charter-Revision-Ballot-Questions-Explanations.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-27T00:48:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3814756a1cca148a1111527d9ecab4ef34efc782b2ccaba4905acd7978b55d84",
+  "bytes": 173257,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Oct 2023 13:28:08 GMT",
+  "etag": "\"16e01a5-2a4c9-606f818344a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-09-00_Charter-Revision-Ballot-Questions-Explanations--3814756a1cca.pdf",
+  "versions": [
+    {
+      "sha256": "3814756a1cca148a1111527d9ecab4ef34efc782b2ccaba4905acd7978b55d84",
+      "bytes": 173257,
+      "retrieved_utc": "2026-11-27T00:48:22+00:00",
+      "http_last_modified": "Thu, 05 Oct 2023 13:28:08 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision February 21 2023 Town Commissions Subcommittee Agenda (pdf)",
+  "filename": "Charter-Revision-Town-Commissions-Subcommittee-February-21-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/Charter-Revision-Town-Commissions-Subcommittee-February-21-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-27T00:56:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1be9eec59c3273d606a2d1c1a5cda07864b7921888a8e08679e532c2b0eb8d8c",
+  "bytes": 57851,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Feb 2023 16:45:22 GMT",
+  "etag": "\"16e0105-e1fb-5f49792b30c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-02-21_Charter-Revision-Town-Commissions-Subcommittee-February-21-2023-Agenda--1be9eec59c32.pdf",
+  "versions": [
+    {
+      "sha256": "1be9eec59c3273d606a2d1c1a5cda07864b7921888a8e08679e532c2b0eb8d8c",
+      "bytes": 57851,
+      "retrieved_utc": "2026-11-27T00:56:09+00:00",
+      "http_last_modified": "Mon, 13 Feb 2023 16:45:22 GMT"
+    }
+  ]
+}

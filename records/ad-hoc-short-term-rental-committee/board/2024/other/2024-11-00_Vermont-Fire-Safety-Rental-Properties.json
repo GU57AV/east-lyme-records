@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Vermont Fire Safety \u2013 Rental Properties",
+  "filename": "Vermont-Fire-Safety-Rental-Properties.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/Vermont-Fire-Safety-Rental-Properties.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-27T01:23:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e729ee284a911b8c71ab72fac14f2eefce77391ca262fa238e6b258841df3000",
+  "bytes": 2919762,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Nov 2024 14:15:15 GMT",
+  "etag": "\"16808e6-2c8d52-626b7d89862c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-11-00_Vermont-Fire-Safety-Rental-Properties--e729ee284a91.pdf",
+  "versions": [
+    {
+      "sha256": "e729ee284a911b8c71ab72fac14f2eefce77391ca262fa238e6b258841df3000",
+      "bytes": 2919762,
+      "retrieved_utc": "2026-11-27T01:23:00+00:00",
+      "http_last_modified": "Tue, 12 Nov 2024 14:15:15 GMT"
+    }
+  ]
+}

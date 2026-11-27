@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Wihbey ZBA supplemental decision on remand_23 Oct 2024",
+  "filename": "Wihbey_ZBA-supplemental-decision-on-remand_23-Oct-2024.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/Wihbey_ZBA-supplemental-decision-on-remand_23-Oct-2024.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-27T01:22:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4dfa0f767b12c4f645a9a1e612c4d14532994a9f9602c13f5099c35b7d348a3c",
+  "bytes": 482726,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Nov 2024 14:15:16 GMT",
+  "etag": "\"16808e4-75da6-626b7d8a7a500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-10-23_Wihbey_ZBA-supplemental-decision-on-remand_23-Oct-2024--4dfa0f767b12.pdf",
+  "versions": [
+    {
+      "sha256": "4dfa0f767b12c4f645a9a1e612c4d14532994a9f9602c13f5099c35b7d348a3c",
+      "bytes": 482726,
+      "retrieved_utc": "2026-11-27T01:22:40+00:00",
+      "http_last_modified": "Tue, 12 Nov 2024 14:15:16 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "W&S April 28 2015 Public Hearing Minutes (pdf)",
+  "filename": "WS-April-28-2015-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/WS-April-28-2015-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:25:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "87a81ef75550e7fb7ac227f8825d0b878bc8029ca52aeeac82d4d7d54c0393c3",
+  "bytes": 186426,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:57:58 GMT",
+  "etag": "\"16638d6-2d83a-52082cf38d980\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2015/2015-04-28_WS-April-28-2015-Public-Hearing-Minutes--87a81ef75550.pdf",
+  "versions": [
+    {
+      "sha256": "87a81ef75550e7fb7ac227f8825d0b878bc8029ca52aeeac82d4d7d54c0393c3",
+      "bytes": 186426,
+      "retrieved_utc": "2026-11-27T00:25:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:57:58 GMT"
+    }
+  ]
+}

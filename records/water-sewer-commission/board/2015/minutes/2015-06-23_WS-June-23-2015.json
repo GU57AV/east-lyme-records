@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "W&S June 23 2015 Minutes (pdf)",
+  "filename": "WS-June-23-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/WS-June-23-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:24:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "35282fc236b1988cb1c7ab735cd22cfbac8fe1d08b1d6df4255289565a8d6885",
+  "bytes": 264596,
+  "pages": 0,
+  "http_last_modified": "Mon, 29 Jun 2015 19:16:02 GMT",
+  "etag": "\"1661f52-40994-519aceba3c080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2015/2015-06-23_WS-June-23-2015--35282fc236b1.pdf",
+  "versions": [
+    {
+      "sha256": "35282fc236b1988cb1c7ab735cd22cfbac8fe1d08b1d6df4255289565a8d6885",
+      "bytes": 264596,
+      "retrieved_utc": "2026-11-27T00:24:58+00:00",
+      "http_last_modified": "Mon, 29 Jun 2015 19:16:02 GMT"
+    }
+  ]
+}

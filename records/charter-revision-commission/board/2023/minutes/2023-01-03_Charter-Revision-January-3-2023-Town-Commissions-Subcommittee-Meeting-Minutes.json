@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision January 3 2023 Town Commissions Subcommittee Meeting Minutes (pdf)",
+  "filename": "Charter-Revision-January-3-2023-Town-Commissions-Subcommittee-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/Charter-Revision-January-3-2023-Town-Commissions-Subcommittee-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-27T01:06:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3fbf06747e0b9b2b621f493ac48b532695271bab405a0f38b60c736267d98831",
+  "bytes": 149791,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 Jan 2023 14:45:55 GMT",
+  "etag": "\"16c23e1-2491f-5f2ef74d86ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-01-03_Charter-Revision-January-3-2023-Town-Commissions-Subcommittee-Meeting-Minutes--3fbf06747e0b.pdf",
+  "versions": [
+    {
+      "sha256": "3fbf06747e0b9b2b621f493ac48b532695271bab405a0f38b60c736267d98831",
+      "bytes": 149791,
+      "retrieved_utc": "2026-11-27T01:06:40+00:00",
+      "http_last_modified": "Mon, 23 Jan 2023 14:45:55 GMT"
+    }
+  ]
+}

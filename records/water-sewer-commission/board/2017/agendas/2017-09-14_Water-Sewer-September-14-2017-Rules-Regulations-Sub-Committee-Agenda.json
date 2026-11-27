@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Water & Sewer Rules and Regulations Sub-Committee September 14 2017 Agenda (pdf)",
+  "filename": "Water-Sewer-September-14-2017-Rules-Regulations-Sub-Committee-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Water-Sewer-September-14-2017-Rules-Regulations-Sub-Committee-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-26T23:41:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9a67becbce44d866d70526fe27b050e8a794139cf7f66021cfb76a7b137704c3",
+  "bytes": 24169,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Sep 2017 12:25:15 GMT",
+  "etag": "\"1662284-5e69-55911408000c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2017/2017-09-14_Water-Sewer-September-14-2017-Rules-Regulations-Sub-Committee-Agenda--9a67becbce44.pdf",
+  "versions": [
+    {
+      "sha256": "9a67becbce44d866d70526fe27b050e8a794139cf7f66021cfb76a7b137704c3",
+      "bytes": 24169,
+      "retrieved_utc": "2026-11-26T23:41:28+00:00",
+      "http_last_modified": "Wed, 13 Sep 2017 12:25:15 GMT"
+    }
+  ]
+}

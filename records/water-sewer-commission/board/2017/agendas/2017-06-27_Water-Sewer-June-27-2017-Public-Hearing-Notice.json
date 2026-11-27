@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Water & Sewer June 27 2017 Public Hearing Notice (pdf)",
+  "filename": "Water-Sewer-June-27-2017-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Water-Sewer-June-27-2017-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-26T23:43:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1b51bdd6ecb50a69426803aa823b5af0cae1ec2ba8928bf22f015de5ef3d91ed",
+  "bytes": 157250,
+  "pages": 0,
+  "http_last_modified": "Thu, 15 Jun 2017 13:48:13 GMT",
+  "etag": "\"1662ec8-26642-551ffeb7e8140\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2017/2017-06-27_Water-Sewer-June-27-2017-Public-Hearing-Notice--1b51bdd6ecb5.pdf",
+  "versions": [
+    {
+      "sha256": "1b51bdd6ecb50a69426803aa823b5af0cae1ec2ba8928bf22f015de5ef3d91ed",
+      "bytes": 157250,
+      "retrieved_utc": "2026-11-26T23:43:30+00:00",
+      "http_last_modified": "Thu, 15 Jun 2017 13:48:13 GMT"
+    }
+  ]
+}

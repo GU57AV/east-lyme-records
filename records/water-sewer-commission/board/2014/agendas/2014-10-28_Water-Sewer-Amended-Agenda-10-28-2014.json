@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Water & Sewer October 28 2014 Amended Agenda (pdf)",
+  "filename": "Water-Sewer-Amended-Agenda-10-28-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Water-Sewer-Amended-Agenda-10-28-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-a-sewer-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:29:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd1227e0757dbf97b3b833d96e7831886170a90e7b6c4bf44ce30cc59c5bfac9",
+  "bytes": 41940,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:57:17 GMT",
+  "etag": "\"1663b6f-a3d4-52082ccc73d40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2014/2014-10-28_Water-Sewer-Amended-Agenda-10-28-2014--bd1227e0757d.pdf",
+  "versions": [
+    {
+      "sha256": "bd1227e0757dbf97b3b833d96e7831886170a90e7b6c4bf44ce30cc59c5bfac9",
+      "bytes": 41940,
+      "retrieved_utc": "2026-11-27T00:29:59+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:57:17 GMT"
+    }
+  ]
+}

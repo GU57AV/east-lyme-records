@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Granicus\u2019 \u201cPractical Guide to Effectively Regulating Short-Term Rentals on the Local Government Level\u201d, discussed by member Dan Beachy (pdf)",
+  "filename": "Granicus.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Granicus.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-january-29-meeting-materials/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T01:25:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eac459b3969fd5e70b19680a3a8c6dd860e285af7ce65d184332413334da3dd5",
+  "bytes": 1188902,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Jan 2024 18:06:53 GMT",
+  "etag": "\"1680703-122426-60f3c3a6de940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-01-00_Granicus--eac459b3969f.pdf",
+  "versions": [
+    {
+      "sha256": "eac459b3969fd5e70b19680a3a8c6dd860e285af7ce65d184332413334da3dd5",
+      "bytes": 1188902,
+      "retrieved_utc": "2026-11-27T01:25:03+00:00",
+      "http_last_modified": "Thu, 18 Jan 2024 18:06:53 GMT"
+    }
+  ]
+}

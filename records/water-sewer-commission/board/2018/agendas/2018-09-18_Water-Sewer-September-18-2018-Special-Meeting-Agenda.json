@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Water & Sewer September 18 2018 Special Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-September-18-2018-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/09/Water-Sewer-September-18-2018-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2018-agendas/",
+  "upload_folder": "2018-09",
+  "first_seen_utc": "2026-11-26T23:29:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3282c7c59d8c82d813b930c89abd631e382482ebb94d7254c63a2b6b7958c23f",
+  "bytes": 30054,
+  "pages": 0,
+  "http_last_modified": "Thu, 13 Sep 2018 19:07:55 GMT",
+  "etag": "\"16c133e-7566-575c56ca038c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2018/2018-09-18_Water-Sewer-September-18-2018-Special-Meeting-Agenda--3282c7c59d8c.pdf",
+  "versions": [
+    {
+      "sha256": "3282c7c59d8c82d813b930c89abd631e382482ebb94d7254c63a2b6b7958c23f",
+      "bytes": 30054,
+      "retrieved_utc": "2026-11-26T23:29:00+00:00",
+      "http_last_modified": "Thu, 13 Sep 2018 19:07:55 GMT"
+    }
+  ]
+}

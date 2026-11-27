@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Report of members Gary Farrugia and Greg McIntire, \u201cEast Lyme Short-Term Rental Committee\u2014Permits, Inspections, Occupancy Options (pdf)",
+  "filename": "STRoptions.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/STRoptions.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-january-29-meeting-materials/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T01:24:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "54e6f2659ed01919cd999bb82642dc291ca97125f3977a7a77c10adb3cf83e3f",
+  "bytes": 59530,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Jan 2024 17:56:18 GMT",
+  "etag": "\"16806b6-e88a-60f3c14949480\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-01-00_STRoptions--54e6f2659ed0.pdf",
+  "versions": [
+    {
+      "sha256": "54e6f2659ed01919cd999bb82642dc291ca97125f3977a7a77c10adb3cf83e3f",
+      "bytes": 59530,
+      "retrieved_utc": "2026-11-27T01:24:02+00:00",
+      "http_last_modified": "Thu, 18 Jan 2024 17:56:18 GMT"
+    }
+  ]
+}

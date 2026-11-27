@@ -150,5 +150,21 @@
   "message": "Agenda for the Nov 28 meeting should be posted by Fri Nov 27, 7:00 PM.",
   "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/upcoming.md",
   "at": "2026-11-26T05:20:12+00:00"
+ },
+ {
+  "id": "5ce0aa15ed018ebc",
+  "feed": "alerts",
+  "title": "East Lyme: 3 posting-deadline flags",
+  "message": "Zoning Commission, 2024-09-19: No minutes found more than 8 days after the meeting\nZoning Commission, 2025-11-20: No minutes found more than 8 days after the meeting\nZoning Board of Appeals, 2026-09-14: No minutes found more than 8 days after the meeting",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/compliance.md",
+  "at": "2026-11-27T01:27:16+00:00"
+ },
+ {
+  "id": "9ef643a681bc62ae",
+  "feed": "alerts",
+  "title": "Ordinance enacted: Amendment To Ordinance Authorizing The Use Of Automated Traffic Enforcement Safe",
+  "message": "Board of Selectmen vote on Nov 18, 2026. Watching for the notice of adoption and full text on the Town's website (Charter § 3.4.3).",
+  "link": "https://github.com/GU57AV/east-lyme-records/blob/main/reports/ordinances.md",
+  "at": "2026-11-27T01:27:16+00:00"
  }
 ]

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Water & Sewer July 25 2017 Regular Meeting Agenda (pdf)",
+  "filename": "Water-Sewer-July-25-2017.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Water-Sewer-July-25-2017.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-26T23:42:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "db5bde901ba189a34138eb2943f923e2752e53d94a9c76f9ac37dc2ec9abd8ce",
+  "bytes": 38774,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Jul 2017 18:24:55 GMT",
+  "etag": "\"166292b-9776-554d7fb566bc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2017/2017-07-25_Water-Sewer-July-25-2017--db5bde901ba1.pdf",
+  "versions": [
+    {
+      "sha256": "db5bde901ba189a34138eb2943f923e2752e53d94a9c76f9ac37dc2ec9abd8ce",
+      "bytes": 38774,
+      "retrieved_utc": "2026-11-26T23:42:49+00:00",
+      "http_last_modified": "Fri, 21 Jul 2017 18:24:55 GMT"
+    }
+  ]
+}

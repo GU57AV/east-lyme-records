@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "2022 Charter Revision Commission Charge",
+  "filename": "2022-Charter-Revision-Commission-Charge.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/2022-Charter-Revision-Commission-Charge.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-27T00:47:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8235d2ab8bcd848c5dabbe29f478fec945baf891dd586ceeb3f0541c37472f35",
+  "bytes": 135502,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Oct 2022 17:42:32 GMT",
+  "etag": "\"16a11dc-2114e-5eb7ad98d3200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2022/2022-10-00_2022-Charter-Revision-Commission-Charge--8235d2ab8bcd.pdf",
+  "versions": [
+    {
+      "sha256": "8235d2ab8bcd848c5dabbe29f478fec945baf891dd586ceeb3f0541c37472f35",
+      "bytes": 135502,
+      "retrieved_utc": "2026-11-27T00:47:41+00:00",
+      "http_last_modified": "Thu, 20 Oct 2022 17:42:32 GMT"
+    }
+  ]
+}

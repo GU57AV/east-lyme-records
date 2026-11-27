@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Charter Revision Commission October 18 2022 Agenda (pdf)",
+  "filename": "Charter-Revision-October-18-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Charter-Revision-October-18-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-27T01:12:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1046fe5dca23ac2e43c6c9493a3fe87f5b29a71959c966c41db508fdcd38da07",
+  "bytes": 33965,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Oct 2022 18:54:24 GMT",
+  "etag": "\"16a1197-84ad-5eadaebd61800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2022/2022-10-18_Charter-Revision-October-18-2022-Agenda--1046fe5dca23.pdf",
+  "versions": [
+    {
+      "sha256": "1046fe5dca23ac2e43c6c9493a3fe87f5b29a71959c966c41db508fdcd38da07",
+      "bytes": 33965,
+      "retrieved_utc": "2026-11-27T01:12:25+00:00",
+      "http_last_modified": "Wed, 12 Oct 2022 18:54:24 GMT"
+    }
+  ]
+}

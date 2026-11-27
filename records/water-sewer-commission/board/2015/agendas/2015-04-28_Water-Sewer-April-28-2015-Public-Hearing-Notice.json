@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "W&S April 28 2015 Public Hearing Notice (pdf)",
+  "filename": "Water-Sewer-April-28-2015-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Water-Sewer-April-28-2015-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-sewer-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:18:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3dc4ded6104736a400d1e30ae546dd273565e380f8c6b0cd0aa511b58c8c4f75",
+  "bytes": 38245,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:57:18 GMT",
+  "etag": "\"16614d4-9565-52082ccd67f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2015/2015-04-28_Water-Sewer-April-28-2015-Public-Hearing-Notice--3dc4ded61047.pdf",
+  "versions": [
+    {
+      "sha256": "3dc4ded6104736a400d1e30ae546dd273565e380f8c6b0cd0aa511b58c8c4f75",
+      "bytes": 38245,
+      "retrieved_utc": "2026-11-27T00:18:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:57:18 GMT"
+    }
+  ]
+}

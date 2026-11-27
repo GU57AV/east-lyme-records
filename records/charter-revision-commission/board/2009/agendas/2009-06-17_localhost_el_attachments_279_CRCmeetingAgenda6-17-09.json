@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "CRC Agenda - June 17, 2009 (pdf)",
+  "filename": "localhost_el_attachments_279_CRCmeetingAgenda6-17-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2009/06/localhost_el_attachments_279_CRCmeetingAgenda6-17-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/crc-meeting-agendas-2009/",
+  "upload_folder": "2009-06",
+  "first_seen_utc": "2026-11-27T01:15:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e891d6e3e3fb0b38d5a082d90f5cd0eb6c0937429c363f2b563cd31172248d2d",
+  "bytes": 31498,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT",
+  "etag": "\"1661c39-7b0a-4fbaf4c7dbd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2009/2009-06-17_localhost_el_attachments_279_CRCmeetingAgenda6-17-09--e891d6e3e3fb.pdf",
+  "versions": [
+    {
+      "sha256": "e891d6e3e3fb0b38d5a082d90f5cd0eb6c0937429c363f2b563cd31172248d2d",
+      "bytes": 31498,
+      "retrieved_utc": "2026-11-27T01:15:28+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT"
+    }
+  ]
+}

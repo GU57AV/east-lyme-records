@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision June 21 2023 Special Meeting Minutes (pdf)",
+  "filename": "Charter-Revision-Commission-June-21-2023-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/Charter-Revision-Commission-June-21-2023-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-minutes/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-27T01:00:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1fcf128bd052b8b4e03f2b0161ec764aa4a17bffd6f592b4cfb65ab7b12848ee",
+  "bytes": 151814,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jun 2023 13:08:36 GMT",
+  "etag": "\"16e0005-25106-5ff4465e63d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-06-21_Charter-Revision-Commission-June-21-2023-Special-Meeting-Minutes--1fcf128bd052.pdf",
+  "versions": [
+    {
+      "sha256": "1fcf128bd052b8b4e03f2b0161ec764aa4a17bffd6f592b4cfb65ab7b12848ee",
+      "bytes": 151814,
+      "retrieved_utc": "2026-11-27T01:00:13+00:00",
+      "http_last_modified": "Thu, 29 Jun 2023 13:08:36 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "water-sewer-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Water & Sewer July 29 2014 Special Meeting Minutes (pdf)",
+  "filename": "ws7.29.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/ws7.29.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/water-sewer-commission/water-a-sewer-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T00:40:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2d81d10179452e9f8588a87154f3b68cf81e91827a500d331ca62e7bdf9b2cdb",
+  "bytes": 954493,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Aug 2014 14:30:12 GMT",
+  "etag": "\"16640c9-e907d-5000aed274500\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/water-sewer-commission-2014/2014-07-29_ws7.29--2d81d1017945.pdf",
+  "versions": [
+    {
+      "sha256": "2d81d10179452e9f8588a87154f3b68cf81e91827a500d331ca62e7bdf9b2cdb",
+      "bytes": 954493,
+      "retrieved_utc": "2026-11-27T00:40:54+00:00",
+      "http_last_modified": "Thu, 07 Aug 2014 14:30:12 GMT"
+    }
+  ]
+}

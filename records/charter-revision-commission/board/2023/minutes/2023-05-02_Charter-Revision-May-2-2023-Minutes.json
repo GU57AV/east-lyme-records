@@ -1,0 +1,29 @@
+{
+  "board": "charter-revision-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Charter Revision May 2 2023 Minutes (pdf)",
+  "filename": "Charter-Revision-May-2-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/05/Charter-Revision-May-2-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/charter-revision-commission/charter-revision-commission-2023-minutes/",
+  "upload_folder": "2023-05",
+  "first_seen_utc": "2026-11-27T01:01:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d29d024d4c882066a753c9419cb9c45eaee43db1f96f2d50d0f9fa015e510812",
+  "bytes": 503883,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 May 2023 12:31:47 GMT",
+  "etag": "\"16c23b4-7b04b-5faf178f5f2c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/charter-revision-commission-2023/2023-05-02_Charter-Revision-May-2-2023-Minutes--d29d024d4c88.pdf",
+  "versions": [
+    {
+      "sha256": "d29d024d4c882066a753c9419cb9c45eaee43db1f96f2d50d0f9fa015e510812",
+      "bytes": 503883,
+      "retrieved_utc": "2026-11-27T01:01:55+00:00",
+      "http_last_modified": "Fri, 05 May 2023 12:31:47 GMT"
+    }
+  ]
+}

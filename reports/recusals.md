@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 26, 2026 3:25 PM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 8:26 PM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -12,9 +12,9 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 |---|---|
 | Zoning Commission | 121 |
 | Board of Selectmen | 20 |
+| Water & Sewer Commission | 12 |
 | Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
-| Water & Sewer Commission | 5 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -66,7 +66,9 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2019-09-05 | Zoning Commission | Ms. Kalajainen, Mr. McPherson | recused | — | Application of Eric J | [minutes](../records/zoning-commission/board/2019/minutes/2019-09-05_Zoning-September-5-2019-Meeting-Minutes.md) |
 | 2019-08-01 | Zoning Commission | Mr. Peck | recused | — | Application of Theodore A | [minutes](../records/zoning-commission/board/2019/minutes/2019-08-01_Zoning-Commission-August-1-2019-Public-Hearing-Regular-Meeting-Minutes.md) |
 | 2019-08-01 | Zoning Commission | Ms. Kalajainen | recused | — | Application of Eric J | [minutes](../records/zoning-commission/board/2019/minutes/2019-08-01_Zoning-Commission-August-1-2019-Public-Hearing-Regular-Meeting-Minutes.md) |
+| 2019-07-23 | Water & Sewer Commission | Mr. Jacques | recused | — | — | [minutes](../records/water-sewer-commission/board/2019/minutes/2019-07-23_Water-Sewer-July-23-2019-Regular-Meeting-Minutes.md) |
 | 2019-07-11 | Zoning Commission | Ms. Kalajainen | recused | — | — | [minutes](../records/zoning-commission/board/2019/minutes/2019-07-11_Zoning-Commission-July-11-2019-Public-Hearing-and-Regular-Meeting-Minutes.md) |
+| 2019-06-25 | Water & Sewer Commission | Mr. Zoller | recused | — | moved to authorize the Water & Sewer commisgion Chairman to include the captioned vehicles and equipment for a value of  | [minutes](../records/water-sewer-commission/board/2019/minutes/2019-06-25_Water-Sewer-June-25-2019-Regular-Meeting-Minutes.md) |
 | 2019-06-06 | Zoning Commission | Mr. Peck | recused | — | Application of Danielle Kiertianis, for a text amendment to the East Lyme Zoning Regulations to add "Dog Grooming" to Se | [minutes](../records/zoning-commission/board/2019/minutes/2019-06-06_Zoning-Commission-June-6-2019-Public-Hearing-Regular-Meeting-Minutes.md) |
 | 2019-06-04 | Planning Commission | Vice Chairman Fitzgerald | recused | because he lives in the adjacent development | Application of Killingly Engineering Associateso LLC' Agent for Pellumb & Andia Likolarri, Ownerl Application for a l-lo | [minutes](../records/planning-commission/board/2019/minutes/2019-06-04_Planning-Commission-June-4-2019-Minutes.md) |
 | 2019-05-16 | Zoning Commission | Mr. Peck | recused | — | moved to deny the request of Jennifer and William Argyle for a Text Amendment to the East Lyme Zoning Regulations Sectio | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-16_Zoning-Commission-May-16-2019-Regular-Meeting-Minutes.md) |
@@ -76,12 +78,14 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2018-11-19 | Inland Wetlands Agency | Vice Chairman Cicchiello | abstained | due to personal relationship with the applicant; Ms | application of Elizabeth Farrugia, 24 Green Valley Lake Rd, East Lyme for a vessel that floats inside property owners bo | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-11-19_IWA-November-19-2018-Special-Meeting-Minutes.md) |
 | 2018-10-15 | Inland Wetlands Agency | Ms. Cicchiello | recused | — | Application for vessel that floats inside property owners boundaries but moves with the tide at 24 Green Valley Lake Rd, | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-10-15_IWA-October-15-2018-Minutes.md) |
 | 2018-08-13 | Inland Wetlands Agency | Todd Bellucci | recused | — | moved to APPROVE the East Lyme Inland Wetlands Special Meeting Minutes of July 16, 2018 with the following corrections:  | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-08-13_Inland-Wetlands-August-13-2018-Meeting-Minutes.md) |
+| 2018-06-26 | Water & Sewer Commission | Mr. Zoller | recused | — | moved to approve payment of the following Pattagansett Bridge Water Main Relocation bill: Lenard Engineering, Inc | [minutes](../records/water-sewer-commission/board/2018/minutes/2018-06-26_Water-Sewer-June-26-2018-Minutes.md) |
 | 2018-06-21 | Zoning Commission | Mr. Peck | recused | — | Application of Marge Linewebber, General Manager, My Dog’s Place LLC, fora Special Permit for a dog daycare and training | [minutes](../records/zoning-commission/board/2018/minutes/2018-06-21_Zoning-June-21-2018-Public-Hearing-Minutes.md) |
 | 2018-05-17 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2018/minutes/2018-05-17_Zoning-May-17-2018-Public-Hearing-Minutes.md) |
 | 2018-05-17 | Zoning Commission | Mr. Peck | recused | — | moved to approve and adopt the proposed amendment as presented | [minutes](../records/zoning-commission/board/2018/minutes/2018-05-17_Zoning-May-17-2018-Regular-Meeting-Minutes.md) |
 | 2018-04-04 | Board of Selectmen | Mr. Nickerson | recused | — | MOVED to approve the Consent Calendar for the meeting of April 4, 2018, in the amount of $19,693 | [minutes](../records/board-of-selectmen/board/2018/minutes/2018-04-04_BOS-April-4-2018-Minutes.md) |
 | 2017-08-17 | Inland Wetlands Agency | D. Pazzaglia | recused | as he has moved his primary residence out of Town and is no longer eligible to vote | — | [minutes](../records/inland-wetlands-agency/board/2017/minutes/2017-08-17_IWA-August-17-2017-Special-Meeting-Minutes.md) |
 | 2017-07-13 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF THEODORE A | [minutes](../records/zoning-commission/board/2017/minutes/2017-07-13_Zoning-Commission-July-13-2017-Public-Hearing-Minutes.md) |
+| 2017-06-27 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2017/minutes/2017-06-27_Water-Sewer-June-27-2017-Regular-Meeting-Minutes.md) |
 | 2017-05-04 | Zoning Commission | Mr. Peck | recused | — | Application of Carla Steele, for Elements Flowers, for a Special Permit for Office and Retail Sales at property identifi | [minutes](../records/zoning-commission/board/2017/minutes/2017-05-04_Zoning-Commission-May-4-2017-Public-Hearing-Minutes.md) |
 | 2017-04-04 | Planning Commission | Ms. Palazzo | recused | — | — | [minutes](../records/planning-commission/board/2017/minutes/2017-04-04_Planning-Commission-April-4-2017-Minutes-1.md) |
 | 2017-03-07 | Planning Commission | Ms. Palazzo | recused | due to the fact that she works for the Applicant | — | [minutes](../records/planning-commission/board/2017/minutes/2017-03-07_Planning-Commission-March-7-2017-Minutes-1-of-2.md) |
@@ -91,12 +95,14 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2016-10-06 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF THEODORE A | [minutes](../records/zoning-commission/board/2016/minutes/2016-10-06_Zoning-Commission-October-6-2016-Minutes-1.md) |
 | 2016-10-04 | Planning Commission | Ms. Palazzo | recused | since she is employed by Mr | — | [minutes](../records/planning-commission/board/2016/minutes/2016-10-04_Planning-Commission-October-4-2016-Public-Hearing-Minutes.md) |
 | 2016-09-12 | Inland Wetlands Agency | Mr. Pazzaglia | recused | — | Application for a one-lot re-subdivision, specifically for a residential driveway that existed prior to the purchase of  | [minutes](../records/inland-wetlands-agency/board/2016/minutes/2016-09-12_IWA-September-12-2016-Minutes.md) |
+| 2016-06-28 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2016/minutes/2016-06-28_Water-Sewer-June-28-2016-Minutes.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | Application of Theodore A | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Public-Hearing-Minues.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Regular-Meeting-Minutes.md) |
 | 2016-03-03 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-03-03_Zoning-Commission-March-3-2016-Minutes.md) |
 | 2016-01-11 | Inland Wetlands Agency | Mr. Pazzaglia | recused | — | moved to accept the IWA Regular Meeting Minutes of December 14, 2015 as amended | [minutes](../records/inland-wetlands-agency/board/2016/minutes/2016-01-11_IWA-January-11-2016-Minutes.md) |
 | 2015-12-10 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF GATEWAY DEVELOPMENT/EAST LYME FOR SITE PLAN APPROVAL FOR AN INTERIM ACCESS PENDING FURTHER COMPLETION OF  | [minutes](../records/zoning-commission/board/2015/minutes/2015-12-10_Zoning-Commission-December-10-2015-Minutes.md) |
 | 2015-06-02 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF DAVID J | [minutes](../records/zoning-commission/board/2015/minutes/2015-06-02_Zoning-Commission-June-2-2015-Public-Hearing-Minutes.md) |
+| 2015-05-27 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2015/minutes/2015-05-27_Water-Sewer-May-27-2015-Minutes.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Public-Hearing-Minutes-04-16-2015.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | Application of Kostas Anastasiou, for renewal of a Special Permit for Outdoor Dining at 26 W Main Street, Niantic | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Public-Hearing-Minutes-04-16-2015.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | moved to approve the application of J | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Regular-Meeting-Minutes-04-16-2015.md) |
@@ -112,6 +118,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2014-07-02 | Board of Selectmen | Mr. Formica | recused | — | moved to approve the IAFF Agreement as negotiated | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-07-02_BOS-Regular-Meeting-Minutes-07-02-2014.md) |
 | 2014-06-19 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2014/minutes/2014-06-19_Zoning-Public-Hearing-Minutes-06-19-2014.md) |
 | 2014-06-09 | Inland Wetlands Agency | Mr. Bender | recused | as he is a member of the Land Trust | — | [minutes](../records/inland-wetlands-agency/board/2014/minutes/2014-06-09_Inland-Wetlands-Show-Cause-Hearing-Minutes-06-09-2014.md) |
+| 2014-05-27 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2014/minutes/2014-05-27_Water-Sewer-Minutes-05-27-2014.md) |
 | 2014-04-09 | Board of Finance | Mr. Harney | left the room | — | — | [minutes](../records/board-of-finance/board/2014/minutes/2014-04-09_BOF-Regular-Meeting-Minutes-04-09-2014.md) |
 | 2014-04-01 | Planning Commission | Ms. Bengtson | abstained | because she resides near the Solar Farm | — | [minutes](../records/planning-commission/board/2014/minutes/2014-04-01_Planning-Minutes-of-April-1-2014.md) |
 | 2014-03-06 | Zoning Commission | Mr. Lukas | recused | — | moved to approve the application of William Heenan for Anmar, LLC for a Special Permit for Mixed Use Development, at pro | [minutes](../records/zoning-commission/board/2014/minutes/2014-03-06_ZC-Regular-Meeting-Minutes-of-March-6-2014.md) |

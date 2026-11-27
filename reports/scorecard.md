@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 26, 2026 3:25 PM ET. Unofficial and automatic._
+_Updated Nov 26, 2026 8:26 PM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -16,8 +16,9 @@ Meetings from Nov 26, 2025 through yesterday.
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
-| Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 1 |
-| Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (20/21) | 50% (10/20) | 7.5 | 0 |
+| Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
+| Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 2 |
+| Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (20/21) | 50% (10/20) | 7.5 | 2 |
 
 ## Since January 1, 2024
 
@@ -29,8 +30,9 @@ Meetings from Nov 26, 2025 through yesterday.
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
-| Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 1 |
-| Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (63/64) | 81% (51/63) | 4 | 0 |
+| Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |
+| Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 2 |
+| Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (63/64) | 81% (51/63) | 4 | 2 |
 
 ## How to read this
 
@@ -112,6 +114,27 @@ Meetings from Nov 26, 2025 through yesterday.
 - Tue Jun 9, 2026 — Planning Commission: current minutes file uploaded after 15 days ([document](../records/planning-commission/board/2026/agendas/2026-06-09_Planning-Commission-June-9-2026-Agenda.md))
 - Mon Jun 15, 2026: no minutes found ([document](../records/planning-commission/board/2026/agendas/2026-06-15_Planning-Commission-June-15-2026-Housing-Growth-Seminar-Special-Meeting-Agenda.md))
 - Tue Jul 14, 2026 — Planning Commission: current minutes file uploaded after 118 days ([document](../records/planning-commission/board/2026/agendas/2026-07-14_Planning-Commission-July-14-2026-Agenda.md))
+
+</details>
+
+<details><summary>Water & Sewer Commission (16)</summary>
+
+- Tue Dec 16, 2025 — Water & Sewer: current minutes file uploaded after 14 days ([document](../records/water-sewer-commission/board/2025/agendas/2025-12-16_Water-Sewer-December-16-2025-Agenda.md))
+- Thu Jan 15, 2026 — Water & Sewer Sub-Committee: no minutes found ([document](../records/water-sewer-commission/board/2026/agendas/2026-01-15_Water-Sewer-Subcommittee-January-15-2026-Agenda.md))
+- Thu Jan 22, 2026 — Water & Sewer Subcommittee Special Meeting: agenda not online 24 h ahead; current minutes file uploaded after 8 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-01-22_Water-Sewer-Subcommittee-January-22-2026-Special-Meeting-Agenda.md))
+- Fri Feb 6, 2026 — Water & Sewer Finance Subcommittee: agenda not online 24 h ahead ([document](../records/water-sewer-commission/board/2026/agendas/2026-02-06_Water-Sewer-Finance-Subcommittee-Special-Meeting-Agenda.md))
+- Fri Feb 20, 2026 — Water & Sewer Finance Subcommittee: no minutes found ([document](../records/water-sewer-commission/board/2026/agendas/2026-02-20_Water-Sewer-Finance-Subcommittee-February-20-2026-Special-Meeting-Agenda.md))
+- Tue Mar 24, 2026 — Water & Sewer: current minutes file uploaded after 13 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-03-24_Water-Sewer-March-24-2026-Agenda.md))
+- Tue Apr 28, 2026 — Water & Sewer (Public Hearing & Regular Meeting): current minutes file uploaded after 14 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-04-28_Water-Sewer-April-28-2026-Public-Hearing-Regular-Meeting-Agenda.md))
+- Tue May 26, 2026 — Water & Sewer: current minutes file uploaded after 8 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-05-26_Water-Sewer-May-26-2026-Agenda.md))
+- Tue Jun 23, 2026 — Water & Sewer: current minutes file uploaded after 16 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-06-23_Water-Sewer-June-23-2026-Agenda.md))
+- Tue Jul 28, 2026 — Water & Sewer: current minutes file uploaded after 20 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-07-28_Water-Sewer-July-28-2026-Agenda.md))
+- Wed Aug 19, 2026 — Sewer Capacity Sub-Committee: current minutes file uploaded after 27 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-08-19_Water-Sewer-Sewer-Capacity-Sub-Committee-August-19-2026-Agenda.md))
+- Tue Sep 22, 2026 — Water & Sewer: current minutes file uploaded after 9 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-09-22_Water-Sewer-September-22-2026-Agenda.md))
+- Thu Oct 22, 2026 — Sewer Capacity Sub-Committee: no minutes found ([document](../records/water-sewer-commission/board/2026/agendas/2026-10-22_Sewer-Capacity-Sub-Committee-October-22-2026-Agenda.md))
+- Tue Oct 27, 2026 — Water & Sewer: current minutes file uploaded after 10 days ([document](../records/water-sewer-commission/board/2026/agendas/2026-10-27_Water-Sewer-October-27-2026-Agenda.md))
+- Tue Nov 3, 2026 — Sewer Capacity Subcommittee: no minutes found ([document](../records/water-sewer-commission/board/2026/agendas/2026-11-03_Water-Sewer-November-3-2026-Sewer-Capacity-SubCommittee-Agenda.md))
+- Mon Nov 16, 2026 — Sewer Capacity Subcommittee: no minutes found ([document](../records/water-sewer-commission/board/2026/agendas/2026-11-16_Water-Sewer-November-16-206-Sewer-Capacity-Subcommittee.md))
 
 </details>
 
