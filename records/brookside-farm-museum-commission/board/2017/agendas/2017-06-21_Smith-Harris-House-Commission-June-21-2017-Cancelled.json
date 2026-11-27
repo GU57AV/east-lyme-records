@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Smith-Harris House Commission June 21 2017 Cancelled (pdf)",
+  "filename": "Smith-Harris-House-Commission-June-21-2017-Cancelled.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Smith-Harris-House-Commission-June-21-2017-Cancelled.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T11:16:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b4d0697acae1a9de82e63861ad2946be2fe838514d54ee43fa43041d03eac4bf",
+  "bytes": 80914,
+  "pages": 0,
+  "http_last_modified": "Thu, 22 Jun 2017 14:45:09 GMT",
+  "etag": "\"1662a82-13c12-5528d87fe2740\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2017/2017-06-21_Smith-Harris-House-Commission-June-21-2017-Cancelled--b4d0697acae1.pdf",
+  "versions": [
+    {
+      "sha256": "b4d0697acae1a9de82e63861ad2946be2fe838514d54ee43fa43041d03eac4bf",
+      "bytes": 80914,
+      "retrieved_utc": "2026-11-27T11:16:42+00:00",
+      "http_last_modified": "Thu, 22 Jun 2017 14:45:09 GMT"
+    }
+  ]
+}

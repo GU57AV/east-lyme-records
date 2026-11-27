@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum (SHH) September 26 2018 Agenda (pdf)",
+  "filename": "Brookside-Farm-September-26-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/09/Brookside-Farm-September-26-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2018-agendas/",
+  "upload_folder": "2018-09",
+  "first_seen_utc": "2026-11-27T11:07:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3f54f4caab405677d9c76612460b36ff84fb66cab228ccdfd8c156373c2392eb",
+  "bytes": 44491,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Sep 2018 18:55:03 GMT",
+  "etag": "\"16c1372-adcb-57615b5f9efc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2018/2018-09-26_Brookside-Farm-September-26-2018-Agenda--3f54f4caab40.pdf",
+  "versions": [
+    {
+      "sha256": "3f54f4caab405677d9c76612460b36ff84fb66cab228ccdfd8c156373c2392eb",
+      "bytes": 44491,
+      "retrieved_utc": "2026-11-27T11:07:17+00:00",
+      "http_last_modified": "Mon, 17 Sep 2018 18:55:03 GMT"
+    }
+  ]
+}

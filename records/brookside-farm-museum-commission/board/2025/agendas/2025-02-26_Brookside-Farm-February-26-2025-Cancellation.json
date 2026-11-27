@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Brookside Farm February 26 2025 Cancellation (pdf)",
+  "filename": "Brookside-Farm-February-26-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/Brookside-Farm-February-26-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-27T10:20:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7b30c9f4117d6535122eb19d48b7e1e00de51232764427da3cbd02f692151e1",
+  "bytes": 34912,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Feb 2025 16:03:44 GMT",
+  "etag": "\"16c0156-8860-62e1c51a51800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2025/2025-02-26_Brookside-Farm-February-26-2025-Cancellation--f7b30c9f4117.pdf",
+  "versions": [
+    {
+      "sha256": "f7b30c9f4117d6535122eb19d48b7e1e00de51232764427da3cbd02f692151e1",
+      "bytes": 34912,
+      "retrieved_utc": "2026-11-27T10:20:32+00:00",
+      "http_last_modified": "Fri, 14 Feb 2025 16:03:44 GMT"
+    }
+  ]
+}

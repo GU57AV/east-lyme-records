@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Brookside Farm November 16 2022 Agenda (pdf)",
+  "filename": "Brookside-Farm-November-16-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/Brookside-Farm-November-16-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2022-agendas/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-27T10:35:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "005b2be190302cb52721f624dc85fe2de8b013b1dcdd407a1c2700772919b45b",
+  "bytes": 41368,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Nov 2022 16:05:00 GMT",
+  "etag": "\"16a10d3-a198-5ed7066c72300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2022/2022-11-16_Brookside-Farm-November-16-2022-Agenda--005b2be19030.pdf",
+  "versions": [
+    {
+      "sha256": "005b2be190302cb52721f624dc85fe2de8b013b1dcdd407a1c2700772919b45b",
+      "bytes": 41368,
+      "retrieved_utc": "2026-11-27T10:35:40+00:00",
+      "http_last_modified": "Mon, 14 Nov 2022 16:05:00 GMT"
+    }
+  ]
+}

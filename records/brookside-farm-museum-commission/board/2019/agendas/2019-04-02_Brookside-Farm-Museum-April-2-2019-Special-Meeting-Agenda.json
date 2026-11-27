@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Brookside Farm April 2 2019 Special Meeting Agenda (pdf)",
+  "filename": "Brookside-Farm-Museum-April-2-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Brookside-Farm-Museum-April-2-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-27T11:00:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ce5efd255d7d171cf2f7f37d4ecafbf0e96cdf65df04f70fc714e0ee934ebb85",
+  "bytes": 31734,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Apr 2019 14:31:43 GMT",
+  "etag": "\"16c2071-7bf6-58578e11e91c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2019/2019-04-02_Brookside-Farm-Museum-April-2-2019-Special-Meeting-Agenda--ce5efd255d7d.pdf",
+  "versions": [
+    {
+      "sha256": "ce5efd255d7d171cf2f7f37d4ecafbf0e96cdf65df04f70fc714e0ee934ebb85",
+      "bytes": 31734,
+      "retrieved_utc": "2026-11-27T11:00:33+00:00",
+      "http_last_modified": "Mon, 01 Apr 2019 14:31:43 GMT"
+    }
+  ]
+}

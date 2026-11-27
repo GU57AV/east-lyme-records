@@ -1,0 +1,59 @@
+---
+title: "BAA March 6 2010 Revised (pdf)"
+board: board-of-assessment-appeals
+kind: minutes
+source_url: https://eltownhall.com/wp-content/uploads/ElbaaMinutesRev03-06-10.pdf
+listing_page: https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-2010-meeting-minutes/
+sha256: 30aa9c59dccfe0c683ab7b473865db0fcadc42892ca14a1e13e7d2ff0dd7f94e
+text_method: pdftotext
+first_seen_utc: 2026-11-27T10:04:51+00:00
+---
+
+> Unofficial text copy made automatically from the Town's file. OCR may contain errors; the original is authoritative: https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2010/2010-03-06_ElbaaMinutesRev03-06-10--30aa9c59dccf.pdf
+
+```text
+             EAST LYME BOARD OF ASSESSMENT APPEALS
+                       Minutes of March 6, 2010
+        The East Lyme Board of Assessment Appeals met to field review appeals for the
+2009 Grand List. The meeting was called to order by Chairperson William Weber at
+9:00AM in front of 10 Billow Road, Niantic CT. In attendance were Chairperson Weber,
+Joan Schwartz, Susan Graham, Paul Daigle and Holly Cheeseman with clerical support
+from BAA Clerk Michael Bekech. Pending alternate member Abraham Fisher later
+joined the caravan at East Lyme Town Hall at 9:30AM. The only scheduled hearing for
+the day (Fortunato and Roseberry of 24 Atlantic Street) was cancelled by a phone call to
+the Assessor’s Office on Friday, March 5th 2010. The purpose of this meeting was to
+drive to and review properties that had brought an appeal before the Board.
+
+Sites visited were as follows:
+
+#7     Carla Steele- 10 Billow Road
+#13    Richard Zirger etal- 21 Brightwater Road
+#9     Reno and Angela Soucy- 4 Ocean Ave
+#26    John Nowicki- 15 Cove Street
+#8     Gerard R. Powers- 4 South Street
+#5     Robert and Nancy Morrison- 10 South Road
+#25    Peter Spielman and Karen Graham- 12 South Road
+#6     Niantic River LLC- unnumbered property next to 219 Flanders Road
+#15    Shri Krisna Hospitality Trust LLC- 239 Flanders Road
+#22    Lawrence Lang- 20 River Head Lane
+#23    Tuan and Gen Duong- 37 Rocco Drive
+#4     Mary Ann Gibbons- 22 Church Lane
+#10    Daniel and Sally Wade- 392 Boston Post Road
+#11    John and Kate Yannacci- 462 Boston Post Road
+#14    Salvatore Carpenteri- 1 Colton Road
+#18    Embalmers Supply Company- 5 Colton Road- (phone calls were made to the
+       main number, number provided by Mr. Beck and the emergency number but no
+       phone calls were returned)
+#2     Stephen and Robin Bruno- 8 South Lee Road
+#24    Susan D. Adams- 11 South Lee Road
+
+The caravan ended at East Lyme Town Hall at 1:30PM. No decisions were made during
+this period.
+
+Respectfully submitted,
+
+
+Michael Bekech
+Clerk to the Board of Assessment Appeals
+March 7, 2010
+```

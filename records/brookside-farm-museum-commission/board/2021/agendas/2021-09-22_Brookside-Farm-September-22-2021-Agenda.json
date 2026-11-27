@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Brookside Farm September 22 2021 Agenda (pdf)",
+  "filename": "Brookside-Farm-September-22-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Brookside-Farm-September-22-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-27T10:44:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b8cae5e7f32b5f50c85a80bbfa5f5203c3024fe3f9a1c5e99207f9e1e0b3e353",
+  "bytes": 52468,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Sep 2021 13:31:36 GMT",
+  "etag": "\"16802fd-ccf4-5cc6d4cd3be00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2021/2021-09-22_Brookside-Farm-September-22-2021-Agenda--b8cae5e7f32b.pdf",
+  "versions": [
+    {
+      "sha256": "b8cae5e7f32b5f50c85a80bbfa5f5203c3024fe3f9a1c5e99207f9e1e0b3e353",
+      "bytes": 52468,
+      "retrieved_utc": "2026-11-27T10:44:04+00:00",
+      "http_last_modified": "Mon, 20 Sep 2021 13:31:36 GMT"
+    }
+  ]
+}

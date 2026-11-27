@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "BAA March 22 2012 Minutes (pdf)",
+  "filename": "BAAminutes03-22-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BAAminutes03-22-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T09:59:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4552e48a57f5d1e614c03e6fb29dfbc621202bbc6dd2244a730e55ff2fdd5b63",
+  "bytes": 139167,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Jul 2014 15:19:52 GMT",
+  "etag": "\"16634da-21f9f-4fdc43d609600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2012/2012-03-22_BAAminutes03-22-12--4552e48a57f5.pdf",
+  "versions": [
+    {
+      "sha256": "4552e48a57f5d1e614c03e6fb29dfbc621202bbc6dd2244a730e55ff2fdd5b63",
+      "bytes": 139167,
+      "retrieved_utc": "2026-11-27T09:59:48+00:00",
+      "http_last_modified": "Wed, 09 Jul 2014 15:19:52 GMT"
+    }
+  ]
+}

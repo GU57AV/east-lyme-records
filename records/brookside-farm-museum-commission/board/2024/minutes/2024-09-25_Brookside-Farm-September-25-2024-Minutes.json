@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum September 25 2024 Minutes (pdf)",
+  "filename": "Brookside-Farm-September-25-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Brookside-Farm-September-25-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2024-minutes/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-27T10:25:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37ef4300691e74658c00a296d5d1d5ce19cbbdaf2309627d4d0569fe2ed31ba6",
+  "bytes": 333490,
+  "pages": 0,
+  "http_last_modified": "Wed, 02 Oct 2024 16:00:45 GMT",
+  "etag": "\"16809a3-516b2-623808a662540\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2024/2024-09-25_Brookside-Farm-September-25-2024-Minutes--37ef4300691e.pdf",
+  "versions": [
+    {
+      "sha256": "37ef4300691e74658c00a296d5d1d5ce19cbbdaf2309627d4d0569fe2ed31ba6",
+      "bytes": 333490,
+      "retrieved_utc": "2026-11-27T10:25:15+00:00",
+      "http_last_modified": "Wed, 02 Oct 2024 16:00:45 GMT"
+    }
+  ]
+}

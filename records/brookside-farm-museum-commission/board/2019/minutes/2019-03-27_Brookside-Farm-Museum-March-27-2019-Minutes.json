@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Brookside Farm March 27 2019 Minutes (pdf)",
+  "filename": "Brookside-Farm-Museum-March-27-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Brookside-Farm-Museum-March-27-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2019-minutes/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-27T11:05:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "41bc0f1d96a77994224f85622fa8b11771aa8bb602fcdbcde49474d0062a170d",
+  "bytes": 243529,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Apr 2019 15:08:06 GMT",
+  "etag": "\"16c205d-3b749-58579633c8180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2019/2019-03-27_Brookside-Farm-Museum-March-27-2019-Minutes--41bc0f1d96a7.pdf",
+  "versions": [
+    {
+      "sha256": "41bc0f1d96a77994224f85622fa8b11771aa8bb602fcdbcde49474d0062a170d",
+      "bytes": 243529,
+      "retrieved_utc": "2026-11-27T11:05:16+00:00",
+      "http_last_modified": "Mon, 01 Apr 2019 15:08:06 GMT"
+    }
+  ]
+}

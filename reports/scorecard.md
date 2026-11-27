@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 27, 2026 1:28 AM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 6:30 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -11,6 +11,7 @@ Meetings from Nov 27, 2025 through yesterday.
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
 | Aquifer Protection Agency | 1 | 100% (1/1) | 100% (1/1) | 100% (1/1) | 100% (1/1) | 4 | 0 |
+| Board of Assessment Appeals | 3 | 67% (2/3) | 100% (2/2) | 100% (3/3) | 33% (1/3) | 9 | 0 |
 | Board of Education | 41 | 100% (41/41) | 100% (19/19) | 95% (38/40) | 100% (11/11) | 3 | 0 |
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
@@ -27,6 +28,7 @@ Meetings from Nov 27, 2025 through yesterday.
 |---|---|---|---|---|---|---|---|
 | Ad Hoc Short-Term Rental Committee | 16 | 100% (16/16) | 100% (16/16) | 100% (16/16) | 38% (6/16) | 9 | 0 |
 | Aquifer Protection Agency | 2 | 100% (2/2) | 100% (2/2) | 100% (2/2) | 100% (2/2) | 4 | 0 |
+| Board of Assessment Appeals | 9 | 89% (8/9) | 100% (8/8) | 100% (9/9) | 56% (5/9) | 7 | 0 |
 | Board of Education | 105 | 100% (105/105) | 100% (26/26) | 90% (94/104) | 100% (12/12) | 3.5 | 0 |
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
@@ -49,6 +51,13 @@ Meetings from Nov 27, 2025 through yesterday.
 - Boards still being imported will appear once their history is complete.
 
 ## Details (last 12 months)
+
+<details><summary>Board of Assessment Appeals (2)</summary>
+
+- Thu Jan 29, 2026 — BAA Special Organizational Meeting: no agenda found; current minutes file uploaded after 46 days ([document](../records/board-of-assessment-appeals/board/2026/minutes/2026-01-29_BAA-January-29-2026-Minutes.md))
+- Sat Sep 12, 2026 — BAA Meeting (Supplemental MV): current minutes file uploaded after 9 days ([document](../records/board-of-assessment-appeals/board/2026/agendas/2026-09-12_BAA-September-12-2026-Agenda.md))
+
+</details>
 
 <details><summary>Board of Education (2)</summary>
 

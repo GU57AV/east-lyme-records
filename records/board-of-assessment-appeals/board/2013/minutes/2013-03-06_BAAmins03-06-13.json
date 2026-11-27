@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "BAA March 6 2013 Minutes (pdf)",
+  "filename": "BAAmins03-06-13.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BAAmins03-06-13.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-meeting-minutes-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T09:58:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "366af6f65269d170e8e0483e3b385bd0d68dbbf6b020db399dc591942bd85d7d",
+  "bytes": 56695,
+  "pages": 0,
+  "http_last_modified": "Thu, 10 Jul 2014 13:21:32 GMT",
+  "etag": "\"1661f3c-dd77-4fdd6b4068f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2013/2013-03-06_BAAmins03-06-13--366af6f65269.pdf",
+  "versions": [
+    {
+      "sha256": "366af6f65269d170e8e0483e3b385bd0d68dbbf6b020db399dc591942bd85d7d",
+      "bytes": 56695,
+      "retrieved_utc": "2026-11-27T09:58:47+00:00",
+      "http_last_modified": "Thu, 10 Jul 2014 13:21:32 GMT"
+    }
+  ]
+}

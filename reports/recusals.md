@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 27, 2026 1:28 AM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 6:30 AM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -12,10 +12,10 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 |---|---|
 | Zoning Commission | 121 |
 | Board of Selectmen | 20 |
+| Board of Assessment Appeals | 16 |
 | Water & Sewer Commission | 12 |
 | Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
-| Board of Assessment Appeals | 5 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -104,14 +104,19 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2016-06-28 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2016/minutes/2016-06-28_Water-Sewer-June-28-2016-Minutes.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | Application of Theodore A | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Public-Hearing-Minues.md) |
 | 2016-06-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-06-02_Zoning-Commission-June-2-2016-Regular-Meeting-Minutes.md) |
+| 2016-03-19 | Board of Assessment Appeals | Ms. Salvatore | recused | — | moved to approve the Minutes of March 15, 2016 | [minutes](../records/board-of-assessment-appeals/board/2016/minutes/2016-03-19_BAA-March-19-2016-Minutes-1.md) |
+| 2016-03-19 | Board of Assessment Appeals | Mr. Foley | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2016/minutes/2016-03-19_BAA-March-19-2016-Minutes-1.md) |
+| 2016-03-14 | Board of Assessment Appeals | Mr. Foley | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2016/minutes/2016-03-14_BAA-March-14-2016-Minutes.md) |
 | 2016-03-03 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2016/minutes/2016-03-03_Zoning-Commission-March-3-2016-Minutes.md) |
 | 2016-01-11 | Inland Wetlands Agency | Mr. Pazzaglia | recused | — | moved to accept the IWA Regular Meeting Minutes of December 14, 2015 as amended | [minutes](../records/inland-wetlands-agency/board/2016/minutes/2016-01-11_IWA-January-11-2016-Minutes.md) |
 | 2015-12-10 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF GATEWAY DEVELOPMENT/EAST LYME FOR SITE PLAN APPROVAL FOR AN INTERIM ACCESS PENDING FURTHER COMPLETION OF  | [minutes](../records/zoning-commission/board/2015/minutes/2015-12-10_Zoning-Commission-December-10-2015-Minutes.md) |
+| 2015-09-12 | Board of Assessment Appeals | Mr. Foley | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2015/minutes/2015-09-12_BAA-September-12-2015-Minutes.md) |
 | 2015-06-02 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF DAVID J | [minutes](../records/zoning-commission/board/2015/minutes/2015-06-02_Zoning-Commission-June-2-2015-Public-Hearing-Minutes.md) |
 | 2015-05-27 | Water & Sewer Commission | Mr. Zoller | recused | — | — | [minutes](../records/water-sewer-commission/board/2015/minutes/2015-05-27_Water-Sewer-May-27-2015-Minutes.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Public-Hearing-Minutes-04-16-2015.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | Application of Kostas Anastasiou, for renewal of a Special Permit for Outdoor Dining at 26 W Main Street, Niantic | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Public-Hearing-Minutes-04-16-2015.md) |
 | 2015-04-16 | Zoning Commission | Mr. Peck | recused | — | moved to approve the application of J | [minutes](../records/zoning-commission/board/2015/minutes/2015-04-16_Zoning-Commission-Regular-Meeting-Minutes-04-16-2015.md) |
+| 2015-03-09 | Board of Assessment Appeals | Joan Schwartz | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2015/minutes/2015-03-09_BAA-Minutes-03-09-2015.md) |
 | 2014-10-21 | Planning Commission | Chairman Schuch | recused | — | moved to approve the Minutes of September 16, 2014 | [minutes](../records/planning-commission/board/2014/minutes/2014-10-21_Planning-Minutes-10-21-2014.md) |
 | 2014-09-03 | Board of Selectmen | Mr. Formica | recused | — | — | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-09-03_BOS-09-03-2014-Regular-Meeting-Minutes.md) |
 | 2014-09-03 | Board of Selectmen | Mr. Nickerson | recused | — | — | [minutes](../records/board-of-selectmen/board/2014/minutes/2014-09-03_BOS-09-03-2014-Regular-Meeting-Minutes.md) |
@@ -132,6 +137,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2013-07-17 | Board of Selectmen | Mr. Formica | recused | since his position stood to benefit | moved to approve the Consent Calendar in the amount of $830 | [minutes](../records/board-of-selectmen/board/2013/minutes/2013-07-17_BOS-July-17-2013-Regular-Meeting-Minutes.md) |
 | 2013-06-05 | Board of Selectmen | Mr. Formica, Mr. Seery | recused | — | — | [minutes](../records/board-of-selectmen/board/2013/minutes/2013-06-05_BOS-June-5-2013-Special-Meeting-Minutes.md) |
 | 2013-03-21 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF THEODORE A | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-21_ZC-Regular-Meeting-Minutes-of-March-21-2013.md) |
+| 2013-03-09 | Board of Assessment Appeals | Ms. Schwartz | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2013/minutes/2013-03-09_BAAmins03-09-13.md) |
 | 2013-03-07 | Zoning Commission | Mr. Peck | recused | — | Application of Bill Wild, for Wild-Froyo, LLC dba Peachwave Frozen Yogurt East Lyme, Owner/Applicant, for a Special Perm | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-07_ZC-PH-Minutes-of-March-7-2013.md) |
 | 2013-03-07 | Zoning Commission | Mr. Donovan | recused | — | Application of Steve Carpenteri for Niantic Bay Inn, Inc | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-07_ZC-PH-Minutes-of-March-7-2013.md) |
 | 2013-03-07 | Zoning Commission | Mr. Peck | recused | — | Application of Kostas Anastasiou, for a Renewal of a Special Permit for Qutdoor Dining at property identified in the app | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-07_ZC-PH-Minutes-of-March-7-2013.md) |
@@ -143,6 +149,8 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2012-06-07 | Zoning Commission | Mr. Peck | recused | — | Application of Joel Rivera, Pastor, Assembly of Hope Church for a Special Permit to establish a church at property ident | [minutes](../records/zoning-commission/board/2012/minutes/2012-06-07_ZC-Public-Hearing-Minutes-of-June-7-2012.md) |
 | 2012-04-19 | Zoning Commission | Chairman Salemo | recused | — | moved to approve the application of Gary Smith, Trustee, GDS Capital Holdings, LLC for a Coastal Area Management (CAM) R | [minutes](../records/zoning-commission/board/2012/minutes/2012-04-19_ZC-Regular-Minutes-of-April-19-2012.md) |
 | 2012-04-17 | Planning Commission | Chairman Bowers | recused | — | — | [minutes](../records/planning-commission/board/2012/minutes/2012-04-17_PC-Workshop-Minutes-of-April-17-2012.md) |
+| 2012-03-22 | Board of Assessment Appeals | Mr. Foley | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2012/minutes/2012-03-22_BAAminutes03-22-12.md) |
+| 2012-03-22 | Board of Assessment Appeals | Ms. Schwartz | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2012/minutes/2012-03-22_BAAminutes03-22-12.md) |
 | 2012-03-07 | Board of Selectmen | Ms. Cheeseman | recused | since she sits on the Board of Directors of the Museum | moved to authorize the First Selectman to sign a lease containing the usual and applicable standards with the Children’s | [minutes](../records/board-of-selectmen/board/2012/minutes/2012-03-07_BOS-March-7-2012-Regular-Meeting-Minutes.md) |
 | 2012-02-16 | Zoning Commission | Mr. Peck | recused | — | Application of Gerry Karpuska, for a Special Permit for Outdoor Dining at property identified in the application as 26 W | [minutes](../records/zoning-commission/board/2012/minutes/2012-02-16_ZC-PH-Minutes-of-Feb-16-2012.md) |
 | 2012-01-19 | Zoning Commission | Mr. Peck | recused | — | Application of Donna Criscuolo for Niantic Yoga Center for a Special permit for Indoor Recreation for a yoga studio at p | [minutes](../records/zoning-commission/board/2012/minutes/2012-01-19_ZC-Public-Hearing-Minutes-Jan-19-2012.md) |
@@ -155,6 +163,9 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2011-04-21 | Zoning Commission | Mr. Peck | recused | — | Application of Louis Torelli, for Best of Everything Country Gourmet, for a Special Permit for Outdoor Dining at propert | [minutes](../records/zoning-commission/board/2011/minutes/2011-04-21_ZC-Public-Hearing-Minutes-of-April-21-2011.md) |
 | 2011-04-07 | Zoning Commission | Mr. Peck | recused | — | Application of Theodore A | [minutes](../records/zoning-commission/board/2011/minutes/2011-04-07_ZC-Regular-Meeting-Minutes-of-April-7-2011.md) |
 | 2011-01-05 | Board of Selectmen | Mr. Formica | recused | — | moved to approve the Consent Calendar for the meeting of January 5, 2011 in the amount of $280 | [minutes](../records/board-of-selectmen/board/2011/minutes/2011-01-05_BOS-January-5-2011-Meeting-Minutes.md) |
+| 2010-03-09 | Board of Assessment Appeals | Weber Graham | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2010/minutes/2010-03-09_BOAAactions03-09-10.md) |
+| 2010-03-09 | Board of Assessment Appeals | Weber Dagle | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2010/minutes/2010-03-09_BOAAactions03-09-10.md) |
+| 2010-03-02 | Board of Assessment Appeals | Joan Schwartz | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2010/minutes/2010-03-02_BOAAhearingMinutes03-02-10.md) |
 | 2009-09-03 | Zoning Commission | Mr. Peck | recused | — | Application of Randi A | [minutes](../records/zoning-commission/board/2009/minutes/2009-09-03_ZCpublicHearing2Mins09-03-09.md) |
 | 2009-09-03 | Zoning Commission | Mr. Peck | recused | — | Application of Randi A & Maureen S White for a Zone Change for a portion of the property identified in the application a | [minutes](../records/zoning-commission/board/2009/minutes/2009-09-03_ZCregMtgMins09-03-09.md) |
 | 2009-06-04 | Zoning Commission | Mr. Carpenteri | recused | — | — | [minutes](../records/zoning-commission/board/2009/minutes/2009-06-04_ZCpublicHearing2Mins06-04-09.md) |

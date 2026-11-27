@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Smith Harris House March 28 2018 Agenda (pdf)",
+  "filename": "Smith-Harris-Regular-Meeting-March-28-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/Smith-Harris-Regular-Meeting-March-28-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-27T11:08:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d70785e1487221a3b5fdaf4a9fb3d19ba5b619b6a36e539eb91125ec70fa73f2",
+  "bytes": 37066,
+  "pages": 0,
+  "http_last_modified": "Sat, 31 Mar 2018 14:18:25 GMT",
+  "etag": "\"16c0808-90ca-568b607a2ce40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2018/2018-03-28_Smith-Harris-Regular-Meeting-March-28-2018-Agenda--d70785e14872.pdf",
+  "versions": [
+    {
+      "sha256": "d70785e1487221a3b5fdaf4a9fb3d19ba5b619b6a36e539eb91125ec70fa73f2",
+      "bytes": 37066,
+      "retrieved_utc": "2026-11-27T11:08:57+00:00",
+      "http_last_modified": "Sat, 31 Mar 2018 14:18:25 GMT"
+    }
+  ]
+}

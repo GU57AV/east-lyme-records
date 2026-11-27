@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BAA March 14 2016 Minutes (pdf)",
+  "filename": "BAA-March-14-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BAA-March-14-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T09:51:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f883772f49d110cd85f808faf319d4f8e482997dec75aae6cd05304c7f4cf57a",
+  "bytes": 102283,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Mar 2016 17:29:35 GMT",
+  "etag": "\"16e03dd-18f8b-52e41f95e1dc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2016/2016-03-14_BAA-March-14-2016-Minutes--f883772f49d1.pdf",
+  "versions": [
+    {
+      "sha256": "f883772f49d110cd85f808faf319d4f8e482997dec75aae6cd05304c7f4cf57a",
+      "bytes": 102283,
+      "retrieved_utc": "2026-11-27T09:51:43+00:00",
+      "http_last_modified": "Thu, 17 Mar 2016 17:29:35 GMT"
+    }
+  ]
+}

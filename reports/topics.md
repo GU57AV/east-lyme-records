@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 27, 2026 1:28 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 27, 2026 6:30 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (19)
 
@@ -94,7 +94,7 @@ _Updated Nov 27, 2026 1:28 AM ET. Every archived document that mentions each wat
 - 2026-04-01 — Board of Selectmen: [BOS April 1 2026 Regular Meeting Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-04-01_BOS-April-1-2026-Minutes.md) — “…(s) Ms. Cicchiello MOVED to authorize the First Selectman to enter into an agreement with Altumint, Inc. entitled "Photo Enforcement Services Agreement". Seconded by Ms, Carlson, IN FAVOR;…”
 - 2026-03-18 — Board of Selectmen: [BOS March 18 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-03-18_BOS-March-18-2026-Agenda.md) — “…Authorize First Selectman to Sign a Photo Enforcement Services Agreement with Altumint - Automated Traffic Enforcement Safety Devices 3 New Business a) Appoint…”
 
-## Flock (23)
+## Flock (24)
 
 - 2026-11-18 — Board of Selectmen: [BOS November 18 2026 Public Hearing Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-11-18_BOS-November-18-2026-Public-Hearing-Minutes.md) — “…What residents were told, April 1, 2O26 (-49:37) "Each ATESD camera includes a Flock ALPR "It shouldn't be confused with Flock technolo…”
 - 2026-11-09 — Board of Police Commissioners: [Board of Police Commissioners November 9 2026 Minutes (pdf)](../records/police-commission/board/2026/minutes/2026-11-09_Police-Commission-November-9-2026-Minutes.md) — “…g .FY 26 Budget . Radio/Communications .Speed Camera Program .Flock Program .Accreditation .Policies and procedures .StafIing .Tr…”
@@ -103,6 +103,7 @@ _Updated Nov 27, 2026 1:28 AM ET. Every archived document that mentions each wat
 - 2026-10-06 — Inland Wetlands Agency: [IWA October 6 2026 Minutes (pdf)](../records/inland-wetlands-agency/board/2026/minutes/2026-10-06_IWA-October-6-2026-Minutes.md) — “…ted that on 101712026 the BOS will be discussing speed cameras (different from Flock cameras) VII. NEW BUSINESS-There was none VIII. PENDINGAPPLICATIONS A. 55…”
 - 2026-10-05 — Board of Education: [Board of Education Regular Meeting - Oct 05 2026 - Agenda Packet](../records/board-of-education/board/2026/other/2026-10-05_Board-of-Education-Regular-Meeting-Oct-05-2026-Agenda-Packet.md) — “…state legislation. - East Lyme Police Department announced pausing the use of flock camera technology based on public concerns, questions, and feedback, effective…”
 - 2026-09-28 — Board of Education: [Board of Education Regular Meeting - Sep 28 2026 - Signed Minutes](../records/board-of-education/board/2026/minutes/2026-09-28_Board-of-Education-Regular-Meeting-Sep-28-2026-Signed-Minutes.md) — “…state legislation. - East Lyme Police Department announced pausing the use of flock camera technology based on public concerns, questions, and feedback, effective…”
+- 2026-09-28 — Brookside Farm Museum Commission: [Brookside Farm September 28 2026 Minutes (pdf)](../records/brookside-farm-museum-commission/board/2026/minutes/2026-09-28_Brookside-Farm-September-28-2026-Minutes.md) — “…g speed cameras was anticipated for October 7. a The Police Chief had paused the use of Flock cameras. Town budget preparation would begin shortly, with continued financial pressu…”
 - 2026-09-17 — Zoning Commission: [Zoning Commission September 17 2026 Minutes (pdf)](../records/zoning-commission/board/2026/minutes/2026-09-17_Zoning-Commission-September-17-2026-Minutes.md) — “…d of the BOS meeting and the discussion focused on license plate reader cameras (not Flock Cameras) no decision was made. Perhaps 5 people in support, most people were opposed…”
 - 2026-09-16 — Board of Selectmen: [BOS September 16 2026 Public Hearing Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-09-16_BOS-September-16-2026-Public-Hearing-Minutes.md) — “…it #1. Chief Glenn stated that automated traffic enforcement devices are not the same as FLOCK; these cameras will only activate and scan your license plate if you are speeding. There…”
 - 2026-09-14 — Board of Police Commissioners: [Board of Police Commissoners September 14 2026 Minutes (pdf)](../records/police-commission/board/2026/minutes/2026-09-14_Board-of-Police-Commissioners-September-14-2026-Minutes.md) — “…(all in favor) 2. Delegations: The following residents spoke in opposition of FLOCK cameras Kevin Mills, 58 Riverview Road, East Lyme CT Brian Lepkowski,2T Gre…”
@@ -169,7 +170,7 @@ _Updated Nov 27, 2026 1:28 AM ET. Every archived document that mentions each wat
 - 2007-09-20 — Zoning Commission: [Zoning Commission September 20 2007 Public Hearing I & II Minutes (pdf)](../records/zoning-commission/board/2007/minutes/2007-09-20_Zoning-Commission-September-20-2007-Public-Hearing-I-II-Minutes.md) — “…2 Ms. Marocola sald that the doors arp lockable and that they also have surveillance cemeras throughout the faoility. Mr. Nickerson explalned the publlc portlon of the publi…”
 - 2004-09-29 — Zoning Commission: [Zoning September 29 2004 Public Hearing I Minutes (pdf)](../records/zoning-commission/board/2004/minutes/2004-09-29_Zoning-September-29-2004-Public-Hearing-I-Minutes.md) — “…ng the road. This stretgh of roadway is listed on ConnDOT's Suggested List of Surveillance Study Sites (SLOSSS). This publication lists roadways that have a higher than…”
 
-## executive session (1254)
+## executive session (1255)
 
 - 2026-12-02 — Board of Selectmen: [BOS December 2 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) — “…b) Discussion and Possible Action - Cannabis Funds - Pollinator Pathway 4. Executive Session - For the Purpose of Discussing Potential Litigation 5 a) Ex-Officio Reports…”
 - 2026-11-23 — Board of Police Commissioners: [Board of Police Commissioners November 23 2026 Special Meeting Agenda (pdf)](../records/police-commission/board/2026/agendas/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Agenda.md) — “…AGENDA L Call to order and Pledge ofAllegiance 2. Executive Session: For the purpose of conducting new hire applicant interview 3. Discussion and possible…”

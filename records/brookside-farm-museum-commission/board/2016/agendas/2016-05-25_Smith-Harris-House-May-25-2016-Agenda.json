@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Smith Harris House May 25 2016 Agenda (pdf)",
+  "filename": "Smith-Harris-House-May-25-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Smith-Harris-House-May-25-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T11:26:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9464df5eae100eac9a88beeafe97fa1db9d3e5292ada3e33eaf6e84add47dd1",
+  "bytes": 38527,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 May 2016 14:06:44 GMT",
+  "etag": "\"16e06e1-967f-53382f3498500\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2016/2016-05-25_Smith-Harris-House-May-25-2016-Agenda--d9464df5eae1.pdf",
+  "versions": [
+    {
+      "sha256": "d9464df5eae100eac9a88beeafe97fa1db9d3e5292ada3e33eaf6e84add47dd1",
+      "bytes": 38527,
+      "retrieved_utc": "2026-11-27T11:26:58+00:00",
+      "http_last_modified": "Mon, 23 May 2016 14:06:44 GMT"
+    }
+  ]
+}

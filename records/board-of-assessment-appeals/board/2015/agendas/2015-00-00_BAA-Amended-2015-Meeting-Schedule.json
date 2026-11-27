@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BAA Amended 2015 Meeting Schedule (pdf)",
+  "filename": "BAA-Amended-2015-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BAA-Amended-2015-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T09:53:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4852d94a7c1d3a67e7022518becbbb408d8c630e841c9b3263357009b18fa5f2",
+  "bytes": 48258,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:42 GMT",
+  "etag": "\"1663fc7-bc82-52082668e6a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2015/2015-00-00_BAA-Amended-2015-Meeting-Schedule--4852d94a7c1d.pdf",
+  "versions": [
+    {
+      "sha256": "4852d94a7c1d3a67e7022518becbbb408d8c630e841c9b3263357009b18fa5f2",
+      "bytes": 48258,
+      "retrieved_utc": "2026-11-27T09:53:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:42 GMT"
+    }
+  ]
+}

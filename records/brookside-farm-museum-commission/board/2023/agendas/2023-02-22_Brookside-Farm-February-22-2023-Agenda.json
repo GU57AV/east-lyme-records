@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Brookside Farm February 22 2023 Agenda (pdf)",
+  "filename": "Brookside-Farm-February-22-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/Brookside-Farm-February-22-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2023-agendas/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-27T10:30:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9ba1c15c99ec718c2786b11be8b365a8ddec2a3238637d35a88921c8261d6be6",
+  "bytes": 40100,
+  "pages": 0,
+  "http_last_modified": "Tue, 27 Jun 2023 18:32:55 GMT",
+  "etag": "\"16e007f-9ca4-5ff20b21043c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2023/2023-02-22_Brookside-Farm-February-22-2023-Agenda--9ba1c15c99ec.pdf",
+  "versions": [
+    {
+      "sha256": "9ba1c15c99ec718c2786b11be8b365a8ddec2a3238637d35a88921c8261d6be6",
+      "bytes": 40100,
+      "retrieved_utc": "2026-11-27T10:30:58+00:00",
+      "http_last_modified": "Tue, 27 Jun 2023 18:32:55 GMT"
+    }
+  ]
+}

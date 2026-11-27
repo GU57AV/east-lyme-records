@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Brookside Farm June 26 2019 Agenda (pdf)",
+  "filename": "Brookside-Farm-June-26-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/06/Brookside-Farm-June-26-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2019-agendas/",
+  "upload_folder": "2019-06",
+  "first_seen_utc": "2026-11-27T10:59:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1b454fd5f465006e89dbf9af5f67ef986d49ebf8de7fa2d78d3e6a240494751b",
+  "bytes": 43738,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Jun 2019 13:54:46 GMT",
+  "etag": "\"16c1d1e-aada-58c1227a55580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2019/2019-06-26_Brookside-Farm-June-26-2019-Agenda--1b454fd5f465.pdf",
+  "versions": [
+    {
+      "sha256": "1b454fd5f465006e89dbf9af5f67ef986d49ebf8de7fa2d78d3e6a240494751b",
+      "bytes": 43738,
+      "retrieved_utc": "2026-11-27T10:59:53+00:00",
+      "http_last_modified": "Mon, 24 Jun 2019 13:54:46 GMT"
+    }
+  ]
+}

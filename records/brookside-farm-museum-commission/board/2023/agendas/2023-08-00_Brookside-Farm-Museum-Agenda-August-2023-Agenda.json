@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum August 2023 Agenda (with Zoom Link) (pdf)",
+  "filename": "Brookside-Farm-Museum-Agenda-August-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/Brookside-Farm-Museum-Agenda-August-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-27T10:28:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f89ca617f8b694285da43989bda63956776481b9c718b41105093007a0310d4f",
+  "bytes": 84883,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Aug 2023 17:05:27 GMT",
+  "etag": "\"16e029d-14b93-603216b2a43c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2023/2023-08-00_Brookside-Farm-Museum-Agenda-August-2023-Agenda--f89ca617f8b6.pdf",
+  "versions": [
+    {
+      "sha256": "f89ca617f8b694285da43989bda63956776481b9c718b41105093007a0310d4f",
+      "bytes": 84883,
+      "retrieved_utc": "2026-11-27T10:28:36+00:00",
+      "http_last_modified": "Thu, 17 Aug 2023 17:05:27 GMT"
+    }
+  ]
+}

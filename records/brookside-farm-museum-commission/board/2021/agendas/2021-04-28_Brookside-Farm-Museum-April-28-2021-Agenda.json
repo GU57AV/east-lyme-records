@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Brookside Farm April 28 2021 Agenda (pdf)",
+  "filename": "Brookside-Farm-Museum-April-28-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/Brookside-Farm-Museum-April-28-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-27T10:45:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f5fc5e0e2e0171430f647561c5beda988e0665ddcabbb336cb83b5145e98822e",
+  "bytes": 41586,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Apr 2021 13:40:25 GMT",
+  "etag": "\"1680445-a272-5c0a3f0296440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2021/2021-04-28_Brookside-Farm-Museum-April-28-2021-Agenda--f5fc5e0e2e01.pdf",
+  "versions": [
+    {
+      "sha256": "f5fc5e0e2e0171430f647561c5beda988e0665ddcabbb336cb83b5145e98822e",
+      "bytes": 41586,
+      "retrieved_utc": "2026-11-27T10:45:45+00:00",
+      "http_last_modified": "Fri, 23 Apr 2021 13:40:25 GMT"
+    }
+  ]
+}

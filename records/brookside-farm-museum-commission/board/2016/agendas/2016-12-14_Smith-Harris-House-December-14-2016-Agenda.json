@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Smith Harris House Commission December 14 2016 Agenda (pdf)",
+  "filename": "Smith-Harris-House-December-14-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Smith-Harris-House-December-14-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T11:24:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1f7a7a8124a6989045cde91211820362ee5b9cc9dca79856fb425cdcc1840e00",
+  "bytes": 23766,
+  "pages": 0,
+  "http_last_modified": "Fri, 09 Dec 2016 19:43:52 GMT",
+  "etag": "\"16e06da-5cd6-5433ef93b4e00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2016/2016-12-14_Smith-Harris-House-December-14-2016-Agenda--1f7a7a8124a6.pdf",
+  "versions": [
+    {
+      "sha256": "1f7a7a8124a6989045cde91211820362ee5b9cc9dca79856fb425cdcc1840e00",
+      "bytes": 23766,
+      "retrieved_utc": "2026-11-27T11:24:37+00:00",
+      "http_last_modified": "Fri, 09 Dec 2016 19:43:52 GMT"
+    }
+  ]
+}

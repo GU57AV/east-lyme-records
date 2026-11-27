@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2010",
+  "subcommittee": false,
+  "link_text": "BAA Actions March 9 2010 (pdf)",
+  "filename": "BOAAactions03-09-10.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BOAAactions03-09-10.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-2010-meeting-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T10:04:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3bda018e74383c023688ec13e8d62653797d753b2dcc2299721a5724267329de",
+  "bytes": 30160,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Jul 2014 13:30:52 GMT",
+  "etag": "\"1663a3c-75d0-4fdc2b7901b00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2010/2010-03-09_BOAAactions03-09-10--3bda018e7438.pdf",
+  "versions": [
+    {
+      "sha256": "3bda018e74383c023688ec13e8d62653797d753b2dcc2299721a5724267329de",
+      "bytes": 30160,
+      "retrieved_utc": "2026-11-27T10:04:31+00:00",
+      "http_last_modified": "Wed, 09 Jul 2014 13:30:52 GMT"
+    }
+  ]
+}

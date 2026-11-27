@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum October 23 2024 & November 20 2024 Cancellation (pdf)",
+  "filename": "Brookside-Farm-Museum-October-23-2024-November-20-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Brookside-Farm-Museum-October-23-2024-November-20-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-27T10:22:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4c88de3c00a03b13a6cd61dbe0c02711c6af18b730d45b8488a98c9e9fe439a6",
+  "bytes": 29602,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Oct 2024 15:52:49 GMT",
+  "etag": "\"168096e-73a2-624fea5031640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2024/2024-10-23_Brookside-Farm-Museum-October-23-2024-November-20-2024-Cancellation--4c88de3c00a0.pdf",
+  "versions": [
+    {
+      "sha256": "4c88de3c00a03b13a6cd61dbe0c02711c6af18b730d45b8488a98c9e9fe439a6",
+      "bytes": 29602,
+      "retrieved_utc": "2026-11-27T10:22:33+00:00",
+      "http_last_modified": "Mon, 21 Oct 2024 15:52:49 GMT"
+    }
+  ]
+}

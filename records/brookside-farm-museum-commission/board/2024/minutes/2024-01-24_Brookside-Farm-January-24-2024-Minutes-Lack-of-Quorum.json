@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum January 24 2024 Minutes (Lack of Quorum) (pdf)",
+  "filename": "Brookside-Farm-January-24-2024-Minutes-Lack-of-Quorum.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Brookside-Farm-January-24-2024-Minutes-Lack-of-Quorum.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2024-minutes/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T10:27:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "05a9f95136f44557853a1825241cdfe5909b3bf4a91cf4fea0348d2e86ca0b31",
+  "bytes": 38727,
+  "pages": 0,
+  "http_last_modified": "Thu, 25 Jan 2024 15:37:23 GMT",
+  "etag": "\"168069b-9747-60fc6f4aa32c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2024/2024-01-24_Brookside-Farm-January-24-2024-Minutes-Lack-of-Quorum--05a9f95136f4.pdf",
+  "versions": [
+    {
+      "sha256": "05a9f95136f44557853a1825241cdfe5909b3bf4a91cf4fea0348d2e86ca0b31",
+      "bytes": 38727,
+      "retrieved_utc": "2026-11-27T10:27:16+00:00",
+      "http_last_modified": "Thu, 25 Jan 2024 15:37:23 GMT"
+    }
+  ]
+}

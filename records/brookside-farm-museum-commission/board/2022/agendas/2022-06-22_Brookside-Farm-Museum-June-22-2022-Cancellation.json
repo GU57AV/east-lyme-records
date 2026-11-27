@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum June 22 2022 Cancellation (pdf)",
+  "filename": "Brookside-Farm-Museum-June-22-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/Brookside-Farm-Museum-June-22-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-27T10:37:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1e58ec57f24fb7085a09a7416e033220b2c236cdb5cb9eccc1e8c58325b7aefd",
+  "bytes": 26407,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Jun 2022 13:57:34 GMT",
+  "etag": "\"16a0ee6-6727-5e21dd5e46f80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2022/2022-06-22_Brookside-Farm-Museum-June-22-2022-Cancellation--1e58ec57f24f.pdf",
+  "versions": [
+    {
+      "sha256": "1e58ec57f24fb7085a09a7416e033220b2c236cdb5cb9eccc1e8c58325b7aefd",
+      "bytes": 26407,
+      "retrieved_utc": "2026-11-27T10:37:21+00:00",
+      "http_last_modified": "Thu, 23 Jun 2022 13:57:34 GMT"
+    }
+  ]
+}

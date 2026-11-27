@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Smith-Harris House February 22 2017 Agenda (pdf)",
+  "filename": "Smith-Harris-House-February-22-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Smith-Harris-House-February-22-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T11:19:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6223a9d60e18b8a074b76fcb9cece5eaaa723c09352efd440913f83c38df50b2",
+  "bytes": 40201,
+  "pages": 0,
+  "http_last_modified": "Tue, 21 Feb 2017 19:57:18 GMT",
+  "etag": "\"1662d44-9d09-5490fc987a380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2017/2017-02-22_Smith-Harris-House-February-22-2017-Agenda--6223a9d60e18.pdf",
+  "versions": [
+    {
+      "sha256": "6223a9d60e18b8a074b76fcb9cece5eaaa723c09352efd440913f83c38df50b2",
+      "bytes": 40201,
+      "retrieved_utc": "2026-11-27T11:19:23+00:00",
+      "http_last_modified": "Tue, 21 Feb 2017 19:57:18 GMT"
+    }
+  ]
+}

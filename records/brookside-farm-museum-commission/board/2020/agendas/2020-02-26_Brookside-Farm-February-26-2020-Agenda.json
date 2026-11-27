@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum February 26 2020 Agenda (pdf)",
+  "filename": "Brookside-Farm-February-26-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/Brookside-Farm-February-26-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-27T10:54:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4aa3010a3f059e4b68ca2f6c34b84349498af99052ff56ab1d185db3d770ebb5",
+  "bytes": 45727,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Feb 2020 17:02:48 GMT",
+  "etag": "\"16617c4-b29f-59f18fdb3be00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2020/2020-02-26_Brookside-Farm-February-26-2020-Agenda--4aa3010a3f05.pdf",
+  "versions": [
+    {
+      "sha256": "4aa3010a3f059e4b68ca2f6c34b84349498af99052ff56ab1d185db3d770ebb5",
+      "bytes": 45727,
+      "retrieved_utc": "2026-11-27T10:54:10+00:00",
+      "http_last_modified": "Fri, 21 Feb 2020 17:02:48 GMT"
+    }
+  ]
+}

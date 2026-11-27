@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum Commission 2019 Meeting Schedule (pdf)",
+  "filename": "Brookside-Farm-Museum-Commission-2019-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Brookside-Farm-Museum-Commission-2019-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-27T11:01:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72e2c654a50b390c8c4b6229c67d2afc3d8fd81f69573856ec63a5436830d235",
+  "bytes": 28508,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Dec 2018 15:02:14 GMT",
+  "etag": "\"16c06c8-6f5c-57c338cfb2980\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2019/2018-12-00_Brookside-Farm-Museum-Commission-2019-Schedule--72e2c654a50b.pdf",
+  "versions": [
+    {
+      "sha256": "72e2c654a50b390c8c4b6229c67d2afc3d8fd81f69573856ec63a5436830d235",
+      "bytes": 28508,
+      "retrieved_utc": "2026-11-27T11:01:54+00:00",
+      "http_last_modified": "Tue, 04 Dec 2018 15:02:14 GMT"
+    }
+  ]
+}

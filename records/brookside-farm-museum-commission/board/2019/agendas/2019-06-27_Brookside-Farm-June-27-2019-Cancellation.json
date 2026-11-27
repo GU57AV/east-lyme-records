@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Brookside Farm June 27 2019 Cancellation (pdf)",
+  "filename": "Brookside-Farm-June-27-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/06/Brookside-Farm-June-27-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2019-agendas/",
+  "upload_folder": "2019-06",
+  "first_seen_utc": "2026-11-27T10:59:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "712048cfc0b39bd9c688c2870446fab9ad6bc8776b6c0520eacb3015515e7426",
+  "bytes": 32197,
+  "pages": 0,
+  "http_last_modified": "Fri, 21 Jun 2019 18:40:08 GMT",
+  "etag": "\"16c1cbc-7dc5-58bd9caac3200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2019/2019-06-27_Brookside-Farm-June-27-2019-Cancellation--712048cfc0b3.pdf",
+  "versions": [
+    {
+      "sha256": "712048cfc0b39bd9c688c2870446fab9ad6bc8776b6c0520eacb3015515e7426",
+      "bytes": 32197,
+      "retrieved_utc": "2026-11-27T10:59:33+00:00",
+      "http_last_modified": "Fri, 21 Jun 2019 18:40:08 GMT"
+    }
+  ]
+}

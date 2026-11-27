@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum July 22 2020 Agenda (pdf)",
+  "filename": "Brookside-Farm-July-22-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/07/Brookside-Farm-July-22-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2020-agendas/",
+  "upload_folder": "2020-07",
+  "first_seen_utc": "2026-11-27T10:52:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fdeaa14a20155dda22e4109ddbd6844a4abbb1ee60b3c8e240203d49c06f8576",
+  "bytes": 46119,
+  "pages": 0,
+  "http_last_modified": "Mon, 20 Jul 2020 14:26:51 GMT",
+  "etag": "\"1661b36-b427-5aae04c2d80c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2020/2020-07-22_Brookside-Farm-July-22-2020-Agenda--fdeaa14a2015.pdf",
+  "versions": [
+    {
+      "sha256": "fdeaa14a20155dda22e4109ddbd6844a4abbb1ee60b3c8e240203d49c06f8576",
+      "bytes": 46119,
+      "retrieved_utc": "2026-11-27T10:52:49+00:00",
+      "http_last_modified": "Mon, 20 Jul 2020 14:26:51 GMT"
+    }
+  ]
+}

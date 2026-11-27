@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum June 26 2024 Agenda (pdf)",
+  "filename": "Brookside-Farm-June-26-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Brookside-Farm-June-26-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-27T10:23:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01e34b102b4ceafe788b6f71e2861abb053063026c980fc793aa696e3bff6b80",
+  "bytes": 46550,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Jun 2024 12:53:27 GMT",
+  "etag": "\"1680795-b5d6-61b51cd10dfc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2024/2024-06-26_Brookside-Farm-June-26-2024-Agenda--01e34b102b4c.pdf",
+  "versions": [
+    {
+      "sha256": "01e34b102b4ceafe788b6f71e2861abb053063026c980fc793aa696e3bff6b80",
+      "bytes": 46550,
+      "retrieved_utc": "2026-11-27T10:23:14+00:00",
+      "http_last_modified": "Thu, 20 Jun 2024 12:53:27 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Smith Harris House Commission June 10 2017 Special Meeting (Lack of Quorum) (pdf)",
+  "filename": "Smith-Harris-June-10-2017-Special-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Smith-Harris-June-10-2017-Special-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/smith-harris-house-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T11:22:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e28d605730898cd649bb0fca497c0b75e0349417a649c4ac2d69ff20318d2cf6",
+  "bytes": 20973,
+  "pages": 0,
+  "http_last_modified": "Mon, 12 Jun 2017 13:28:02 GMT",
+  "etag": "\"1662d43-51ed-551c349c9fc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2017/2017-06-10_Smith-Harris-June-10-2017-Special-Meeting-Cancellation--e28d60573089.pdf",
+  "versions": [
+    {
+      "sha256": "e28d605730898cd649bb0fca497c0b75e0349417a649c4ac2d69ff20318d2cf6",
+      "bytes": 20973,
+      "retrieved_utc": "2026-11-27T11:22:56+00:00",
+      "http_last_modified": "Mon, 12 Jun 2017 13:28:02 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "BAA Amended Meeting Schedule March 2015 (pdf)",
+  "filename": "BAA-Amended-Meeting-Schedule-March-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BAA-Amended-Meeting-Schedule-March-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-meeting-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T09:53:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "670002768424f39bea5b177913bb49dfefaea046205868257042877373b72c15",
+  "bytes": 44792,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:42 GMT",
+  "etag": "\"16637df-aef8-52082668e6a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2015/2015-00-00_BAA-Amended-Meeting-Schedule-March-2015--670002768424.pdf",
+  "versions": [
+    {
+      "sha256": "670002768424f39bea5b177913bb49dfefaea046205868257042877373b72c15",
+      "bytes": 44792,
+      "retrieved_utc": "2026-11-27T09:53:24+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:42 GMT"
+    }
+  ]
+}

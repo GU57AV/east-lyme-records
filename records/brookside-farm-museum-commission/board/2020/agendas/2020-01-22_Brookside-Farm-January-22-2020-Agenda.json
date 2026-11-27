@@ -1,0 +1,29 @@
+{
+  "board": "brookside-farm-museum-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Brookside Farm Museum January 22 2020 Agenda (pdf)",
+  "filename": "Brookside-Farm-January-22-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Brookside-Farm-January-22-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/brookside-farm-museum-commission/brookside-farm-museum-commission-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-27T10:54:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b5e21ca94ada58f0a230d9b0da32ae8b98c37d1fb3c6f74fa536fe5221772185",
+  "bytes": 39535,
+  "pages": 0,
+  "http_last_modified": "Fri, 17 Jan 2020 18:30:57 GMT",
+  "etag": "\"1661712-9a6f-59c5a24815a40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/brookside-farm-museum-commission-2020/2020-01-22_Brookside-Farm-January-22-2020-Agenda--b5e21ca94ada.pdf",
+  "versions": [
+    {
+      "sha256": "b5e21ca94ada58f0a230d9b0da32ae8b98c37d1fb3c6f74fa536fe5221772185",
+      "bytes": 39535,
+      "retrieved_utc": "2026-11-27T10:54:30+00:00",
+      "http_last_modified": "Fri, 17 Jan 2020 18:30:57 GMT"
+    }
+  ]
+}

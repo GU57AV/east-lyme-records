@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "BAA September 10 2011 Minutes (pdf)",
+  "filename": "BAA-SEPT-10-2011.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/BAA-SEPT-10-2011.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/baa-2011-meeting-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T10:02:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "624074c8a8190fffb3d8d7e0f656ac0dadc8919db83d2a3225d36478f8268bd0",
+  "bytes": 1665457,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Jul 2014 13:55:58 GMT",
+  "etag": "\"1663b8b-1969b1-4fdc31153d780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2011/2011-09-10_BAA-SEPT-10-2011--624074c8a819.pdf",
+  "versions": [
+    {
+      "sha256": "624074c8a8190fffb3d8d7e0f656ac0dadc8919db83d2a3225d36478f8268bd0",
+      "bytes": 1665457,
+      "retrieved_utc": "2026-11-27T10:02:09+00:00",
+      "http_last_modified": "Wed, 09 Jul 2014 13:55:58 GMT"
+    }
+  ]
+}
