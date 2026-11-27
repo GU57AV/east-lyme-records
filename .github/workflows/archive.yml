@@ -11,6 +11,10 @@ on:
         description: "Re-check every archived file for silent changes (slow: one request per document)"
         type: boolean
         default: false
+      batch:
+        description: "Continue an unfinished initial import (set automatically by the previous batch)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -44,7 +48,9 @@ jobs:
           NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
         run: |
           ARGS="--time-budget 300"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then ARGS="$ARGS --force"; fi
+          # A manual run re-reads every listing page. Import batches started by the previous batch don't:
+          # boards already imported get the normal recent-years check, leaving the time for importing.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.batch }}" != "true" ]; then ARGS="$ARGS --force"; fi
           if [ "${{ inputs.recheck }}" = "true" ]; then ARGS="$ARGS --recheck"; fi
           # Each full run also re-checks the 150 archived documents checked longest ago
           # (current and previous year first) to catch silent replacements.
@@ -109,7 +115,7 @@ jobs:
           if python -c "import json,sys; sys.exit(0 if json.load(open('state/state.json')).get('initial_import_complete') else 1)"; then
             echo "Initial import complete."
           else
-            gh workflow run archive.yml --ref main -f recheck=false
+            gh workflow run archive.yml --ref main -f recheck=false -f batch=true
           fi
 
       - name: Alert if this run failed
