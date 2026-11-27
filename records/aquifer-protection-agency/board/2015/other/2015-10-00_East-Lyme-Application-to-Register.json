@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "East Lyme Application to Register or Renew (pdf)",
+  "filename": "East-Lyme-Application-to-Register.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/10/East-Lyme-Application-to-Register.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/",
+  "upload_folder": "2015-10",
+  "first_seen_utc": "2026-11-27T05:04:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c69ae6a799c1a729e3b55a3d1d73713da8e8c7c4e953fa80e34f50885386599a",
+  "bytes": 356178,
+  "pages": 0,
+  "http_last_modified": "Mon, 26 Oct 2015 15:50:38 GMT",
+  "etag": "\"16e085f-56f52-52303ec300f80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2015/2015-10-00_East-Lyme-Application-to-Register--c69ae6a799c1.pdf",
+  "versions": [
+    {
+      "sha256": "c69ae6a799c1a729e3b55a3d1d73713da8e8c7c4e953fa80e34f50885386599a",
+      "bytes": 356178,
+      "retrieved_utc": "2026-11-27T05:04:47+00:00",
+      "http_last_modified": "Mon, 26 Oct 2015 15:50:38 GMT"
+    }
+  ]
+}

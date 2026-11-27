@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BAA September 12 2026 Agenda (pdf)",
+  "filename": "BAA-September-12-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/BAA-September-12-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-27T05:44:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0436267dc7335c4e2f92778f53a5d4ff9afd609f87bba092e3c2034e2f071f80",
+  "bytes": 33870,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Sep 2026 18:19:45 GMT",
+  "etag": "\"16e0f45-844e-65b10e55acc52\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2026/2026-09-12_BAA-September-12-2026-Agenda--0436267dc733.pdf",
+  "versions": [
+    {
+      "sha256": "0436267dc7335c4e2f92778f53a5d4ff9afd609f87bba092e3c2034e2f071f80",
+      "bytes": 33870,
+      "retrieved_utc": "2026-11-27T05:44:45+00:00",
+      "http_last_modified": "Wed, 09 Sep 2026 18:19:45 GMT"
+    }
+  ]
+}

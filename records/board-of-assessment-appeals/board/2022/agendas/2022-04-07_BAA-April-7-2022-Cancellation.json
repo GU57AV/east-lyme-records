@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BAA April 7 2022 Cancellation (pdf)",
+  "filename": "BAA-April-7-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BAA-April-7-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-27T05:59:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "40ff4e305ad2dff5790186c46c619cfeca467a818ec4927cf730a089b78476ec",
+  "bytes": 25575,
+  "pages": 0,
+  "http_last_modified": "Thu, 31 Mar 2022 13:58:10 GMT",
+  "etag": "\"16a0a5f-63e7-5db840d5e4080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-04-07_BAA-April-7-2022-Cancellation--40ff4e305ad2.pdf",
+  "versions": [
+    {
+      "sha256": "40ff4e305ad2dff5790186c46c619cfeca467a818ec4927cf730a089b78476ec",
+      "bytes": 25575,
+      "retrieved_utc": "2026-11-27T05:59:32+00:00",
+      "http_last_modified": "Thu, 31 Mar 2022 13:58:10 GMT"
+    }
+  ]
+}

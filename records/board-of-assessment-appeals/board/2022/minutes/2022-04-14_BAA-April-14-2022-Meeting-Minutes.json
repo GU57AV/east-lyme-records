@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BAA April 14 2022 Minutes (pdf)",
+  "filename": "BAA-April-14-2022-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BAA-April-14-2022-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2022-minutes/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-27T06:02:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c5165fce0e0575bb3aac9a09c54128923cf3f6ab8ef7be305403838a7c747299",
+  "bytes": 3520261,
+  "pages": 0,
+  "http_last_modified": "Thu, 21 Apr 2022 19:57:14 GMT",
+  "etag": "\"16a12fc-35b705-5dd2f84287a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-04-14_BAA-April-14-2022-Meeting-Minutes--c5165fce0e05.pdf",
+  "versions": [
+    {
+      "sha256": "c5165fce0e0575bb3aac9a09c54128923cf3f6ab8ef7be305403838a7c747299",
+      "bytes": 3520261,
+      "retrieved_utc": "2026-11-27T06:02:13+00:00",
+      "http_last_modified": "Thu, 21 Apr 2022 19:57:14 GMT"
+    }
+  ]
+}

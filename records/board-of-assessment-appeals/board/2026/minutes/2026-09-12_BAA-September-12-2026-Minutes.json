@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BAA September 12 2026 Minutes (pdf)",
+  "filename": "BAA-September-12-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/BAA-September-12-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2026-minutes/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-27T05:47:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3850733f57db283fab90442e08f44b4f7b2bae017de3d04e054384e40d4165b",
+  "bytes": 46029,
+  "pages": 0,
+  "http_last_modified": "Mon, 21 Sep 2026 12:31:13 GMT",
+  "etag": "\"16e0f75-b3cd-65bfd6d0230e7\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2026/2026-09-12_BAA-September-12-2026-Minutes--a3850733f57d.pdf",
+  "versions": [
+    {
+      "sha256": "a3850733f57db283fab90442e08f44b4f7b2bae017de3d04e054384e40d4165b",
+      "bytes": 46029,
+      "retrieved_utc": "2026-11-27T05:47:06+00:00",
+      "http_last_modified": "Mon, 21 Sep 2026 12:31:13 GMT"
+    }
+  ]
+}

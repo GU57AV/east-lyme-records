@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "STR Ad-Hoc Committee April 8 2024 Agenda (pdf)",
+  "filename": "STR-Ad-Hoc-Committee-April-8-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/04/STR-Ad-Hoc-Committee-April-8-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2024-agendas/",
+  "upload_folder": "2024-04",
+  "first_seen_utc": "2026-11-27T04:35:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6a6333b05bcf6fac8e1eb08b955800d0c0bd11944a2bb3da3aa56585e83a4d57",
+  "bytes": 35518,
+  "pages": 0,
+  "http_last_modified": "Wed, 03 Apr 2024 20:08:54 GMT",
+  "etag": "\"1680a26-8abe-61536cabc0180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-04-08_STR-Ad-Hoc-Committee-April-8-2024-Agenda--6a6333b05bcf.pdf",
+  "versions": [
+    {
+      "sha256": "6a6333b05bcf6fac8e1eb08b955800d0c0bd11944a2bb3da3aa56585e83a4d57",
+      "bytes": 35518,
+      "retrieved_utc": "2026-11-27T04:35:36+00:00",
+      "http_last_modified": "Wed, 03 Apr 2024 20:08:54 GMT"
+    }
+  ]
+}

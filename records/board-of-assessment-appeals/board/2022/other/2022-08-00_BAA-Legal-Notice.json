@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Board of Assessment Appeals 2022 Motor Vehicle Appeals Legal Notice (pdf)",
+  "filename": "BAA-Legal-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/BAA-Legal-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/appeals-to-the-board-of-assessment-appeals/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-27T05:43:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9e2469bcea58850450abe9dc0a8e8523f0b6c2564fdd0368f5a08a99b0b680a4",
+  "bytes": 27517,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Aug 2022 14:32:28 GMT",
+  "etag": "\"16a13ca-6b7d-5e65c9e229700\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-08-00_BAA-Legal-Notice--9e2469bcea58.pdf",
+  "versions": [
+    {
+      "sha256": "9e2469bcea58850450abe9dc0a8e8523f0b6c2564fdd0368f5a08a99b0b680a4",
+      "bytes": 27517,
+      "retrieved_utc": "2026-11-27T05:43:24+00:00",
+      "http_last_modified": "Tue, 16 Aug 2022 14:32:28 GMT"
+    }
+  ]
+}

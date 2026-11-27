@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BAA March 5th & 6th 2018 Agenda (pdf)",
+  "filename": "BAA-agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/03/BAA-agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2018-agendas/",
+  "upload_folder": "2018-03",
+  "first_seen_utc": "2026-11-27T06:16:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cfc2a7e976ae70f7041106def21aa5dd8bf2bf6184c764f8a0c97aaa08f8e4ae",
+  "bytes": 30884,
+  "pages": 0,
+  "http_last_modified": "Fri, 02 Mar 2018 19:55:00 GMT",
+  "etag": "\"16c08f5-78a4-5667359f42d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2018/2018-03-05_BAA-agenda--cfc2a7e976ae.pdf",
+  "versions": [
+    {
+      "sha256": "cfc2a7e976ae70f7041106def21aa5dd8bf2bf6184c764f8a0c97aaa08f8e4ae",
+      "bytes": 30884,
+      "retrieved_utc": "2026-11-27T06:16:59+00:00",
+      "http_last_modified": "Fri, 02 Mar 2018 19:55:00 GMT"
+    }
+  ]
+}

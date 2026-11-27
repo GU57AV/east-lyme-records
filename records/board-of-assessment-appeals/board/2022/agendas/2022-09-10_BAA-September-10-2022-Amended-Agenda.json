@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BAA September 10 2022 Amended Agenda (pdf)",
+  "filename": "BAA-September-10-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/BAA-September-10-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2022-agendas/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-27T05:56:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "697915b44d2f8a78c484b5e2988f083be1040b447983789f2313b3c136a45bc0",
+  "bytes": 89546,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Sep 2022 12:51:41 GMT",
+  "etag": "\"16a1139-15dca-5e815c636f140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-09-10_BAA-September-10-2022-Amended-Agenda--697915b44d2f.pdf",
+  "versions": [
+    {
+      "sha256": "697915b44d2f8a78c484b5e2988f083be1040b447983789f2313b3c136a45bc0",
+      "bytes": 89546,
+      "retrieved_utc": "2026-11-27T05:56:30+00:00",
+      "http_last_modified": "Wed, 07 Sep 2022 12:51:41 GMT"
+    }
+  ]
+}

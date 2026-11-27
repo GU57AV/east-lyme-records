@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "1-2022 202 Flanders Road Food Bag Citgo 1_2022 Renewal (pdf)",
+  "filename": "202-Flanders-Road-Food-Bag-Citgo-1_2022-Renewal.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/202-Flanders-Road-Food-Bag-Citgo-1_2022-Renewal.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2022-materials/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-27T05:13:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8f4ddd0a5ace23dc55894c8494ed97a357ddd36f77e368e3a8520cf2ed3950cd",
+  "bytes": 1598733,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Mar 2022 17:53:11 GMT",
+  "etag": "\"16a0a86-18650d-5da59963bcfc0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2022/2022-03-00_202-Flanders-Road-Food-Bag-Citgo-1_2022-Renewal--8f4ddd0a5ace.pdf",
+  "versions": [
+    {
+      "sha256": "8f4ddd0a5ace23dc55894c8494ed97a357ddd36f77e368e3a8520cf2ed3950cd",
+      "bytes": 1598733,
+      "retrieved_utc": "2026-11-27T05:13:25+00:00",
+      "http_last_modified": "Wed, 16 Mar 2022 17:53:11 GMT"
+    }
+  ]
+}

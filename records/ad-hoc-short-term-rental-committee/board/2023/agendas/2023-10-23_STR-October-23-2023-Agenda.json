@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Short Term Rentals Ad Hoc Committee October 23 2023 Agenda (pdf)",
+  "filename": "STR-October-23-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/STR-October-23-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-27T04:47:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c4b6cb90cdad4afdbeeed7f0e369890b9fb9b468055d48d99869500680ef259c",
+  "bytes": 33516,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Oct 2023 17:02:26 GMT",
+  "etag": "\"16e01fc-82ec-60814b8610c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2023/2023-10-23_STR-October-23-2023-Agenda--c4b6cb90cdad.pdf",
+  "versions": [
+    {
+      "sha256": "c4b6cb90cdad4afdbeeed7f0e369890b9fb9b468055d48d99869500680ef259c",
+      "bytes": 33516,
+      "retrieved_utc": "2026-11-27T04:47:22+00:00",
+      "http_last_modified": "Thu, 19 Oct 2023 17:02:26 GMT"
+    }
+  ]
+}

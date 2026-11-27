@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BAA 2016 Meeting Schedule (pdf)",
+  "filename": "BAA-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BAA-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T06:28:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "162b26886542ea319a18f1f0f6238ccdfb3c9eebdb7c2b62bbd5a5fb861d0c05",
+  "bytes": 47450,
+  "pages": 0,
+  "http_last_modified": "Tue, 26 Jan 2016 19:00:49 GMT",
+  "etag": "\"16e03e2-b95a-52a414dbc9a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2016/2015-12-00_BAA-2016-Meeting-Schedule--162b26886542.pdf",
+  "versions": [
+    {
+      "sha256": "162b26886542ea319a18f1f0f6238ccdfb3c9eebdb7c2b62bbd5a5fb861d0c05",
+      "bytes": 47450,
+      "retrieved_utc": "2026-11-27T06:28:05+00:00",
+      "http_last_modified": "Tue, 26 Jan 2016 19:00:49 GMT"
+    }
+  ]
+}

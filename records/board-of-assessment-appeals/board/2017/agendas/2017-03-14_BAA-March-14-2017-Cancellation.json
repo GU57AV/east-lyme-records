@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BAA March 14 2017 Cancellation (pdf)",
+  "filename": "BAA-March-14-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BAA-March-14-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T06:20:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "19ebfa537c17aef3382fd7f74cee2e4eaf468e90e847598cca169b8d38334be9",
+  "bytes": 24041,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Mar 2017 15:33:35 GMT",
+  "etag": "\"166296c-5de9-54a9e6f3b51c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2017/2017-03-14_BAA-March-14-2017-Cancellation--19ebfa537c17.pdf",
+  "versions": [
+    {
+      "sha256": "19ebfa537c17aef3382fd7f74cee2e4eaf468e90e847598cca169b8d38334be9",
+      "bytes": 24041,
+      "retrieved_utc": "2026-11-27T06:20:41+00:00",
+      "http_last_modified": "Mon, 13 Mar 2017 15:33:35 GMT"
+    }
+  ]
+}

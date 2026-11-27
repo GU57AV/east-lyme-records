@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BAA March 10 2021 agenda (via zoom) (pdf)",
+  "filename": "BAA-March-10-2021-agenda-via-zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BAA-March-10-2021-agenda-via-zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-27T06:06:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "253a859f1cd9c2aca2f5ece9aeea18c0a5933ff92ae1aac3a9b72705a3de781a",
+  "bytes": 133019,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 Feb 2021 16:11:55 GMT",
+  "etag": "\"1680152-2079b-5bc174b2c08c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2021/2021-03-10_BAA-March-10-2021-agenda-via-zoom--253a859f1cd9.pdf",
+  "versions": [
+    {
+      "sha256": "253a859f1cd9c2aca2f5ece9aeea18c0a5933ff92ae1aac3a9b72705a3de781a",
+      "bytes": 133019,
+      "retrieved_utc": "2026-11-27T06:06:14+00:00",
+      "http_last_modified": "Wed, 24 Feb 2021 16:11:55 GMT"
+    }
+  ]
+}

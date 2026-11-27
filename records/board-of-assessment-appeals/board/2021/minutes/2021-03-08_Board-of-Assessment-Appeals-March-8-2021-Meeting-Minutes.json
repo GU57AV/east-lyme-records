@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BAA March 8, 2021 Meeting Minutes (pdf)",
+  "filename": "Board-of-Assessment-Appeals-March-8-2021-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/03/Board-of-Assessment-Appeals-March-8-2021-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2021-minutes/",
+  "upload_folder": "2021-03",
+  "first_seen_utc": "2026-11-27T06:08:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "919b15e69856973a634e9e88eb875d6bf6f30335448922d8c23c5fac8b9f60c5",
+  "bytes": 138695,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Mar 2021 13:43:00 GMT",
+  "etag": "\"166364e-21dc7-5bda78b6e4100\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2021/2021-03-08_Board-of-Assessment-Appeals-March-8-2021-Meeting-Minutes--919b15e69856.pdf",
+  "versions": [
+    {
+      "sha256": "919b15e69856973a634e9e88eb875d6bf6f30335448922d8c23c5fac8b9f60c5",
+      "bytes": 138695,
+      "retrieved_utc": "2026-11-27T06:08:55+00:00",
+      "http_last_modified": "Tue, 16 Mar 2021 13:43:00 GMT"
+    }
+  ]
+}

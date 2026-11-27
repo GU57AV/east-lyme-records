@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency March 17 2022 Agenda (pdf)",
+  "filename": "Aquifer-March-17-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Aquifer-March-17-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-27T05:11:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0dbb0cb982912a0bcfe9928785a553141cb109377285bcbbcfbe8829261977df",
+  "bytes": 37342,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 Mar 2022 19:18:49 GMT",
+  "etag": "\"16a0a14-91de-5d9f633469840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2022/2022-03-17_Aquifer-March-17-2022-Agenda--0dbb0cb98291.pdf",
+  "versions": [
+    {
+      "sha256": "0dbb0cb982912a0bcfe9928785a553141cb109377285bcbbcfbe8829261977df",
+      "bytes": 37342,
+      "retrieved_utc": "2026-11-27T05:11:03+00:00",
+      "http_last_modified": "Fri, 11 Mar 2022 19:18:49 GMT"
+    }
+  ]
+}

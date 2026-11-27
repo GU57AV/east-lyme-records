@@ -13,9 +13,9 @@
 | [East Lyme Inland Wetlands Agency](inland-wetlands-agency/INDEX.md) | 679 | complete |
 | [East Lyme Water & Sewer Commission](water-sewer-commission/INDEX.md) | 570 | complete |
 | [East Lyme Charter Revision Commission](charter-revision-commission/INDEX.md) | 88 | complete |
-| [East Lyme Ad Hoc Short-Term Rental Committee](ad-hoc-short-term-rental-committee/INDEX.md) | 18 | import in progress |
-| East Lyme Aquifer Protection Agency | 0 | import in progress |
-| East Lyme Board of Assessment Appeals | 0 | import in progress |
+| [East Lyme Ad Hoc Short-Term Rental Committee](ad-hoc-short-term-rental-committee/INDEX.md) | 69 | complete |
+| [East Lyme Aquifer Protection Agency](aquifer-protection-agency/INDEX.md) | 69 | complete |
+| [East Lyme Board of Assessment Appeals](board-of-assessment-appeals/INDEX.md) | 139 | import in progress |
 | East Lyme Brookside Farm Museum Commission | 0 | import in progress |
 | East Lyme Cable TV Advisory Council | 0 | import in progress |
 | East Lyme Commission On Aging | 0 | import in progress |

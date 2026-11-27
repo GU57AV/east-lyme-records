@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BAA January 6 2020 Meeting Minutes (pdf)",
+  "filename": "BAA-January-6-2020-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/BAA-January-6-2020-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2020-minutes/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-27T06:11:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8dc0841f77e441b02e7ac379983567a0ee71c1b41f81a9f1b76f9f64c8cf1d65",
+  "bytes": 77909,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Jan 2020 20:52:42 GMT",
+  "etag": "\"16616fe-13055-59b92f5079a80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2020/2020-01-06_BAA-January-6-2020-Meeting-Minutes--8dc0841f77e4.pdf",
+  "versions": [
+    {
+      "sha256": "8dc0841f77e441b02e7ac379983567a0ee71c1b41f81a9f1b76f9f64c8cf1d65",
+      "bytes": 77909,
+      "retrieved_utc": "2026-11-27T06:11:57+00:00",
+      "http_last_modified": "Tue, 07 Jan 2020 20:52:42 GMT"
+    }
+  ]
+}

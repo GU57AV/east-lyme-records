@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency September 7 2017 Cancellation (pdf)",
+  "filename": "Aquifer-Protection-Agency-September-7-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Aquifer-Protection-Agency-September-7-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T05:19:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "511706fad43cdb47c9a06fb6f693d3f12fb0c537e4634b0234e0f03cc91bf4d9",
+  "bytes": 35190,
+  "pages": 0,
+  "http_last_modified": "Wed, 06 Sep 2017 15:38:56 GMT",
+  "etag": "\"1662c2a-8976-558872446c400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2017/2017-09-07_Aquifer-Protection-Agency-September-7-2017-Cancellation--511706fad43c.pdf",
+  "versions": [
+    {
+      "sha256": "511706fad43cdb47c9a06fb6f693d3f12fb0c537e4634b0234e0f03cc91bf4d9",
+      "bytes": 35190,
+      "retrieved_utc": "2026-11-27T05:19:12+00:00",
+      "http_last_modified": "Wed, 06 Sep 2017 15:38:56 GMT"
+    }
+  ]
+}

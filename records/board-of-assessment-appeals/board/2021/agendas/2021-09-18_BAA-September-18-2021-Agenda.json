@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BAA September 18 2021 Agenda (pdf)",
+  "filename": "BAA-September-18-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/BAA-September-18-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-27T06:05:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d83c1e474a75a407c1e13fc06795a0b8c643471877f2e47fb758216a07d53349",
+  "bytes": 26942,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Feb 2021 19:46:35 GMT",
+  "etag": "\"16800e7-693e-5ba5fba5efcc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2021/2021-09-18_BAA-September-18-2021-Agenda--d83c1e474a75.pdf",
+  "versions": [
+    {
+      "sha256": "d83c1e474a75a407c1e13fc06795a0b8c643471877f2e47fb758216a07d53349",
+      "bytes": 26942,
+      "retrieved_utc": "2026-11-27T06:05:34+00:00",
+      "http_last_modified": "Tue, 02 Feb 2021 19:46:35 GMT"
+    }
+  ]
+}

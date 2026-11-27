@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Board of Assessment Appeals 2022 Legal Notice (pdf)",
+  "filename": "BAA-2022-Legal.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/BAA-2022-Legal.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/appeals-to-the-board-of-assessment-appeals/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-27T05:43:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3719ccc1855cd00263e53c4349013ff2ae0f4bd71278e989e9bbcaa2e99cf90f",
+  "bytes": 55741,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Mar 2022 13:38:45 GMT",
+  "etag": "\"16a0a10-d9bd-5dae2d932c340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-03-00_BAA-2022-Legal--3719ccc1855c.pdf",
+  "versions": [
+    {
+      "sha256": "3719ccc1855cd00263e53c4349013ff2ae0f4bd71278e989e9bbcaa2e99cf90f",
+      "bytes": 55741,
+      "retrieved_utc": "2026-11-27T05:43:44+00:00",
+      "http_last_modified": "Wed, 23 Mar 2022 13:38:45 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "STR Ad Hoc Committee January 27 2025 Minutes (pdf)",
+  "filename": "STR-January-27-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/STR-January-27-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2025-minutes/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-27T04:41:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a5e5086e7cd129f227b0ef1eb93505cef8d9cef85792933736ebb85c1be45c92",
+  "bytes": 59567,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Feb 2025 22:09:22 GMT",
+  "etag": "\"16c015a-e8af-62d4424ff4880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2025/2025-01-27_STR-January-27-Minutes--a5e5086e7cd1.pdf",
+  "versions": [
+    {
+      "sha256": "a5e5086e7cd129f227b0ef1eb93505cef8d9cef85792933736ebb85c1be45c92",
+      "bytes": 59567,
+      "retrieved_utc": "2026-11-27T04:41:59+00:00",
+      "http_last_modified": "Mon, 03 Feb 2025 22:09:22 GMT"
+    }
+  ]
+}

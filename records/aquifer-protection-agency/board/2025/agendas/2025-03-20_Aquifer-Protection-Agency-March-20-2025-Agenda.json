@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency March 20 2025 Agenda (pdf)",
+  "filename": "Aquifer-Protection-Agency-March-20-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/Aquifer-Protection-Agency-March-20-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-27T05:06:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9170635de255513983c3b3e6344829f7a517ead2ce5dd6f620f45fed2f047969",
+  "bytes": 34759,
+  "pages": 0,
+  "http_last_modified": "Thu, 13 Mar 2025 16:32:39 GMT",
+  "etag": "\"16a1507-87c7-6303bdec637c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2025/2025-03-20_Aquifer-Protection-Agency-March-20-2025-Agenda--9170635de255.pdf",
+  "versions": [
+    {
+      "sha256": "9170635de255513983c3b3e6344829f7a517ead2ce5dd6f620f45fed2f047969",
+      "bytes": 34759,
+      "retrieved_utc": "2026-11-27T05:06:28+00:00",
+      "http_last_modified": "Thu, 13 Mar 2025 16:32:39 GMT"
+    }
+  ]
+}

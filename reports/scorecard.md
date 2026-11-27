@@ -1,19 +1,20 @@
 # Transparency scorecard
 
-_Updated Nov 26, 2026 8:26 PM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 1:28 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
 ## Last 12 months
 
-Meetings from Nov 26, 2025 through yesterday.
+Meetings from Nov 27, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Aquifer Protection Agency | 1 | 100% (1/1) | 100% (1/1) | 100% (1/1) | 100% (1/1) | 4 | 0 |
 | Board of Education | 41 | 100% (41/41) | 100% (19/19) | 95% (38/40) | 100% (11/11) | 3 | 0 |
 | Board of Finance | 24 | 100% (24/24) | 96% (23/24) | 100% (24/24) | 12% (3/24) | 15 | 0 |
 | Board of Police Commissioners | 14 | 100% (14/14) | 100% (14/14) | 100% (13/13) | 100% (13/13) | 3 | 3 |
-| Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (28/28) | 86% (24/28) | 6 | 1 |
+| Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (29/29) | 86% (25/29) | 6 | 1 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
@@ -24,10 +25,12 @@ Meetings from Nov 26, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
+| Ad Hoc Short-Term Rental Committee | 16 | 100% (16/16) | 100% (16/16) | 100% (16/16) | 38% (6/16) | 9 | 0 |
+| Aquifer Protection Agency | 2 | 100% (2/2) | 100% (2/2) | 100% (2/2) | 100% (2/2) | 4 | 0 |
 | Board of Education | 105 | 100% (105/105) | 100% (26/26) | 90% (94/104) | 100% (12/12) | 3.5 | 0 |
 | Board of Finance | 62 | 97% (60/62) | 97% (58/60) | 100% (62/62) | 15% (9/61) | 12 | 0 |
 | Board of Police Commissioners | 51 | 94% (48/51) | 98% (47/48) | 94% (47/50) | 100% (47/47) | 3 | 3 |
-| Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (84/85) | 87% (73/84) | 5.5 | 1 |
+| Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (85/86) | 87% (74/85) | 5 | 1 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |

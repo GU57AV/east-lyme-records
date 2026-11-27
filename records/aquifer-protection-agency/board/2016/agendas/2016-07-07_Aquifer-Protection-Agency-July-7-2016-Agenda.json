@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency July 7 2016 Agenda (pdf)",
+  "filename": "Aquifer-Protection-Agency-July-7-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Aquifer-Protection-Agency-July-7-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T05:21:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5481432d01112b9032f161b7efdec15addead84df1844427eacbe7a722949fab",
+  "bytes": 31497,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Jun 2016 12:45:43 GMT",
+  "etag": "\"16e03cd-7b09-5367e3f84cbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2016/2016-07-07_Aquifer-Protection-Agency-July-7-2016-Agenda--5481432d0111.pdf",
+  "versions": [
+    {
+      "sha256": "5481432d01112b9032f161b7efdec15addead84df1844427eacbe7a722949fab",
+      "bytes": 31497,
+      "retrieved_utc": "2026-11-27T05:21:54+00:00",
+      "http_last_modified": "Thu, 30 Jun 2016 12:45:43 GMT"
+    }
+  ]
+}

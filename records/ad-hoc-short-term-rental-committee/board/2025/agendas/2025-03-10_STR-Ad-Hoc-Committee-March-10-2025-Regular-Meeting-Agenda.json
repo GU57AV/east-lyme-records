@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "STR Ad Hoc Committee March 10 2025 Agenda (pdf)",
+  "filename": "STR-Ad-Hoc-Committee-March-10-2025-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/STR-Ad-Hoc-Committee-March-10-2025-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-27T04:38:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "002680bd0af17f7b9ea88077c3aa98cc8b059e0b4e70bbe0dd6fcd07dd580911",
+  "bytes": 36652,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Mar 2025 20:30:13 GMT",
+  "etag": "\"16a14f8-8f2c-62f9e41a5ff40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2025/2025-03-10_STR-Ad-Hoc-Committee-March-10-2025-Regular-Meeting-Agenda--002680bd0af1.pdf",
+  "versions": [
+    {
+      "sha256": "002680bd0af17f7b9ea88077c3aa98cc8b059e0b4e70bbe0dd6fcd07dd580911",
+      "bytes": 36652,
+      "retrieved_utc": "2026-11-27T04:38:57+00:00",
+      "http_last_modified": "Wed, 05 Mar 2025 20:30:13 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BAA September 10 2016 Revised Agenda (pdf)",
+  "filename": "BAA-September-10-2016-Revised-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BAA-September-10-2016-Revised-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T06:25:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e63d24e937f6e97a32358684dd7e06a400cd08155d3e4256410b9d32ba62dd70",
+  "bytes": 26048,
+  "pages": 0,
+  "http_last_modified": "Fri, 02 Sep 2016 19:33:59 GMT",
+  "etag": "\"16e0613-65c0-53b8b697017c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2016/2016-09-10_BAA-September-10-2016-Revised-Agenda--e63d24e937f6.pdf",
+  "versions": [
+    {
+      "sha256": "e63d24e937f6e97a32358684dd7e06a400cd08155d3e4256410b9d32ba62dd70",
+      "bytes": 26048,
+      "retrieved_utc": "2026-11-27T06:25:44+00:00",
+      "http_last_modified": "Fri, 02 Sep 2016 19:33:59 GMT"
+    }
+  ]
+}

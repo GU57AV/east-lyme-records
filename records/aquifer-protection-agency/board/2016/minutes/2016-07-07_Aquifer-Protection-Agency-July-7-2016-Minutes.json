@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency July 7 2016 Minutes (pdf)",
+  "filename": "Aquifer-Protection-Agency-July-7-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Aquifer-Protection-Agency-July-7-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T05:23:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f98d6f32ede8a05c4c8805dade43cc541ded5e0483fcf80bc463f4b08f7d7f32",
+  "bytes": 80139,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Jul 2016 13:01:37 GMT",
+  "etag": "\"16e063f-1390b-5376fde7a2e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2016/2016-07-07_Aquifer-Protection-Agency-July-7-2016-Minutes--f98d6f32ede8.pdf",
+  "versions": [
+    {
+      "sha256": "f98d6f32ede8a05c4c8805dade43cc541ded5e0483fcf80bc463f4b08f7d7f32",
+      "bytes": 80139,
+      "retrieved_utc": "2026-11-27T05:23:34+00:00",
+      "http_last_modified": "Tue, 12 Jul 2016 13:01:37 GMT"
+    }
+  ]
+}

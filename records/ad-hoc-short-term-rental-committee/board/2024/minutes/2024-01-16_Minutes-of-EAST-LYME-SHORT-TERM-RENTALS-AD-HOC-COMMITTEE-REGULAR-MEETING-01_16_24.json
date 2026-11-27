@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "STR Ad Hoc Committee January 16 2024 Minutes (pdf)",
+  "filename": "Minutes-of-EAST-LYME-SHORT-TERM-RENTALS-AD-HOC-COMMITTEE-REGULAR-MEETING-01_16_24.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Minutes-of-EAST-LYME-SHORT-TERM-RENTALS-AD-HOC-COMMITTEE-REGULAR-MEETING-01_16_24.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2024-minutes/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-27T04:46:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "54e27c0b6cc2d3eda45a11f575e147ea3707c92a31ff1752c1126c232bd4f6bd",
+  "bytes": 75550,
+  "pages": 0,
+  "http_last_modified": "Thu, 25 Jan 2024 14:22:36 GMT",
+  "etag": "\"16806dc-1271e-60fc5e9380300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-01-16_Minutes-of-EAST-LYME-SHORT-TERM-RENTALS-AD-HOC-COMMITTEE-REGULAR-MEETING-01_16_24--54e27c0b6cc2.pdf",
+  "versions": [
+    {
+      "sha256": "54e27c0b6cc2d3eda45a11f575e147ea3707c92a31ff1752c1126c232bd4f6bd",
+      "bytes": 75550,
+      "retrieved_utc": "2026-11-27T04:46:21+00:00",
+      "http_last_modified": "Thu, 25 Jan 2024 14:22:36 GMT"
+    }
+  ]
+}

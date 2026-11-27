@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "2-2022 252 Flanders Road Monro Inc 2_2022 Renewal (pdf)",
+  "filename": "252-Flanders-Road-Monro-Inc-2_2022-Renewal.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/252-Flanders-Road-Monro-Inc-2_2022-Renewal.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2022-materials/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-27T05:14:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5b55ae68cb157513cf4f0d3fcc7f5c41b4af94a4c65bede94fb4c8bd93ac06c8",
+  "bytes": 6912686,
+  "pages": 0,
+  "http_last_modified": "Wed, 16 Mar 2022 17:53:24 GMT",
+  "etag": "\"16a09fb-697aae-5da5997022d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2022/2022-03-00_252-Flanders-Road-Monro-Inc-2_2022-Renewal--5b55ae68cb15.pdf",
+  "versions": [
+    {
+      "sha256": "5b55ae68cb157513cf4f0d3fcc7f5c41b4af94a4c65bede94fb4c8bd93ac06c8",
+      "bytes": 6912686,
+      "retrieved_utc": "2026-11-27T05:14:30+00:00",
+      "http_last_modified": "Wed, 16 Mar 2022 17:53:24 GMT"
+    }
+  ]
+}

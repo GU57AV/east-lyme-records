@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "BAA September 18 2021 Meeting Minutes (pdf)",
+  "filename": "BAA-September-18-2021-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/BAA-September-18-2021-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-27T06:08:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "857192ef4a02d64fc79195212a1cdb870219929ce93076bda3fa4a5570328c59",
+  "bytes": 438274,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Sep 2021 13:23:50 GMT",
+  "etag": "\"16802e4-6b002-5cc956cbbe580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2021/2021-09-18_BAA-September-18-2021-Meeting-Minutes--857192ef4a02.pdf",
+  "versions": [
+    {
+      "sha256": "857192ef4a02d64fc79195212a1cdb870219929ce93076bda3fa4a5570328c59",
+      "bytes": 438274,
+      "retrieved_utc": "2026-11-27T06:08:15+00:00",
+      "http_last_modified": "Wed, 22 Sep 2021 13:23:50 GMT"
+    }
+  ]
+}

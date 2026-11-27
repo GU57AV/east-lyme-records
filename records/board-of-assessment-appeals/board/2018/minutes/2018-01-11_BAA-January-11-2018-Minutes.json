@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "BAA January 11 2018 Minutes (pdf)",
+  "filename": "BAA-January-11-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/BAA-January-11-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2018-minutes/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-27T06:19:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4bdad06aac1c8a46fc6e11e570c4309c1f48be6c77148f64bcd192b696cc78b7",
+  "bytes": 74061,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Jan 2018 14:03:10 GMT",
+  "etag": "\"16c0daf-1214d-562e530d74380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2018/2018-01-11_BAA-January-11-2018-Minutes--4bdad06aac1c.pdf",
+  "versions": [
+    {
+      "sha256": "4bdad06aac1c8a46fc6e11e570c4309c1f48be6c77148f64bcd192b696cc78b7",
+      "bytes": 74061,
+      "retrieved_utc": "2026-11-27T06:19:41+00:00",
+      "http_last_modified": "Tue, 16 Jan 2018 14:03:10 GMT"
+    }
+  ]
+}

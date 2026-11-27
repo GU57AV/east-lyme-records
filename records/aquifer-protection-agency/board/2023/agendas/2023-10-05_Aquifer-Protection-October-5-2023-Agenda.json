@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency October 5 2023 Agenda (pdf)",
+  "filename": "Aquifer-Protection-October-5-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Aquifer-Protection-October-5-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-27T05:09:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff28e4ba81c665153275b1077473a0e65298de802e9780839cfe7f49c0a3446a",
+  "bytes": 53633,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Oct 2023 16:30:12 GMT",
+  "etag": "\"16e01fd-d181-606be49cd2d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2023/2023-10-05_Aquifer-Protection-October-5-2023-Agenda--ff28e4ba81c6.pdf",
+  "versions": [
+    {
+      "sha256": "ff28e4ba81c665153275b1077473a0e65298de802e9780839cfe7f49c0a3446a",
+      "bytes": 53633,
+      "retrieved_utc": "2026-11-27T05:09:22+00:00",
+      "http_last_modified": "Mon, 02 Oct 2023 16:30:12 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "minutes",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency Minutes December 3, 2009 (pdf)",
+  "filename": "localhost_el_attachments_304_ZC-AquiferProtectAgencyMins12-03-09.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2009/12/localhost_el_attachments_304_ZC-AquiferProtectAgencyMins12-03-09.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2009-minutes/",
+  "upload_folder": "2009-12",
+  "first_seen_utc": "2026-11-27T05:27:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "80927f3f7904a4948549b9b3345c3fc795eaff6ec2b475f19d111805acc5e8c2",
+  "bytes": 71978,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT",
+  "etag": "\"1661bdb-1192a-4fbaf4c7dbd00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2009/2009-12-03_localhost_el_attachments_304_ZC-AquiferProtectAgencyMins12-03-09--80927f3f7904.pdf",
+  "versions": [
+    {
+      "sha256": "80927f3f7904a4948549b9b3345c3fc795eaff6ec2b475f19d111805acc5e8c2",
+      "bytes": 71978,
+      "retrieved_utc": "2026-11-27T05:27:36+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:28 GMT"
+    }
+  ]
+}

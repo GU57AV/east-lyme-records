@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "BAA January 11 2017 Special Meeting Agenda (pdf)",
+  "filename": "BAA-January-11-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/BAA-January-11-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T06:21:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1deb922b119cb5e792127d98228adc5041eed4785daf3dad210fec9c2675e9f4",
+  "bytes": 43805,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Dec 2016 20:13:13 GMT",
+  "etag": "\"16622cd-ab1d-544088c9bc840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2017/2017-01-11_BAA-January-11-2017-Special-Meeting-Agenda--1deb922b119c.pdf",
+  "versions": [
+    {
+      "sha256": "1deb922b119cb5e792127d98228adc5041eed4785daf3dad210fec9c2675e9f4",
+      "bytes": 43805,
+      "retrieved_utc": "2026-11-27T06:21:42+00:00",
+      "http_last_modified": "Mon, 19 Dec 2016 20:13:13 GMT"
+    }
+  ]
+}

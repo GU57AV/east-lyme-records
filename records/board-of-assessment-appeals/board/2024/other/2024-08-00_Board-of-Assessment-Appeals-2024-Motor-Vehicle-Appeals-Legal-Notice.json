@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Board of Assessment Appeals 2024 Motor Vehicle Appeals Legal Notice (pdf)",
+  "filename": "Board-of-Assessment-Appeals-2024-Motor-Vehicle-Appeals-Legal-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/Board-of-Assessment-Appeals-2024-Motor-Vehicle-Appeals-Legal-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/appeals-to-the-board-of-assessment-appeals/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-27T05:42:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "090413afe54ff60986d4a894f83a2e5d87afba0f48a0ce57f7bc97e8148a6b16",
+  "bytes": 91791,
+  "pages": 0,
+  "http_last_modified": "Wed, 28 Aug 2024 21:21:21 GMT",
+  "etag": "\"1680a76-1668f-620c4f0821640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2024/2024-08-00_Board-of-Assessment-Appeals-2024-Motor-Vehicle-Appeals-Legal-Notice--090413afe54f.pdf",
+  "versions": [
+    {
+      "sha256": "090413afe54ff60986d4a894f83a2e5d87afba0f48a0ce57f7bc97e8148a6b16",
+      "bytes": 91791,
+      "retrieved_utc": "2026-11-27T05:42:44+00:00",
+      "http_last_modified": "Wed, 28 Aug 2024 21:21:21 GMT"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 26, 2026 8:26 PM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 27, 2026 1:28 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (19)
 
@@ -169,7 +169,7 @@ _Updated Nov 26, 2026 8:26 PM ET. Every archived document that mentions each wat
 - 2007-09-20 — Zoning Commission: [Zoning Commission September 20 2007 Public Hearing I & II Minutes (pdf)](../records/zoning-commission/board/2007/minutes/2007-09-20_Zoning-Commission-September-20-2007-Public-Hearing-I-II-Minutes.md) — “…2 Ms. Marocola sald that the doors arp lockable and that they also have surveillance cemeras throughout the faoility. Mr. Nickerson explalned the publlc portlon of the publi…”
 - 2004-09-29 — Zoning Commission: [Zoning September 29 2004 Public Hearing I Minutes (pdf)](../records/zoning-commission/board/2004/minutes/2004-09-29_Zoning-September-29-2004-Public-Hearing-I-Minutes.md) — “…ng the road. This stretgh of roadway is listed on ConnDOT's Suggested List of Surveillance Study Sites (SLOSSS). This publication lists roadways that have a higher than…”
 
-## executive session (1253)
+## executive session (1254)
 
 - 2026-12-02 — Board of Selectmen: [BOS December 2 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) — “…b) Discussion and Possible Action - Cannabis Funds - Pollinator Pathway 4. Executive Session - For the Purpose of Discussing Potential Litigation 5 a) Ex-Officio Reports…”
 - 2026-11-23 — Board of Police Commissioners: [Board of Police Commissioners November 23 2026 Special Meeting Agenda (pdf)](../records/police-commission/board/2026/agendas/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Agenda.md) — “…AGENDA L Call to order and Pledge ofAllegiance 2. Executive Session: For the purpose of conducting new hire applicant interview 3. Discussion and possible…”
@@ -495,7 +495,7 @@ _Updated Nov 26, 2026 8:26 PM ET. Every archived document that mentions each wat
 - undated — Board of Finance: [Notice of Adoption Of Ordinance Establishing The East Lyme Grants Fund](../records/board-of-finance/board/2024/other/2024-03-00_Notice-of-Adoption-of-Ordinance-Establishing-The-East-Lyme-Grants-Fund.md) — “…TOWN OF EAST LYME BOARD OF SELECTMEN NOTICE OF ADOPTION OF ORDINANCE NOTICE lS HEREBY GIVEN that at its meeting of March 6,2024, the Eas…”
 - undated — Board of Selectmen: [BOS Notice of Adoption of Ordinances (Board of Police Commissioners AND Peddling) (pdf)](../records/board-of-selectmen/board/2024/minutes/2024-02-00_BOS-Notice-of-Adoption-of-Ordinances-Board-of-Police-Commissioners-AND-Peddling.md) — “…of the Town of East Lyme, Connecticut hereby certify that I caused a copy of the attached Notice of Adoption of Ordinance to be posted on the signpost on February 22, 2024, and published in The Day,…”
 
-## proposed ordinance (88)
+## proposed ordinance (89)
 
 - 2026-11-18 — Board of Selectmen: [BOS November 18 2026 Public Hearing Notice (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Public-Hearing-Notice.md) — “…ed to attend and be heard. The Board of Selectmen may make changes to the language of the proposed ordinance as the result of information presented in the public hearing' Dated at East Lyme, Connec…”
 - 2026-11-18 — Board of Selectmen: [BOS November 18 2026 Public Hearing Minutes (pdf)](../records/board-of-selectmen/board/2026/minutes/2026-11-18_BOS-November-18-2026-Public-Hearing-Minutes.md) — “…ed to attend and be heard. The Board of Selectmen may make changes to the language of the proposed ordinance as the result of information presented in the public hearing. Dated at East Lyme, Connect…”
@@ -531,6 +531,7 @@ _Updated Nov 26, 2026 8:26 PM ET. Every archived document that mentions each wat
 - 2025-04-16 — Board of Selectmen: [BOS April 16 2025 Public Hearing Notice (pdf)](../records/board-of-selectmen/board/2025/agendas/2025-04-16_BOS-April-16-2025-Public-Hearing-Notice-1.md) — “…0 years ago. Copies of the full text of the revised Transfer Station Fees and the proposed Ordinance revision are on file for public inspection at the office of the East Lyme Town Clerk, 108…”
 - 2025-04-02 — Board of Selectmen: [BOS April 2 2025 Regular Meeting Minutes (pdf)](../records/board-of-selectmen/board/2025/minutes/2025-04-02_BOS-April-2-2025-Minutes.md) — “…e than 30 years ago. Copies of the full text of the revised Transfer Station Fees and the proposed Ordinance revision are on file for public inspection at the office of the East Lyme Town Clerk, 108…”
 - 2024-10-02 — Board of Selectmen: [BOS October 2 2024 Public Hearing Notice (pdf)](../records/board-of-selectmen/board/2024/agendas/2024-10-02_BOS-October-2-2024-Public-Hearing-Notice.md) — “…led “Ordinance Establishing a School Building Committee”. Copies of the full text of the proposed Ordinance are on file for public inspection at the office of the East Lyme Town Clerk, 108 Pennsylv…”
+- 2024-09-23 — Ad Hoc Short-Term Rental Committee: [STR Ad Hoc Committee September 23 2024 Minutes (pdf)](../records/ad-hoc-short-term-rental-committee/board/2024/minutes/2024-09-23_STR-Ad-Hoc-Committee-September-23-2024-Minutes.md) — “…ning regulations, anything beyond this would be difficult to enforce. The following is a proposed ordinance addressing ALL rentals in East Lyme. 1. All rentals in East Lyme will require a p…”
 - 2024-09-18 — Board of Selectmen: [BOS September 18 2024 Minutes (pdf)](../records/board-of-selectmen/board/2024/minutes/2024-09-18_BOS-September-18-2024-Minutes.md) — “…tled "Ordinance Establishing a School Building Committee". Copies of the full text of the proposed Ordinance are on file for public inspection at the office of the East Lyme Town Clerk, 108 Pennsylv…”
 - 2024-08-20 — Board of Selectmen: [BOS August 20 2024 Public Hearing Notice (Hybrid) (pdf)](../records/board-of-selectmen/board/2024/agendas/2024-08-20_BOS-August-20-2024-Public-Hearing-Notice-Hybrid.md) — “…entitled “Ordinance Establishing a Fair Rent Commission”. Copies of the full text of the proposed Ordinance are on file for public inspection at the office of the East Lyme Town Clerk, 108 Pennsylv…”
 - 2024-08-20 — Board of Selectmen: [BOS August 20 2024 Hybrid Public Hearing Minutes (pdf)](../records/board-of-selectmen/board/2024/minutes/2024-08-20_BOS-August-20-2024-Hybrid-Public-Hearing-Minutes.md) — “…mane. Her rent increase is expected to go from $1,150 to $1,950. She supports the proposed ordinance. Joshua Caskey, 1 Grooms Way, said there is a probtem with affordabte housing in…”

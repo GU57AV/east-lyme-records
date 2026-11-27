@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "BAA March 8 2025 & March 12 2025 Meeting Cancellations (pdf)",
+  "filename": "BAA-March-8-2025-March-12-2025-Meeting-Cancellations.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/BAA-March-8-2025-March-12-2025-Meeting-Cancellations.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-27T05:49:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "75cb0a361432d62d5804f1b8d5481e8dc8397849f9b781c3339c63586f3e58f0",
+  "bytes": 28218,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Feb 2025 18:32:54 GMT",
+  "etag": "\"16c0170-6e3a-62f23eb0b2180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2025/2025-03-08_BAA-March-8-2025-March-12-2025-Meeting-Cancellations--75cb0a361432.pdf",
+  "versions": [
+    {
+      "sha256": "75cb0a361432d62d5804f1b8d5481e8dc8397849f9b781c3339c63586f3e58f0",
+      "bytes": 28218,
+      "retrieved_utc": "2026-11-27T05:49:27+00:00",
+      "http_last_modified": "Thu, 27 Feb 2025 18:32:54 GMT"
+    }
+  ]
+}

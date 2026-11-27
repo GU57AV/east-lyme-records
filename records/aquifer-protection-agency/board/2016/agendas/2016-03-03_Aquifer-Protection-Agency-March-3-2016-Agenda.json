@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency March 3 2016 Agenda (pdf)",
+  "filename": "Aquifer-Protection-Agency-March-3-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Aquifer-Protection-Agency-March-3-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T05:22:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d9204df24e1ede839fca3a98b0e0551485e151f7ffbefaa0e534d0418f28fb80",
+  "bytes": 40973,
+  "pages": 0,
+  "http_last_modified": "Wed, 24 Feb 2016 13:47:35 GMT",
+  "etag": "\"16e058d-a00d-52c844eeccbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2016/2016-03-03_Aquifer-Protection-Agency-March-3-2016-Agenda--d9204df24e1e.pdf",
+  "versions": [
+    {
+      "sha256": "d9204df24e1ede839fca3a98b0e0551485e151f7ffbefaa0e534d0418f28fb80",
+      "bytes": 40973,
+      "retrieved_utc": "2026-11-27T05:22:54+00:00",
+      "http_last_modified": "Wed, 24 Feb 2016 13:47:35 GMT"
+    }
+  ]
+}

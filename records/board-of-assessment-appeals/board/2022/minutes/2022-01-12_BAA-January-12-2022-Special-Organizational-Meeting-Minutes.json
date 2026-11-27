@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BAA January 12 2022 Special Organizational Meeting Minutes (pdf)",
+  "filename": "BAA-January-12-2022-Special-Organizational-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/01/BAA-January-12-2022-Special-Organizational-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2022-minutes/",
+  "upload_folder": "2022-01",
+  "first_seen_utc": "2026-11-27T06:05:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "731b0bc28fac01f5c418f01463af1154badbb6a6224086b83447d54dd8a16742",
+  "bytes": 149956,
+  "pages": 0,
+  "http_last_modified": "Wed, 19 Jan 2022 14:07:52 GMT",
+  "etag": "\"16a0e3e-249c4-5d5efe9533e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-01-12_BAA-January-12-2022-Special-Organizational-Meeting-Minutes--731b0bc28fac.pdf",
+  "versions": [
+    {
+      "sha256": "731b0bc28fac01f5c418f01463af1154badbb6a6224086b83447d54dd8a16742",
+      "bytes": 149956,
+      "retrieved_utc": "2026-11-27T06:05:14+00:00",
+      "http_last_modified": "Wed, 19 Jan 2022 14:07:52 GMT"
+    }
+  ]
+}

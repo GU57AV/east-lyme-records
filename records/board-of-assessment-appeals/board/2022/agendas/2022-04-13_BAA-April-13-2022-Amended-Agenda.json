@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "BAA April 13 2022 Amended Agenda (pdf)",
+  "filename": "BAA-April-13-2022-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/BAA-April-13-2022-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2022-agendas/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-27T05:57:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ef9f31e06227b519fc29459404d170255a4a2e2d95039bf4da3af06e967b204e",
+  "bytes": 64942,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Apr 2022 19:25:43 GMT",
+  "etag": "\"16a125c-fdae-5dc7a06dfbbc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2022/2022-04-13_BAA-April-13-2022-Amended-Agenda--ef9f31e06227.pdf",
+  "versions": [
+    {
+      "sha256": "ef9f31e06227b519fc29459404d170255a4a2e2d95039bf4da3af06e967b204e",
+      "bytes": 64942,
+      "retrieved_utc": "2026-11-27T05:57:51+00:00",
+      "http_last_modified": "Tue, 12 Apr 2022 19:25:43 GMT"
+    }
+  ]
+}

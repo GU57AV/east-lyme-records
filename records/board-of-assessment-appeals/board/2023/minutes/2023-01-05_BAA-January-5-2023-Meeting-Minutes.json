@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "BAA January 5 2023 Meeting Minutes (pdf)",
+  "filename": "BAA-January-5-2023-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/01/BAA-January-5-2023-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2023-minutes/",
+  "upload_folder": "2023-01",
+  "first_seen_utc": "2026-11-27T05:56:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c5c677f21df5c7f26fd31bc4173d31c49488a0cd2a4cd763f3cdf472aaf6830a",
+  "bytes": 81910,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Jan 2023 13:27:29 GMT",
+  "etag": "\"16c24ab-13ff6-5f1d4ba915240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2023/2023-01-05_BAA-January-5-2023-Meeting-Minutes--c5c677f21df5.pdf",
+  "versions": [
+    {
+      "sha256": "c5c677f21df5c7f26fd31bc4173d31c49488a0cd2a4cd763f3cdf472aaf6830a",
+      "bytes": 81910,
+      "retrieved_utc": "2026-11-27T05:56:10+00:00",
+      "http_last_modified": "Mon, 09 Jan 2023 13:27:29 GMT"
+    }
+  ]
+}

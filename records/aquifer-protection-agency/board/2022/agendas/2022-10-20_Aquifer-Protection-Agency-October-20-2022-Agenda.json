@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency October 20 2022 Agenda (pdf)",
+  "filename": "Aquifer-Protection-Agency-October-20-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Aquifer-Protection-Agency-October-20-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-27T05:10:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b5ae6795945640717ed14129e8810ec79875363077aeb2a98de8203e43d57399",
+  "bytes": 36039,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Oct 2022 15:15:05 GMT",
+  "etag": "\"16a1201-8cc7-5eb00172e7040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2022/2022-10-20_Aquifer-Protection-Agency-October-20-2022-Agenda--b5ae67959456.pdf",
+  "versions": [
+    {
+      "sha256": "b5ae6795945640717ed14129e8810ec79875363077aeb2a98de8203e43d57399",
+      "bytes": 36039,
+      "retrieved_utc": "2026-11-27T05:10:43+00:00",
+      "http_last_modified": "Fri, 14 Oct 2022 15:15:05 GMT"
+    }
+  ]
+}

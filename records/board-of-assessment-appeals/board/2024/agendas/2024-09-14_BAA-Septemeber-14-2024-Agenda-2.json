@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BAA September 14 2024 Agenda (pdf)",
+  "filename": "BAA-Septemeber-14-2024-Agenda-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/BAA-Septemeber-14-2024-Agenda-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-27T05:51:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4225a96e40be7b49837c2dafea5af62427505c05e13b8dfe9cb38ce2cfda3ac3",
+  "bytes": 53672,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Sep 2024 18:36:00 GMT",
+  "etag": "\"16808f0-d1a8-621638fe6a400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2024/2024-09-14_BAA-Septemeber-14-2024-Agenda-2--4225a96e40be.pdf",
+  "versions": [
+    {
+      "sha256": "4225a96e40be7b49837c2dafea5af62427505c05e13b8dfe9cb38ce2cfda3ac3",
+      "bytes": 53672,
+      "retrieved_utc": "2026-11-27T05:51:08+00:00",
+      "http_last_modified": "Thu, 05 Sep 2024 18:36:00 GMT"
+    }
+  ]
+}

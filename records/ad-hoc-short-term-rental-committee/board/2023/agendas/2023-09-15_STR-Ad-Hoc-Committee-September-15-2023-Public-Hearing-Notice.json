@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Short Term Rentals Ad Hoc Committee September 25 2023 Public Hearing Notice (pdf)",
+  "filename": "STR-Ad-Hoc-Committee-September-15-2023-Public-Hearing-Notice.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/STR-Ad-Hoc-Committee-September-15-2023-Public-Hearing-Notice.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-27T04:48:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f98da76f4eab93e403e51dde609732b34bbd08cc92ed89778b56e2178572f35b",
+  "bytes": 40676,
+  "pages": 0,
+  "http_last_modified": "Fri, 15 Sep 2023 14:59:06 GMT",
+  "etag": "\"16e01b2-9ee4-6056708b34280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2023/2023-09-15_STR-Ad-Hoc-Committee-September-15-2023-Public-Hearing-Notice--f98da76f4eab.pdf",
+  "versions": [
+    {
+      "sha256": "f98da76f4eab93e403e51dde609732b34bbd08cc92ed89778b56e2178572f35b",
+      "bytes": 40676,
+      "retrieved_utc": "2026-11-27T04:48:02+00:00",
+      "http_last_modified": "Fri, 15 Sep 2023 14:59:06 GMT"
+    }
+  ]
+}

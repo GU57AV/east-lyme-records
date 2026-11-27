@@ -1,0 +1,29 @@
+{
+  "board": "ad-hoc-short-term-rental-committee",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "STR Ad Hoc Committee February 27 2024 Minutes (pdf)",
+  "filename": "STR-Ad-Hoc-Committee-February-27-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/STR-Ad-Hoc-Committee-February-27-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/ad-hoc-short-term-rental-committee/ad-hoc-short-term-rental-committee-2024-minutes/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-27T04:45:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5a7d5e25e9e1b244c54226558e2e5922de58bc25148805b2d1dd3e1632147fe8",
+  "bytes": 486523,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Mar 2024 14:06:48 GMT",
+  "etag": "\"1680587-76c7b-61312960c6e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/ad-hoc-short-term-rental-committee-2024/2024-02-27_STR-Ad-Hoc-Committee-February-27-2024-Minutes--5a7d5e25e9e1.pdf",
+  "versions": [
+    {
+      "sha256": "5a7d5e25e9e1b244c54226558e2e5922de58bc25148805b2d1dd3e1632147fe8",
+      "bytes": 486523,
+      "retrieved_utc": "2026-11-27T04:45:01+00:00",
+      "http_last_modified": "Thu, 07 Mar 2024 14:06:48 GMT"
+    }
+  ]
+}

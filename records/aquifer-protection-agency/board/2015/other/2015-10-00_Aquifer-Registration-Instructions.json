@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Aquifer Registration Instructions (pdf)",
+  "filename": "Aquifer-Registration-Instructions.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/10/Aquifer-Registration-Instructions.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/",
+  "upload_folder": "2015-10",
+  "first_seen_utc": "2026-11-27T05:04:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dfdfaba3f63d34c0a389b6eb39ecfcdd698c2bfed716c8cea97a5597ed0d2e31",
+  "bytes": 210293,
+  "pages": 0,
+  "http_last_modified": "Mon, 26 Oct 2015 15:50:29 GMT",
+  "etag": "\"16e086f-33575-52303eba6bb40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2015/2015-10-00_Aquifer-Registration-Instructions--dfdfaba3f63d.pdf",
+  "versions": [
+    {
+      "sha256": "dfdfaba3f63d34c0a389b6eb39ecfcdd698c2bfed716c8cea97a5597ed0d2e31",
+      "bytes": 210293,
+      "retrieved_utc": "2026-11-27T05:04:27+00:00",
+      "http_last_modified": "Mon, 26 Oct 2015 15:50:29 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "2026 BAA Appeals form MV (pdf)",
+  "filename": "baa-appealform-MV-Form-for-Sept-2026.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/baa-appealform-MV-Form-for-Sept-2026.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-27T05:42:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "759e5712c2ee0c0dba98ef2dd3bdfae129cc45803d23aa8dba600b2987f7918a",
+  "bytes": 158479,
+  "pages": 0,
+  "http_last_modified": "Thu, 27 Aug 2026 16:56:30 GMT",
+  "etag": "\"16e0efb-26b0f-65a0a37a7960c\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2026/2026-08-00_baa-appealform-MV-Form-for-Sept-2026--759e5712c2ee.pdf",
+  "versions": [
+    {
+      "sha256": "759e5712c2ee0c0dba98ef2dd3bdfae129cc45803d23aa8dba600b2987f7918a",
+      "bytes": 158479,
+      "retrieved_utc": "2026-11-27T05:42:23+00:00",
+      "http_last_modified": "Thu, 27 Aug 2026 16:56:30 GMT"
+    }
+  ]
+}

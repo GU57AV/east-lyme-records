@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "BAA March 7 2016 Special Meeting Agenda (pdf)",
+  "filename": "BD-of-Assessment-Appeals-March-7-2016-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/BD-of-Assessment-Appeals-March-7-2016-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T06:27:25+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff03e9ca850512642d4e2a12dbf55d0b235ab01752eb578f03416eebf3583da9",
+  "bytes": 33727,
+  "pages": 0,
+  "http_last_modified": "Wed, 02 Mar 2016 18:05:38 GMT",
+  "etag": "\"16e0420-83bf-52d14baac4080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2016/2016-03-07_BD-of-Assessment-Appeals-March-7-2016-Special-Meeting-Agenda--ff03e9ca8505.pdf",
+  "versions": [
+    {
+      "sha256": "ff03e9ca850512642d4e2a12dbf55d0b235ab01752eb578f03416eebf3583da9",
+      "bytes": 33727,
+      "retrieved_utc": "2026-11-27T06:27:25+00:00",
+      "http_last_modified": "Wed, 02 Mar 2016 18:05:38 GMT"
+    }
+  ]
+}

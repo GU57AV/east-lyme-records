@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "agendas",
+  "year": "2009",
+  "subcommittee": false,
+  "link_text": "Aquifer Protection Agency Agenda December 3, 2009 (pdf)",
+  "filename": "localhost_el_attachments_303_Aquifer Protection Agenda December 3, 2009.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2009/11/localhost_el_attachments_303_Aquifer Protection Agenda December 3, 2009.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2009-agendas/",
+  "upload_folder": "2009-11",
+  "first_seen_utc": "2026-11-27T05:27:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1907a09e6aabd09d5a9203a245a3e12390ff9ff0394b36cbd328689d819815d6",
+  "bytes": 26838,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:30 GMT",
+  "etag": "\"1661c62-68d6-4fbaf4c9c4180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2009/2009-12-03_localhost_el_attachments_303_Aquifer-Protection-Agenda-December-3-2009--1907a09e6aab.pdf",
+  "versions": [
+    {
+      "sha256": "1907a09e6aabd09d5a9203a245a3e12390ff9ff0394b36cbd328689d819815d6",
+      "bytes": 26838,
+      "retrieved_utc": "2026-11-27T05:27:16+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:30 GMT"
+    }
+  ]
+}

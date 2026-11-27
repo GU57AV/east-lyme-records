@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "BAA March 21 2024 Agenda (pdf)",
+  "filename": "BAA-March-21-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/BAA-March-21-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2024-agendas/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-27T05:51:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "001a9efef565ab96bfc6a2e084505b42c95bd4d0791995c17654786338aa4a38",
+  "bytes": 89495,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Mar 2024 17:27:58 GMT",
+  "etag": "\"1680621-15d97-613f2adbb2380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2024/2024-03-21_BAA-March-21-2024-Agenda--001a9efef565.pdf",
+  "versions": [
+    {
+      "sha256": "001a9efef565ab96bfc6a2e084505b42c95bd4d0791995c17654786338aa4a38",
+      "bytes": 89495,
+      "retrieved_utc": "2026-11-27T05:51:28+00:00",
+      "http_last_modified": "Mon, 18 Mar 2024 17:27:58 GMT"
+    }
+  ]
+}

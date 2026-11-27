@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "253 Boston Post Rd Renewal (pdf)",
+  "filename": "253-Boston-Post-Rd-Renewal.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/253-Boston-Post-Rd-Renewal.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2023-materials/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-27T05:10:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f3884f6dac31f6b749ce9713d6543f596e9af57496270ac33b503d1a930343e5",
+  "bytes": 364310,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Oct 2023 20:02:30 GMT",
+  "etag": "\"16e01cb-58f16-606c1410ba180\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2023/2023-10-00_253-Boston-Post-Rd-Renewal--f3884f6dac31.pdf",
+  "versions": [
+    {
+      "sha256": "f3884f6dac31f6b749ce9713d6543f596e9af57496270ac33b503d1a930343e5",
+      "bytes": 364310,
+      "retrieved_utc": "2026-11-27T05:10:23+00:00",
+      "http_last_modified": "Mon, 02 Oct 2023 20:02:30 GMT"
+    }
+  ]
+}

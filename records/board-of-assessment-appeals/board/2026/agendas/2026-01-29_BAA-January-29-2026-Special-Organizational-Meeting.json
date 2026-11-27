@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "BAA January 29 2026 Special Organizational Meeting (pdf)",
+  "filename": "BAA-January-29-2026-Special-Organizational-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/BAA-January-29-2026-Special-Organizational-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2026-agendas/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-27T05:45:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2d767bf0a4133d1ab2487db3f7a09d11ad548aae2a932c731dcac7f872ba78fd",
+  "bytes": 44468,
+  "pages": 0,
+  "http_last_modified": "Wed, 28 Jan 2026 13:44:07 GMT",
+  "etag": "\"17002f6-adb4-64972ef29365c\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2026/2026-01-29_BAA-January-29-2026-Special-Organizational-Meeting--2d767bf0a413.pdf",
+  "versions": [
+    {
+      "sha256": "2d767bf0a4133d1ab2487db3f7a09d11ad548aae2a932c731dcac7f872ba78fd",
+      "bytes": 44468,
+      "retrieved_utc": "2026-11-27T05:45:45+00:00",
+      "http_last_modified": "Wed, 28 Jan 2026 13:44:07 GMT"
+    }
+  ]
+}

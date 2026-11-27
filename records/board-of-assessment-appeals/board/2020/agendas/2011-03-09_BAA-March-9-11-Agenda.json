@@ -1,0 +1,29 @@
+{
+  "board": "board-of-assessment-appeals",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "BAA March 9-11 2020 Agenda (pdf)",
+  "filename": "BAA-March-9-11-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/03/BAA-March-9-11-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/board-of-assessment-appeals/board-of-assessment-appeals-2020-agendas/",
+  "upload_folder": "2020-03",
+  "first_seen_utc": "2026-11-27T06:10:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9d29f45ab8854e79a28c23e9f4dc929093cdb5d95eafd3f62de935ed26806b22",
+  "bytes": 36032,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Mar 2020 18:20:00 GMT",
+  "etag": "\"1661624-8cc0-5a00b77e2f400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/board-of-assessment-appeals-2020/2011-03-09_BAA-March-9-11-Agenda--9d29f45ab885.pdf",
+  "versions": [
+    {
+      "sha256": "9d29f45ab8854e79a28c23e9f4dc929093cdb5d95eafd3f62de935ed26806b22",
+      "bytes": 36032,
+      "retrieved_utc": "2026-11-27T06:10:16+00:00",
+      "http_last_modified": "Wed, 04 Mar 2020 18:20:00 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "aquifer-protection-agency",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "4-2022 208 Flanders Rd A 1 Auto 4_2022 Renewal (pdf)",
+  "filename": "208-Flanders-Rd-A-1-Auto-2022-Aquifer-Protection-Renewal.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/208-Flanders-Rd-A-1-Auto-2022-Aquifer-Protection-Renewal.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/aquifer-protection-agency/aquifer-protection-agency-2022-materials/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-27T05:12:24+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9ce23e6afad0438273946c45459b5c3dea06627e909e5212e22dd7ca6c4d384",
+  "bytes": 1285484,
+  "pages": 0,
+  "http_last_modified": "Thu, 20 Oct 2022 15:34:57 GMT",
+  "etag": "\"16a11c5-139d6c-5eb7911472a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/aquifer-protection-agency-2022/2022-10-00_208-Flanders-Rd-A-1-Auto-2022-Aquifer-Protection-Renewal--e9ce23e6afad.pdf",
+  "versions": [
+    {
+      "sha256": "e9ce23e6afad0438273946c45459b5c3dea06627e909e5212e22dd7ca6c4d384",
+      "bytes": 1285484,
+      "retrieved_utc": "2026-11-27T05:12:24+00:00",
+      "http_last_modified": "Thu, 20 Oct 2022 15:34:57 GMT"
+    }
+  ]
+}
