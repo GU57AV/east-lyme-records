@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic-Properties-July-7-2020-Agenda-Via-Zoom (pdf)",
+  "filename": "Historic-Properties-July-7-2020-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Historic-Properties-July-7-2020-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-28T12:06:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3abf9cd93a55fb416583ed2d030660b2110e478c0f22944de4c897bb8931836b",
+  "bytes": 67910,
+  "pages": 0,
+  "http_last_modified": "Wed, 26 Aug 2020 23:30:45 GMT",
+  "etag": "\"1661a1a-10946-5add03571b340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-07-07_Historic-Properties-July-7-2020-Agenda-Via-Zoom--3abf9cd93a55.pdf",
+  "versions": [
+    {
+      "sha256": "3abf9cd93a55fb416583ed2d030660b2110e478c0f22944de4c897bb8931836b",
+      "bytes": 67910,
+      "retrieved_utc": "2026-11-28T12:06:11+00:00",
+      "http_last_modified": "Wed, 26 Aug 2020 23:30:45 GMT"
+    }
+  ]
+}

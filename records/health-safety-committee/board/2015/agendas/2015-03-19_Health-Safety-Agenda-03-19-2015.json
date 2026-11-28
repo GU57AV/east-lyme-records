@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Health & Safety March 19 2015 Agenda (pdf)",
+  "filename": "Health-Safety-Agenda-03-19-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Health-Safety-Agenda-03-19-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-2015-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T10:55:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff325df7e71c6a8226c7aff7c7e3629b40653bf82cb672a0735e2b62ae464004",
+  "bytes": 47142,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:48:32 GMT",
+  "etag": "\"1663baa-b826-52082ad7c6000\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2015/2015-03-19_Health-Safety-Agenda-03-19-2015--ff325df7e71c.pdf",
+  "versions": [
+    {
+      "sha256": "ff325df7e71c6a8226c7aff7c7e3629b40653bf82cb672a0735e2b62ae464004",
+      "bytes": 47142,
+      "retrieved_utc": "2026-11-28T10:55:01+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:48:32 GMT"
+    }
+  ]
+}

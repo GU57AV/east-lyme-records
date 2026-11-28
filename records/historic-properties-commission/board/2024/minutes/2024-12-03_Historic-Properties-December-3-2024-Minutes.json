@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Historic Properties December 3 2024 Minutes (pdf)",
+  "filename": "Historic-Properties-December-3-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Historic-Properties-December-3-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2024-minutes/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-28T11:36:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e2f0cc34347e2f79c902a8beac96cd2368af5cf45cdd7fc1b538a0b60f29d769",
+  "bytes": 65838,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jan 2025 13:31:14 GMT",
+  "etag": "\"16c000a-1012e-62b09a4738c80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2024/2024-12-03_Historic-Properties-December-3-2024-Minutes--e2f0cc34347e.pdf",
+  "versions": [
+    {
+      "sha256": "e2f0cc34347e2f79c902a8beac96cd2368af5cf45cdd7fc1b538a0b60f29d769",
+      "bytes": 65838,
+      "retrieved_utc": "2026-11-28T11:36:15+00:00",
+      "http_last_modified": "Mon, 06 Jan 2025 13:31:14 GMT"
+    }
+  ]
+}

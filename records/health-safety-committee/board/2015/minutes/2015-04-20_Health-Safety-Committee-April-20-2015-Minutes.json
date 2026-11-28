@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Health & Safety Committee April 20 2015 Minutes (pdf)",
+  "filename": "Health-Safety-Committee-April-20-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Health-Safety-Committee-April-20-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T10:57:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "34d73f2e18a77428d7f48409f7d5a4fda79f01e2b1165868abe9d3a23991377b",
+  "bytes": 129813,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:48:34 GMT",
+  "etag": "\"1663505-1fb15-52082ad9ae480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2015/2015-04-20_Health-Safety-Committee-April-20-2015-Minutes--34d73f2e18a7.pdf",
+  "versions": [
+    {
+      "sha256": "34d73f2e18a77428d7f48409f7d5a4fda79f01e2b1165868abe9d3a23991377b",
+      "bytes": 129813,
+      "retrieved_utc": "2026-11-28T10:57:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:48:34 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 24 2019 Minutes (pdf)",
+  "filename": "Health-Safety-October-24-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/12/Health-Safety-October-24-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2019-minutes/",
+  "upload_folder": "2019-12",
+  "first_seen_utc": "2026-11-28T10:31:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d1a900b163031eada17692c3fee3bc8a28861b0893e821ade7b259db25428b91",
+  "bytes": 67595,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Dec 2019 14:35:47 GMT",
+  "etag": "\"16c1889-1080b-598e1ba7756c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2019/2019-10-24_Health-Safety-October-24-2019-Minutes--d1a900b16303.pdf",
+  "versions": [
+    {
+      "sha256": "d1a900b163031eada17692c3fee3bc8a28861b0893e821ade7b259db25428b91",
+      "bytes": 67595,
+      "retrieved_utc": "2026-11-28T10:31:09+00:00",
+      "http_last_modified": "Wed, 04 Dec 2019 14:35:47 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety November 5 2024 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-November-5-2024-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/Health-Safety-November-5-2024-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-28T10:05:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "de8b2900b52e7067fc07d90e013d07a18bb42824dccb2381715a007e81d8e276",
+  "bytes": 55595,
+  "pages": 0,
+  "http_last_modified": "Fri, 01 Nov 2024 12:27:27 GMT",
+  "etag": "\"1680851-d92b-625d90ed169c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-11-05_Health-Safety-November-5-2024-Special-Meeting-Agenda--de8b2900b52e.pdf",
+  "versions": [
+    {
+      "sha256": "de8b2900b52e7067fc07d90e013d07a18bb42824dccb2381715a007e81d8e276",
+      "bytes": 55595,
+      "retrieved_utc": "2026-11-28T10:05:16+00:00",
+      "http_last_modified": "Fri, 01 Nov 2024 12:27:27 GMT"
+    }
+  ]
+}

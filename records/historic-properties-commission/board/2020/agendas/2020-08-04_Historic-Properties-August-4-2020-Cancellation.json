@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties August 4 2020 Cancellation (pdf)",
+  "filename": "Historic-Properties-August-4-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Historic-Properties-August-4-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-28T12:05:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37d775be3af83f7a95baaed1ba737fe037854665035f0b3ca8abd2e842d91b1a",
+  "bytes": 57311,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Aug 2020 22:01:19 GMT",
+  "etag": "\"1661a57-dfdf-5ac146518c9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-08-04_Historic-Properties-August-4-2020-Cancellation--37d775be3af8.pdf",
+  "versions": [
+    {
+      "sha256": "37d775be3af83f7a95baaed1ba737fe037854665035f0b3ca8abd2e842d91b1a",
+      "bytes": 57311,
+      "retrieved_utc": "2026-11-28T12:05:30+00:00",
+      "http_last_modified": "Tue, 04 Aug 2020 22:01:19 GMT"
+    }
+  ]
+}

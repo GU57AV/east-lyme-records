@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Health & Safety August 12 2021 Agenda (pdf)",
+  "filename": "Health-Safety-August-12-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/Health-Safety-August-12-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-28T10:20:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3fd813fd392f23187fab22bc79ff197a41c77deaa512596f5d4beacf38805f0f",
+  "bytes": 48245,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 Aug 2021 14:03:12 GMT",
+  "etag": "\"16804bc-bc75-5c949142f6800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2021/2021-08-12_Health-Safety-August-12-2021-Agenda--3fd813fd392f.pdf",
+  "versions": [
+    {
+      "sha256": "3fd813fd392f23187fab22bc79ff197a41c77deaa512596f5d4beacf38805f0f",
+      "bytes": 48245,
+      "retrieved_utc": "2026-11-28T10:20:44+00:00",
+      "http_last_modified": "Wed, 11 Aug 2021 14:03:12 GMT"
+    }
+  ]
+}

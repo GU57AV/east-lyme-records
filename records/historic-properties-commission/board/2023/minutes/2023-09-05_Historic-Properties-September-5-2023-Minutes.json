@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Historic Properties September 5 2023 Minutes (pdf)",
+  "filename": "Historic-Properties-September-5-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Historic-Properties-September-5-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2023-minutes/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-28T11:45:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eec4387cdb42f17b66763deccc7f6850dde9e46b54085ed5dcae55cff4d35ca2",
+  "bytes": 126701,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Oct 2023 13:00:35 GMT",
+  "etag": "\"16e0200-1eeed-6075c4ae262c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2023/2023-09-05_Historic-Properties-September-5-2023-Minutes--eec4387cdb42.pdf",
+  "versions": [
+    {
+      "sha256": "eec4387cdb42f17b66763deccc7f6850dde9e46b54085ed5dcae55cff4d35ca2",
+      "bytes": 126701,
+      "retrieved_utc": "2026-11-28T11:45:40+00:00",
+      "http_last_modified": "Tue, 10 Oct 2023 13:00:35 GMT"
+    }
+  ]
+}

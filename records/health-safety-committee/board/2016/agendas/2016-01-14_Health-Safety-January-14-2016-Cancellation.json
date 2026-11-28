@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Health & Safety January 14 2016 Cancellation (pdf)",
+  "filename": "Health-Safety-January-14-2016-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Health-Safety-January-14-2016-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T10:47:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "42da299482ba509603a7b43dc9f8cd45adc92be4e2056c58faad11b6c55388e9",
+  "bytes": 31239,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Jan 2016 14:00:43 GMT",
+  "etag": "\"16e0665-7a07-52937988ef8c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2016/2016-01-14_Health-Safety-January-14-2016-Cancellation--42da299482ba.pdf",
+  "versions": [
+    {
+      "sha256": "42da299482ba509603a7b43dc9f8cd45adc92be4e2056c58faad11b6c55388e9",
+      "bytes": 31239,
+      "retrieved_utc": "2026-11-28T10:47:17+00:00",
+      "http_last_modified": "Wed, 13 Jan 2016 14:00:43 GMT"
+    }
+  ]
+}

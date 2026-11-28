@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Historic Properties February 22 2017 Agenda (pdf)",
+  "filename": "Historic-Properties-February-22-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Historic-Properties-February-22-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T12:31:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3a69c20f2f7a56afdb3b18ccc0edaf10a05b4a5c1c1986354dae7dd9f3da33a2",
+  "bytes": 51026,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Feb 2017 20:44:34 GMT",
+  "etag": "\"1662b5d-c752-548abdd5cb080\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2017/2017-02-22_Historic-Properties-February-22-2017-Agenda--3a69c20f2f7a.pdf",
+  "versions": [
+    {
+      "sha256": "3a69c20f2f7a56afdb3b18ccc0edaf10a05b4a5c1c1986354dae7dd9f3da33a2",
+      "bytes": 51026,
+      "retrieved_utc": "2026-11-28T12:31:44+00:00",
+      "http_last_modified": "Thu, 16 Feb 2017 20:44:34 GMT"
+    }
+  ]
+}

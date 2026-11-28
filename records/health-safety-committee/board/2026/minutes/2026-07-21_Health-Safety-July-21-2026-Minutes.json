@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Health & Safety July 21 2026 Minutes (pdf)",
+  "filename": "Health-Safety-July-21-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/07/Health-Safety-July-21-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2026-minutes/",
+  "upload_folder": "2026-07",
+  "first_seen_utc": "2026-11-28T09:54:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2bc0496e12fc0989d07f895602dd585566311583fd01ff035f5f416399d1ace",
+  "bytes": 64838,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Jul 2026 13:43:34 GMT",
+  "etag": "\"170191e-fd46-657d4421f7a66\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2026/2026-07-21_Health-Safety-July-21-2026-Minutes--b2bc0496e12f.pdf",
+  "versions": [
+    {
+      "sha256": "b2bc0496e12fc0989d07f895602dd585566311583fd01ff035f5f416399d1ace",
+      "bytes": 64838,
+      "retrieved_utc": "2026-11-28T09:54:30+00:00",
+      "http_last_modified": "Thu, 30 Jul 2026 13:43:34 GMT"
+    }
+  ]
+}

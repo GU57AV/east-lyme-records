@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Historic Properties Commission October 2 2018 Cancellation (pdf)",
+  "filename": "Historic-Properties-Commission-October-2-2018-Cancellation-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/Historic-Properties-Commission-October-2-2018-Cancellation-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2018-agendas/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-28T12:21:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cd8fd6111105ea03605241839bcb3ffb13c62ba6b31b860245f397e909f01894",
+  "bytes": 29309,
+  "pages": 0,
+  "http_last_modified": "Fri, 12 Oct 2018 16:03:38 GMT",
+  "etag": "\"16c1424-727d-5780a3af9aa80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2018/2018-10-02_Historic-Properties-Commission-October-2-2018-Cancellation-1--cd8fd6111105.pdf",
+  "versions": [
+    {
+      "sha256": "cd8fd6111105ea03605241839bcb3ffb13c62ba6b31b860245f397e909f01894",
+      "bytes": 29309,
+      "retrieved_utc": "2026-11-28T12:21:19+00:00",
+      "http_last_modified": "Fri, 12 Oct 2018 16:03:38 GMT"
+    }
+  ]
+}

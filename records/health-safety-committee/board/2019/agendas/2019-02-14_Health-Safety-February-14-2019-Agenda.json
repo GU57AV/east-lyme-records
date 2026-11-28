@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Health & Safety February 14 2019 Agenda (pdf)",
+  "filename": "Health-Safety-February-14-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/02/Health-Safety-February-14-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2019-agendas/",
+  "upload_folder": "2019-02",
+  "first_seen_utc": "2026-11-28T10:30:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "83a3aeaa58dd36fd66e57ad652a70e39540a2e996720d0a87e807212fbd3e936",
+  "bytes": 55429,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Feb 2019 19:27:15 GMT",
+  "etag": "\"16c1e43-d885-581b769a56ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2019/2019-02-14_Health-Safety-February-14-2019-Agenda--83a3aeaa58dd.pdf",
+  "versions": [
+    {
+      "sha256": "83a3aeaa58dd36fd66e57ad652a70e39540a2e996720d0a87e807212fbd3e936",
+      "bytes": 55429,
+      "retrieved_utc": "2026-11-28T10:30:09+00:00",
+      "http_last_modified": "Tue, 12 Feb 2019 19:27:15 GMT"
+    }
+  ]
+}

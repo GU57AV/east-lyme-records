@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety April 20 2017 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-April-20-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Health-Safety-April-20-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T10:38:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c01c032f238a4d811c77985e75a3fc93999143c9da41eaa24ede820521307781",
+  "bytes": 48986,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Apr 2017 14:31:36 GMT",
+  "etag": "\"1662764-bf5a-54d71c3d96200\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-04-20_Health-Safety-April-20-2017-Special-Meeting-Agenda--c01c032f238a.pdf",
+  "versions": [
+    {
+      "sha256": "c01c032f238a4d811c77985e75a3fc93999143c9da41eaa24ede820521307781",
+      "bytes": 48986,
+      "retrieved_utc": "2026-11-28T10:38:53+00:00",
+      "http_last_modified": "Tue, 18 Apr 2017 14:31:36 GMT"
+    }
+  ]
+}

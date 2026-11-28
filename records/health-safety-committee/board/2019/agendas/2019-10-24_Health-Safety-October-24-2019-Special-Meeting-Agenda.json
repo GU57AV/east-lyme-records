@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 24 2019 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-October-24-2019-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Health-Safety-October-24-2019-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2019-agendas/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-28T10:27:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ba1eba6a6c9b18179df7f10d92da27f293297eebf577a51a6490ceee318102a6",
+  "bytes": 55583,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Oct 2019 19:36:12 GMT",
+  "etag": "\"16c1fbb-d91f-5959907814300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2019/2019-10-24_Health-Safety-October-24-2019-Special-Meeting-Agenda--ba1eba6a6c9b.pdf",
+  "versions": [
+    {
+      "sha256": "ba1eba6a6c9b18179df7f10d92da27f293297eebf577a51a6490ceee318102a6",
+      "bytes": 55583,
+      "retrieved_utc": "2026-11-28T10:27:27+00:00",
+      "http_last_modified": "Wed, 23 Oct 2019 19:36:12 GMT"
+    }
+  ]
+}

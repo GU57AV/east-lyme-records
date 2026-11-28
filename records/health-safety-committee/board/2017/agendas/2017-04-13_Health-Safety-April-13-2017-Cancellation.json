@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety April 13 2017 Cancellation (pdf)",
+  "filename": "Health-Safety-April-13-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Health-Safety-April-13-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T10:39:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6fe0b4c167f386cdd83ac3235bfe6adc8ea8fced16f6f2128c52c7cf0aa7fd15",
+  "bytes": 34586,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Apr 2017 13:17:25 GMT",
+  "etag": "\"1662655-871a-54ccfcbd18340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-04-13_Health-Safety-April-13-2017-Cancellation--6fe0b4c167f3.pdf",
+  "versions": [
+    {
+      "sha256": "6fe0b4c167f386cdd83ac3235bfe6adc8ea8fced16f6f2128c52c7cf0aa7fd15",
+      "bytes": 34586,
+      "retrieved_utc": "2026-11-28T10:39:13+00:00",
+      "http_last_modified": "Mon, 10 Apr 2017 13:17:25 GMT"
+    }
+  ]
+}

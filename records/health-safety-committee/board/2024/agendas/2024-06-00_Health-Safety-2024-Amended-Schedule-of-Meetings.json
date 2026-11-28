@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety 2024 Amended Schedule of Meetings (pdf)",
+  "filename": "Health-Safety-2024-Amended-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Health-Safety-2024-Amended-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-28T10:10:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "952a7a350581a6d1fbdcd58dff8fc000c06aa0684c41b3ef1b2e2985a38999ab",
+  "bytes": 53693,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Jun 2024 20:04:47 GMT",
+  "etag": "\"1680732-d1bd-61ba84affd5c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-06-00_Health-Safety-2024-Amended-Schedule-of-Meetings--952a7a350581.pdf",
+  "versions": [
+    {
+      "sha256": "952a7a350581a6d1fbdcd58dff8fc000c06aa0684c41b3ef1b2e2985a38999ab",
+      "bytes": 53693,
+      "retrieved_utc": "2026-11-28T10:10:38+00:00",
+      "http_last_modified": "Mon, 24 Jun 2024 20:04:47 GMT"
+    }
+  ]
+}

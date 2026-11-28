@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Historic Properties August 8 2017 Agenda (pdf)",
+  "filename": "Historic-Properties-August-8-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Historic-Properties-August-8-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T12:29:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b19cd37ef833b14fdc81da1fe5e44d8c36c4eed545aac7d585d5d808b1c39019",
+  "bytes": 38124,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Aug 2017 18:49:34 GMT",
+  "etag": "\"1662400-94ec-5562e4ecb8b80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2017/2017-08-08_Historic-Properties-August-8-2017-Agenda--b19cd37ef833.pdf",
+  "versions": [
+    {
+      "sha256": "b19cd37ef833b14fdc81da1fe5e44d8c36c4eed545aac7d585d5d808b1c39019",
+      "bytes": 38124,
+      "retrieved_utc": "2026-11-28T12:29:23+00:00",
+      "http_last_modified": "Mon, 07 Aug 2017 18:49:34 GMT"
+    }
+  ]
+}

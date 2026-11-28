@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety December 14 2017 Agenda (pdf)",
+  "filename": "Health-Safety-December-14-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/Health-Safety-December-14-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-agendas/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-28T10:37:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "269c7c1d16b35ec3f9dece5db192816d0e7ed396d7a8a2f5787beaec30dab451",
+  "bytes": 44083,
+  "pages": 0,
+  "http_last_modified": "Wed, 13 Dec 2017 16:33:38 GMT",
+  "etag": "\"16a0197-ac33-5603b5458dc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-12-14_Health-Safety-December-14-2017-Agenda--269c7c1d16b3.pdf",
+  "versions": [
+    {
+      "sha256": "269c7c1d16b35ec3f9dece5db192816d0e7ed396d7a8a2f5787beaec30dab451",
+      "bytes": 44083,
+      "retrieved_utc": "2026-11-28T10:37:12+00:00",
+      "http_last_modified": "Wed, 13 Dec 2017 16:33:38 GMT"
+    }
+  ]
+}

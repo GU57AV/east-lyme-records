@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "HMSCregMtgMins01-17-12 (pdf)",
+  "filename": "localhost_el_attachments_870_HMSCregMtgMins01-17-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2012/01/localhost_el_attachments_870_HMSCregMtgMins01-17-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-management-shellfish-commission-2012-minutes/",
+  "upload_folder": "2012-01",
+  "first_seen_utc": "2026-11-28T09:24:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cfc387fee2b7f1e01abe9981683c845896c9f26470c9aa7e0107925470d7ba47",
+  "bytes": 164151,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:30 GMT",
+  "etag": "\"16c0566-28137-4fbaf4c9c4180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2012/2012-01-00_localhost_el_attachments_870_HMSCregMtgMins01-17-12--cfc387fee2b7.pdf",
+  "versions": [
+    {
+      "sha256": "cfc387fee2b7f1e01abe9981683c845896c9f26470c9aa7e0107925470d7ba47",
+      "bytes": 164151,
+      "retrieved_utc": "2026-11-28T09:24:39+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:30 GMT"
+    }
+  ]
+}

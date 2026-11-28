@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Historic Properties August 3 2021 Minutes (pdf)",
+  "filename": "Historic-Properties-August-3-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Historic-Properties-August-3-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-28T12:02:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fd68a0f8f0617e0a4b579a17d026e095cdffa43d51bb8c0831a2dae5e0c2a783",
+  "bytes": 153943,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Sep 2021 18:51:08 GMT",
+  "etag": "\"16802e3-25957-5cb805d78bf00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2021/2021-08-03_Historic-Properties-August-3-2021-Minutes--fd68a0f8f061.pdf",
+  "versions": [
+    {
+      "sha256": "fd68a0f8f0617e0a4b579a17d026e095cdffa43d51bb8c0831a2dae5e0c2a783",
+      "bytes": 153943,
+      "retrieved_utc": "2026-11-28T12:02:29+00:00",
+      "http_last_modified": "Wed, 08 Sep 2021 18:51:08 GMT"
+    }
+  ]
+}

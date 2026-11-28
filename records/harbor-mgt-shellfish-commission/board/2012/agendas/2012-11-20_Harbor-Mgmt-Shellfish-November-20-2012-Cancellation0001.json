@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "Harbor Mgmt Shellfish November 20 2012 Cancellation (pdf)",
+  "filename": "Harbor-Mgmt-Shellfish-November-20-2012-Cancellation0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Harbor-Mgmt-Shellfish-November-20-2012-Cancellation0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-managementshellfish-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T09:19:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d00b137985993e409b5357881ed70e5c77bc82fd1d8bc92e7cc1fad501ed07bf",
+  "bytes": 357713,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:47:52 GMT",
+  "etag": "\"1663e4a-57551-52082ab1a0600\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2012/2012-11-20_Harbor-Mgmt-Shellfish-November-20-2012-Cancellation0001--d00b13798599.pdf",
+  "versions": [
+    {
+      "sha256": "d00b137985993e409b5357881ed70e5c77bc82fd1d8bc92e7cc1fad501ed07bf",
+      "bytes": 357713,
+      "retrieved_utc": "2026-11-28T09:19:15+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:47:52 GMT"
+    }
+  ]
+}

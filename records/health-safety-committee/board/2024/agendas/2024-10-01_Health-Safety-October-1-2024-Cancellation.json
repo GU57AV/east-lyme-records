@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 1 2024 Cancellation (pdf)",
+  "filename": "Health-Safety-October-1-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/Health-Safety-October-1-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-28T10:05:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "769320e8527129b95d12471d074c18ba008be3eca9fb813712c12dea183a4f22",
+  "bytes": 51301,
+  "pages": 0,
+  "http_last_modified": "Mon, 30 Sep 2024 15:14:25 GMT",
+  "etag": "\"1680946-c865-62357a903f640\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-10-01_Health-Safety-October-1-2024-Cancellation--769320e85271.pdf",
+  "versions": [
+    {
+      "sha256": "769320e8527129b95d12471d074c18ba008be3eca9fb813712c12dea183a4f22",
+      "bytes": 51301,
+      "retrieved_utc": "2026-11-28T10:05:56+00:00",
+      "http_last_modified": "Mon, 30 Sep 2024 15:14:25 GMT"
+    }
+  ]
+}

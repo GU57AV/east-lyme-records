@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Health & Safety April 9, June 11, August 13, October 8, 2020 Cancellation (pdf)",
+  "filename": "Health-Safety-April-9-June-11-August-13-October-8-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/10/Health-Safety-April-9-June-11-August-13-October-8-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2020-agendas/",
+  "upload_folder": "2020-10",
+  "first_seen_utc": "2026-11-28T10:25:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cfa821fd5ee04418e1a09ae77c90f9ed709f40a23cbd1dcd99fb032e573aed79",
+  "bytes": 50977,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Oct 2020 15:43:49 GMT",
+  "etag": "\"1661941-c721-5b102770dd740\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2020/2020-10-08_Health-Safety-April-9-June-11-August-13-October-8-2020-Cancellation--cfa821fd5ee0.pdf",
+  "versions": [
+    {
+      "sha256": "cfa821fd5ee04418e1a09ae77c90f9ed709f40a23cbd1dcd99fb032e573aed79",
+      "bytes": 50977,
+      "retrieved_utc": "2026-11-28T10:25:26+00:00",
+      "http_last_modified": "Tue, 06 Oct 2020 15:43:49 GMT"
+    }
+  ]
+}

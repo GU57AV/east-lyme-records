@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Health & Safety 2016 Meeting Schedule (pdf)",
+  "filename": "Health-Safety-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Health-Safety-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T10:47:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8ee3d7fb5e54d3abdeeaeb2c72c17665ae59350b36f5dce73d1deb9449de063e",
+  "bytes": 42107,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Dec 2015 20:38:32 GMT",
+  "etag": "\"16e05fd-a47b-52668f4f98200\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2016/2015-12-00_Health-Safety-2016-Meeting-Schedule--8ee3d7fb5e54.pdf",
+  "versions": [
+    {
+      "sha256": "8ee3d7fb5e54d3abdeeaeb2c72c17665ae59350b36f5dce73d1deb9449de063e",
+      "bytes": 42107,
+      "retrieved_utc": "2026-11-28T10:47:37+00:00",
+      "http_last_modified": "Tue, 08 Dec 2015 20:38:32 GMT"
+    }
+  ]
+}

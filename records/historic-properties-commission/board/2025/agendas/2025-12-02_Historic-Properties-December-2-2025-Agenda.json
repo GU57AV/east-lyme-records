@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Historic Properties December 2 2025 Agenda (pdf)",
+  "filename": "Historic-Properties-December-2-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Historic-Properties-December-2-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2025-agendas/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-28T11:24:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "48864ad98da196bcf5efea44d62b607278f0cba98bd3fa6efcfa4b6b68799cc9",
+  "bytes": 28512,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Dec 2025 14:24:15 GMT",
+  "etag": "\"1a20002-6f60-644e4bbe72e1b\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2025/2025-12-02_Historic-Properties-December-2-2025-Agenda--48864ad98da1.pdf",
+  "versions": [
+    {
+      "sha256": "48864ad98da196bcf5efea44d62b607278f0cba98bd3fa6efcfa4b6b68799cc9",
+      "bytes": 28512,
+      "retrieved_utc": "2026-11-28T11:24:10+00:00",
+      "http_last_modified": "Mon, 01 Dec 2025 14:24:15 GMT"
+    }
+  ]
+}

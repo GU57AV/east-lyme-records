@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Historic Properties July 5 2022 Minutes (pdf)",
+  "filename": "Historic-Properties-July-5-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Historic-Properties-July-5-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2022-minutes/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-28T11:55:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f87f1ab44cd59001dcaa6851f6513aa8841ee77423dbbb222f4d12440a234ae6",
+  "bytes": 121473,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Aug 2022 14:17:07 GMT",
+  "etag": "\"16a13be-1da81-5e5bb78823ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2022/2022-07-05_Historic-Properties-July-5-2022-Minutes--f87f1ab44cd5.pdf",
+  "versions": [
+    {
+      "sha256": "f87f1ab44cd59001dcaa6851f6513aa8841ee77423dbbb222f4d12440a234ae6",
+      "bytes": 121473,
+      "retrieved_utc": "2026-11-28T11:55:05+00:00",
+      "http_last_modified": "Mon, 08 Aug 2022 14:17:07 GMT"
+    }
+  ]
+}

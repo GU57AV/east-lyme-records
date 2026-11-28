@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 28, 2026 2:36 AM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 7:39 AM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -17,6 +17,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
 | Conservation of Natural Resources Commission | 2 |
+| Harbor Management/Shellfish Commission | 2 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -144,6 +145,8 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2013-03-07 | Zoning Commission | Mr. Donovan | recused | — | Application of Steve Carpenteri for Niantic Bay Inn, Inc | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-07_ZC-PH-Minutes-of-March-7-2013.md) |
 | 2013-03-07 | Zoning Commission | Mr. Peck | recused | — | Application of Kostas Anastasiou, for a Renewal of a Special Permit for Qutdoor Dining at property identified in the app | [minutes](../records/zoning-commission/board/2013/minutes/2013-03-07_ZC-PH-Minutes-of-March-7-2013.md) |
 | 2013-03-06 | Board of Selectmen | Ms. Cheeseman | recused | — | moved to approve the Minutes of the Regular Meeting of February 20, 2013 | [minutes](../records/board-of-selectmen/board/2013/minutes/2013-03-06_BOS-March-6-2013-Regular-Meeting-Minutes.md) |
+| 2013-02-19 | Harbor Management/Shellfish Commission | Mr. Kanter | recused | — | moved to approve the January 15, 2013 Regular Meeting Minutes, as amended | [minutes](../records/harbor-mgt-shellfish-commission/board/2013/minutes/2013-02-19_Harbor-Mgmt-Shellfish-February-19-2013-Minutes-Amended0001.md) |
+| 2013-02-19 | Harbor Management/Shellfish Commission | Mr. Kanfer | recused | — | — | [minutes](../records/harbor-mgt-shellfish-commission/board/2013/minutes/2013-02-19_Harbor-Mgmt-Shellfish-February-19-2013-Minutes0001.md) |
 | 2013-01-03 | Zoning Commission | Mr. Peck | recused | — | APPLICATION OF CROTUR, LLC FOR A SPECIAL PERMIT FOR WHOLESALE USE, AT PROPERTY IDENTIFIED IN THE APPLICATION AS 206 BOST | [minutes](../records/zoning-commission/board/2013/minutes/2013-01-03_ZC-PH-Minutes-of-January-3-2013.md) |
 | 2012-10-04 | Zoning Commission | Mr. McPherson | recused | — | — | [minutes](../records/zoning-commission/board/2012/minutes/2012-10-04_ZC-Regular-Meeting-Minutes-10-04-2012.md) |
 | 2012-08-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2012/minutes/2012-08-02_ZC-Regular-Meeting-Minutes-08-02-2012.md) |

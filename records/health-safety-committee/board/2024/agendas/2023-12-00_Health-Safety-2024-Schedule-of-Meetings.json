@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety 2024 Meeting Schedule (pdf)",
+  "filename": "Health-Safety-2024-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/Health-Safety-2024-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-28T10:10:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d105e1c52cea01801ac7ae755a54e9ba7cc2c504c3ad890eedc6624bda4594c5",
+  "bytes": 51308,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Dec 2023 14:09:52 GMT",
+  "etag": "\"16c223b-c86c-60c00234c4c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2023-12-00_Health-Safety-2024-Schedule-of-Meetings--d105e1c52cea.pdf",
+  "versions": [
+    {
+      "sha256": "d105e1c52cea01801ac7ae755a54e9ba7cc2c504c3ad890eedc6624bda4594c5",
+      "bytes": 51308,
+      "retrieved_utc": "2026-11-28T10:10:59+00:00",
+      "http_last_modified": "Fri, 08 Dec 2023 14:09:52 GMT"
+    }
+  ]
+}

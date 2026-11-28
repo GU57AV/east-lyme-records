@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Health & Safety December 8 2022 Cancellation (pdf)",
+  "filename": "Health-Safety-December-8-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/Health-Safety-December-8-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2022-agendas/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-28T10:16:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1d5c2c415118847a4c77779e127efb89f66fa6bc5f57f5398fab019e9670d34c",
+  "bytes": 33657,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Dec 2022 20:07:47 GMT",
+  "etag": "\"16a09b3-8379-5ef4279638ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2022/2022-12-08_Health-Safety-December-8-2022-Cancellation--1d5c2c415118.pdf",
+  "versions": [
+    {
+      "sha256": "1d5c2c415118847a4c77779e127efb89f66fa6bc5f57f5398fab019e9670d34c",
+      "bytes": 33657,
+      "retrieved_utc": "2026-11-28T10:16:42+00:00",
+      "http_last_modified": "Wed, 07 Dec 2022 20:07:47 GMT"
+    }
+  ]
+}

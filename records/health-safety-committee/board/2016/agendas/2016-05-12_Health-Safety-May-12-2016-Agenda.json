@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Health & Safety May 12 2016 Agenda (pdf)",
+  "filename": "Health-Safety-May-12-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Health-Safety-May-12-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T10:45:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3c69f72a121898cdee8ce3f8a146af1d9c85a9c3d4eed8a8745f1ed9c5852280",
+  "bytes": 51690,
+  "pages": 0,
+  "http_last_modified": "Wed, 11 May 2016 15:29:05 GMT",
+  "etag": "\"16e03eb-c9ea-53292b3b2b240\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2016/2016-05-12_Health-Safety-May-12-2016-Agenda--3c69f72a1218.pdf",
+  "versions": [
+    {
+      "sha256": "3c69f72a121898cdee8ce3f8a146af1d9c85a9c3d4eed8a8745f1ed9c5852280",
+      "bytes": 51690,
+      "retrieved_utc": "2026-11-28T10:45:36+00:00",
+      "http_last_modified": "Wed, 11 May 2016 15:29:05 GMT"
+    }
+  ]
+}

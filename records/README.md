@@ -23,10 +23,10 @@
 | [East Lyme East Lyme Public Library Board of Trustees](east-lyme-public-library-meetings-page/INDEX.md) | 156 | complete |
 | [East Lyme Economic Development Commission](economic-development-commission/INDEX.md) | 12 | complete |
 | [East Lyme Fair Rent Commission](fair-rent-commission/INDEX.md) | 40 | complete |
-| [East Lyme Harbor Management/Shellfish Commission](harbor-mgt-shellfish-commission/INDEX.md) | 297 | import in progress |
-| East Lyme Hazard Mitigation Plan Committee | 0 | import in progress |
-| East Lyme Health & Safety Committee | 0 | import in progress |
-| East Lyme Historic Properties Commission | 0 | import in progress |
+| [East Lyme Harbor Management/Shellfish Commission](harbor-mgt-shellfish-commission/INDEX.md) | 426 | complete |
+| [East Lyme Hazard Mitigation Plan Committee](hazard-mitigation-plan-committee/INDEX.md) | 7 | complete |
+| [East Lyme Health & Safety Committee](health-safety-committee/INDEX.md) | 232 | complete |
+| [East Lyme Historic Properties Commission](historic-properties-commission/INDEX.md) | 244 | import in progress |
 | East Lyme Niantic River Watershed Committee | 0 | import in progress |
 | East Lyme Parks & Recreation Commission | 0 | import in progress |
 | East Lyme Pension Board | 0 | import in progress |

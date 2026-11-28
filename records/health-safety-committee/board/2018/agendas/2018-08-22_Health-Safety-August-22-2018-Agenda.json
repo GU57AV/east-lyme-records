@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Health & Safety August 22 2018 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-August-22-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/08/Health-Safety-August-22-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2018-agendas/",
+  "upload_folder": "2018-08",
+  "first_seen_utc": "2026-11-28T10:33:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dfbda4c80973c98660c2ca95168aeb588544ffc990124d7e5fb32121cea15cfd",
+  "bytes": 47281,
+  "pages": 0,
+  "http_last_modified": "Wed, 22 Aug 2018 16:34:05 GMT",
+  "etag": "\"16c1713-b8b1-57408b5f75940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2018/2018-08-22_Health-Safety-August-22-2018-Agenda--dfbda4c80973.pdf",
+  "versions": [
+    {
+      "sha256": "dfbda4c80973c98660c2ca95168aeb588544ffc990124d7e5fb32121cea15cfd",
+      "bytes": 47281,
+      "retrieved_utc": "2026-11-28T10:33:30+00:00",
+      "http_last_modified": "Wed, 22 Aug 2018 16:34:05 GMT"
+    }
+  ]
+}

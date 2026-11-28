@@ -1,0 +1,29 @@
+{
+  "board": "hazard-mitigation-plan-committee",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Hazard Mitigation Plan Committee June 18 2026 Agenda (pdf)",
+  "filename": "Hazard-Mitigation-Plan-Committee-June-18-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/Hazard-Mitigation-Plan-Committee-June-18-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/hazard-mitigation-plan-committee/hazard-mitigation-plan-committee-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-28T09:36:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e61d934a322bf6b288cc60b4235b10618be28610c60452fb3e2374218ccc9c90",
+  "bytes": 29752,
+  "pages": 0,
+  "http_last_modified": "Wed, 17 Jun 2026 17:30:08 GMT",
+  "etag": "\"1700883-7438-65476693d0547\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/hazard-mitigation-plan-committee-2026/2026-06-18_Hazard-Mitigation-Plan-Committee-June-18-2026-Agenda--e61d934a322b.pdf",
+  "versions": [
+    {
+      "sha256": "e61d934a322bf6b288cc60b4235b10618be28610c60452fb3e2374218ccc9c90",
+      "bytes": 29752,
+      "retrieved_utc": "2026-11-28T09:36:48+00:00",
+      "http_last_modified": "Wed, 17 Jun 2026 17:30:08 GMT"
+    }
+  ]
+}

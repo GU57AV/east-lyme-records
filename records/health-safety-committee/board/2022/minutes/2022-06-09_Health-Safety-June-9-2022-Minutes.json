@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Health & Safety June 9 2022 Minutes (pdf)",
+  "filename": "Health-Safety-June-9-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/07/Health-Safety-June-9-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2022-minutes/",
+  "upload_folder": "2022-07",
+  "first_seen_utc": "2026-11-28T10:19:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5f2b963fd2e95df77ee2c5f14710738c9e346e43b7c977c3600697b9d5ec6acc",
+  "bytes": 80101,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Jul 2022 14:12:22 GMT",
+  "etag": "\"16a143e-138e5-5e34bca70dd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2022/2022-06-09_Health-Safety-June-9-2022-Minutes--5f2b963fd2e9.pdf",
+  "versions": [
+    {
+      "sha256": "5f2b963fd2e95df77ee2c5f14710738c9e346e43b7c977c3600697b9d5ec6acc",
+      "bytes": 80101,
+      "retrieved_utc": "2026-11-28T10:19:03+00:00",
+      "http_last_modified": "Fri, 08 Jul 2022 14:12:22 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Historic Properties 2024 Schedule of Meetings (pdf)",
+  "filename": "Historic-Properties-2024-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Historic-Properties-2024-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T11:35:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f7173eb8f98908fddcc8a4b7fa232809522a131cc9fd9b22b5603abdd8b0da80",
+  "bytes": 37436,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Jan 2024 20:09:37 GMT",
+  "etag": "\"1680713-923c-60e88e4c94240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2024/2024-01-00_Historic-Properties-2024-Schedule-of-Meetings--f7173eb8f989.pdf",
+  "versions": [
+    {
+      "sha256": "f7173eb8f98908fddcc8a4b7fa232809522a131cc9fd9b22b5603abdd8b0da80",
+      "bytes": 37436,
+      "retrieved_utc": "2026-11-28T11:35:55+00:00",
+      "http_last_modified": "Tue, 09 Jan 2024 20:09:37 GMT"
+    }
+  ]
+}

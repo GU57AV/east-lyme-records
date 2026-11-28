@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Health & Safety June 14 2018 Cancellation (pdf)",
+  "filename": "Health-Safety-Committee-June-14-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/Health-Safety-Committee-June-14-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-28T10:34:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b741b5d270327a1c642e3515218fd2fbcb06d3964eefafca4db801bbe1864451",
+  "bytes": 35341,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Jun 2018 14:54:32 GMT",
+  "etag": "\"16c0f5a-8a0d-56e9b46e5ba00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2018/2018-06-14_Health-Safety-Committee-June-14-2018-Cancellation--b741b5d27032.pdf",
+  "versions": [
+    {
+      "sha256": "b741b5d270327a1c642e3515218fd2fbcb06d3964eefafca4db801bbe1864451",
+      "bytes": 35341,
+      "retrieved_utc": "2026-11-28T10:34:11+00:00",
+      "http_last_modified": "Thu, 14 Jun 2018 14:54:32 GMT"
+    }
+  ]
+}

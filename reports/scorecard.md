@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 28, 2026 2:36 AM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 7:39 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -21,6 +21,9 @@ Meetings from Nov 28, 2025 through yesterday.
 | Commission On Aging | 10 | 100% (10/10) | 100% (10/10) | 100% (10/10) | 100% (10/10) | 3 | 0 |
 | Conservation of Natural Resources Commission | 24 | 100% (24/24) | 96% (23/24) | 79% (19/24) | 53% (10/19) | 7 | 9 |
 | Fair Rent Commission | 4 | 25% (1/4) | 100% (1/1) | 33% (1/3) | 100% (1/1) | 0 | 3 |
+| Harbor Management/Shellfish Commission | 10 | 100% (10/10) | 100% (10/10) | 80% (8/10) | 12% (1/8) | 14.5 | 3 |
+| Hazard Mitigation Plan Committee | 2 | 100% (2/2) | 100% (2/2) | 0% (0/2) | — | — | 2 |
+| Health & Safety Committee | 8 | 100% (8/8) | 62% (5/8) | 100% (8/8) | 62% (5/8) | 4.5 | 5 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Public Library Board of Trustees | 7 | 0% (0/7) | — | 86% (6/7) | 33% (2/6) | 16.5 | 15 |
@@ -44,6 +47,9 @@ Meetings from Nov 28, 2025 through yesterday.
 | Commission On Aging | 30 | 100% (30/30) | 100% (30/30) | 100% (30/30) | 97% (29/30) | 2 | 0 |
 | Conservation of Natural Resources Commission | 69 | 100% (69/69) | 97% (67/69) | 86% (59/69) | 56% (33/59) | 7 | 9 |
 | Fair Rent Commission | 10 | 70% (7/10) | 100% (7/7) | 78% (7/9) | 86% (6/7) | 6 | 3 |
+| Harbor Management/Shellfish Commission | 31 | 100% (31/31) | 97% (30/31) | 90% (28/31) | 57% (16/28) | 7 | 3 |
+| Hazard Mitigation Plan Committee | 4 | 75% (3/4) | 100% (3/3) | 50% (2/4) | 0% (0/2) | 89.5 | 2 |
+| Health & Safety Committee | 32 | 91% (29/32) | 86% (25/29) | 88% (28/32) | 57% (16/28) | 6 | 5 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Public Library Board of Trustees | 19 | 26% (5/19) | 100% (5/5) | 89% (17/19) | 18% (3/17) | 21 | 15 |
@@ -147,6 +153,37 @@ Meetings from Nov 28, 2025 through yesterday.
 - Mon Dec 8, 2025 — Fair Rent Commission Special Meeting Via Zoom: no agenda found; no minutes found
 - Fri Dec 12, 2025: no agenda found ([document](../records/fair-rent-commission/board/2025/minutes/2025-12-12_Fair-Rent-Commission-December-12-2025-Special-Meeting-Minutes.md))
 - Wed Nov 25, 2026 — Fair Rent Commission: no agenda found
+
+</details>
+
+<details><summary>Harbor Management/Shellfish Commission (9)</summary>
+
+- Tue Dec 16, 2025 — Harbor Management Shellfish Commission: no minutes found ([document](../records/harbor-mgt-shellfish-commission/board/2025/agendas/2025-12-16_Harbor-Management-Shellfish-Commission-December-16-2025-Agenda.md))
+- Tue Jan 20, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 21 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-01-20_Harbor-Management-Shellfish-Commission-January-20-2026-Agenda.md))
+- Tue Apr 21, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 27 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-04-21_Harbor-Management-April-21-2026-Agenda.md))
+- Tue May 19, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 14 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-05-19_Harbor-Management-Shellfish-Commission-May-19-2026-Agenda.md))
+- Tue Jun 16, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 9 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-06-16_Harbor-Management-Shellfish-Commission-June-16-2026-Agenda.md))
+- Tue Jul 21, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 22 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-07-21_Harbor-Management-Shellfish-Commission-July-21-2026-Agenda.md))
+- Tue Sep 15, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 14 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-09-15_Harbor-Management-Shellfish-Commission-September-15-2026-Agenda.md))
+- Tue Oct 20, 2026 — Harbor Management Shellfish Commission: current minutes file uploaded after 15 days ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-10-20_Harbor-Management-Shellfish-Commission-October-20-2026-Agenda.md))
+- Tue Nov 17, 2026 — Harbor Management Shellfish Commission: no minutes found ([document](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-11-17_Harbor-Management-Shellfish-Commission-November-17-2026-Agenda.md))
+
+</details>
+
+<details><summary>Hazard Mitigation Plan Committee (2)</summary>
+
+- Thu Dec 18, 2025 — Hazard Mitigation Plan Committee: no minutes found ([document](../records/hazard-mitigation-plan-committee/board/2025/agendas/2025-12-18_Hazard-Mitigation-Plan-Committee-December-18-2025-Agenda.md))
+- Thu Jun 18, 2026 — Hazard Mitigation Plan Committee: no minutes found ([document](../records/hazard-mitigation-plan-committee/board/2026/agendas/2026-06-18_Hazard-Mitigation-Plan-Committee-June-18-2026-Agenda.md))
+
+</details>
+
+<details><summary>Health & Safety Committee (5)</summary>
+
+- Tue Feb 17, 2026 — Health & Safety: agenda not online 24 h ahead; current minutes file uploaded after 8 days ([document](../records/health-safety-committee/board/2026/agendas/2026-02-17_Health-Safety-February-17-2026-Agenda.md))
+- Tue Mar 17, 2026 — Health & Safety: agenda not online 24 h ahead ([document](../records/health-safety-committee/board/2026/agendas/2026-03-17_Health-Safety-March-17-2026-Agenda.md))
+- Wed Apr 29, 2026 — Health & Safety Special Meeting: current minutes file uploaded after 19 days ([document](../records/health-safety-committee/board/2026/agendas/2026-04-29_Health-Safety-April-29-2026-Special-Meeting-Agenda.md))
+- Tue Jun 16, 2026 — Health & Safety: agenda not online 24 h ahead ([document](../records/health-safety-committee/board/2026/agendas/2026-06-16_Health-Safety-June-16-2026-Agenda.md))
+- Tue Jul 21, 2026 — Health & Safety: current minutes file uploaded after 9 days ([document](../records/health-safety-committee/board/2026/agendas/2026-07-21_Health-Safety-July-21-2026-Agenda.md))
 
 </details>
 

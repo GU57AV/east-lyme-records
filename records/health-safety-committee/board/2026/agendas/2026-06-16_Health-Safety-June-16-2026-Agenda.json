@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Health & Safety June 16 2026 Agenda (pdf)",
+  "filename": "Health-Safety-June-16-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/Health-Safety-June-16-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-28T09:50:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bf7b363c5d9b4dcb0536f2f2c3b78c19c53236374b03fb75ca088dcadcc8879f",
+  "bytes": 39779,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Jun 2026 14:47:04 GMT",
+  "etag": "\"1700648-9b63-65460042e8f73\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2026/2026-06-16_Health-Safety-June-16-2026-Agenda--bf7b363c5d9b.pdf",
+  "versions": [
+    {
+      "sha256": "bf7b363c5d9b4dcb0536f2f2c3b78c19c53236374b03fb75ca088dcadcc8879f",
+      "bytes": 39779,
+      "retrieved_utc": "2026-11-28T09:50:28+00:00",
+      "http_last_modified": "Tue, 16 Jun 2026 14:47:04 GMT"
+    }
+  ]
+}

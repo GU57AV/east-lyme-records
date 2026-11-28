@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "other",
+  "year": "unknown",
+  "subcommittee": false,
+  "link_text": "Historic Property 2014 Ordinance Amendment",
+  "filename": "HistProp2014Ordinance-Amendment.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/HistProp2014Ordinance-Amendment.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T11:17:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c86fc2f63183dbedb6089cabb84b558a575ce2bbd7c85399406e0df918ea3159",
+  "bytes": 1839667,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:49:05 GMT",
+  "etag": "\"1661f13-1c1233-52082af73ea40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-unknown/0000-00-00_HistProp2014Ordinance-Amendment--c86fc2f63183.pdf",
+  "versions": [
+    {
+      "sha256": "c86fc2f63183dbedb6089cabb84b558a575ce2bbd7c85399406e0df918ea3159",
+      "bytes": 1839667,
+      "retrieved_utc": "2026-11-28T11:17:27+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:49:05 GMT"
+    }
+  ]
+}

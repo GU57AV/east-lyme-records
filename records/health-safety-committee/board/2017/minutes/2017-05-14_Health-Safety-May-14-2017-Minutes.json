@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety May 14 2017 Minutes (pdf)",
+  "filename": "Health-Safety-May-14-2017-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Health-Safety-May-14-2017-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T10:41:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92c5632f8dad23dcfe9225313cb2a31bed64b7c8f90a6e6f618e045edf2318f4",
+  "bytes": 35235,
+  "pages": 0,
+  "http_last_modified": "Thu, 01 Jun 2017 18:44:43 GMT",
+  "etag": "\"166240f-89a3-550ea6e151cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-05-14_Health-Safety-May-14-2017-Minutes--92c5632f8dad.pdf",
+  "versions": [
+    {
+      "sha256": "92c5632f8dad23dcfe9225313cb2a31bed64b7c8f90a6e6f618e045edf2318f4",
+      "bytes": 35235,
+      "retrieved_utc": "2026-11-28T10:41:55+00:00",
+      "http_last_modified": "Thu, 01 Jun 2017 18:44:43 GMT"
+    }
+  ]
+}

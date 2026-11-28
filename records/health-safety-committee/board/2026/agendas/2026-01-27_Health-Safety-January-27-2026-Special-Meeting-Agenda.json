@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Health & Safety January 27 2026 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-January-27-2026-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/Health-Safety-January-27-2026-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2026-agendas/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T09:53:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9e73208a67ceeab8d70d90a5264894050f757b56b0a8b05efba22f8e2d53dd78",
+  "bytes": 46115,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Jan 2026 14:02:19 GMT",
+  "etag": "\"17002c2-b423-648d2417b8afd\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2026/2026-01-27_Health-Safety-January-27-2026-Special-Meeting-Agenda--9e73208a67ce.pdf",
+  "versions": [
+    {
+      "sha256": "9e73208a67ceeab8d70d90a5264894050f757b56b0a8b05efba22f8e2d53dd78",
+      "bytes": 46115,
+      "retrieved_utc": "2026-11-28T09:53:10+00:00",
+      "http_last_modified": "Tue, 20 Jan 2026 14:02:19 GMT"
+    }
+  ]
+}

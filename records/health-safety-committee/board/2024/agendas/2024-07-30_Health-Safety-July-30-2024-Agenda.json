@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety July 30 2024 Agenda (pdf)",
+  "filename": "Health-Safety-July-30-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/07/Health-Safety-July-30-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2024-07",
+  "first_seen_utc": "2026-11-28T10:06:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7cca99c364c27b9d798890a9eddf7fd092c56bc5435b291828cef59a708d3ebb",
+  "bytes": 53334,
+  "pages": 0,
+  "http_last_modified": "Mon, 29 Jul 2024 13:57:24 GMT",
+  "etag": "\"1680d52-d056-61e633d947900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-07-30_Health-Safety-July-30-2024-Agenda--7cca99c364c2.pdf",
+  "versions": [
+    {
+      "sha256": "7cca99c364c27b9d798890a9eddf7fd092c56bc5435b291828cef59a708d3ebb",
+      "bytes": 53334,
+      "retrieved_utc": "2026-11-28T10:06:57+00:00",
+      "http_last_modified": "Mon, 29 Jul 2024 13:57:24 GMT"
+    }
+  ]
+}

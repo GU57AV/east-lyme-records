@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety February 16 2017 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-February-16-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Health-Safety-February-16-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T10:39:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4e4fd2d54f3436eb17ad2ced1c6f5e2cb125a0b5a46eb0193ae77e4841c89757",
+  "bytes": 50111,
+  "pages": 0,
+  "http_last_modified": "Wed, 15 Feb 2017 13:37:53 GMT",
+  "etag": "\"1662481-c3bf-54891c9950e40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-02-16_Health-Safety-February-16-2017-Special-Meeting-Agenda--4e4fd2d54f34.pdf",
+  "versions": [
+    {
+      "sha256": "4e4fd2d54f3436eb17ad2ced1c6f5e2cb125a0b5a46eb0193ae77e4841c89757",
+      "bytes": 50111,
+      "retrieved_utc": "2026-11-28T10:39:33+00:00",
+      "http_last_modified": "Wed, 15 Feb 2017 13:37:53 GMT"
+    }
+  ]
+}

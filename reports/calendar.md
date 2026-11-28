@@ -1,6 +1,6 @@
 # Town calendar cross-check
 
-_Updated Nov 28, 2026 2:36 AM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 7:39 AM ET. Unofficial and automatic._
 
 Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/) in the 30 days before and after today, for boards whose records this archive has fully imported, with whether an agenda and minutes have been posted. Snapshots of the calendar, with every change to every entry, are kept in [calendar/](../calendar/). The calendar is not the legal notice of a meeting, and entries can be changed at any time, so this is a cross-check, not proof.
 
@@ -9,7 +9,9 @@ Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/
 | Wed Dec 23, 2026 6:00 PM | Fair Rent Commission | Fair Rent Commission | not found | — |
 | Sat Dec 19, 2026 9:00 AM | IWA Site Walk | Inland Wetlands Agency | not found | — |
 | Wed Dec 16, 2026 7:00 PM | Board of Selectmen | Board of Selectmen | not found | — |
+| Tue Dec 15, 2026 7:00 PM | Harbor Management Shellfish Commission | Harbor Management/Shellfish Commission | not found | — |
 | Tue Dec 15, 2026 7:00 PM | Water & Sewer | Water & Sewer Commission | not found | — |
+| Tue Dec 15, 2026 2:00 PM | Health & Safety (CANCELLED) | Health & Safety Committee | — | cancelled |
 | Mon Dec 14, 2026 6:00 PM | Board of Police Commissioners | Board of Police Commissioners | not found | — |
 | Mon Dec 14, 2026 5:00 PM | COA | Commission On Aging | not found | — |
 | Wed Dec 9, 2026 7:00 PM | Conservation Of Natural Resources | Conservation of Natural Resources Commission | not found | — |
@@ -27,7 +29,9 @@ Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/
 | Wed Nov 18, 2026 7:05 PM | Board of Selectmen (Immed following Public Hearing) | Board of Selectmen | [posted](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Amended-Agenda.md) | posted |
 | Wed Nov 18, 2026 7:00 PM | Conservation Of Natural Resources | Conservation of Natural Resources Commission | [posted](../records/conservation-of-natural-resources-commission/board/2026/agendas/2026-11-18_CNRC-November-18-2026-Agenda.md) | posted |
 | Wed Nov 18, 2026 7:00 PM | BOS (Public Hearing) | Board of Selectmen | [posted](../records/board-of-selectmen/board/2026/agendas/2026-11-18_BOS-November-18-2026-Public-Hearing-Notice.md) | posted |
+| Tue Nov 17, 2026 7:00 PM | Harbor Management Shellfish Commission | Harbor Management/Shellfish Commission | [posted](../records/harbor-mgt-shellfish-commission/board/2026/agendas/2026-11-17_Harbor-Management-Shellfish-Commission-November-17-2026-Agenda.md) | not yet |
 | Tue Nov 17, 2026 6:30 PM | Water & Sewer | Water & Sewer Commission | [posted](../records/water-sewer-commission/board/2026/agendas/2026-11-17_Water-Sewer-November-17-2026-Revised-Agenda.md) | posted |
+| Tue Nov 17, 2026 2:00 PM | Health & Safety | Health & Safety Committee | [posted](../records/health-safety-committee/board/2026/agendas/2026-11-17_Health-Safety-November-17-2026-Agenda.md) | posted |
 | Mon Nov 16, 2026 3:00 PM | Sewer Capacity Subcommittee | Water & Sewer Commission | [posted](../records/water-sewer-commission/board/2026/agendas/2026-11-16_Water-Sewer-November-16-206-Sewer-Capacity-Subcommittee.md) | not yet |
 | Thu Nov 12, 2026 5:30 PM | BOF Hybrid Meeting | Board of Finance | [posted](../records/board-of-finance/board/2026/agendas/2026-11-12_BOF-November-12-2026-Agenda-with-Zoom-Link.md) | posted |
 | Wed Nov 11, 2026 5:30 PM | Board of Finance (Cancelled) | Board of Finance | — | cancelled |
@@ -42,7 +46,7 @@ Meetings on the [Town calendar](https://eltownhall.com/news-and-events/calendar/
 | Tue Nov 3, 2026 2:00 PM | Sewer Capacity Subcommittee | Water & Sewer Commission | [posted](../records/water-sewer-commission/board/2026/agendas/2026-11-03_Water-Sewer-November-3-2026-Sewer-Capacity-SubCommittee-Agenda.md) | not yet |
 | Sat Oct 31, 2026 9:00 AM | IWA Site Walk (CANCELLED) | Inland Wetlands Agency | — | cancelled |
 
-**Not checked yet** (board still being imported): Harbor Management/Shellfish Commission (90), Hazard Mitigation Plan Committee (5), Health & Safety Committee (71), Historic Properties Commission (83), Niantic River Watershed Committee (97), Parks & Recreation Commission (137), Pension Board (30), Town Building Committee (60), Waterford-Shellfish Commission (90), Youth Services Commission (repealed 2023) (23), Youth, Family and Human Services Commission (37)
+**Not checked yet** (board still being imported): Historic Properties Commission (83), Niantic River Watershed Committee (97), Parks & Recreation Commission (137), Pension Board (30), Town Building Committee (60), Waterford-Shellfish Commission (90), Youth Services Commission (repealed 2023) (23), Youth, Family and Human Services Commission (37)
 
 **Calendar entries for bodies this archive doesn't follow** (not checked): POCD Sub-Committee (9), CIP Committee (8), CI Program Committee (5), America 250 (CANCELLED) (5), Agri-Business @ ELHS (4), America 250 (4), POCD Implementation Sub-Committee (3), Affordable Housing Sub-Committee (3), POCD Subcommittee (2), Route 161 Corridor Study – Public Meeting (2), CIP (2), School Building Committee (Via Zoom) (2), School Building Committee (2), Agri-Business (1), Run for the Hills (1), Test (1), Pattagansett Lake Association Annual Meeting (1), Capital Improvement Program (1), School Building Committee (VIA ZOOM) (1), CIP Facilities Tour (Starts at Senior Center) (1), CIP Committee (Cancelled) (1), School Building Committee (Cancelled) (1)
 

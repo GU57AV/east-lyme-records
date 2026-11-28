@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties July 7 2020 Minutes (pdf)",
+  "filename": "Historic-Properties-July-7-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/Historic-Properties-July-7-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-minutes/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-28T12:10:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3e7e6473c7dcfe2cf5a6ebfd1fa1c019d0b19b6393e8676ae1e573973c538563",
+  "bytes": 112480,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Jan 2021 16:18:03 GMT",
+  "etag": "\"166370a-1b760-5b8298d0a84c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-07-07_Historic-Properties-July-7-2020-Minutes--3e7e6473c7dc.pdf",
+  "versions": [
+    {
+      "sha256": "3e7e6473c7dcfe2cf5a6ebfd1fa1c019d0b19b6393e8676ae1e573973c538563",
+      "bytes": 112480,
+      "retrieved_utc": "2026-11-28T12:10:33+00:00",
+      "http_last_modified": "Tue, 05 Jan 2021 16:18:03 GMT"
+    }
+  ]
+}

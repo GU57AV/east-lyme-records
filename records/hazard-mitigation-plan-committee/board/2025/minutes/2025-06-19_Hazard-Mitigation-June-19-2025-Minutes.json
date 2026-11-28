@@ -1,0 +1,29 @@
+{
+  "board": "hazard-mitigation-plan-committee",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Hazard Mitigation Plan Committee June 19 2025 Minutes (pdf)",
+  "filename": "Hazard-Mitigation-June-19-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/Hazard-Mitigation-June-19-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/hazard-mitigation-plan-committee/hazard-mitigation-plan-committee-2025-minutes/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-28T09:38:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "21f9771769519b4b9dea92c197deea7575837d73df10763b61b8e33efc57786c",
+  "bytes": 108579,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Sep 2025 17:49:44 GMT",
+  "etag": "\"1720ea6-1a823-63eeebed095e0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/hazard-mitigation-plan-committee-2025/2025-06-19_Hazard-Mitigation-June-19-2025-Minutes--21f977176951.pdf",
+  "versions": [
+    {
+      "sha256": "21f9771769519b4b9dea92c197deea7575837d73df10763b61b8e33efc57786c",
+      "bytes": 108579,
+      "retrieved_utc": "2026-11-28T09:38:49+00:00",
+      "http_last_modified": "Tue, 16 Sep 2025 17:49:44 GMT"
+    }
+  ]
+}

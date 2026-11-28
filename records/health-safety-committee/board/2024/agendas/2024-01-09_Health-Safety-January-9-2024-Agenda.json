@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety January 9 2024 Agenda (pdf)",
+  "filename": "Health-Safety-January-9-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Health-Safety-January-9-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T10:10:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0dd58c897113abbb84e2a9ec0d0decd2ad877380c9f5811e3897cd2d0cdb7182",
+  "bytes": 44562,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Jan 2024 21:36:16 GMT",
+  "etag": "\"16806f0-ae12-60e258576d400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-01-09_Health-Safety-January-9-2024-Agenda--0dd58c897113.pdf",
+  "versions": [
+    {
+      "sha256": "0dd58c897113abbb84e2a9ec0d0decd2ad877380c9f5811e3897cd2d0cdb7182",
+      "bytes": 44562,
+      "retrieved_utc": "2026-11-28T10:10:18+00:00",
+      "http_last_modified": "Thu, 04 Jan 2024 21:36:16 GMT"
+    }
+  ]
+}

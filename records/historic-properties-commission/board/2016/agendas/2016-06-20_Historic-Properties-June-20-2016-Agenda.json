@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 20 2016 Agenda (pdf)",
+  "filename": "Historic-Properties-June-20-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Historic-Properties-June-20-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T12:38:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "980ea2ab02385dad0c474b17c5d8f87d7f2229796842a14e464edf63ba7b7444",
+  "bytes": 47663,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Jun 2016 18:41:18 GMT",
+  "etag": "\"16e0514-ba2f-535699567cf80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2016/2016-06-20_Historic-Properties-June-20-2016-Agenda--980ea2ab0238.pdf",
+  "versions": [
+    {
+      "sha256": "980ea2ab02385dad0c474b17c5d8f87d7f2229796842a14e464edf63ba7b7444",
+      "bytes": 47663,
+      "retrieved_utc": "2026-11-28T12:38:47+00:00",
+      "http_last_modified": "Thu, 16 Jun 2016 18:41:18 GMT"
+    }
+  ]
+}

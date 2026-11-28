@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Health & Safety September 16 2025 Agenda (pdf)",
+  "filename": "Health-Safety-September-16-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/Health-Safety-September-16-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2025-agendas/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-28T09:57:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4647bd146ef8b740790e709be3dd1b565afcd5676ada470d24a157265365cf2b",
+  "bytes": 43743,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 Sep 2025 15:59:01 GMT",
+  "etag": "\"1720ea0-aadf-63ed914ff18f8\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2025/2025-09-16_Health-Safety-September-16-2025-Agenda--4647bd146ef8.pdf",
+  "versions": [
+    {
+      "sha256": "4647bd146ef8b740790e709be3dd1b565afcd5676ada470d24a157265365cf2b",
+      "bytes": 43743,
+      "retrieved_utc": "2026-11-28T09:57:32+00:00",
+      "http_last_modified": "Mon, 15 Sep 2025 15:59:01 GMT"
+    }
+  ]
+}

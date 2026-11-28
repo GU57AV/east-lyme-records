@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Historic Properties October 1 2019 Minutes (pdf)",
+  "filename": "Historic-Properties-October-1-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/10/Historic-Properties-October-1-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2019-minutes/",
+  "upload_folder": "2019-10",
+  "first_seen_utc": "2026-11-28T12:17:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "99c9c2b3d4390deb042da8c0c5708d1540aaef90c29a697cc77466eb6c91897f",
+  "bytes": 136382,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Oct 2019 18:07:05 GMT",
+  "etag": "\"16c1fa6-214be-59597c8cc8440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2019/2019-10-01_Historic-Properties-October-1-2019-Minutes--99c9c2b3d439.pdf",
+  "versions": [
+    {
+      "sha256": "99c9c2b3d4390deb042da8c0c5708d1540aaef90c29a697cc77466eb6c91897f",
+      "bytes": 136382,
+      "retrieved_utc": "2026-11-28T12:17:57+00:00",
+      "http_last_modified": "Wed, 23 Oct 2019 18:07:05 GMT"
+    }
+  ]
+}

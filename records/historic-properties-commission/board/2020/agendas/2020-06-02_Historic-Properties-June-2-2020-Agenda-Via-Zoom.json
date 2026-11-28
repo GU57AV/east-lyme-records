@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 2 2020 Agenda (Via Zoom) (pdf)",
+  "filename": "Historic-Properties-June-2-2020-Agenda-Via-Zoom.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/Historic-Properties-June-2-2020-Agenda-Via-Zoom.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-28T12:06:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "87fc15685f45ac7ab61a285dbe258658c0c2f85cc151f0960e4c3d8b9ad1805e",
+  "bytes": 74659,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Jun 2020 16:05:19 GMT",
+  "etag": "\"166172b-123a3-5a71c13f06dc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-06-02_Historic-Properties-June-2-2020-Agenda-Via-Zoom--87fc15685f45.pdf",
+  "versions": [
+    {
+      "sha256": "87fc15685f45ac7ab61a285dbe258658c0c2f85cc151f0960e4c3d8b9ad1805e",
+      "bytes": 74659,
+      "retrieved_utc": "2026-11-28T12:06:31+00:00",
+      "http_last_modified": "Tue, 02 Jun 2020 16:05:19 GMT"
+    }
+  ]
+}

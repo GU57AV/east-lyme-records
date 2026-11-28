@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 4 2024 Agenda (pdf)",
+  "filename": "Historic-Properties-June-4-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Historic-Properties-June-4-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-28T11:33:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b7e4dc2080290ea9bcc1da07e395ebb1974657470bcf44d7278928dcbc9cd8e5",
+  "bytes": 32677,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Jun 2024 13:55:18 GMT",
+  "etag": "\"168076c-7fa5-619fcaef4dd80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2024/2024-06-04_Historic-Properties-June-4-2024-Agenda--b7e4dc208029.pdf",
+  "versions": [
+    {
+      "sha256": "b7e4dc2080290ea9bcc1da07e395ebb1974657470bcf44d7278928dcbc9cd8e5",
+      "bytes": 32677,
+      "retrieved_utc": "2026-11-28T11:33:54+00:00",
+      "http_last_modified": "Mon, 03 Jun 2024 13:55:18 GMT"
+    }
+  ]
+}

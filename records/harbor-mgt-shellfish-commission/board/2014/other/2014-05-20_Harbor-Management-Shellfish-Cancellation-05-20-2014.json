@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "other",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish May 20 2014 Cancellation (pdf)",
+  "filename": "Harbor-Management-Shellfish-Cancellation-05-20-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Harbor-Management-Shellfish-Cancellation-05-20-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-managementshellfish-commission-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T09:04:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9af2fc85739a5ec157e464d47bbf9eb01920cb3c30f8303912841784960e6c0c",
+  "bytes": 24686,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT",
+  "etag": "\"1663157-606e-4fbaf4c5f3880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2014/2014-05-20_Harbor-Management-Shellfish-Cancellation-05-20-2014--9af2fc85739a.pdf",
+  "versions": [
+    {
+      "sha256": "9af2fc85739a5ec157e464d47bbf9eb01920cb3c30f8303912841784960e6c0c",
+      "bytes": 24686,
+      "retrieved_utc": "2026-11-28T09:04:05+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT"
+    }
+  ]
+}

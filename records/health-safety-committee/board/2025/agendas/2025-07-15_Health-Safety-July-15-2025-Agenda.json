@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Health & Safety July 15 2025 Agenda (pdf)",
+  "filename": "Health-Safety-July-15-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/07/Health-Safety-July-15-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2025-agendas/",
+  "upload_folder": "2025-07",
+  "first_seen_utc": "2026-11-28T09:58:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a5277b8cd8b27e6082e3264dd758449f6a56f0e6ebe0c95ed826d1571189499a",
+  "bytes": 51754,
+  "pages": 0,
+  "http_last_modified": "Mon, 14 Jul 2025 13:39:03 GMT",
+  "etag": "\"16c02f6-ca2a-639e3c869cbc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2025/2025-07-15_Health-Safety-July-15-2025-Agenda--a5277b8cd8b2.pdf",
+  "versions": [
+    {
+      "sha256": "a5277b8cd8b27e6082e3264dd758449f6a56f0e6ebe0c95ed826d1571189499a",
+      "bytes": 51754,
+      "retrieved_utc": "2026-11-28T09:58:12+00:00",
+      "http_last_modified": "Mon, 14 Jul 2025 13:39:03 GMT"
+    }
+  ]
+}

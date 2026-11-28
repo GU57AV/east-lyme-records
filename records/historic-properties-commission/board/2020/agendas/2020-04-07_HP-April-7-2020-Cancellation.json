@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties April 7 2020 Cancellation (pdf)",
+  "filename": "HP-April-7-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/04/HP-April-7-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-04",
+  "first_seen_utc": "2026-11-28T12:07:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5b06f1318e32e7b95fd81809becd371e6e761ca552d89854a6e6a500087100a8",
+  "bytes": 34418,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Apr 2020 17:27:55 GMT",
+  "etag": "\"16619e0-8672-5a2b6b439fcc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-04-07_HP-April-7-2020-Cancellation--5b06f1318e32.pdf",
+  "versions": [
+    {
+      "sha256": "5b06f1318e32e7b95fd81809becd371e6e761ca552d89854a6e6a500087100a8",
+      "bytes": 34418,
+      "retrieved_utc": "2026-11-28T12:07:11+00:00",
+      "http_last_modified": "Tue, 07 Apr 2020 17:27:55 GMT"
+    }
+  ]
+}

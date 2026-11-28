@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 7 2022 Agenda (pdf)",
+  "filename": "Historic-Properties-June-7-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/Historic-Properties-June-7-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2022-agendas/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-28T11:50:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "58c30e2d8a4ef2d8f58a03019643c312e6434388e0e8ab9d358c5e17a5573e06",
+  "bytes": 40623,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 May 2022 13:26:16 GMT",
+  "etag": "\"16a0b24-9eaf-5e04eb79ace00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2022/2022-06-07_Historic-Properties-June-7-2022-Agenda--58c30e2d8a4e.pdf",
+  "versions": [
+    {
+      "sha256": "58c30e2d8a4ef2d8f58a03019643c312e6434388e0e8ab9d358c5e17a5573e06",
+      "bytes": 40623,
+      "retrieved_utc": "2026-11-28T11:50:02+00:00",
+      "http_last_modified": "Tue, 31 May 2022 13:26:16 GMT"
+    }
+  ]
+}

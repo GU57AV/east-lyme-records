@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Historic Properties Commission August 3 2021 Agenda (pdf)",
+  "filename": "Historic-Properties-Commission-August-3-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/07/Historic-Properties-Commission-August-3-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2021-agendas/",
+  "upload_folder": "2021-07",
+  "first_seen_utc": "2026-11-28T11:58:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bad95c690b6eb2c21442e40c60e15dfa27986df6348c1bd09f0c6a084d838b0b",
+  "bytes": 38248,
+  "pages": 0,
+  "http_last_modified": "Wed, 28 Jul 2021 17:43:22 GMT",
+  "etag": "\"168050f-9568-5c83285c8c280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2021/2021-08-03_Historic-Properties-Commission-August-3-2021-Agenda--bad95c690b6e.pdf",
+  "versions": [
+    {
+      "sha256": "bad95c690b6eb2c21442e40c60e15dfa27986df6348c1bd09f0c6a084d838b0b",
+      "bytes": 38248,
+      "retrieved_utc": "2026-11-28T11:58:06+00:00",
+      "http_last_modified": "Wed, 28 Jul 2021 17:43:22 GMT"
+    }
+  ]
+}

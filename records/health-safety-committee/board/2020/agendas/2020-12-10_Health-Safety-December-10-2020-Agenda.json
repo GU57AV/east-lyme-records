@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Health & Safety December 10 2020 Agenda (pdf)",
+  "filename": "Health-Safety-December-10-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/12/Health-Safety-December-10-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2020-agendas/",
+  "upload_folder": "2020-12",
+  "first_seen_utc": "2026-11-28T10:24:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bc6b5fb27e8aeb57ede4dc2496da717de38309d1a060db259149b3dcfdcd8186",
+  "bytes": 53684,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Dec 2020 18:42:18 GMT",
+  "etag": "\"16615a4-d1b4-5b60c6b343680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2020/2020-12-10_Health-Safety-December-10-2020-Agenda--bc6b5fb27e8a.pdf",
+  "versions": [
+    {
+      "sha256": "bc6b5fb27e8aeb57ede4dc2496da717de38309d1a060db259149b3dcfdcd8186",
+      "bytes": 53684,
+      "retrieved_utc": "2026-11-28T10:24:46+00:00",
+      "http_last_modified": "Wed, 09 Dec 2020 18:42:18 GMT"
+    }
+  ]
+}

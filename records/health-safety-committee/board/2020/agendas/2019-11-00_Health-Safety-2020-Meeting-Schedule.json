@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Health & Safety 2020 Meeting Schedule (pdf)",
+  "filename": "Health-Safety-2020-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/11/Health-Safety-2020-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2020-agendas/",
+  "upload_folder": "2019-11",
+  "first_seen_utc": "2026-11-28T10:26:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "182b5620f6b5ec3bd4a79ba7c75958cafb325c661f814eec06150fc682cf999c",
+  "bytes": 48286,
+  "pages": 0,
+  "http_last_modified": "Mon, 25 Nov 2019 16:12:05 GMT",
+  "etag": "\"16c1f28-bc9e-5982e064a3f40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2020/2019-11-00_Health-Safety-2020-Meeting-Schedule--182b5620f6b5.pdf",
+  "versions": [
+    {
+      "sha256": "182b5620f6b5ec3bd4a79ba7c75958cafb325c661f814eec06150fc682cf999c",
+      "bytes": 48286,
+      "retrieved_utc": "2026-11-28T10:26:06+00:00",
+      "http_last_modified": "Mon, 25 Nov 2019 16:12:05 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties January 7 2020 Agenda (pdf)",
+  "filename": "Historic-Properties-January-7-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/Historic-Properties-January-7-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-28T12:08:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b57f20ac13bb075b51954b4fe36c4aeb944c821ab1aab97267474761c201594",
+  "bytes": 48312,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jan 2020 17:12:29 GMT",
+  "etag": "\"16616f4-bcb8-59b7bc3a1d940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-01-07_Historic-Properties-January-7-2020-Agenda--0b57f20ac13b.pdf",
+  "versions": [
+    {
+      "sha256": "0b57f20ac13bb075b51954b4fe36c4aeb944c821ab1aab97267474761c201594",
+      "bytes": 48312,
+      "retrieved_utc": "2026-11-28T12:08:11+00:00",
+      "http_last_modified": "Mon, 06 Jan 2020 17:12:29 GMT"
+    }
+  ]
+}

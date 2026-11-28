@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Health & Safety February 25 2025 Special Meeting Agenda (pdf)",
+  "filename": "Health-Safety-February-25-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/02/Health-Safety-February-25-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2025-agendas/",
+  "upload_folder": "2025-02",
+  "first_seen_utc": "2026-11-28T09:59:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5ae3c66bfdc864267126aebb1f3d2b22e9f6c3e9d54e0261a982c11aa64a8cd5",
+  "bytes": 50699,
+  "pages": 0,
+  "http_last_modified": "Mon, 24 Feb 2025 17:03:53 GMT",
+  "etag": "\"16c018f-c60b-62ee6532bd040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2025/2025-02-25_Health-Safety-February-25-2025-Agenda--5ae3c66bfdc8.pdf",
+  "versions": [
+    {
+      "sha256": "5ae3c66bfdc864267126aebb1f3d2b22e9f6c3e9d54e0261a982c11aa64a8cd5",
+      "bytes": 50699,
+      "retrieved_utc": "2026-11-28T09:59:53+00:00",
+      "http_last_modified": "Mon, 24 Feb 2025 17:03:53 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Health & Safety February 11 2021 Minutes (pdf)",
+  "filename": "Health-Safety-February-11-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/03/Health-Safety-February-11-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2021-minutes/",
+  "upload_folder": "2021-03",
+  "first_seen_utc": "2026-11-28T10:24:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "98fba8c93aaab64620a4cf3b13c3a94cb53be97d267c1c99e94bd6ff5421d161",
+  "bytes": 75683,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Mar 2021 15:36:25 GMT",
+  "etag": "\"1663647-127a3-5bd08324f5040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2021/2021-02-11_Health-Safety-February-11-2021-Minutes--98fba8c93aaa.pdf",
+  "versions": [
+    {
+      "sha256": "98fba8c93aaab64620a4cf3b13c3a94cb53be97d267c1c99e94bd6ff5421d161",
+      "bytes": 75683,
+      "retrieved_utc": "2026-11-28T10:24:26+00:00",
+      "http_last_modified": "Mon, 08 Mar 2021 15:36:25 GMT"
+    }
+  ]
+}

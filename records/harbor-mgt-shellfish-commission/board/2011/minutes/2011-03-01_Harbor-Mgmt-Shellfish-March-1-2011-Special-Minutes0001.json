@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "minutes",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "Harbor Mgmt Shellfish March 1 2011 Special Minutes (pdf)",
+  "filename": "Harbor-Mgmt-Shellfish-March-1-2011-Special-Minutes0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Harbor-Mgmt-Shellfish-March-1-2011-Special-Minutes0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-management-shellfish-minutes-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T09:33:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e131576bdd9435fe9ea30adf1f0f13efe77519e6d2e83fe8a041904782299423",
+  "bytes": 2528038,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:46:17 GMT",
+  "etag": "\"16614f5-269326-52082a5707040\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2011/2011-03-01_Harbor-Mgmt-Shellfish-March-1-2011-Special-Minutes0001--e131576bdd94.pdf",
+  "versions": [
+    {
+      "sha256": "e131576bdd9435fe9ea30adf1f0f13efe77519e6d2e83fe8a041904782299423",
+      "bytes": 2528038,
+      "retrieved_utc": "2026-11-28T09:33:17+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:46:17 GMT"
+    }
+  ]
+}

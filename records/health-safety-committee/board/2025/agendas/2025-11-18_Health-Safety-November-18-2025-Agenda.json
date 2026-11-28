@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Health & Safety November 18 2025 Agenda (pdf)",
+  "filename": "Health-Safety-November-18-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/Health-Safety-November-18-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-28T09:56:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2ee16d03aca5ec2475f0f5ea8f04219333ecc0ebcc8c179b1f0107454b7a209a",
+  "bytes": 44338,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Nov 2025 14:30:51 GMT",
+  "etag": "\"176000c-ad32-643cb31b140ef\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2025/2025-11-18_Health-Safety-November-18-2025-Agenda--2ee16d03aca5.pdf",
+  "versions": [
+    {
+      "sha256": "2ee16d03aca5ec2475f0f5ea8f04219333ecc0ebcc8c179b1f0107454b7a209a",
+      "bytes": 44338,
+      "retrieved_utc": "2026-11-28T09:56:51+00:00",
+      "http_last_modified": "Mon, 17 Nov 2025 14:30:51 GMT"
+    }
+  ]
+}

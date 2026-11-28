@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety June 11 2024 Special Meeting Minutes (pdf)",
+  "filename": "Health-Safety-June-11-2024-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Health-Safety-June-11-2024-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-minutes/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-28T10:13:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3ec1dd67b5082726bce494a1384d1421bd1a8224f982d6b27abc1c263f0fd7f3",
+  "bytes": 94198,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Jun 2024 16:05:38 GMT",
+  "etag": "\"168079c-16ff6-61b1822d7d880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-06-11_Health-Safety-June-11-2024-Special-Meeting-Minutes--3ec1dd67b508.pdf",
+  "versions": [
+    {
+      "sha256": "3ec1dd67b5082726bce494a1384d1421bd1a8224f982d6b27abc1c263f0fd7f3",
+      "bytes": 94198,
+      "retrieved_utc": "2026-11-28T10:13:20+00:00",
+      "http_last_modified": "Mon, 17 Jun 2024 16:05:38 GMT"
+    }
+  ]
+}

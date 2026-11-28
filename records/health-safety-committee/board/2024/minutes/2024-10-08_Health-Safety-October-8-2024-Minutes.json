@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 8 2024 Minutes (pdf)",
+  "filename": "Health-Safety-October-8-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Health-Safety-October-8-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2024-minutes/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-28T10:11:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a102455c9d670855848b1d508c560f80757a804a6285caf17ad914e02db966f8",
+  "bytes": 92462,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Oct 2024 15:27:52 GMT",
+  "etag": "\"1680971-1692e-6240ce5b02e00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2024/2024-10-08_Health-Safety-October-8-2024-Minutes--a102455c9d67.pdf",
+  "versions": [
+    {
+      "sha256": "a102455c9d670855848b1d508c560f80757a804a6285caf17ad914e02db966f8",
+      "bytes": 92462,
+      "retrieved_utc": "2026-11-28T10:11:39+00:00",
+      "http_last_modified": "Wed, 09 Oct 2024 15:27:52 GMT"
+    }
+  ]
+}

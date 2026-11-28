@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 3 2023 Agenda (pdf)",
+  "filename": "Health-Safety-October-3-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Health-Safety-October-3-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2023-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-28T10:15:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eeb6cfd001bc2bf01f1fb6ba1f85f6ad2390859c88b9daaaae1d8922066fb566",
+  "bytes": 45116,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Oct 2023 12:56:26 GMT",
+  "etag": "\"16e021c-b03c-606bb4d4ff280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2023/2023-10-03_Health-Safety-October-3-2023-Agenda--eeb6cfd001bc.pdf",
+  "versions": [
+    {
+      "sha256": "eeb6cfd001bc2bf01f1fb6ba1f85f6ad2390859c88b9daaaae1d8922066fb566",
+      "bytes": 45116,
+      "retrieved_utc": "2026-11-28T10:15:21+00:00",
+      "http_last_modified": "Mon, 02 Oct 2023 12:56:26 GMT"
+    }
+  ]
+}

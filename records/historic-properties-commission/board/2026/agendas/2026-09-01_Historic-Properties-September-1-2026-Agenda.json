@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Historic Properties September 1 2026 Agenda (pdf)",
+  "filename": "Historic-Properties-September-1-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Historic-Properties-September-1-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2026-agendas/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-28T11:19:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6c6a38c608cab6111e1b0724d5b1a91423d13018e704b0d778d5e8b5a108705b",
+  "bytes": 35411,
+  "pages": 0,
+  "http_last_modified": "Wed, 02 Sep 2026 14:41:52 GMT",
+  "etag": "\"16e0f26-8a53-65a81093e3cb0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2026/2026-09-01_Historic-Properties-September-1-2026-Agenda--6c6a38c608ca.pdf",
+  "versions": [
+    {
+      "sha256": "6c6a38c608cab6111e1b0724d5b1a91423d13018e704b0d778d5e8b5a108705b",
+      "bytes": 35411,
+      "retrieved_utc": "2026-11-28T11:19:07+00:00",
+      "http_last_modified": "Wed, 02 Sep 2026 14:41:52 GMT"
+    }
+  ]
+}

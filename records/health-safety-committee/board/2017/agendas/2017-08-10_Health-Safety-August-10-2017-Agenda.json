@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Health & Safety August 10 2017 Agenda (pdf)",
+  "filename": "Health-Safety-August-10-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Health-Safety-August-10-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T10:37:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e4ccaf62d41e4a21adf41240b547ee2ef30635f769269d329fa470f48f4b858f",
+  "bytes": 43290,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Aug 2017 14:06:48 GMT",
+  "etag": "\"166299d-a91a-556529739ae00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2017/2017-08-10_Health-Safety-August-10-2017-Agenda--e4ccaf62d41e.pdf",
+  "versions": [
+    {
+      "sha256": "e4ccaf62d41e4a21adf41240b547ee2ef30635f769269d329fa470f48f4b858f",
+      "bytes": 43290,
+      "retrieved_utc": "2026-11-28T10:37:52+00:00",
+      "http_last_modified": "Wed, 09 Aug 2017 14:06:48 GMT"
+    }
+  ]
+}

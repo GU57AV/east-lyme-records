@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Health & Safety December 16 2025 Minutes (pdf)",
+  "filename": "Health-Safety-December-16-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Health-Safety-December-16-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2025-minutes/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-28T10:01:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "536ad52d3b3ff7acb411da6d6a4328ae3c0a228418f9c92af9a07545a9ea9373",
+  "bytes": 94212,
+  "pages": 0,
+  "http_last_modified": "Wed, 17 Dec 2025 20:37:22 GMT",
+  "etag": "\"1a2007c-17004-6462bcfbb6a88\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2025/2025-12-16_Health-Safety-December-16-2025-Minutes--536ad52d3b3f.pdf",
+  "versions": [
+    {
+      "sha256": "536ad52d3b3ff7acb411da6d6a4328ae3c0a228418f9c92af9a07545a9ea9373",
+      "bytes": 94212,
+      "retrieved_utc": "2026-11-28T10:01:34+00:00",
+      "http_last_modified": "Wed, 17 Dec 2025 20:37:22 GMT"
+    }
+  ]
+}

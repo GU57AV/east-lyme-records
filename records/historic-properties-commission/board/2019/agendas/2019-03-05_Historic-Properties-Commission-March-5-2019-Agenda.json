@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Historic Properties Commission March 5 2019 Agenda (pdf)",
+  "filename": "Historic-Properties-Commission-March-5-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/Historic-Properties-Commission-March-5-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2019-agendas/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-28T12:15:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1d6c41df829ee028a05c4573c9864c237024c40114387290903b9fa4bde18e14",
+  "bytes": 49883,
+  "pages": 0,
+  "http_last_modified": "Mon, 04 Mar 2019 13:58:22 GMT",
+  "etag": "\"16c19b4-c2db-58345264b3b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2019/2019-03-05_Historic-Properties-Commission-March-5-2019-Agenda--1d6c41df829e.pdf",
+  "versions": [
+    {
+      "sha256": "1d6c41df829ee028a05c4573c9864c237024c40114387290903b9fa4bde18e14",
+      "bytes": 49883,
+      "retrieved_utc": "2026-11-28T12:15:56+00:00",
+      "http_last_modified": "Mon, 04 Mar 2019 13:58:22 GMT"
+    }
+  ]
+}

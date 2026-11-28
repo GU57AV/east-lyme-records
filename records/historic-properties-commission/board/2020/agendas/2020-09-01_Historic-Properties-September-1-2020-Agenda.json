@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties September 1 2020 Agenda (at Brookside Farm Barn) (pdf)",
+  "filename": "Historic-Properties-September-1-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/Historic-Properties-September-1-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-28T12:05:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "47f012e8b02ac845e87682ed3b8b0913568d617bf73b3d3fc39c77957478728d",
+  "bytes": 48111,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Sep 2020 12:41:22 GMT",
+  "etag": "\"16618d0-bbef-5ae3fd61dc080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-09-01_Historic-Properties-September-1-2020-Agenda--47f012e8b02a.pdf",
+  "versions": [
+    {
+      "sha256": "47f012e8b02ac845e87682ed3b8b0913568d617bf73b3d3fc39c77957478728d",
+      "bytes": 48111,
+      "retrieved_utc": "2026-11-28T12:05:10+00:00",
+      "http_last_modified": "Tue, 01 Sep 2020 12:41:22 GMT"
+    }
+  ]
+}

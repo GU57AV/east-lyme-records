@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Health & Safety August 8 2019 Cancellation (pdf)",
+  "filename": "Health-Safety-August-8-2019-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/08/Health-Safety-August-8-2019-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2019-agendas/",
+  "upload_folder": "2019-08",
+  "first_seen_utc": "2026-11-28T10:28:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9b38fe52b76135ed042fd2e3797af976dc0dfe7c2a14ccccad8d4e77a005bcb9",
+  "bytes": 43932,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Aug 2019 12:51:31 GMT",
+  "etag": "\"16c21c2-ab9c-58f9a844e1ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2019/2019-08-08_Health-Safety-August-8-2019-Cancellation--9b38fe52b761.pdf",
+  "versions": [
+    {
+      "sha256": "9b38fe52b76135ed042fd2e3797af976dc0dfe7c2a14ccccad8d4e77a005bcb9",
+      "bytes": 43932,
+      "retrieved_utc": "2026-11-28T10:28:28+00:00",
+      "http_last_modified": "Thu, 08 Aug 2019 12:51:31 GMT"
+    }
+  ]
+}

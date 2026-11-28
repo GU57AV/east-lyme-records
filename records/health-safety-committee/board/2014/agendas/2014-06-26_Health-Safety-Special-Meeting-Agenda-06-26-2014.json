@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Health & Safety Special Meeting Agenda 06-26-2014 (pdf)",
+  "filename": "Health-Safety-Special-Meeting-Agenda-06-26-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/Health-Safety-Special-Meeting-Agenda-06-26-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-a-safety-committee-2014-agendas/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-28T11:01:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3034ef7c27fe39feb99e95e501fa32b0455285f72d1820693db80224d0a33eeb",
+  "bytes": 33862,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:12:14 GMT",
+  "etag": "\"1663489-8446-520822baabb80\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2014/2014-06-26_Health-Safety-Special-Meeting-Agenda-06-26-2014--3034ef7c27fe.pdf",
+  "versions": [
+    {
+      "sha256": "3034ef7c27fe39feb99e95e501fa32b0455285f72d1820693db80224d0a33eeb",
+      "bytes": 33862,
+      "retrieved_utc": "2026-11-28T11:01:04+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:12:14 GMT"
+    }
+  ]
+}

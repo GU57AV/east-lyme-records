@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2013",
+  "subcommittee": false,
+  "link_text": "Harbor Mgmt Shellfish June 27 2013 Agenda (pdf)",
+  "filename": "Harbor-Mgmt-Shellfish-June-27-2013-Agenda0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Harbor-Mgmt-Shellfish-June-27-2013-Agenda0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-management-shellfish-agendas-2013/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T09:12:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3aeda84bd76459b9f5913b07e7b75da2e5b585663d5dc6a9a18e8bae559a2f54",
+  "bytes": 329296,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:45:45 GMT",
+  "etag": "\"1663512-50650-52082a3882840\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2013/2013-06-27_Harbor-Mgmt-Shellfish-June-27-2013-Agenda0001--3aeda84bd764.pdf",
+  "versions": [
+    {
+      "sha256": "3aeda84bd76459b9f5913b07e7b75da2e5b585663d5dc6a9a18e8bae559a2f54",
+      "bytes": 329296,
+      "retrieved_utc": "2026-11-28T09:12:30+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:45:45 GMT"
+    }
+  ]
+}

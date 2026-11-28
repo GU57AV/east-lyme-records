@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "East Lyme House Plaque order form (pdf)",
+  "filename": "East-Lyme-House-Plaque-order-form.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/05/East-Lyme-House-Plaque-order-form.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/house-plaque-program/",
+  "upload_folder": "2022-05",
+  "first_seen_utc": "2026-11-28T11:18:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6325120be4705065f803c1471efc6d67e1fc8011ddabe6f4010d5640a0b752da",
+  "bytes": 115635,
+  "pages": 0,
+  "http_last_modified": "Mon, 23 May 2022 16:01:51 GMT",
+  "etag": "\"16a0aff-1c3b3-5dfaff54899c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2022/2022-05-00_East-Lyme-House-Plaque-order-form--6325120be470.pdf",
+  "versions": [
+    {
+      "sha256": "6325120be4705065f803c1471efc6d67e1fc8011ddabe6f4010d5640a0b752da",
+      "bytes": 115635,
+      "retrieved_utc": "2026-11-28T11:18:07+00:00",
+      "http_last_modified": "Mon, 23 May 2022 16:01:51 GMT"
+    }
+  ]
+}

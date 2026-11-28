@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Health & Safety April 8 2021 Cancellation (pdf)",
+  "filename": "Health-Safety-April-8-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/04/Health-Safety-April-8-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2021-agendas/",
+  "upload_folder": "2021-04",
+  "first_seen_utc": "2026-11-28T10:21:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f527efc186dc6504d6056fbbe03b76a4e0c01bc4c7ed9fe0834939d97d53a3e3",
+  "bytes": 26840,
+  "pages": 0,
+  "http_last_modified": "Tue, 06 Apr 2021 12:48:38 GMT",
+  "etag": "\"16803e9-68d8-5bf4d3baaf580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2021/2021-04-08_Health-Safety-April-8-2021-Cancellation--f527efc186dc.pdf",
+  "versions": [
+    {
+      "sha256": "f527efc186dc6504d6056fbbe03b76a4e0c01bc4c7ed9fe0834939d97d53a3e3",
+      "bytes": 26840,
+      "retrieved_utc": "2026-11-28T10:21:44+00:00",
+      "http_last_modified": "Tue, 06 Apr 2021 12:48:38 GMT"
+    }
+  ]
+}

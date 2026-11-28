@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "Historic Properties February 4 2020 Agenda (pdf)",
+  "filename": "Historic-Properties-February-4-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/02/Historic-Properties-February-4-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2020-agendas/",
+  "upload_folder": "2020-02",
+  "first_seen_utc": "2026-11-28T12:07:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0b16be396aea24322611a25d58dff637ed76e2d92c8190d475550c017e72e87b",
+  "bytes": 48950,
+  "pages": 0,
+  "http_last_modified": "Mon, 03 Feb 2020 19:26:08 GMT",
+  "etag": "\"16617c1-bf36-59db0e5289400\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2020/2020-02-04_Historic-Properties-February-4-2020-Agenda--0b16be396aea.pdf",
+  "versions": [
+    {
+      "sha256": "0b16be396aea24322611a25d58dff637ed76e2d92c8190d475550c017e72e87b",
+      "bytes": 48950,
+      "retrieved_utc": "2026-11-28T12:07:51+00:00",
+      "http_last_modified": "Mon, 03 Feb 2020 19:26:08 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Health & Safety Minutes 07-17-2014 (pdf)",
+  "filename": "Health-Safety-Minutes-07-17-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Health-Safety-Minutes-07-17-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-a-safety-2014-meeting-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T11:05:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d5549d0d7ef4d14b1f68a010a7e3a471a9f55026f07c61d99fe5793662af5b7",
+  "bytes": 158428,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:48:36 GMT",
+  "etag": "\"1661fdd-26adc-52082adb96900\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2014/2014-07-17_Health-Safety-Minutes-07-17-2014--5d5549d0d7ef.pdf",
+  "versions": [
+    {
+      "sha256": "5d5549d0d7ef4d14b1f68a010a7e3a471a9f55026f07c61d99fe5793662af5b7",
+      "bytes": 158428,
+      "retrieved_utc": "2026-11-28T11:05:26+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:48:36 GMT"
+    }
+  ]
+}

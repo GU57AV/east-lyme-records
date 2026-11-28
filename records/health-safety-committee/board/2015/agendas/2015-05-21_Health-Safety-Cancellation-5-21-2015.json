@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Health & Safety Cancellation 5-21-2015 (pdf)",
+  "filename": "Health-Safety-Cancellation-5-21-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Health-Safety-Cancellation-5-21-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-2015-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T10:53:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd7f9bfc0906a02f0b97b44bc198fafff3ea14ac91a782ed6d98d4f635f2f767",
+  "bytes": 36504,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:48:33 GMT",
+  "etag": "\"1663c63-8e98-52082ad8ba240\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2015/2015-05-21_Health-Safety-Cancellation-5-21-2015--bd7f9bfc0906.pdf",
+  "versions": [
+    {
+      "sha256": "bd7f9bfc0906a02f0b97b44bc198fafff3ea14ac91a782ed6d98d4f635f2f767",
+      "bytes": 36504,
+      "retrieved_utc": "2026-11-28T10:53:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:48:33 GMT"
+    }
+  ]
+}

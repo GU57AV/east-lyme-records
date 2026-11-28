@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Historic Properties February 7 2023 Agenda (pdf)",
+  "filename": "Historic-Properties-February-7-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/02/Historic-Properties-February-7-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2023-agendas/",
+  "upload_folder": "2023-02",
+  "first_seen_utc": "2026-11-28T11:43:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ed0bdf2d8c2fd74cd8697d563924559a4936fcf80b23b6c3aea65d4b3e9f6019",
+  "bytes": 38709,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Feb 2023 13:45:13 GMT",
+  "etag": "\"16e00ca-9735-5f4083d8b2c40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2023/2023-02-07_Historic-Properties-February-7-2023-Agenda--ed0bdf2d8c2f.pdf",
+  "versions": [
+    {
+      "sha256": "ed0bdf2d8c2fd74cd8697d563924559a4936fcf80b23b6c3aea65d4b3e9f6019",
+      "bytes": 38709,
+      "retrieved_utc": "2026-11-28T11:43:19+00:00",
+      "http_last_modified": "Mon, 06 Feb 2023 13:45:13 GMT"
+    }
+  ]
+}

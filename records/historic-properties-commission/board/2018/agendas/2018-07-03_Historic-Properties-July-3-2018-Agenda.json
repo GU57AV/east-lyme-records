@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Historic Properties Commission July 3 2018 Agenda (pdf)",
+  "filename": "Historic-Properties-July-3-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/07/Historic-Properties-July-3-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2018-agendas/",
+  "upload_folder": "2018-07",
+  "first_seen_utc": "2026-11-28T12:22:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b9b59b25be83adfa411734bfaaeb0987bfff4b3eeebf7909f5ab100366af3d57",
+  "bytes": 44573,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Jul 2018 19:32:15 GMT",
+  "etag": "\"16c17c2-ae1d-57009413badc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2018/2018-07-03_Historic-Properties-July-3-2018-Agenda--b9b59b25be83.pdf",
+  "versions": [
+    {
+      "sha256": "b9b59b25be83adfa411734bfaaeb0987bfff4b3eeebf7909f5ab100366af3d57",
+      "bytes": 44573,
+      "retrieved_utc": "2026-11-28T12:22:19+00:00",
+      "http_last_modified": "Mon, 02 Jul 2018 19:32:15 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "health-safety-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Health & Safety October 15 2021 Agenda (via Zoom) (pdf)",
+  "filename": "Health-Safety-October-15-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Health-Safety-October-15-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/health-safety-committee/health-safety-committee-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-28T10:20:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "41401ec758fdad287b44535a0d75491d8a77b34ab2cbc0fa59207d54299614da",
+  "bytes": 52719,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 Sep 2021 14:24:48 GMT",
+  "etag": "\"1680317-cdef-5cd2317a82c00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/health-safety-committee-2021/2021-10-15_Health-Safety-October-15-2021-Agenda--41401ec758fd.pdf",
+  "versions": [
+    {
+      "sha256": "41401ec758fdad287b44535a0d75491d8a77b34ab2cbc0fa59207d54299614da",
+      "bytes": 52719,
+      "retrieved_utc": "2026-11-28T10:20:03+00:00",
+      "http_last_modified": "Wed, 29 Sep 2021 14:24:48 GMT"
+    }
+  ]
+}

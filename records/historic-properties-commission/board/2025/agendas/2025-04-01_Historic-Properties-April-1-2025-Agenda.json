@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Historic Properties April 1 2025 Agenda (pdf)",
+  "filename": "Historic-Properties-April-1-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/Historic-Properties-April-1-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-28T11:26:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a053fd7d92a5fd77e47dce435ebd7c3a15b4b5ab2cbe79c59d77f248dcb94551",
+  "bytes": 28433,
+  "pages": 0,
+  "http_last_modified": "Mon, 31 Mar 2025 13:26:27 GMT",
+  "etag": "\"16a1530-6f11-631a35e03c6c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2025/2025-04-01_Historic-Properties-April-1-2025-Agenda--a053fd7d92a5.pdf",
+  "versions": [
+    {
+      "sha256": "a053fd7d92a5fd77e47dce435ebd7c3a15b4b5ab2cbe79c59d77f248dcb94551",
+      "bytes": 28433,
+      "retrieved_utc": "2026-11-28T11:26:51+00:00",
+      "http_last_modified": "Mon, 31 Mar 2025 13:26:27 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Historic Properties February 2 2021 Cancellation (pdf)",
+  "filename": "Historic-Properties-February-2-2021-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/02/Historic-Properties-February-2-2021-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2021-agendas/",
+  "upload_folder": "2021-02",
+  "first_seen_utc": "2026-11-28T12:00:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2c1c078c806af12e8e4c857adf1aac4fbc24dd1fed97a24fd4dfac529d2733a3",
+  "bytes": 51617,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Feb 2021 14:57:59 GMT",
+  "etag": "\"1680089-c9a1-5ba47946a6bc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2021/2021-02-02_Historic-Properties-February-2-2021-Cancellation--2c1c078c806a.pdf",
+  "versions": [
+    {
+      "sha256": "2c1c078c806af12e8e4c857adf1aac4fbc24dd1fed97a24fd4dfac529d2733a3",
+      "bytes": 51617,
+      "retrieved_utc": "2026-11-28T12:00:07+00:00",
+      "http_last_modified": "Mon, 01 Feb 2021 14:57:59 GMT"
+    }
+  ]
+}

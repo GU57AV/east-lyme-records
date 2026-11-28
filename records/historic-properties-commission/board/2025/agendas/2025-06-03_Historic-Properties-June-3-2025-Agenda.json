@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 3 2025 Agenda (pdf)",
+  "filename": "Historic-Properties-June-3-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/06/Historic-Properties-June-3-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2025-agendas/",
+  "upload_folder": "2025-06",
+  "first_seen_utc": "2026-11-28T11:26:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "12adf1d91d654a8fca825560198bbe4f642d9b04b0c4cce0ff75a442cba27be2",
+  "bytes": 29581,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Jun 2025 12:21:08 GMT",
+  "etag": "\"16c00ba-738d-63695cc6d3500\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2025/2025-06-03_Historic-Properties-June-3-2025-Agenda--12adf1d91d65.pdf",
+  "versions": [
+    {
+      "sha256": "12adf1d91d654a8fca825560198bbe4f642d9b04b0c4cce0ff75a442cba27be2",
+      "bytes": 29581,
+      "retrieved_utc": "2026-11-28T11:26:11+00:00",
+      "http_last_modified": "Mon, 02 Jun 2025 12:21:08 GMT"
+    }
+  ]
+}
