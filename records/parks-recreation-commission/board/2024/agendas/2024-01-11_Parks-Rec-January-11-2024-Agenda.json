@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks & Rec January 11 2024 Agenda (pdf)",
+  "filename": "Parks-Rec-January-11-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Parks-Rec-January-11-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T17:43:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ed4d7ddb8365d9a6dd370b9d4820a5e36865b8747d9e2d5e1b77c47ae84063d1",
+  "bytes": 41609,
+  "pages": 0,
+  "http_last_modified": "Fri, 05 Jan 2024 14:39:15 GMT",
+  "etag": "\"16806cd-a289-60e33cff00ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2024-01-11_Parks-Rec-January-11-2024-Agenda--ed4d7ddb8365.pdf",
+  "versions": [
+    {
+      "sha256": "ed4d7ddb8365d9a6dd370b9d4820a5e36865b8747d9e2d5e1b77c47ae84063d1",
+      "bytes": 41609,
+      "retrieved_utc": "2026-11-28T17:43:22+00:00",
+      "http_last_modified": "Fri, 05 Jan 2024 14:39:15 GMT"
+    }
+  ]
+}

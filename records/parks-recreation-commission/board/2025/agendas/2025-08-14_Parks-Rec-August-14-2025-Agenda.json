@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Parks & Rec August 14 2025 Agenda (pdf)",
+  "filename": "Parks-Rec-August-14-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/Parks-Rec-August-14-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-28T17:31:37+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ffd554e8d623aab5b4559d6a8b81313fa090474d352784ad6f7670c7d7a8eb50",
+  "bytes": 41734,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Aug 2025 20:00:54 GMT",
+  "etag": "\"16c02c0-a306-63ba3ae862980\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2025/2025-08-14_Parks-Rec-August-14-2025-Agenda--ffd554e8d623.pdf",
+  "versions": [
+    {
+      "sha256": "ffd554e8d623aab5b4559d6a8b81313fa090474d352784ad6f7670c7d7a8eb50",
+      "bytes": 41734,
+      "retrieved_utc": "2026-11-28T17:31:37+00:00",
+      "http_last_modified": "Tue, 05 Aug 2025 20:00:54 GMT"
+    }
+  ]
+}

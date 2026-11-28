@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks & Rec October 10 2024 Cancellation (pdf)",
+  "filename": "Parks-Rec-October-10-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/10/Parks-Rec-October-10-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2024-agendas/",
+  "upload_folder": "2024-10",
+  "first_seen_utc": "2026-11-28T17:39:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2a72b2ff7ada7c1ceaa4d3d147ca96f9a2004c95c940865ea35b0bf261a0e036",
+  "bytes": 46294,
+  "pages": 0,
+  "http_last_modified": "Fri, 11 Oct 2024 12:26:08 GMT",
+  "etag": "\"168097a-b4d6-6243297711800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2024-10-10_Parks-Rec-October-10-2024-Cancellation--2a72b2ff7ada.pdf",
+  "versions": [
+    {
+      "sha256": "2a72b2ff7ada7c1ceaa4d3d147ca96f9a2004c95c940865ea35b0bf261a0e036",
+      "bytes": 46294,
+      "retrieved_utc": "2026-11-28T17:39:41+00:00",
+      "http_last_modified": "Fri, 11 Oct 2024 12:26:08 GMT"
+    }
+  ]
+}

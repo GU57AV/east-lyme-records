@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks & Rec March 14 2024 Minutes (pdf)",
+  "filename": "Parks-Rec-March-14-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/03/Parks-Rec-March-14-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2024-minutes/",
+  "upload_folder": "2024-03",
+  "first_seen_utc": "2026-11-28T17:46:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "96ab1a1bfea4ec81ba3a737df4a76b86eea739fdd7fbe25f2fb52883870a8152",
+  "bytes": 136575,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 Mar 2024 12:39:56 GMT",
+  "etag": "\"16805ce-2157f-61416e3537f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2024-03-14_Parks-Rec-March-14-2024-Minutes--96ab1a1bfea4.pdf",
+  "versions": [
+    {
+      "sha256": "96ab1a1bfea4ec81ba3a737df4a76b86eea739fdd7fbe25f2fb52883870a8152",
+      "bytes": 136575,
+      "retrieved_utc": "2026-11-28T17:46:04+00:00",
+      "http_last_modified": "Wed, 20 Mar 2024 12:39:56 GMT"
+    }
+  ]
+}

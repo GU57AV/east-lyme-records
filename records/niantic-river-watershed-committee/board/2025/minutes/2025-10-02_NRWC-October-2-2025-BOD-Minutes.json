@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "NRWC October 2 2025 BOD Minutes (pdf)",
+  "filename": "NRWC-October-2-2025-BOD-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/NRWC-October-2-2025-BOD-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2025-minutes/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T14:55:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "625856dc029eb39445bfce8ffc0b7a11ebf1349e4d957609e39b429fb77b3d9c",
+  "bytes": 251534,
+  "pages": 0,
+  "http_last_modified": "Wed, 07 Jan 2026 14:22:18 GMT",
+  "etag": "\"1701110-3d68e-647cd0500994a\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2025/2025-10-02_NRWC-October-2-2025-BOD-Minutes--625856dc029e.pdf",
+  "versions": [
+    {
+      "sha256": "625856dc029eb39445bfce8ffc0b7a11ebf1349e4d957609e39b429fb77b3d9c",
+      "bytes": 251534,
+      "retrieved_utc": "2026-11-28T14:55:12+00:00",
+      "http_last_modified": "Wed, 07 Jan 2026 14:22:18 GMT"
+    }
+  ]
+}

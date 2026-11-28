@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks & Rec 2024 Meeting Schedule (pdf)",
+  "filename": "Parks-Rec-2024-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/10/Parks-Rec-2024-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2024-agendas/",
+  "upload_folder": "2023-10",
+  "first_seen_utc": "2026-11-28T17:43:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "649869a34f5f2df903c678d6e54d09dd6ae554a3666b009731f3dc0de1709f9f",
+  "bytes": 41058,
+  "pages": 0,
+  "http_last_modified": "Tue, 31 Oct 2023 14:17:34 GMT",
+  "etag": "\"16e0204-a062-60903d0dd9b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2023-10-00_Parks-Rec-2024-Meeting-Schedule--649869a34f5f.pdf",
+  "versions": [
+    {
+      "sha256": "649869a34f5f2df903c678d6e54d09dd6ae554a3666b009731f3dc0de1709f9f",
+      "bytes": 41058,
+      "retrieved_utc": "2026-11-28T17:43:43+00:00",
+      "http_last_modified": "Tue, 31 Oct 2023 14:17:34 GMT"
+    }
+  ]
+}

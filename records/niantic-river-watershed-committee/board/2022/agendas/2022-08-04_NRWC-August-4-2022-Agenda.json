@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "NRWC August 4 2022 Agenda (pdf)",
+  "filename": "NRWC-August-4-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/NRWC-August-4-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2022-agendas/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-28T15:18:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "83343898ee61f7af3d452753b886541c3b15f7ca04c6c6a7c9468315d9f1dc14",
+  "bytes": 199468,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Aug 2022 19:48:55 GMT",
+  "etag": "\"16a139b-30b2c-5e56fa3c0b7c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2022/2022-08-04_NRWC-August-4-2022-Agenda--83343898ee61.pdf",
+  "versions": [
+    {
+      "sha256": "83343898ee61f7af3d452753b886541c3b15f7ca04c6c6a7c9468315d9f1dc14",
+      "bytes": 199468,
+      "retrieved_utc": "2026-11-28T15:18:27+00:00",
+      "http_last_modified": "Thu, 04 Aug 2022 19:48:55 GMT"
+    }
+  ]
+}

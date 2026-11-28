@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "NRWC Monitoring Sub-Committee May 5 2016 Minutes (pdf)",
+  "filename": "NRWC-May-5-2016-Monitoring-Sub-Committee-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/NRWC-May-5-2016-Monitoring-Sub-Committee-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T16:25:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "819bd5bdf5615cc638030f3f56435a615e1b12b82558de96db6324150c274e9a",
+  "bytes": 105716,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Jun 2016 18:21:31 GMT",
+  "etag": "\"16e039e-19cf4-53682f06ee0c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2016/2016-05-05_NRWC-May-5-2016-Monitoring-Sub-Committee-Minutes--819bd5bdf561.pdf",
+  "versions": [
+    {
+      "sha256": "819bd5bdf5615cc638030f3f56435a615e1b12b82558de96db6324150c274e9a",
+      "bytes": 105716,
+      "retrieved_utc": "2026-11-28T16:25:44+00:00",
+      "http_last_modified": "Thu, 30 Jun 2016 18:21:31 GMT"
+    }
+  ]
+}

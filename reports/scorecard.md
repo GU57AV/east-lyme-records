@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 28, 2026 7:39 AM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 12:47 PM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -24,7 +24,9 @@ Meetings from Nov 28, 2025 through yesterday.
 | Harbor Management/Shellfish Commission | 10 | 100% (10/10) | 100% (10/10) | 80% (8/10) | 12% (1/8) | 14.5 | 3 |
 | Hazard Mitigation Plan Committee | 2 | 100% (2/2) | 100% (2/2) | 0% (0/2) | — | — | 2 |
 | Health & Safety Committee | 8 | 100% (8/8) | 62% (5/8) | 100% (8/8) | 62% (5/8) | 4.5 | 5 |
-| Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
+| Historic Properties Commission | 12 | 100% (12/12) | 83% (10/12) | 42% (5/12) | 0% (0/5) | 27 | 7 |
+| Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 19 |
+| Niantic River Watershed Committee | 12 | 100% (12/12) | 75% (9/12) | 75% (9/12) | 0% (0/9) | 63 | 3 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Public Library Board of Trustees | 7 | 0% (0/7) | — | 86% (6/7) | 33% (2/6) | 16.5 | 15 |
 | Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
@@ -50,7 +52,9 @@ Meetings from Nov 28, 2025 through yesterday.
 | Harbor Management/Shellfish Commission | 31 | 100% (31/31) | 97% (30/31) | 90% (28/31) | 57% (16/28) | 7 | 3 |
 | Hazard Mitigation Plan Committee | 4 | 75% (3/4) | 100% (3/3) | 50% (2/4) | 0% (0/2) | 89.5 | 2 |
 | Health & Safety Committee | 32 | 91% (29/32) | 86% (25/29) | 88% (28/32) | 57% (16/28) | 6 | 5 |
-| Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
+| Historic Properties Commission | 34 | 100% (34/34) | 88% (30/34) | 79% (27/34) | 0% (0/27) | 27 | 7 |
+| Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 19 |
+| Niantic River Watershed Committee | 35 | 100% (35/35) | 80% (28/35) | 91% (32/35) | 0% (0/32) | 62 | 3 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Public Library Board of Trustees | 19 | 26% (5/19) | 100% (5/5) | 89% (17/19) | 18% (3/17) | 21 | 15 |
 | Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |
@@ -187,6 +191,23 @@ Meetings from Nov 28, 2025 through yesterday.
 
 </details>
 
+<details><summary>Historic Properties Commission (12)</summary>
+
+- Tue Dec 2, 2025 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2025/agendas/2025-12-02_Historic-Properties-December-2-2025-Agenda.md))
+- Tue Jan 6, 2026 — Historic Properties: agenda not online 24 h ahead; current minutes file uploaded after 27 days ([document](../records/historic-properties-commission/board/2026/agendas/2026-01-06_Historic-Properties-January-6-2026-Agenda-1.md))
+- Tue Feb 3, 2026 — Historic Properties: current minutes file uploaded after 27 days ([document](../records/historic-properties-commission/board/2026/agendas/2026-02-03_Historic-Properties-Commission-February-3-2026-Agenda.md))
+- Tue Mar 3, 2026 — Historic Properties: current minutes file uploaded after 34 days ([document](../records/historic-properties-commission/board/2026/agendas/2026-03-03_Historic-Properties-March-3-2026-Agenda.md))
+- Tue Apr 7, 2026 — Historic Properties: current minutes file uploaded after 24 days ([document](../records/historic-properties-commission/board/2026/agendas/2026-04-07_Historic-Properties-April-7-2026-Agenda.md))
+- Tue May 5, 2026 — Historic Properties: current minutes file uploaded after 27 days ([document](../records/historic-properties-commission/board/2026/agendas/2026-05-05_Historic-Properties-May-5-2026-Agenda.md))
+- Tue Jun 2, 2026 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-06-02_Historic-Properties-June-2-2026-Agenda.md))
+- Tue Jul 7, 2026 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-07-07_Historic-Properties-July-7-2026-Agenda.md))
+- Tue Aug 4, 2026 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-08-04_Historic-Properties-August-4-2026-Agenda.md))
+- Tue Sep 1, 2026 — Historic Properties: agenda not online 24 h ahead; no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-09-01_Historic-Properties-September-1-2026-Agenda.md))
+- Tue Oct 6, 2026 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-10-06_Historic-Properties-October-6-2026-Agenda.md))
+- Tue Nov 10, 2026 — Historic Properties: no minutes found ([document](../records/historic-properties-commission/board/2026/agendas/2026-11-10_Historic-Properties-November-10-2026-Agenda.md))
+
+</details>
+
 <details><summary>Inland Wetlands Agency (10)</summary>
 
 - Tue Dec 2, 2025 — IWA: current minutes file uploaded after 58 days ([document](../records/inland-wetlands-agency/board/2025/agendas/2025-12-02_IWA-December-2-2025-Agenda.md))
@@ -199,6 +220,23 @@ Meetings from Nov 28, 2025 through yesterday.
 - Tue Aug 4, 2026 — IWA: current minutes file uploaded after 8 days ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-08-04_IWA-August-4-2026-Agenda.md))
 - Sat Aug 29, 2026 — IWA Site Walk: no minutes found ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-08-29_IWA-August-29-2026-Site-Walk-Agenda.md))
 - Sat Oct 3, 2026 — IWA Site Walk: no minutes found ([document](../records/inland-wetlands-agency/board/2026/agendas/2026-10-03_IWA-October-3-2026-Site-Walk-Agenda.md))
+
+</details>
+
+<details><summary>Niantic River Watershed Committee (12)</summary>
+
+- Thu Dec 4, 2025 — NRWC: agenda not online 24 h ahead; no minutes found ([document](../records/niantic-river-watershed-committee/board/2025/agendas/2025-12-04_NRWC-December-4-2025-Agenda.md))
+- Thu Jan 8, 2026 — Niantic River Watershed: current minutes file uploaded after 56 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-01-08_NRWC-January-8-2026-Agenda.md))
+- Thu Feb 5, 2026 — Niantic River Watershed: current minutes file uploaded after 56 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-02-05_NRWC-February-5-2026-Agenda.md))
+- Thu Mar 5, 2026 — Niantic River Watershed: current minutes file uploaded after 62 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-03-05_NRWC-March-5-2026-Agenda.md))
+- Thu Apr 2, 2026 — Niantic River Watershed: agenda not online 24 h ahead; current minutes file uploaded after 181 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-04-02_NRWC-April-2-2026-Agenda.md))
+- Thu May 7, 2026 — Niantic River Watershed: current minutes file uploaded after 146 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-05-07_NRWC-May-7-2026-Agenda.md))
+- Thu Jun 4, 2026 — Niantic River Watershed: current minutes file uploaded after 118 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-06-04_NRWC-June-4-2026-Agenda.md))
+- Thu Jul 2, 2026 — Niantic River Watershed: current minutes file uploaded after 90 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-07-02_NRWC-July-2-2026-Agenda.md))
+- Thu Aug 6, 2026 — Niantic River Watershed: current minutes file uploaded after 55 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-08-06_NRWC-August-6-2026-Agenda.md))
+- Thu Sep 3, 2026 — Niantic River Watershed: current minutes file uploaded after 63 days ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-09-03_NRWC-September-3-2026-Agenda.md))
+- Thu Oct 1, 2026 — Niantic River Watershed: no minutes found ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-10-01_NRWC-October-1-2026-Agenda.md))
+- Thu Nov 5, 2026 — Niantic River Watershed: agenda not online 24 h ahead; no minutes found ([document](../records/niantic-river-watershed-committee/board/2026/agendas/2026-11-05_NRWC-November-5-2026-Agenda.md))
 
 </details>
 

@@ -26,9 +26,9 @@
 | [East Lyme Harbor Management/Shellfish Commission](harbor-mgt-shellfish-commission/INDEX.md) | 426 | complete |
 | [East Lyme Hazard Mitigation Plan Committee](hazard-mitigation-plan-committee/INDEX.md) | 7 | complete |
 | [East Lyme Health & Safety Committee](health-safety-committee/INDEX.md) | 232 | complete |
-| [East Lyme Historic Properties Commission](historic-properties-commission/INDEX.md) | 244 | import in progress |
-| East Lyme Niantic River Watershed Committee | 0 | import in progress |
-| East Lyme Parks & Recreation Commission | 0 | import in progress |
+| [East Lyme Historic Properties Commission](historic-properties-commission/INDEX.md) | 315 | complete |
+| [East Lyme Niantic River Watershed Committee](niantic-river-watershed-committee/INDEX.md) | 418 | complete |
+| [East Lyme Parks & Recreation Commission](parks-recreation-commission/INDEX.md) | 84 | import in progress |
 | East Lyme Pension Board | 0 | import in progress |
 | East Lyme Town Building Committee | 0 | import in progress |
 | East Lyme Waterford-East Lyme Shellfish Commission | 0 | import in progress |

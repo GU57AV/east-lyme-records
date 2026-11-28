@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "NRWC April 6 2023 Minutes (pdf)",
+  "filename": "NRWC-April-6-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/NRWC-April-6-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2023-minutes/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-28T15:15:43+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a793853f7f457696a25bd38f6276a7a25943b272cfd119d27f12457e2d9ac11f",
+  "bytes": 132155,
+  "pages": 0,
+  "http_last_modified": "Tue, 01 Aug 2023 13:18:27 GMT",
+  "etag": "\"16e02c6-2043b-601dc61e38ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2023/2023-04-06_NRWC-April-6-2023-Minutes--a793853f7f45.pdf",
+  "versions": [
+    {
+      "sha256": "a793853f7f457696a25bd38f6276a7a25943b272cfd119d27f12457e2d9ac11f",
+      "bytes": 132155,
+      "retrieved_utc": "2026-11-28T15:15:43+00:00",
+      "http_last_modified": "Tue, 01 Aug 2023 13:18:27 GMT"
+    }
+  ]
+}

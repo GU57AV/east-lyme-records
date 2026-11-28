@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Historic Properties Minutes 11-17-2014 (pdf)",
+  "filename": "Historic-Properties-Minutes-11-17-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Historic-Properties-Minutes-11-17-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T14:27:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9bc141b3b66fd367701decd341de91f06d2c279a680559d5b52aa2175f6c6ba4",
+  "bytes": 85992,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:48:58 GMT",
+  "etag": "\"16639e2-14fe8-52082af091a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2014/2014-11-17_Historic-Properties-Minutes-11-17-2014--9bc141b3b66f.pdf",
+  "versions": [
+    {
+      "sha256": "9bc141b3b66fd367701decd341de91f06d2c279a680559d5b52aa2175f6c6ba4",
+      "bytes": 85992,
+      "retrieved_utc": "2026-11-28T14:27:21+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:48:58 GMT"
+    }
+  ]
+}

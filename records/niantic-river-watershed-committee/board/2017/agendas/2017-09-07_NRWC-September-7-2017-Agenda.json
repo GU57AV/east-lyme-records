@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "NRWC September 7 2017 Agenda (pdf)",
+  "filename": "NRWC-September-7-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/NRWC-September-7-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T16:08:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "65d67a690663d432e59eec4de6c49475cc835041f58666bfda3f44e842e1252d",
+  "bytes": 44417,
+  "pages": 0,
+  "http_last_modified": "Wed, 30 Aug 2017 17:50:31 GMT",
+  "etag": "\"166252c-ad81-557fc29f747c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2017/2017-09-07_NRWC-September-7-2017-Agenda--65d67a690663.pdf",
+  "versions": [
+    {
+      "sha256": "65d67a690663d432e59eec4de6c49475cc835041f58666bfda3f44e842e1252d",
+      "bytes": 44417,
+      "retrieved_utc": "2026-11-28T16:08:35+00:00",
+      "http_last_modified": "Wed, 30 Aug 2017 17:50:31 GMT"
+    }
+  ]
+}

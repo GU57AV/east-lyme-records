@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "NRWC November 2 2017 Cancellation (pdf)",
+  "filename": "NRWC-November-5-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/NRWC-November-5-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T16:06:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "32cb7844e548e1352c7908fb9b4195ec1962d6d0a7bd10eb342eabf1bc0d996a",
+  "bytes": 31770,
+  "pages": 0,
+  "http_last_modified": "Thu, 30 Nov 2017 19:34:54 GMT",
+  "etag": "\"166255c-7c1a-55f3858ab9380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2017/2017-11-05_NRWC-November-5-2017-Cancellation--32cb7844e548.pdf",
+  "versions": [
+    {
+      "sha256": "32cb7844e548e1352c7908fb9b4195ec1962d6d0a7bd10eb342eabf1bc0d996a",
+      "bytes": 31770,
+      "retrieved_utc": "2026-11-28T16:06:54+00:00",
+      "http_last_modified": "Thu, 30 Nov 2017 19:34:54 GMT"
+    }
+  ]
+}

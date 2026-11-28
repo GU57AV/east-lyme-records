@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "NRWC December 9 2021 Agenda (via zoom) (msword)",
+  "filename": "NRWC-December-9-2021-Agenda-via-zoom.doc",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/NRWC-December-9-2021-Agenda-via-zoom.doc",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2021-agendas/",
+  "upload_folder": "2021-12",
+  "first_seen_utc": "2026-11-28T15:25:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e12f0264d607a1dd9ff83317bc2a9276e852588e992fc5d1daec2d7756cb2419",
+  "bytes": 91136,
+  "pages": null,
+  "http_last_modified": "Wed, 08 Dec 2021 18:05:21 GMT",
+  "etag": "\"1663546-16400-5d2a6554bfa40\"",
+  "text_method": "none (not a PDF)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2021/2021-12-09_NRWC-December-9-2021-Agenda-via-zoom--e12f0264d607.doc",
+  "versions": [
+    {
+      "sha256": "e12f0264d607a1dd9ff83317bc2a9276e852588e992fc5d1daec2d7756cb2419",
+      "bytes": 91136,
+      "retrieved_utc": "2026-11-28T15:25:31+00:00",
+      "http_last_modified": "Wed, 08 Dec 2021 18:05:21 GMT"
+    }
+  ]
+}

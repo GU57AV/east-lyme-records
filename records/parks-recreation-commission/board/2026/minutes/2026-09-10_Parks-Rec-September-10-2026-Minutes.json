@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Parks & Rec September 10 2026 Minutes (pdf)",
+  "filename": "Parks-Rec-September-10-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/09/Parks-Rec-September-10-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2026-minutes/",
+  "upload_folder": "2026-09",
+  "first_seen_utc": "2026-11-28T17:27:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cb16b4104f14f4a4e1a11f3e5db7ba4009baf7ce787b111af3aeab101cbc58e2",
+  "bytes": 201223,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Sep 2026 16:20:43 GMT",
+  "etag": "\"16e0f62-31207-65b87eeaeb7b5\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2026/2026-09-10_Parks-Rec-September-10-2026-Minutes--cb16b4104f14.pdf",
+  "versions": [
+    {
+      "sha256": "cb16b4104f14f4a4e1a11f3e5db7ba4009baf7ce787b111af3aeab101cbc58e2",
+      "bytes": 201223,
+      "retrieved_utc": "2026-11-28T17:27:14+00:00",
+      "http_last_modified": "Tue, 15 Sep 2026 16:20:43 GMT"
+    }
+  ]
+}

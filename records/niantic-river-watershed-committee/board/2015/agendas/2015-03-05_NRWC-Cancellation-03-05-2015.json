@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "NRWC March 5 2015 Cancellation (pdf)",
+  "filename": "NRWC-Cancellation-03-05-2015.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/NRWC-Cancellation-03-05-2015.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T16:31:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "09fdb9d388ad98e3f2733b0462014af85cb366e0f8ba779967aa396fb73c2948",
+  "bytes": 29990,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:51:07 GMT",
+  "etag": "\"1661ee2-7526-52082b6b97cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2015/2015-03-05_NRWC-Cancellation-03-05-2015--09fdb9d388ad.pdf",
+  "versions": [
+    {
+      "sha256": "09fdb9d388ad98e3f2733b0462014af85cb366e0f8ba779967aa396fb73c2948",
+      "bytes": 29990,
+      "retrieved_utc": "2026-11-28T16:31:27+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:51:07 GMT"
+    }
+  ]
+}

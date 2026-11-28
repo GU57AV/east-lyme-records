@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Historic Properties Commission June 20 2016 Minutes (pdf)",
+  "filename": "Historic-Properties-Commission-June-20-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Historic-Properties-Commission-June-20-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T14:10:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "eaf62553d9299e9c4024b384f945b58ce98c12a2e84f7bebf77a0273db1305df",
+  "bytes": 128170,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Jun 2016 17:48:04 GMT",
+  "etag": "\"16e0662-1f4aa-535f5a7eadd00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2016/2016-06-20_Historic-Properties-Commission-June-20-2016-Minutes--eaf62553d929.pdf",
+  "versions": [
+    {
+      "sha256": "eaf62553d9299e9c4024b384f945b58ce98c12a2e84f7bebf77a0273db1305df",
+      "bytes": 128170,
+      "retrieved_utc": "2026-11-28T14:10:52+00:00",
+      "http_last_modified": "Thu, 23 Jun 2016 17:48:04 GMT"
+    }
+  ]
+}

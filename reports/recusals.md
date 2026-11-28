@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 28, 2026 7:39 AM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 12:47 PM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 

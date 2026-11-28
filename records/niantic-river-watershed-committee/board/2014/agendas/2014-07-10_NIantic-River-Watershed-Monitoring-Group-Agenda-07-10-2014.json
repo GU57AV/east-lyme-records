@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "NRWC Monitoring Group Agenda 07-10-2014 (pdf)",
+  "filename": "NIantic-River-Watershed-Monitoring-Group-Agenda-07-10-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/NIantic-River-Watershed-Monitoring-Group-Agenda-07-10-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T16:39:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7b08baf4370402a1441f58517d443f159862819970a046de1e14e3defbb0afa4",
+  "bytes": 40758,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Jul 2014 13:42:14 GMT",
+  "etag": "\"1661f3b-9f36-4fdc2e0369980\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2014/2014-07-10_NIantic-River-Watershed-Monitoring-Group-Agenda-07-10-2014--7b08baf43704.pdf",
+  "versions": [
+    {
+      "sha256": "7b08baf4370402a1441f58517d443f159862819970a046de1e14e3defbb0afa4",
+      "bytes": 40758,
+      "retrieved_utc": "2026-11-28T16:39:31+00:00",
+      "http_last_modified": "Wed, 09 Jul 2014 13:42:14 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "NRWC September 7 2017 Amended Minutes (pdf)",
+  "filename": "NRWC-September-7-2017-Amended-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/NRWC-September-7-2017-Amended-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2017-minutes/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-28T16:13:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2d5c1a89540bdc3246c9ef5210623251b7a25c3565ca23e6aa00d5ea0764827a",
+  "bytes": 101173,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Dec 2017 20:47:42 GMT",
+  "etag": "\"16a0063-18b35-55fda4bc0f780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2017/2017-09-07_NRWC-September-7-2017-Amended-Minutes--2d5c1a89540b.pdf",
+  "versions": [
+    {
+      "sha256": "2d5c1a89540bdc3246c9ef5210623251b7a25c3565ca23e6aa00d5ea0764827a",
+      "bytes": 101173,
+      "retrieved_utc": "2026-11-28T16:13:57+00:00",
+      "http_last_modified": "Fri, 08 Dec 2017 20:47:42 GMT"
+    }
+  ]
+}

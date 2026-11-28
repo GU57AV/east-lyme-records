@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "Historic Properties June 16 2014 Cancellation (pdf)",
+  "filename": "Historic-Properties-Cancellation-06-16-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Historic-Properties-Cancellation-06-16-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T14:24:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bbc92018fc76687b7504c9e50a35b5da73ffe8e9448259808b66c287f260895e",
+  "bytes": 23049,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:08:28 GMT",
+  "etag": "\"166313c-5a09-520821e323f00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2014/2014-06-16_Historic-Properties-Cancellation-06-16-2014--bbc92018fc76.pdf",
+  "versions": [
+    {
+      "sha256": "bbc92018fc76687b7504c9e50a35b5da73ffe8e9448259808b66c287f260895e",
+      "bytes": 23049,
+      "retrieved_utc": "2026-11-28T14:24:39+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:08:28 GMT"
+    }
+  ]
+}

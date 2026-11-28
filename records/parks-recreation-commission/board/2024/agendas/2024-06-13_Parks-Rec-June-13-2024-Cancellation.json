@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks & Rec June 13 2024 Cancellation (pdf)",
+  "filename": "Parks-Rec-June-13-2024-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/06/Parks-Rec-June-13-2024-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2024-agendas/",
+  "upload_folder": "2024-06",
+  "first_seen_utc": "2026-11-28T17:41:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d8b7943835276effc7101cb70960387253f7b1e372e7e07ed8c2b7165e7e29be",
+  "bytes": 40413,
+  "pages": 0,
+  "http_last_modified": "Mon, 10 Jun 2024 19:02:31 GMT",
+  "etag": "\"1680781-9ddd-61a8dca89bfc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2024-06-13_Parks-Rec-June-13-2024-Cancellation--d8b794383527.pdf",
+  "versions": [
+    {
+      "sha256": "d8b7943835276effc7101cb70960387253f7b1e372e7e07ed8c2b7165e7e29be",
+      "bytes": 40413,
+      "retrieved_utc": "2026-11-28T17:41:01+00:00",
+      "http_last_modified": "Mon, 10 Jun 2024 19:02:31 GMT"
+    }
+  ]
+}

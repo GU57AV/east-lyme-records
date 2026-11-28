@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Parks & Rec March 13 2025 Agenda (pdf)",
+  "filename": "Parks-Rec-March-13-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/03/Parks-Rec-March-13-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2025-agendas/",
+  "upload_folder": "2025-03",
+  "first_seen_utc": "2026-11-28T17:33:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d49ca180f6cb2299e962ac146dcee6c602db4030081878771bb31e35b1f94aa",
+  "bytes": 37656,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Mar 2025 18:39:21 GMT",
+  "etag": "\"16a151f-9318-62f9cb5288840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2025/2025-03-13_Parks-Rec-March-13-2025-Agenda--5d49ca180f6c.pdf",
+  "versions": [
+    {
+      "sha256": "5d49ca180f6cb2299e962ac146dcee6c602db4030081878771bb31e35b1f94aa",
+      "bytes": 37656,
+      "retrieved_utc": "2026-11-28T17:33:58+00:00",
+      "http_last_modified": "Wed, 05 Mar 2025 18:39:21 GMT"
+    }
+  ]
+}

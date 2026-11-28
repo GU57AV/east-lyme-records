@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Parks & Rec June 17 2026 Special Meeting Minutes (pdf)",
+  "filename": "Parks-Rec-June-17-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/Parks-Rec-June-17-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2026-minutes/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-28T17:27:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1ff7b38b98e67b3fa3ac76f16af2e33622027427b36335c440962bb0af506f55",
+  "bytes": 134243,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Jun 2026 13:08:15 GMT",
+  "etag": "\"1700887-20c63-65486de803796\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2026/2026-06-17_Parks-Rec-June-17-2026-Minutes--1ff7b38b98e6.pdf",
+  "versions": [
+    {
+      "sha256": "1ff7b38b98e67b3fa3ac76f16af2e33622027427b36335c440962bb0af506f55",
+      "bytes": 134243,
+      "retrieved_utc": "2026-11-28T17:27:55+00:00",
+      "http_last_modified": "Thu, 18 Jun 2026 13:08:15 GMT"
+    }
+  ]
+}

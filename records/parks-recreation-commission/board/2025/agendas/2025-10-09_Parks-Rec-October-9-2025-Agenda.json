@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Parks & Rec October 9 2025 Agenda (pdf)",
+  "filename": "Parks-Rec-October-9-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/Parks-Rec-October-9-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-28T17:30:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9d71471ba2b1d813a72fb5d254053e9f51d09d67462c4010ec6cce5a48951f7f",
+  "bytes": 36932,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Oct 2025 12:40:28 GMT",
+  "etag": "\"172004e-9044-6407cc19a189c\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2025/2025-10-09_Parks-Rec-October-9-2025-Agenda--9d71471ba2b1.pdf",
+  "versions": [
+    {
+      "sha256": "9d71471ba2b1d813a72fb5d254053e9f51d09d67462c4010ec6cce5a48951f7f",
+      "bytes": 36932,
+      "retrieved_utc": "2026-11-28T17:30:56+00:00",
+      "http_last_modified": "Mon, 06 Oct 2025 12:40:28 GMT"
+    }
+  ]
+}

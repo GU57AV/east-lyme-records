@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Niantic River Watershed 2018 Meeting Schedule (pdf)",
+  "filename": "Niantic-River-Watershed-2018-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/Niantic-River-Watershed-2018-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2018-agendas/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-28T16:01:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "665ac63d98d451f84cb116b2bb451b8fb3b4c2c3c73ee2b9b0888981f643908b",
+  "bytes": 28026,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Dec 2017 18:45:11 GMT",
+  "etag": "\"16a0077-6d7a-56014ef1fbbc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2018/2017-12-00_Niantic-River-Watershed-2018-Meeting-Schedule--665ac63d98d4.pdf",
+  "versions": [
+    {
+      "sha256": "665ac63d98d451f84cb116b2bb451b8fb3b4c2c3c73ee2b9b0888981f643908b",
+      "bytes": 28026,
+      "retrieved_utc": "2026-11-28T16:01:51+00:00",
+      "http_last_modified": "Mon, 11 Dec 2017 18:45:11 GMT"
+    }
+  ]
+}

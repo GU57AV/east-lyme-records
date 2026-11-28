@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "NRWC January 6 2022 Agenda (pdf)",
+  "filename": "NRWC-January-6-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/NRWC-January-6-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2022-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-28T15:20:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2fcf27da5277633b71a5bd8d13f999bcab026261d41d5c7e805f785f946ad727",
+  "bytes": 71302,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Feb 2022 17:08:37 GMT",
+  "etag": "\"16a1039-11686-5d8b2842eef40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2022/2022-01-06_NRWC-January-6-2022-Agenda--2fcf27da5277.pdf",
+  "versions": [
+    {
+      "sha256": "2fcf27da5277633b71a5bd8d13f999bcab026261d41d5c7e805f785f946ad727",
+      "bytes": 71302,
+      "retrieved_utc": "2026-11-28T15:20:28+00:00",
+      "http_last_modified": "Wed, 23 Feb 2022 17:08:37 GMT"
+    }
+  ]
+}

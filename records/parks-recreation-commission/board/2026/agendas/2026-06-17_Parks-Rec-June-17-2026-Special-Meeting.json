@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Parks & Rec June 17 2026 Special Meeting Agenda (pdf)",
+  "filename": "Parks-Rec-June-17-2026-Special-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/06/Parks-Rec-June-17-2026-Special-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2026-agendas/",
+  "upload_folder": "2026-06",
+  "first_seen_utc": "2026-11-28T17:21:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "90bf21e2f333d7213c80dac8cd9a9e0c727f7f3e13d81fe78b46174f140c3bd6",
+  "bytes": 35715,
+  "pages": 0,
+  "http_last_modified": "Thu, 11 Jun 2026 16:29:51 GMT",
+  "etag": "\"1700859-8b83-653fcde8f248e\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2026/2026-06-17_Parks-Rec-June-17-2026-Special-Meeting--90bf21e2f333.pdf",
+  "versions": [
+    {
+      "sha256": "90bf21e2f333d7213c80dac8cd9a9e0c727f7f3e13d81fe78b46174f140c3bd6",
+      "bytes": 35715,
+      "retrieved_utc": "2026-11-28T17:21:52+00:00",
+      "http_last_modified": "Thu, 11 Jun 2026 16:29:51 GMT"
+    }
+  ]
+}

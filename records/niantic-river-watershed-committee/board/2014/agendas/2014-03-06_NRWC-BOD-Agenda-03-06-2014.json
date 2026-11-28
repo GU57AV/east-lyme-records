@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "NRWC BOD Agenda 03-06-2014 (pdf)",
+  "filename": "NRWC-BOD-Agenda-03-06-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/NRWC-BOD-Agenda-03-06-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T16:41:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "85aadd70f3be29408a0b72b806e9a9c9cf9563132301fc8024bd26be1e9a3b05",
+  "bytes": 39104,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:51 GMT",
+  "etag": "\"1663779-98c0-52082b5c558c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2014/2014-03-06_NRWC-BOD-Agenda-03-06-2014--85aadd70f3be.pdf",
+  "versions": [
+    {
+      "sha256": "85aadd70f3be29408a0b72b806e9a9c9cf9563132301fc8024bd26be1e9a3b05",
+      "bytes": 39104,
+      "retrieved_utc": "2026-11-28T16:41:12+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:51 GMT"
+    }
+  ]
+}

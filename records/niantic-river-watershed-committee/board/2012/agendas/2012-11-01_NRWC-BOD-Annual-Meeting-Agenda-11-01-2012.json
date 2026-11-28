@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "NRWC BOD Annual Meeting Agenda 11-01-2012 (pdf)",
+  "filename": "NRWC-BOD-Annual-Meeting-Agenda-11-01-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/NRWC-BOD-Annual-Meeting-Agenda-11-01-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T16:53:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3ee3907a74b7122909f066aa4fb89072299240837bbd83d56fd71fb0b53f9620",
+  "bytes": 30082,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:54 GMT",
+  "etag": "\"1663f6d-7582-52082b5f31f80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2012/2012-11-01_NRWC-BOD-Annual-Meeting-Agenda-11-01-2012--3ee3907a74b7.pdf",
+  "versions": [
+    {
+      "sha256": "3ee3907a74b7122909f066aa4fb89072299240837bbd83d56fd71fb0b53f9620",
+      "bytes": 30082,
+      "retrieved_utc": "2026-11-28T16:53:58+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:54 GMT"
+    }
+  ]
+}

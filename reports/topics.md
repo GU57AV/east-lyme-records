@@ -1,6 +1,6 @@
 # Topic index
 
-_Updated Nov 28, 2026 7:39 AM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
+_Updated Nov 28, 2026 12:47 PM ET. Every archived document that mentions each watched topic, newest meeting first. Edit `topics` in config.json to change the list._
 
 ## speed camera (20)
 
@@ -177,7 +177,7 @@ _Updated Nov 28, 2026 7:39 AM ET. Every archived document that mentions each wat
 - 2004-09-29 — Zoning Commission: [Zoning September 29 2004 Public Hearing I Minutes (pdf)](../records/zoning-commission/board/2004/minutes/2004-09-29_Zoning-September-29-2004-Public-Hearing-I-Minutes.md) — “…ng the road. This stretgh of roadway is listed on ConnDOT's Suggested List of Surveillance Study Sites (SLOSSS). This publication lists roadways that have a higher than…”
 - undated — Harbor Management/Shellfish Commission: [East Lyme Shellfish Management Plan](../records/harbor-mgt-shellfish-commission/board/2018/other/2018-06-00_East-Lyme-Shellfish-Management-Plan.md) — “…ively the area may be classified as prohibited. Restricted areas will require much closer surveillance than prohibited areas. State shellfish control authorities should establish a restricted…”
 
-## executive session (1278)
+## executive session (1279)
 
 - 2026-12-02 — Board of Selectmen: [BOS December 2 2026 Agenda (pdf)](../records/board-of-selectmen/board/2026/agendas/2026-12-02_BOS-December-2-2026-Agenda.md) — “…b) Discussion and Possible Action - Cannabis Funds - Pollinator Pathway 4. Executive Session - For the Purpose of Discussing Potential Litigation 5 a) Ex-Officio Reports…”
 - 2026-11-23 — Board of Police Commissioners: [Board of Police Commissioners November 23 2026 Special Meeting Agenda (pdf)](../records/police-commission/board/2026/agendas/2026-11-23_Police-Commission-November-23-2026-Special-Meeting-Agenda.md) — “…AGENDA L Call to order and Pledge ofAllegiance 2. Executive Session: For the purpose of conducting new hire applicant interview 3. Discussion and possible…”

@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Parks & Rec 2026 Schedule of Meetings (pdf)",
+  "filename": "Parks-Rec-2026-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/Parks-Rec-2026-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2026-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-28T17:26:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7e7e2107922342ebe921e3dfb07f0443da29da6f8619650302a9c667b202c60c",
+  "bytes": 41754,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Nov 2025 14:12:28 GMT",
+  "etag": "\"1760003-a31a-6438e9669ca30\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2026/2025-11-00_Parks-Rec-2026-Schedule-of-Meetings--7e7e21079223.pdf",
+  "versions": [
+    {
+      "sha256": "7e7e2107922342ebe921e3dfb07f0443da29da6f8619650302a9c667b202c60c",
+      "bytes": 41754,
+      "retrieved_utc": "2026-11-28T17:26:14+00:00",
+      "http_last_modified": "Fri, 14 Nov 2025 14:12:28 GMT"
+    }
+  ]
+}

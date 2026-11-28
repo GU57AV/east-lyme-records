@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "NRWC October 6 2022 BOD Minutes (pdf)",
+  "filename": "NRWC-October-6-2022-BOD-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/NRWC-October-6-2022-BOD-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2022-minutes/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-28T15:21:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "26ee926847c4c9b55cc5826f5324560af45efcb1c25bf4669f8904d830d992e3",
+  "bytes": 133231,
+  "pages": 0,
+  "http_last_modified": "Thu, 10 Nov 2022 15:44:09 GMT",
+  "etag": "\"16a10f6-2086f-5ed1fa4d8e440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2022/2022-10-06_NRWC-October-6-2022-BOD-Minutes--26ee926847c4.pdf",
+  "versions": [
+    {
+      "sha256": "26ee926847c4c9b55cc5826f5324560af45efcb1c25bf4669f8904d830d992e3",
+      "bytes": 133231,
+      "retrieved_utc": "2026-11-28T15:21:49+00:00",
+      "http_last_modified": "Thu, 10 Nov 2022 15:44:09 GMT"
+    }
+  ]
+}

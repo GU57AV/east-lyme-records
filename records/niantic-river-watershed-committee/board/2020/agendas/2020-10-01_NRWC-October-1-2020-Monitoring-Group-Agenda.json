@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "NRWC-October-1-2020-Monitoring-Group-Agenda (pdf)",
+  "filename": "NRWC-October-1-2020-Monitoring-Group-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/NRWC-October-1-2020-Monitoring-Group-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2020-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-28T15:36:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "678d3f7c32fda1243796464a3ea8b75014cc061210d2a6a7995ca14618505aff",
+  "bytes": 508297,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Nov 2021 18:08:20 GMT",
+  "etag": "\"1680212-7c189-5cfbe0fd66d00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2020/2020-10-01_NRWC-October-1-2020-Monitoring-Group-Agenda--678d3f7c32fd.pdf",
+  "versions": [
+    {
+      "sha256": "678d3f7c32fda1243796464a3ea8b75014cc061210d2a6a7995ca14618505aff",
+      "bytes": 508297,
+      "retrieved_utc": "2026-11-28T15:36:58+00:00",
+      "http_last_modified": "Mon, 01 Nov 2021 18:08:20 GMT"
+    }
+  ]
+}

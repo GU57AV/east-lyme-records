@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "NRWC April 4 2019 Corrected Minutes (pdf)",
+  "filename": "NRWC-April-4-2019-Corrected-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/NRWC-April-4-2019-Corrected-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2019-minutes/",
+  "upload_folder": "2019-05",
+  "first_seen_utc": "2026-11-28T15:54:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9c458fe381613bf82b7e1c73b07fffac064da504a12a2ac7a3a6652bace5dd96",
+  "bytes": 188242,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 May 2019 17:19:18 GMT",
+  "etag": "\"16c1ac2-2df52-5883b4ce3d180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2019/2019-04-04_NRWC-April-4-2019-Corrected-Minutes--9c458fe38161.pdf",
+  "versions": [
+    {
+      "sha256": "9c458fe381613bf82b7e1c73b07fffac064da504a12a2ac7a3a6652bace5dd96",
+      "bytes": 188242,
+      "retrieved_utc": "2026-11-28T15:54:48+00:00",
+      "http_last_modified": "Mon, 06 May 2019 17:19:18 GMT"
+    }
+  ]
+}

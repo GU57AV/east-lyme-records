@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Parks & Rec December 11 2025 Agenda (pdf)",
+  "filename": "Parks-Rec-December-11-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Parks-Rec-December-11-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2025-agendas/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-28T17:30:16+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "338ed5383c87fdbde3e7bdfed22b646a975a00b400cd950c06281c9481cbfab9",
+  "bytes": 38587,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Dec 2025 14:20:05 GMT",
+  "etag": "\"1a20031-96bb-645717ddf4e37\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2025/2025-12-11_Parks-Rec-December-11-2025-Agenda--338ed5383c87.pdf",
+  "versions": [
+    {
+      "sha256": "338ed5383c87fdbde3e7bdfed22b646a975a00b400cd950c06281c9481cbfab9",
+      "bytes": 38587,
+      "retrieved_utc": "2026-11-28T17:30:16+00:00",
+      "http_last_modified": "Mon, 08 Dec 2025 14:20:05 GMT"
+    }
+  ]
+}

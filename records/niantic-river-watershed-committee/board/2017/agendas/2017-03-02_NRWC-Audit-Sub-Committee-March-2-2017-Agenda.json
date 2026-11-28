@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "NRWC Audit Sub-Committee March 2 2017 Agenda (pdf)",
+  "filename": "NRWC-Audit-Sub-Committee-March-2-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/NRWC-Audit-Sub-Committee-March-2-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T16:11:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c05d6e5b217da43a15aee46c0f74da03c3c193b023a15d835583c3fa1a3841b4",
+  "bytes": 28319,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Feb 2017 17:24:42 GMT",
+  "etag": "\"166287f-6e9f-54935e378ea80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2017/2017-03-02_NRWC-Audit-Sub-Committee-March-2-2017-Agenda--c05d6e5b217d.pdf",
+  "versions": [
+    {
+      "sha256": "c05d6e5b217da43a15aee46c0f74da03c3c193b023a15d835583c3fa1a3841b4",
+      "bytes": 28319,
+      "retrieved_utc": "2026-11-28T16:11:36+00:00",
+      "http_last_modified": "Thu, 23 Feb 2017 17:24:42 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "NRWC July 2 2020 Agenda (msword)",
+  "filename": "NRWC-July-2-2020-Agenda.doc",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/NRWC-July-2-2020-Agenda.doc",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-28T15:38:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4a5b4938cfebb997e0179b86dbb903b85d060b99d345fb027bbe1e81b011aedb",
+  "bytes": 99328,
+  "pages": null,
+  "http_last_modified": "Fri, 26 Jun 2020 12:40:29 GMT",
+  "etag": "\"1661727-18400-5a8fc0396e940\"",
+  "text_method": "none (not a PDF)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2020/2020-07-02_NRWC-July-2-2020-Agenda--4a5b4938cfeb.doc",
+  "versions": [
+    {
+      "sha256": "4a5b4938cfebb997e0179b86dbb903b85d060b99d345fb027bbe1e81b011aedb",
+      "bytes": 99328,
+      "retrieved_utc": "2026-11-28T15:38:19+00:00",
+      "http_last_modified": "Fri, 26 Jun 2020 12:40:29 GMT"
+    }
+  ]
+}

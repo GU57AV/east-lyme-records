@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Parks and Recreation Commission Policies and Regulations",
+  "filename": "Park-rules-adopted-11-7-24.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/Park-rules-adopted-11-7-24.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-28T17:18:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "249cee459bd20537759486f81663237fdbf2b4ddf9dcfffb26fe1c572eae5d84",
+  "bytes": 175435,
+  "pages": 0,
+  "http_last_modified": "Fri, 08 Nov 2024 14:02:37 GMT",
+  "etag": "\"168088f-2ad4b-62667340cb940\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2024/2024-11-07_Park-rules-adopted-11-7-24--249cee459bd2.pdf",
+  "versions": [
+    {
+      "sha256": "249cee459bd20537759486f81663237fdbf2b4ddf9dcfffb26fe1c572eae5d84",
+      "bytes": 175435,
+      "retrieved_utc": "2026-11-28T17:18:33+00:00",
+      "http_last_modified": "Fri, 08 Nov 2024 14:02:37 GMT"
+    }
+  ]
+}

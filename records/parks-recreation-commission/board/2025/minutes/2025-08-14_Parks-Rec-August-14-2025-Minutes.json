@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Parks & Rec August 14 2025 Minutes (pdf)",
+  "filename": "Parks-Rec-August-14-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/09/Parks-Rec-August-14-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2025-minutes/",
+  "upload_folder": "2025-09",
+  "first_seen_utc": "2026-11-28T17:36:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d6cb42b73e28ddccdcd5148f96b2a6c94d3716a4ee604c2b727b0f5512634d96",
+  "bytes": 894579,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Sep 2025 13:34:01 GMT",
+  "etag": "\"1721843-da673-63e4a3d923588\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2025/2025-08-14_Parks-Rec-August-14-2025-Minutes--d6cb42b73e28.pdf",
+  "versions": [
+    {
+      "sha256": "d6cb42b73e28ddccdcd5148f96b2a6c94d3716a4ee604c2b727b0f5512634d96",
+      "bytes": 894579,
+      "retrieved_utc": "2026-11-28T17:36:59+00:00",
+      "http_last_modified": "Mon, 08 Sep 2025 13:34:01 GMT"
+    }
+  ]
+}

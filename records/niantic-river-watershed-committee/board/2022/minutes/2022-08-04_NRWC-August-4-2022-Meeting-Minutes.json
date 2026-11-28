@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "NRWC August 4 2022 Minutes (pdf)",
+  "filename": "NRWC-August-4-2022-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/NRWC-August-4-2022-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2022-minutes/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-28T15:22:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2c860132fff5c8ec7d10c131221b551a4f71d6097a86cf385335808da613a4e7",
+  "bytes": 115255,
+  "pages": 0,
+  "http_last_modified": "Fri, 02 Sep 2022 13:08:47 GMT",
+  "etag": "\"16a1170-1c237-5e7b16e2995c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2022/2022-08-04_NRWC-August-4-2022-Meeting-Minutes--2c860132fff5.pdf",
+  "versions": [
+    {
+      "sha256": "2c860132fff5c8ec7d10c131221b551a4f71d6097a86cf385335808da613a4e7",
+      "bytes": 115255,
+      "retrieved_utc": "2026-11-28T15:22:50+00:00",
+      "http_last_modified": "Fri, 02 Sep 2022 13:08:47 GMT"
+    }
+  ]
+}

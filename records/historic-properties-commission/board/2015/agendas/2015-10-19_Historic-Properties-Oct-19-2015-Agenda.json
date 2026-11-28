@@ -1,0 +1,29 @@
+{
+  "board": "historic-properties-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "Historic Properties Oct 19 2015 Agenda (pdf)",
+  "filename": "Historic-Properties-Oct-19-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/10/Historic-Properties-Oct-19-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/historic-properties-commission/historic-properties-2015-agendas/",
+  "upload_folder": "2015-10",
+  "first_seen_utc": "2026-11-28T14:14:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "170e12791470ee2597146469c16c4b3aa189c28628bb1bcc9ad76e9eebf60c20",
+  "bytes": 49761,
+  "pages": 0,
+  "http_last_modified": "Wed, 14 Oct 2015 10:30:45 GMT",
+  "etag": "\"16e084f-c261-5220e0e199f40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/historic-properties-commission-2015/2015-10-19_Historic-Properties-Oct-19-2015-Agenda--170e12791470.pdf",
+  "versions": [
+    {
+      "sha256": "170e12791470ee2597146469c16c4b3aa189c28628bb1bcc9ad76e9eebf60c20",
+      "bytes": 49761,
+      "retrieved_utc": "2026-11-28T14:14:14+00:00",
+      "http_last_modified": "Wed, 14 Oct 2015 10:30:45 GMT"
+    }
+  ]
+}

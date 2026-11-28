@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "NRWC October 2 2025 Agenda (pdf)",
+  "filename": "NRWC-October-2-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/NRWC-October-2-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-28T14:50:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7b9742000ee2a1a0aa55978515f5a781799ba915a5fb6d36f375781a5582e0fb",
+  "bytes": 67482,
+  "pages": 0,
+  "http_last_modified": "Wed, 01 Oct 2025 16:29:13 GMT",
+  "etag": "\"1720035-1079a-6401b5e7549b8\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2025/2025-10-02_NRWC-October-2-2025-Agenda--7b9742000ee2.pdf",
+  "versions": [
+    {
+      "sha256": "7b9742000ee2a1a0aa55978515f5a781799ba915a5fb6d36f375781a5582e0fb",
+      "bytes": 67482,
+      "retrieved_utc": "2026-11-28T14:50:29+00:00",
+      "http_last_modified": "Wed, 01 Oct 2025 16:29:13 GMT"
+    }
+  ]
+}

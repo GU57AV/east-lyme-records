@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "NRWC April 1 2021 Monitoring Group Minutes (pdf)",
+  "filename": "Niantic-River-Watershed-April-1-2021-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Niantic-River-Watershed-April-1-2021-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2021-minutes/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-28T15:34:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cd00f7d62268cab8a6d3a36d60e22c071324d21ff6e951de3426ef36db3a2910",
+  "bytes": 105579,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Sep 2021 18:36:22 GMT",
+  "etag": "\"16802c8-19c6b-5ccade8481580\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2021/2021-04-01_Niantic-River-Watershed-April-1-2021-Minutes--cd00f7d62268.pdf",
+  "versions": [
+    {
+      "sha256": "cd00f7d62268cab8a6d3a36d60e22c071324d21ff6e951de3426ef36db3a2910",
+      "bytes": 105579,
+      "retrieved_utc": "2026-11-28T15:34:57+00:00",
+      "http_last_modified": "Thu, 23 Sep 2021 18:36:22 GMT"
+    }
+  ]
+}

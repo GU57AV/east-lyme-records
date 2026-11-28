@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "NRWC April 6 2017 Monitoring Group Agenda (pdf)",
+  "filename": "NRWC-April-6-2017-Monitoring-Group-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/NRWC-April-6-2017-Monitoring-Group-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T16:10:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "afdb701b6404e3bdc87078331753f2a24a4f0d46ac462ee9a9eb4f659f349e23",
+  "bytes": 40731,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Mar 2017 19:30:11 GMT",
+  "etag": "\"166266e-9f1b-54c0bd685d6c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2017/2017-04-06_NRWC-April-6-2017-Monitoring-Group-Meeting--afdb701b6404.pdf",
+  "versions": [
+    {
+      "sha256": "afdb701b6404e3bdc87078331753f2a24a4f0d46ac462ee9a9eb4f659f349e23",
+      "bytes": 40731,
+      "retrieved_utc": "2026-11-28T16:10:56+00:00",
+      "http_last_modified": "Fri, 31 Mar 2017 19:30:11 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "NRWC July 6 2023 Agenda (pdf)",
+  "filename": "NRWC-July-6-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/NRWC-July-6-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-28T15:09:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "05e8fcbb1a03a6a9787d46e6e61d864a208adc586e972d0989322b71da38e333",
+  "bytes": 67075,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Jul 2023 13:37:13 GMT",
+  "etag": "\"16e030d-10603-5ffd19d213440\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2023/2023-07-06_NRWC-July-6-2023-Agenda--05e8fcbb1a03.pdf",
+  "versions": [
+    {
+      "sha256": "05e8fcbb1a03a6a9787d46e6e61d864a208adc586e972d0989322b71da38e333",
+      "bytes": 67075,
+      "retrieved_utc": "2026-11-28T15:09:40+00:00",
+      "http_last_modified": "Thu, 06 Jul 2023 13:37:13 GMT"
+    }
+  ]
+}

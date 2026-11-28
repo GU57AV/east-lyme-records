@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "NRWC November 4 2021 Agenda (pdf)",
+  "filename": "NRWC-November-4-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/NRWC-November-4-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2021-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-28T15:26:52+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ee9816763709a4ddc33d05a8c9b4669d70788e5057a61deaeb674a571181d7dc",
+  "bytes": 51034,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Nov 2021 18:31:03 GMT",
+  "etag": "\"168029a-c75a-5cfbe611427c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2021/2021-11-04_NRWC-November-4-2021-Agenda--a6af7305--ee9816763709.pdf",
+  "versions": [
+    {
+      "sha256": "ee9816763709a4ddc33d05a8c9b4669d70788e5057a61deaeb674a571181d7dc",
+      "bytes": 51034,
+      "retrieved_utc": "2026-11-28T15:26:52+00:00",
+      "http_last_modified": "Mon, 01 Nov 2021 18:31:03 GMT"
+    }
+  ]
+}

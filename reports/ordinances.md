@@ -1,6 +1,6 @@
 # Ordinance enactments: notice and publication check
 
-_Updated 2026-11-28 12:39 UTC._
+_Updated 2026-11-28 17:47 UTC._
 
 Every Board of Selectmen vote enacting an ordinance that the archive can read in the minutes, checked against the Charter:
 

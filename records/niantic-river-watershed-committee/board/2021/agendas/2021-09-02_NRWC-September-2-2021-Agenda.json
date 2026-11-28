@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "NRWC September 2 2021 Agenda (pdf)",
+  "filename": "NRWC-September-2-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/NRWC-September-2-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-28T15:27:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd7139f4fe0fea56f95a4907c3f6aadbdde112de6f37e9f84e64e4ed8c652946",
+  "bytes": 164682,
+  "pages": 0,
+  "http_last_modified": "Wed, 25 Aug 2021 18:46:37 GMT",
+  "etag": "\"1680464-2834a-5ca66ab8a5d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2021/2021-09-02_NRWC-September-2-2021-Agenda--bd7139f4fe0f.pdf",
+  "versions": [
+    {
+      "sha256": "bd7139f4fe0fea56f95a4907c3f6aadbdde112de6f37e9f84e64e4ed8c652946",
+      "bytes": 164682,
+      "retrieved_utc": "2026-11-28T15:27:53+00:00",
+      "http_last_modified": "Wed, 25 Aug 2021 18:46:37 GMT"
+    }
+  ]
+}

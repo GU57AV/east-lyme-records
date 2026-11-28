@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "NRWC October 7 2021 Agenda (pdf)",
+  "filename": "Niantic-River-Watershed-October-7-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Niantic-River-Watershed-October-7-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-28T15:27:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e8fb43dc7b4e7c7e77271d58b863397a7615d8450942e6d84dd7d2edf062f049",
+  "bytes": 53044,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Sep 2021 18:38:42 GMT",
+  "etag": "\"1680302-cf34-5ccadf0a05080\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2021/2021-10-07_Niantic-River-Watershed-October-7-2021-Agenda--e8fb43dc7b4e.pdf",
+  "versions": [
+    {
+      "sha256": "e8fb43dc7b4e7c7e77271d58b863397a7615d8450942e6d84dd7d2edf062f049",
+      "bytes": 53044,
+      "retrieved_utc": "2026-11-28T15:27:12+00:00",
+      "http_last_modified": "Thu, 23 Sep 2021 18:38:42 GMT"
+    }
+  ]
+}

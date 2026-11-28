@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "NRWC BOD Minutes 02-02-2012 (pdf)",
+  "filename": "NRWC-BOD-Minutes-02-02-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/NRWC-BOD-Minutes-02-02-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T17:01:02+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "04197f88a21f6ba6defeab4ed7a44a9307d7323b5a4622527e3c0cdbf627497b",
+  "bytes": 101409,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:50:56 GMT",
+  "etag": "\"1663967-18c21-52082b611a400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2012/2012-02-02_NRWC-BOD-Minutes-02-02-2012--04197f88a21f.pdf",
+  "versions": [
+    {
+      "sha256": "04197f88a21f6ba6defeab4ed7a44a9307d7323b5a4622527e3c0cdbf627497b",
+      "bytes": 101409,
+      "retrieved_utc": "2026-11-28T17:01:02+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:50:56 GMT"
+    }
+  ]
+}

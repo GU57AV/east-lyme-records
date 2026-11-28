@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "NRWC August 7 2025 Agenda (pdf)",
+  "filename": "NRWC-August-7-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/08/NRWC-August-7-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2025-agendas/",
+  "upload_folder": "2025-08",
+  "first_seen_utc": "2026-11-28T14:51:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "29975d78154950b797b02e76b1eb8856636960ac66d419c59f6092957b607610",
+  "bytes": 120632,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Aug 2025 12:38:32 GMT",
+  "etag": "\"16c0297-1d738-63b9d807f6200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2025/2025-08-07_NRWC-August-7-2025-Agenda--29975d781549.pdf",
+  "versions": [
+    {
+      "sha256": "29975d78154950b797b02e76b1eb8856636960ac66d419c59f6092957b607610",
+      "bytes": 120632,
+      "retrieved_utc": "2026-11-28T14:51:09+00:00",
+      "http_last_modified": "Tue, 05 Aug 2025 12:38:32 GMT"
+    }
+  ]
+}

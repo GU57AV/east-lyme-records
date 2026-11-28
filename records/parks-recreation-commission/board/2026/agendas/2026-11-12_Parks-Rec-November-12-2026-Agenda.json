@@ -1,0 +1,29 @@
+{
+  "board": "parks-recreation-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Parks & Rec November 12 2026 Agenda (pdf)",
+  "filename": "Parks-Rec-November-12-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Parks-Rec-November-12-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/parks-recreation-commission/parks-recreation-commission-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-28T17:20:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7002189a618f6bcaaa0218fa04cb4fbf78d9876c90cb61677e9a5a8720a21c36",
+  "bytes": 36309,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Nov 2026 16:17:00 GMT",
+  "etag": "\"17c002b-8dd5-65fda4aa82b5a\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/parks-recreation-commission-2026/2026-11-12_Parks-Rec-November-12-2026-Agenda--7002189a618f.pdf",
+  "versions": [
+    {
+      "sha256": "7002189a618f6bcaaa0218fa04cb4fbf78d9876c90cb61677e9a5a8720a21c36",
+      "bytes": 36309,
+      "retrieved_utc": "2026-11-28T17:20:11+00:00",
+      "http_last_modified": "Mon, 09 Nov 2026 16:17:00 GMT"
+    }
+  ]
+}

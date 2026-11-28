@@ -1,0 +1,29 @@
+{
+  "board": "niantic-river-watershed-committee",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "NRWC 2026 Schedule of Meetings Addendum (pdf)",
+  "filename": "NRWC-2026-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/03/NRWC-2026-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/niantic-river-watershed-committee/niantic-river-watershed-committee-2026-agendas/",
+  "upload_folder": "2026-03",
+  "first_seen_utc": "2026-11-28T14:45:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "19418d965272b967a9005e259dda0183c9d1d647e9580da4881183dbecb73d3f",
+  "bytes": 60497,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Mar 2026 20:55:59 GMT",
+  "etag": "\"1701aa7-ec51-64c390c0d712d\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/niantic-river-watershed-committee-2026/2026-03-00_NRWC-2026-Schedule-of-Meetings--19418d965272.pdf",
+  "versions": [
+    {
+      "sha256": "19418d965272b967a9005e259dda0183c9d1d647e9580da4881183dbecb73d3f",
+      "bytes": 60497,
+      "retrieved_utc": "2026-11-28T14:45:26+00:00",
+      "http_last_modified": "Wed, 04 Mar 2026 20:55:59 GMT"
+    }
+  ]
+}
