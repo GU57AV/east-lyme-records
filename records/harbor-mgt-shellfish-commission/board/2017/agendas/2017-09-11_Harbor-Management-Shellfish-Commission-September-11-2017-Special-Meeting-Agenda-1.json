@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission September 11 2017 Special Meeting Agenda (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-September-11-2017-Special-Meeting-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Harbor-Management-Shellfish-Commission-September-11-2017-Special-Meeting-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T07:19:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "156c9195d8016bdfbe25fb301e10569ffef597758b4034a742d584285b27b03a",
+  "bytes": 27613,
+  "pages": 0,
+  "http_last_modified": "Thu, 07 Sep 2017 17:53:07 GMT",
+  "etag": "\"1662595-6bdd-5589d21fea6c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2017/2017-09-11_Harbor-Management-Shellfish-Commission-September-11-2017-Special-Meeting-Agenda-1--156c9195d801.pdf",
+  "versions": [
+    {
+      "sha256": "156c9195d8016bdfbe25fb301e10569ffef597758b4034a742d584285b27b03a",
+      "bytes": 27613,
+      "retrieved_utc": "2026-11-28T07:19:31+00:00",
+      "http_last_modified": "Thu, 07 Sep 2017 17:53:07 GMT"
+    }
+  ]
+}

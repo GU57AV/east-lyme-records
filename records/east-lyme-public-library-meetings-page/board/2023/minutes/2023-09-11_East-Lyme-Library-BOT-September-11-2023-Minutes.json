@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT September 11 2023 Minutes (pdf)",
+  "filename": "East-Lyme-Library-BOT-September-11-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/East-Lyme-Library-BOT-September-11-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2023-minutes/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-28T04:34:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b843928fd17ce6e5dfbf726478d646b43e079ab1d19d9ff12d22ec1f133457e6",
+  "bytes": 166002,
+  "pages": 0,
+  "http_last_modified": "Wed, 20 Sep 2023 15:35:50 GMT",
+  "etag": "\"16e01b7-28872-605cc21468180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2023/2023-09-11_East-Lyme-Library-BOT-September-11-2023-Minutes--b843928fd17c.pdf",
+  "versions": [
+    {
+      "sha256": "b843928fd17ce6e5dfbf726478d646b43e079ab1d19d9ff12d22ec1f133457e6",
+      "bytes": 166002,
+      "retrieved_utc": "2026-11-28T04:34:57+00:00",
+      "http_last_modified": "Wed, 20 Sep 2023 15:35:50 GMT"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Ordinance enactments: notice and publication check
 
-_Updated 2026-11-28 02:35 UTC._
+_Updated 2026-11-28 07:36 UTC._
 
 Every Board of Selectmen vote enacting an ordinance that the archive can read in the minutes, checked against the Charter:
 
@@ -107,7 +107,7 @@ Every Board of Selectmen vote enacting an ordinance that the archive can read in
 - **Hearing(s):** Apr 16, 2025
 - **Hearing notice / proposed text (§ 3.4.2):** [BOS April 16 2025 Public Hearing Notice (pdf)](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2025/agendas/2025-04-16_BOS-April-16-2025-Public-Hearing-Notice-1.md) — server file date Apr 7, 2025 (upload folder 2025-04)
 - **Notice of adoption (§ 3.4.3):** not found on the Town's website in the archive
-- **Full text posted after adoption:** [Water & Sewer April 22 2025 Supporting Documentation (pdf)](https://github.com/GU57AV/east-lyme-records/blob/main/records/water-sewer-commission/board/2025/agendas/2025-04-22_Water-Sewer-April-22-2025-Supporting-Documentation.md) — server file date May 13, 2025 (upload folder 2025-05)
+- **Full text posted after adoption:** [Harbor Management Plan – Adopted 2019](https://github.com/GU57AV/east-lyme-records/blob/main/records/harbor-mgt-shellfish-commission/board/2025/other/2025-04-00_Harbor-Management-Plan-2019-Adopted-with-Amendments.md) — server file date Apr 22, 2025 (upload folder 2025-04)
 
 **To review:**
 - the hearing notice found appears to have been posted 9 days before the Apr 16, 2025 hearing, by the server's file date, which can also reflect a later replacement of the file (§ 3.4.2 requires at least 10)
@@ -142,11 +142,10 @@ Every Board of Selectmen vote enacting an ordinance that the archive can read in
 - **Hearing(s):** Mar 19, 2025
 - **Hearing notice / proposed text (§ 3.4.2):** [BOS March 19 2025 Public Hearing Notice (pdf)](https://github.com/GU57AV/east-lyme-records/blob/main/records/board-of-selectmen/board/2025/agendas/2025-03-19_BOS-March-19-2025-Public-Hearing-Notice-1.md) — server file date Mar 7, 2025 (upload folder 2025-03)
 - **Notice of adoption (§ 3.4.3):** not found on the Town's website in the archive
-- **Full text posted after adoption:** not found in the archive
+- **Full text posted after adoption:** [Harbor Management Plan – Adopted 2019](https://github.com/GU57AV/east-lyme-records/blob/main/records/harbor-mgt-shellfish-commission/board/2025/other/2025-04-00_Harbor-Management-Plan-2019-Adopted-with-Amendments.md) — server file date Apr 22, 2025 (upload folder 2025-04)
 
 **To review:**
 - no notice of adoption found on the Town's website in the archive
-- no full text of the enacted ordinance, posted after adoption, found on the Town's website in the archive
 
 ## October 2, 2024: Ordinance Establishing a School Building Committee
 

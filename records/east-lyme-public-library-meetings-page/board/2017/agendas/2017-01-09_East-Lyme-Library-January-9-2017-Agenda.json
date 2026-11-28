@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "East Lyme Library January 9 2017 Agenda (pdf)",
+  "filename": "East-Lyme-Library-January-9-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/East-Lyme-Library-January-9-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T05:00:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "84ede2d6d3f068cf7e1222fc213377a6d745d393d75221514dc7663eacb8cff3",
+  "bytes": 33225,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Dec 2016 14:04:35 GMT",
+  "etag": "\"16629f8-81c9-54453dda362c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2017/2017-01-09_East-Lyme-Library-January-9-2017-Agenda--84ede2d6d3f0.pdf",
+  "versions": [
+    {
+      "sha256": "84ede2d6d3f068cf7e1222fc213377a6d745d393d75221514dc7663eacb8cff3",
+      "bytes": 33225,
+      "retrieved_utc": "2026-11-28T05:00:41+00:00",
+      "http_last_modified": "Fri, 23 Dec 2016 14:04:35 GMT"
+    }
+  ]
+}

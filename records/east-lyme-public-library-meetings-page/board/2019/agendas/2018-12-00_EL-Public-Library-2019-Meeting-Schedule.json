@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "EL Public Library Board of Trustees 2019 Meeting Schedule (pdf)",
+  "filename": "EL-Public-Library-2019-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/EL-Public-Library-2019-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-28T04:51:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5c9653aa807827a39765792d71a6cc951d672c1f32ed2d925e8bd7ec99f001a5",
+  "bytes": 36937,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Dec 2018 15:32:49 GMT",
+  "etag": "\"16c06d9-9049-57c33fa5b0a40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2019/2018-12-00_EL-Public-Library-2019-Meeting-Schedule--5c9653aa8078.pdf",
+  "versions": [
+    {
+      "sha256": "5c9653aa807827a39765792d71a6cc951d672c1f32ed2d925e8bd7ec99f001a5",
+      "bytes": 36937,
+      "retrieved_utc": "2026-11-28T04:51:53+00:00",
+      "http_last_modified": "Tue, 04 Dec 2018 15:32:49 GMT"
+    }
+  ]
+}

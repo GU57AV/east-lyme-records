@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission May 15 2018 Cancellation (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-May-15-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/Harbor-Management-Shellfish-Commission-May-15-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-28T07:03:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f1572b8a53bd7fc86b4b8c6b2e7e7c92ffbaf1e359996de9848f517ac7b0e6ff",
+  "bytes": 30180,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 May 2018 13:50:25 GMT",
+  "etag": "\"16c0d31-75e4-56c671e0aaa40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2018/2018-05-15_Harbor-Management-Shellfish-Commission-May-15-2018-Cancellation--f1572b8a53bd.pdf",
+  "versions": [
+    {
+      "sha256": "f1572b8a53bd7fc86b4b8c6b2e7e7c92ffbaf1e359996de9848f517ac7b0e6ff",
+      "bytes": 30180,
+      "retrieved_utc": "2026-11-28T07:03:57+00:00",
+      "http_last_modified": "Thu, 17 May 2018 13:50:25 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "East Lyme Harbor Management Mooring Inspection Form - 2026 (pdf)",
+  "filename": "EAST-LYME-HARBOR-MANAGEMENT-MOORING-INSPECTION.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/EAST-LYME-HARBOR-MANAGEMENT-MOORING-INSPECTION.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/mooring-info/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T05:53:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5aa169cd4a279f31e3fcfeed9d80728f4f5c59cb2b9e42b2166210d5296efc92",
+  "bytes": 43747,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jan 2026 00:02:19 GMT",
+  "etag": "\"17002fb-aae3-6497b9201e665\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2026/2026-01-00_EAST-LYME-HARBOR-MANAGEMENT-MOORING-INSPECTION--5aa169cd4a27.pdf",
+  "versions": [
+    {
+      "sha256": "5aa169cd4a279f31e3fcfeed9d80728f4f5c59cb2b9e42b2166210d5296efc92",
+      "bytes": 43747,
+      "retrieved_utc": "2026-11-28T05:53:34+00:00",
+      "http_last_modified": "Thu, 29 Jan 2026 00:02:19 GMT"
+    }
+  ]
+}

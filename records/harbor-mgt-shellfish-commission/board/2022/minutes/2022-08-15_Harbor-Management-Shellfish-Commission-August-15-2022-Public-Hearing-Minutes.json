@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission August 15 2022 Public Hearing Minutes (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-August-15-2022-Public-Hearing-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Harbor-Management-Shellfish-Commission-August-15-2022-Public-Hearing-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2022-minutes/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-28T06:36:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b0afd86f2b9655430dff3e89085b686af6f92d69b08624a63dd12eb61540ddcc",
+  "bytes": 777861,
+  "pages": 0,
+  "http_last_modified": "Wed, 17 Aug 2022 18:23:28 GMT",
+  "etag": "\"16a1345-bde85-5e673f618c800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2022/2022-08-15_Harbor-Management-Shellfish-Commission-August-15-2022-Public-Hearing-Minutes--b0afd86f2b96.pdf",
+  "versions": [
+    {
+      "sha256": "b0afd86f2b9655430dff3e89085b686af6f92d69b08624a63dd12eb61540ddcc",
+      "bytes": 777861,
+      "retrieved_utc": "2026-11-28T06:36:12+00:00",
+      "http_last_modified": "Wed, 17 Aug 2022 18:23:28 GMT"
+    }
+  ]
+}

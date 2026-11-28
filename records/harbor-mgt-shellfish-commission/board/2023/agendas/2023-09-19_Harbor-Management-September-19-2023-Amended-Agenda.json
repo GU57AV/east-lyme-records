@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission September 19 2023 Amended Agenda (pdf)",
+  "filename": "Harbor-Management-September-19-2023-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/Harbor-Management-September-19-2023-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-28T06:19:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "01f2cc3ff451e9b6b27c32de61997274e270bc46a789868b6a1814f10a1a137b",
+  "bytes": 46237,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Sep 2023 21:02:54 GMT",
+  "etag": "\"16e0193-b49d-605a877463b80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2023/2023-09-19_Harbor-Management-September-19-2023-Amended-Agenda--01f2cc3ff451.pdf",
+  "versions": [
+    {
+      "sha256": "01f2cc3ff451e9b6b27c32de61997274e270bc46a789868b6a1814f10a1a137b",
+      "bytes": 46237,
+      "retrieved_utc": "2026-11-28T06:19:57+00:00",
+      "http_last_modified": "Mon, 18 Sep 2023 21:02:54 GMT"
+    }
+  ]
+}

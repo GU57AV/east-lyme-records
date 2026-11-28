@@ -1,12 +1,12 @@
 # Transparency scorecard
 
-_Updated Nov 27, 2026 9:35 PM ET. Unofficial and automatic._
+_Updated Nov 28, 2026 2:36 AM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
 ## Last 12 months
 
-Meetings from Nov 27, 2025 through yesterday.
+Meetings from Nov 28, 2025 through yesterday.
 
 | Board | Meeting days | Agenda found | Agenda 24 h ahead | Minutes found | Minutes within 7 days | Median days to minutes | Open flags |
 |---|---|---|---|---|---|---|---|
@@ -19,11 +19,14 @@ Meetings from Nov 27, 2025 through yesterday.
 | Brookside Farm Museum Commission | 3 | 67% (2/3) | 100% (2/2) | 67% (2/3) | 0% (0/2) | 17 | 15 |
 | Cable TV Advisory Council | 6 | 100% (6/6) | 100% (6/6) | 100% (6/6) | 100% (6/6) | 0.5 | 0 |
 | Commission On Aging | 10 | 100% (10/10) | 100% (10/10) | 100% (10/10) | 100% (10/10) | 3 | 0 |
+| Conservation of Natural Resources Commission | 24 | 100% (24/24) | 96% (23/24) | 79% (19/24) | 53% (10/19) | 7 | 9 |
+| Fair Rent Commission | 4 | 25% (1/4) | 100% (1/1) | 33% (1/3) | 100% (1/1) | 0 | 3 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
+| Public Library Board of Trustees | 7 | 0% (0/7) | — | 86% (6/7) | 33% (2/6) | 16.5 | 15 |
 | Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
 | Zoning Board of Appeals | 2 | 100% (2/2) | 100% (2/2) | 50% (1/2) | 0% (0/1) | 9 | 2 |
-| Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (20/21) | 50% (10/20) | 7.5 | 2 |
+| Zoning Commission | 22 | 95% (21/22) | 100% (21/21) | 95% (21/22) | 52% (11/21) | 7 | 2 |
 
 ## Since January 1, 2024
 
@@ -39,11 +42,14 @@ Meetings from Nov 27, 2025 through yesterday.
 | Brookside Farm Museum Commission | 21 | 57% (12/21) | 92% (11/12) | 62% (13/21) | 69% (9/13) | 6 | 15 |
 | Cable TV Advisory Council | 18 | 100% (18/18) | 100% (18/18) | 100% (18/18) | 88% (15/17) | 0 | 0 |
 | Commission On Aging | 30 | 100% (30/30) | 100% (30/30) | 100% (30/30) | 97% (29/30) | 2 | 0 |
+| Conservation of Natural Resources Commission | 69 | 100% (69/69) | 97% (67/69) | 86% (59/69) | 56% (33/59) | 7 | 9 |
+| Fair Rent Commission | 10 | 70% (7/10) | 100% (7/7) | 78% (7/9) | 86% (6/7) | 6 | 3 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
+| Public Library Board of Trustees | 19 | 26% (5/19) | 100% (5/5) | 89% (17/19) | 18% (3/17) | 21 | 15 |
 | Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |
 | Zoning Board of Appeals | 10 | 90% (9/10) | 100% (9/9) | 90% (9/10) | 89% (8/9) | 2 | 2 |
-| Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (63/64) | 81% (51/63) | 4 | 2 |
+| Zoning Commission | 65 | 92% (60/65) | 100% (60/60) | 98% (64/65) | 81% (52/64) | 4 | 2 |
 
 ## How to read this
 
@@ -115,6 +121,35 @@ Meetings from Nov 27, 2025 through yesterday.
 
 </details>
 
+<details><summary>Conservation of Natural Resources Commission (15)</summary>
+
+- Wed Dec 10, 2025 — CNRC: current minutes file uploaded after 8 days ([document](../records/conservation-of-natural-resources-commission/board/2025/agendas/2025-12-10_CNRC-December-10-2025-Agenda.md))
+- Sat Jan 10, 2026 — Agri-Business: no minutes found ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-01-10_Agri-Business-January-10-2026-Agenda.md))
+- Wed Jan 21, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 21 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-01-21_Agri-Business-January-21-2026-Agenda.md))
+- Wed Feb 18, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 16 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-02-18_Agri-Business-February-18-2026-Agenda.md))
+- Wed Mar 18, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 21 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-03-18_Agri-Business-Subcommittee-March-18-2026-Agenda.md))
+- Wed Apr 15, 2026 — Agri-Business Subcommittee: no minutes found ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-04-15_Agri-Business-April-15-2026-Agenda.md))
+- Thu Apr 16, 2026: current minutes file uploaded after 29 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-04-16_Agribusiness-April-16-2026-Agenda.md))
+- Wed May 20, 2026 — Agri-Business Subcommittee: no minutes found ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-05-20_Agri-Business-May-20-2026-Agenda.md))
+- Wed Jun 17, 2026 — Agri-Business Subcommittee: no minutes found ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-06-17_Agri-Business-June-17-2026-Agenda.md))
+- Wed Jul 1, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 47 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-07-01_Agribusiness-July-1-2026-Agenda.md))
+- Wed Aug 12, 2026 — Conservation Of Natural Resources: agenda not online 24 h ahead ([document](../records/conservation-of-natural-resources-commission/board/2026/agendas/2026-08-12_CNRC-August-12-2026-Agenda.md))
+- Wed Sep 9, 2026 — Conservation Of Natural Resources: current minutes file uploaded after 8 days ([document](../records/conservation-of-natural-resources-commission/board/2026/agendas/2026-09-09_CNRC-September-9-2026-Agenda.md))
+- Wed Sep 16, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 34 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-09-16_Agri-Business-September-16-2026-Agenda.md))
+- Wed Oct 21, 2026 — Agri-Business Subcommittee: current minutes file uploaded after 26 days ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-10-21_Agri-Business-October-21-2026-Agenda.md))
+- Thu Nov 19, 2026 — Agri-Business Subcommittee: no minutes found ([document](../records/conservation-of-natural-resources-commission/subcommittee/2026/agendas/2026-11-19_Agri-Business-November-19-2026-Agenda-1.md))
+
+</details>
+
+<details><summary>Fair Rent Commission (4)</summary>
+
+- Fri Dec 5, 2025: no minutes found ([document](../records/fair-rent-commission/board/2025/agendas/2025-12-05_Fair-Rent-Commission-December-5-2025-Special-Mtg-Agenda.md))
+- Mon Dec 8, 2025 — Fair Rent Commission Special Meeting Via Zoom: no agenda found; no minutes found
+- Fri Dec 12, 2025: no agenda found ([document](../records/fair-rent-commission/board/2025/minutes/2025-12-12_Fair-Rent-Commission-December-12-2025-Special-Meeting-Minutes.md))
+- Wed Nov 25, 2026 — Fair Rent Commission: no agenda found
+
+</details>
+
 <details><summary>Inland Wetlands Agency (10)</summary>
 
 - Tue Dec 2, 2025 — IWA: current minutes file uploaded after 58 days ([document](../records/inland-wetlands-agency/board/2025/agendas/2025-12-02_IWA-December-2-2025-Agenda.md))
@@ -140,6 +175,18 @@ Meetings from Nov 27, 2025 through yesterday.
 - Tue Jun 9, 2026 — Planning Commission: current minutes file uploaded after 15 days ([document](../records/planning-commission/board/2026/agendas/2026-06-09_Planning-Commission-June-9-2026-Agenda.md))
 - Mon Jun 15, 2026: no minutes found ([document](../records/planning-commission/board/2026/agendas/2026-06-15_Planning-Commission-June-15-2026-Housing-Growth-Seminar-Special-Meeting-Agenda.md))
 - Tue Jul 14, 2026 — Planning Commission: current minutes file uploaded after 118 days ([document](../records/planning-commission/board/2026/agendas/2026-07-14_Planning-Commission-July-14-2026-Agenda.md))
+
+</details>
+
+<details><summary>Public Library Board of Trustees (7)</summary>
+
+- Mon Jan 5, 2026 — East Lyme Library BOT: no agenda found; current minutes file uploaded after 32 days ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-01-05_East-Lyme-Library-BOT-January-5-2026-Minutes.md))
+- Mon Mar 2, 2026 — East Lyme Library BOT: no agenda found; current minutes file uploaded after 11 days ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-03-02_East-Lyme-Library-BOT-March-2-2026-Minutes.md))
+- Wed Apr 15, 2026: no agenda found; current minutes file uploaded after 22 days ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-04-15_East-Lyme-Library-BOT-Ad-Hoc-April-15-2026-Minutes.md))
+- Mon May 4, 2026 — East Lyme Library BOT: no agenda found ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-05-04_Library-May-4-2026-Meeting-Minutes.md))
+- Mon Jul 13, 2026 — East Lyme Library BOT: no agenda found; current minutes file uploaded after 63 days ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-07-13_East-Lyme-Library-BOT-July-13-2026-Minutes.md))
+- Mon Sep 14, 2026 — East Lyme Library BOT: no agenda found ([document](../records/east-lyme-public-library-meetings-page/board/2026/minutes/2026-09-14_East-Lyme-Library-BOT-September-14-2026-Minutes.md))
+- Mon Nov 9, 2026 — East Lyme Library BOT: no agenda found; no minutes found
 
 </details>
 

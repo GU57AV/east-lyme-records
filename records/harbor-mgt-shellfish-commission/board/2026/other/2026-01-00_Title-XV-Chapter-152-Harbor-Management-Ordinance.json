@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "other",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Title XV Chapter 152 \u2013 Harbor Management Ordinance",
+  "filename": "Title-XV-Chapter-152-Harbor-Management-Ordinance.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/Title-XV-Chapter-152-Harbor-Management-Ordinance.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T05:51:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a9c9c6c4f8a42891ff26d03d4f9441e9e1ace977eefee43d8bf8f65b898df79d",
+  "bytes": 96986,
+  "pages": 0,
+  "http_last_modified": "Thu, 29 Jan 2026 00:26:52 GMT",
+  "etag": "\"17002fc-17ada-6497be9c43e31\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2026/2026-01-00_Title-XV-Chapter-152-Harbor-Management-Ordinance--a9c9c6c4f8a4.pdf",
+  "versions": [
+    {
+      "sha256": "a9c9c6c4f8a42891ff26d03d4f9441e9e1ace977eefee43d8bf8f65b898df79d",
+      "bytes": 96986,
+      "retrieved_utc": "2026-11-28T05:51:11+00:00",
+      "http_last_modified": "Thu, 29 Jan 2026 00:26:52 GMT"
+    }
+  ]
+}

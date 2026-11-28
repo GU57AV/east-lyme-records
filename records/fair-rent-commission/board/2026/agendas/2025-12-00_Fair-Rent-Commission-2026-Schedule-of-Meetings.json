@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission 2026 Schedule of Meetings (pdf)",
+  "filename": "Fair-Rent-Commission-2026-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/12/Fair-Rent-Commission-2026-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/fair-rent-commission-2026-agendas/",
+  "upload_folder": "2025-12",
+  "first_seen_utc": "2026-11-28T05:29:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a4c1df1465b203c079fcdf753374d3ca58c0d94a29926fd78f604d95cd42f0b3",
+  "bytes": 43195,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Dec 2025 20:12:48 GMT",
+  "etag": "\"1a20035-a8bb-645766b40be1a\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2026/2025-12-00_Fair-Rent-Commission-2026-Schedule-of-Meetings--a4c1df1465b2.pdf",
+  "versions": [
+    {
+      "sha256": "a4c1df1465b203c079fcdf753374d3ca58c0d94a29926fd78f604d95cd42f0b3",
+      "bytes": 43195,
+      "retrieved_utc": "2026-11-28T05:29:12+00:00",
+      "http_last_modified": "Mon, 08 Dec 2025 20:12:48 GMT"
+    }
+  ]
+}

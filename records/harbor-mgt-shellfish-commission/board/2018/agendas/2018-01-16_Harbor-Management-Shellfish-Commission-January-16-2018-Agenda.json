@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission January 16 2018 Agenda (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-January-16-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/Harbor-Management-Shellfish-Commission-January-16-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2018-agendas/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-28T07:06:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cea9f3833f6ae6b5ae86771ef0ecf7343b6ad91eceac8b6fa58b088a30f96554",
+  "bytes": 36550,
+  "pages": 0,
+  "http_last_modified": "Thu, 11 Jan 2018 19:49:04 GMT",
+  "etag": "\"16c0e1f-8ec6-5628570ab4c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2018/2018-01-16_Harbor-Management-Shellfish-Commission-January-16-2018-Agenda--cea9f3833f6a.pdf",
+  "versions": [
+    {
+      "sha256": "cea9f3833f6ae6b5ae86771ef0ecf7343b6ad91eceac8b6fa58b088a30f96554",
+      "bytes": 36550,
+      "retrieved_utc": "2026-11-28T07:06:18+00:00",
+      "http_last_modified": "Thu, 11 Jan 2018 19:49:04 GMT"
+    }
+  ]
+}

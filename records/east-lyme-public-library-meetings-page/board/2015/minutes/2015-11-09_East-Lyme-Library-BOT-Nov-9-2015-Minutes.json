@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT Nov 9 2015 Minutes (pdf)",
+  "filename": "East-Lyme-Library-BOT-Nov-9-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/East-Lyme-Library-BOT-Nov-9-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-library-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-28T05:10:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "02d4431d60ecc3689df4ce1770c45ec466862337c5e0a7d09dd13e0c0a870107",
+  "bytes": 180059,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Jan 2016 18:58:41 GMT",
+  "etag": "\"166302d-2bf5b-52913867cda40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2015/2015-11-09_East-Lyme-Library-BOT-Nov-9-2015-Minutes--02d4431d60ec.pdf",
+  "versions": [
+    {
+      "sha256": "02d4431d60ecc3689df4ce1770c45ec466862337c5e0a7d09dd13e0c0a870107",
+      "bytes": 180059,
+      "retrieved_utc": "2026-11-28T05:10:50+00:00",
+      "http_last_modified": "Mon, 11 Jan 2016 18:58:41 GMT"
+    }
+  ]
+}

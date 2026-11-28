@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission September 20 2022 Minutes (pdf)",
+  "filename": "Harbor-Management-September-20-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Harbor-Management-September-20-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2022-minutes/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-28T06:35:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "775bfcad052bd8895e8355f07f0ec4bbbfa4e26d4d707c55d4924f497c831a69",
+  "bytes": 718188,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Oct 2022 19:30:57 GMT",
+  "etag": "\"16a11e5-af56c-5ea4e9da8fe40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2022/2022-09-20_Harbor-Management-September-20-2022-Minutes--775bfcad052b.pdf",
+  "versions": [
+    {
+      "sha256": "775bfcad052bd8895e8355f07f0ec4bbbfa4e26d4d707c55d4924f497c831a69",
+      "bytes": 718188,
+      "retrieved_utc": "2026-11-28T06:35:31+00:00",
+      "http_last_modified": "Wed, 05 Oct 2022 19:30:57 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2027",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT 2027 Schedule of Meetings (pdf)",
+  "filename": "East-Lyme-Library-BOT-2027-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/East-Lyme-Library-BOT-2027-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2027-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-28T04:24:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "67853d8f04f80c36118fa8854ad9f382546f5b9badb8a9949e77adb7f103c6d4",
+  "bytes": 34535,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Nov 2026 14:46:30 GMT",
+  "etag": "\"17c006e-86e7-66065d7e3a269\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2027/2026-11-00_East-Lyme-Library-BOT-2027-Schedule-of-Meetings--67853d8f04f8.pdf",
+  "versions": [
+    {
+      "sha256": "67853d8f04f80c36118fa8854ad9f382546f5b9badb8a9949e77adb7f103c6d4",
+      "bytes": 34535,
+      "retrieved_utc": "2026-11-28T04:24:07+00:00",
+      "http_last_modified": "Mon, 16 Nov 2026 14:46:30 GMT"
+    }
+  ]
+}

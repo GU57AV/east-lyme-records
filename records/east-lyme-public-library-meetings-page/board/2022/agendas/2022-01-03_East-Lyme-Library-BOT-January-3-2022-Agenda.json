@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT January 3 2022 Agenda (pdf)",
+  "filename": "East-Lyme-Library-BOT-January-3-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/12/East-Lyme-Library-BOT-January-3-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2022-agendas/",
+  "upload_folder": "2021-12",
+  "first_seen_utc": "2026-11-28T04:38:20+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ff7b3775675ec54cabc8f94c2677db2993f9ca96b226a291c1c648521a324daa",
+  "bytes": 50008,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Dec 2021 17:47:07 GMT",
+  "etag": "\"1663585-c358-5d30aa94bbcc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2022/2022-01-03_East-Lyme-Library-BOT-January-3-2022-Agenda--ff7b3775675e.pdf",
+  "versions": [
+    {
+      "sha256": "ff7b3775675ec54cabc8f94c2677db2993f9ca96b226a291c1c648521a324daa",
+      "bytes": 50008,
+      "retrieved_utc": "2026-11-28T04:38:20+00:00",
+      "http_last_modified": "Mon, 13 Dec 2021 17:47:07 GMT"
+    }
+  ]
+}

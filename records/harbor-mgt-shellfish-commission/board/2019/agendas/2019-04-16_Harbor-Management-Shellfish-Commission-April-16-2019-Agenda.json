@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission April 16 2019 Agenda (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-April-16-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/Harbor-Management-Shellfish-Commission-April-16-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-28T06:53:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2cb8c976a03864a10a7e635c3e03c173d4895f8140c86c5ab530ce534df4fe58",
+  "bytes": 52110,
+  "pages": 0,
+  "http_last_modified": "Mon, 15 Apr 2019 13:10:04 GMT",
+  "etag": "\"16c2059-cb8e-586915ee50300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2019/2019-04-16_Harbor-Management-Shellfish-Commission-April-16-2019-Agenda--2cb8c976a038.pdf",
+  "versions": [
+    {
+      "sha256": "2cb8c976a03864a10a7e635c3e03c173d4895f8140c86c5ab530ce534df4fe58",
+      "bytes": 52110,
+      "retrieved_utc": "2026-11-28T06:53:07+00:00",
+      "http_last_modified": "Mon, 15 Apr 2019 13:10:04 GMT"
+    }
+  ]
+}

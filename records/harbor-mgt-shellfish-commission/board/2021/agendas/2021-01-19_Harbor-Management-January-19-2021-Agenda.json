@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission January 19 2021 Agenda (via zoom) (pdf)",
+  "filename": "Harbor-Management-January-19-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/01/Harbor-Management-January-19-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2021-agendas/",
+  "upload_folder": "2021-01",
+  "first_seen_utc": "2026-11-28T06:41:17+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8f5934486c3cd46cf5dce75e2532d8396767c71c5356ad3159822de46fa502a2",
+  "bytes": 91434,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Jan 2021 14:32:11 GMT",
+  "etag": "\"166372a-1652a-5b8b4e35250c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2021/2021-01-19_Harbor-Management-January-19-2021-Agenda--8f5934486c3c.pdf",
+  "versions": [
+    {
+      "sha256": "8f5934486c3cd46cf5dce75e2532d8396767c71c5356ad3159822de46fa502a2",
+      "bytes": 91434,
+      "retrieved_utc": "2026-11-28T06:41:17+00:00",
+      "http_last_modified": "Tue, 12 Jan 2021 14:32:11 GMT"
+    }
+  ]
+}

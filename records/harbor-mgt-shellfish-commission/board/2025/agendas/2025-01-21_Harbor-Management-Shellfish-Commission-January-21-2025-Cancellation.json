@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission January 21 2025 Cancellation (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-January-21-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Harbor-Management-Shellfish-Commission-January-21-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-28T06:05:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1b74c6d0bc31a4c8efa0c857c251abc28c3f701667bc53e71f53df3fbdb0efdb",
+  "bytes": 63122,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Jan 2025 19:07:39 GMT",
+  "etag": "\"16c0049-f692-62b0e579234c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2025/2025-01-21_Harbor-Management-Shellfish-Commission-January-21-2025-Cancellation--1b74c6d0bc31.pdf",
+  "versions": [
+    {
+      "sha256": "1b74c6d0bc31a4c8efa0c857c251abc28c3f701667bc53e71f53df3fbdb0efdb",
+      "bytes": 63122,
+      "retrieved_utc": "2026-11-28T06:05:44+00:00",
+      "http_last_modified": "Mon, 06 Jan 2025 19:07:39 GMT"
+    }
+  ]
+}

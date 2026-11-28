@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "minutes",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "East Lyme Library July 12 2021 BOT Annual Meeting (pdf)",
+  "filename": "East-Lyme-Library-July-12-2021-BOT-Annual-Meeting.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/East-Lyme-Library-July-12-2021-BOT-Annual-Meeting.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2021-minutes/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-28T04:43:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "42fb0333d8a0f60f7f081854b873e161c747faceb705eea940bf1b99841b5160",
+  "bytes": 74756,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Aug 2021 14:51:21 GMT",
+  "etag": "\"16804d3-12404-5c9ae5596ec40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2021/2021-07-12_East-Lyme-Library-July-12-2021-BOT-Annual-Meeting--42fb0333d8a0.pdf",
+  "versions": [
+    {
+      "sha256": "42fb0333d8a0f60f7f081854b873e161c747faceb705eea940bf1b99841b5160",
+      "bytes": 74756,
+      "retrieved_utc": "2026-11-28T04:43:45+00:00",
+      "http_last_modified": "Mon, 16 Aug 2021 14:51:21 GMT"
+    }
+  ]
+}

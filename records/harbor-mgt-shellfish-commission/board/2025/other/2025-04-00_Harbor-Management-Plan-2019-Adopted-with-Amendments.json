@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "other",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Harbor Management Plan \u2013 Adopted 2019",
+  "filename": "Harbor-Management-Plan-2019-Adopted-with-Amendments.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/Harbor-Management-Plan-2019-Adopted-with-Amendments.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-28T05:52:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "36fd5cfd7adc0ad346790a7728e3329a975971abe763fe5715efc120e1bc15a2",
+  "bytes": 22927226,
+  "pages": 0,
+  "http_last_modified": "Tue, 22 Apr 2025 20:49:34 GMT",
+  "etag": "\"16c0207-15dd77a-633641f3b7380\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2025/2025-04-00_Harbor-Management-Plan-2019-Adopted-with-Amendments--36fd5cfd7adc.pdf",
+  "versions": [
+    {
+      "sha256": "36fd5cfd7adc0ad346790a7728e3329a975971abe763fe5715efc120e1bc15a2",
+      "bytes": 22927226,
+      "retrieved_utc": "2026-11-28T05:52:13+00:00",
+      "http_last_modified": "Tue, 22 Apr 2025 20:49:34 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Agri-Business 2016 Meeting Schedule (pdf)",
+  "filename": "Agri-Business-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Agri-Business-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T03:56:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "29945dcce0fa590ac43a99eac1ce51c9778880ec017b8b421f232fcd705dcebb",
+  "bytes": 40290,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Dec 2015 20:28:57 GMT",
+  "etag": "\"16e0383-9d62-52668d2b3b440\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2015-12-00_Agri-Business-2016-Meeting-Schedule--29945dcce0fa.pdf",
+  "versions": [
+    {
+      "sha256": "29945dcce0fa590ac43a99eac1ce51c9778880ec017b8b421f232fcd705dcebb",
+      "bytes": 40290,
+      "retrieved_utc": "2026-11-28T03:56:45+00:00",
+      "http_last_modified": "Tue, 08 Dec 2015 20:28:57 GMT"
+    }
+  ]
+}

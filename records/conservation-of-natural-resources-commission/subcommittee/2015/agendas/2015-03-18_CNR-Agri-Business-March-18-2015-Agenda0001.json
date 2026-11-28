@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": true,
+  "link_text": "CNRC Agri-Business March 18 2015 Agenda (pdf)",
+  "filename": "CNR-Agri-Business-March-18-2015-Agenda0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNR-Agri-Business-March-18-2015-Agenda0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/cnr-agri-business-subcommittee-2015-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T04:02:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "90037d5cb47f517473f37f80d08f6abaae03b2f22f0483b2bc5a0961b2583884",
+  "bytes": 470193,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:19 GMT",
+  "etag": "\"1663ea2-72cb1-520827aa4a0c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2015/2015-03-18_CNR-Agri-Business-March-18-2015-Agenda0001--90037d5cb47f.pdf",
+  "versions": [
+    {
+      "sha256": "90037d5cb47f517473f37f80d08f6abaae03b2f22f0483b2bc5a0961b2583884",
+      "bytes": 470193,
+      "retrieved_utc": "2026-11-28T04:02:10+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:19 GMT"
+    }
+  ]
+}

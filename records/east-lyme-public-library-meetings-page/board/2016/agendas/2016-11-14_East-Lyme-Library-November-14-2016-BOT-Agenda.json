@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT November 14 2016 Agenda (pdf)",
+  "filename": "East-Lyme-Library-November-14-2016-BOT-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/East-Lyme-Library-November-14-2016-BOT-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T05:03:44+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "80826d9bd77c45f431829e30a47ae9648f6b8f7c3a134d383fc0757db22de33b",
+  "bytes": 33315,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Nov 2016 16:30:05 GMT",
+  "etag": "\"16e048b-8223-540cca720bd40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2016/2016-11-14_East-Lyme-Library-November-14-2016-BOT-Agenda--80826d9bd77c.pdf",
+  "versions": [
+    {
+      "sha256": "80826d9bd77c45f431829e30a47ae9648f6b8f7c3a134d383fc0757db22de33b",
+      "bytes": 33315,
+      "retrieved_utc": "2026-11-28T05:03:44+00:00",
+      "http_last_modified": "Tue, 08 Nov 2016 16:30:05 GMT"
+    }
+  ]
+}

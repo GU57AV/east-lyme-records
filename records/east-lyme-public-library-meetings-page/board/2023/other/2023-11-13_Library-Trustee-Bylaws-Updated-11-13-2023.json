@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "other",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "Board of Trustees Bylaws",
+  "filename": "Library-Trustee-Bylaws-Updated-11-13-2023.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/11/Library-Trustee-Bylaws-Updated-11-13-2023.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/",
+  "upload_folder": "2023-11",
+  "first_seen_utc": "2026-11-28T04:23:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "454e1a96fa233fd202a3a01ec874d3f7a05b1f51127dcf690acf97c70e835257",
+  "bytes": 299781,
+  "pages": 0,
+  "http_last_modified": "Tue, 14 Nov 2023 19:55:09 GMT",
+  "etag": "\"16e0148-49305-60a2229efa140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2023/2023-11-13_Library-Trustee-Bylaws-Updated-11-13-2023--454e1a96fa23.pdf",
+  "versions": [
+    {
+      "sha256": "454e1a96fa233fd202a3a01ec874d3f7a05b1f51127dcf690acf97c70e835257",
+      "bytes": 299781,
+      "retrieved_utc": "2026-11-28T04:23:47+00:00",
+      "http_last_modified": "Tue, 14 Nov 2023 19:55:09 GMT"
+    }
+  ]
+}

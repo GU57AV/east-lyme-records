@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission February 4 2025 Public Hearing Continuation (pdf)",
+  "filename": "Fair-Rent-Commission-February-4-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Fair-Rent-Commission-February-4-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/fair-rent-commission-2025-agendas/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-28T05:33:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "18f6f745a883cbf56b571f46f35980b02e2591ac76fe7a01092af0b16af1a28e",
+  "bytes": 32994,
+  "pages": 0,
+  "http_last_modified": "Fri, 31 Jan 2025 14:43:26 GMT",
+  "etag": "\"16c0027-80e2-62d0190b0ff80\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2025/2025-02-04_Fair-Rent-Commission-February-4-2025-Agenda--18f6f745a883.pdf",
+  "versions": [
+    {
+      "sha256": "18f6f745a883cbf56b571f46f35980b02e2591ac76fe7a01092af0b16af1a28e",
+      "bytes": 32994,
+      "retrieved_utc": "2026-11-28T05:33:56+00:00",
+      "http_last_modified": "Fri, 31 Jan 2025 14:43:26 GMT"
+    }
+  ]
+}

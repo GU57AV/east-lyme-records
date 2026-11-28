@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission December 10 2024 Minutes (pdf)",
+  "filename": "Fair-Rent-Commission-December-10-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/Fair-Rent-Commission-December-10-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/2024-fair-rent-commission-minutes/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-28T05:38:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7c799c4a3129917b5cf2cf5abe10e7560a210070398564ad9ec2620cbdfbf9f8",
+  "bytes": 1416408,
+  "pages": 0,
+  "http_last_modified": "Thu, 12 Dec 2024 14:53:52 GMT",
+  "etag": "\"168052d-159cd8-62913e1f04000\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2024/2024-12-10_Fair-Rent-Commission-December-10-2024-Minutes--7c799c4a3129.pdf",
+  "versions": [
+    {
+      "sha256": "7c799c4a3129917b5cf2cf5abe10e7560a210070398564ad9ec2620cbdfbf9f8",
+      "bytes": 1416408,
+      "retrieved_utc": "2026-11-28T05:38:00+00:00",
+      "http_last_modified": "Thu, 12 Dec 2024 14:53:52 GMT"
+    }
+  ]
+}

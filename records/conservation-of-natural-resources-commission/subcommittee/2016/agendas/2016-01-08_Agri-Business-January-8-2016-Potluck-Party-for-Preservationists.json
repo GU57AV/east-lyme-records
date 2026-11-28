@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Agri-Business January 8 2016 Potluck Party for Preservationists (pdf)",
+  "filename": "Agri-Business-January-8-2016-Potluck-Party-for-Preservationists.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Agri-Business-January-8-2016-Potluck-Party-for-Preservationists.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T03:56:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2436b1c1cfdfc1100038ee0c7482d2f3072aac0d2d6451058f37765740735b7d",
+  "bytes": 29790,
+  "pages": 0,
+  "http_last_modified": "Tue, 05 Jan 2016 15:22:24 GMT",
+  "etag": "\"16e06c7-745e-52897cdf34c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2016-01-08_Agri-Business-January-8-2016-Potluck-Party-for-Preservationists--2436b1c1cfdf.pdf",
+  "versions": [
+    {
+      "sha256": "2436b1c1cfdfc1100038ee0c7482d2f3072aac0d2d6451058f37765740735b7d",
+      "bytes": 29790,
+      "retrieved_utc": "2026-11-28T03:56:05+00:00",
+      "http_last_modified": "Tue, 05 Jan 2016 15:22:24 GMT"
+    }
+  ]
+}

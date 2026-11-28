@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "East Lyme Library July 8 2019 Agenda (pdf)",
+  "filename": "East-Lyme-Library-July-8-2019-Ageda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/07/East-Lyme-Library-July-8-2019-Ageda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2019-agendas/",
+  "upload_folder": "2019-07",
+  "first_seen_utc": "2026-11-28T04:50:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9b0f816bf699c6725505241e7c107abebd42046096ecf3f202cc9d1d97cc33d",
+  "bytes": 58999,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Jul 2019 13:21:27 GMT",
+  "etag": "\"16c21ce-e677-58c9e8162a3c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2019/2019-07-08_East-Lyme-Library-July-8-2019-Ageda--e9b0f816bf69.pdf",
+  "versions": [
+    {
+      "sha256": "e9b0f816bf699c6725505241e7c107abebd42046096ecf3f202cc9d1d97cc33d",
+      "bytes": 58999,
+      "retrieved_utc": "2026-11-28T04:50:32+00:00",
+      "http_last_modified": "Mon, 01 Jul 2019 13:21:27 GMT"
+    }
+  ]
+}

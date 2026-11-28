@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission September 20 2022 Agenda (pdf)",
+  "filename": "Harbor-Management-September-20-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/Harbor-Management-September-20-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2022-agendas/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-28T06:29:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "115ee598232b821dc5adad067c81c7c809fa875338c387e1a1f6b76dba6efee8",
+  "bytes": 51408,
+  "pages": 0,
+  "http_last_modified": "Fri, 16 Sep 2022 17:56:56 GMT",
+  "etag": "\"16a1165-c8d0-5e8cf16720a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2022/2022-09-20_Harbor-Management-September-20-2022-Agenda--115ee598232b.pdf",
+  "versions": [
+    {
+      "sha256": "115ee598232b821dc5adad067c81c7c809fa875338c387e1a1f6b76dba6efee8",
+      "bytes": 51408,
+      "retrieved_utc": "2026-11-28T06:29:26+00:00",
+      "http_last_modified": "Fri, 16 Sep 2022 17:56:56 GMT"
+    }
+  ]
+}

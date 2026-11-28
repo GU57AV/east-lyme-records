@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT January 6 2025 Minutes (pdf)",
+  "filename": "East-Lyme-Library-BOT-January-6-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/East-Lyme-Library-BOT-January-6-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2025-minutes/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-28T04:29:53+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "57d105a72c24c149aa3622e96e27803b8217bb92cfc72db3ecdce339dd53f99a",
+  "bytes": 161342,
+  "pages": 0,
+  "http_last_modified": "Wed, 08 Jan 2025 17:15:11 GMT",
+  "etag": "\"16c0014-2763e-62b35010aa5c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2025/2025-01-06_East-Lyme-Library-BOT-January-6-2025-Minutes--57d105a72c24.pdf",
+  "versions": [
+    {
+      "sha256": "57d105a72c24c149aa3622e96e27803b8217bb92cfc72db3ecdce339dd53f99a",
+      "bytes": 161342,
+      "retrieved_utc": "2026-11-28T04:29:53+00:00",
+      "http_last_modified": "Wed, 08 Jan 2025 17:15:11 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission December 10 2024 Agenda (pdf)",
+  "filename": "Fair-Rent-Commission-December-10-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/12/Fair-Rent-Commission-December-10-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/2024-fair-rent-commission-agendas/",
+  "upload_folder": "2024-12",
+  "first_seen_utc": "2026-11-28T05:37:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a316e3bed871ab8fd064f614f76c330bfaad58bdd0f89d8af0e38d9e11bf09a5",
+  "bytes": 31628,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Dec 2024 15:08:52 GMT",
+  "etag": "\"168053e-7b8c-6288746b18900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2024/2024-12-10_Fair-Rent-Commission-December-10-2024-Agenda--a316e3bed871.pdf",
+  "versions": [
+    {
+      "sha256": "a316e3bed871ab8fd064f614f76c330bfaad58bdd0f89d8af0e38d9e11bf09a5",
+      "bytes": 31628,
+      "retrieved_utc": "2026-11-28T05:37:40+00:00",
+      "http_last_modified": "Thu, 05 Dec 2024 15:08:52 GMT"
+    }
+  ]
+}

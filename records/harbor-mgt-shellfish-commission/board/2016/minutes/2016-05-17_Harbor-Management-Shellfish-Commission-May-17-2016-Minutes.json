@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission May 17 2016 Minutes (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-May-17-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Harbor-Management-Shellfish-Commission-May-17-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T07:35:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "92abad1f5fba4e424813c343f07bf31b9487a2988e9a8ebc9bdfcad782056013",
+  "bytes": 109570,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 May 2016 13:40:43 GMT",
+  "etag": "\"16e04c0-1ac02-533321ee10cc0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2016/2016-05-17_Harbor-Management-Shellfish-Commission-May-17-2016-Minutes--92abad1f5fba.pdf",
+  "versions": [
+    {
+      "sha256": "92abad1f5fba4e424813c343f07bf31b9487a2988e9a8ebc9bdfcad782056013",
+      "bytes": 109570,
+      "retrieved_utc": "2026-11-28T07:35:45+00:00",
+      "http_last_modified": "Thu, 19 May 2016 13:40:43 GMT"
+    }
+  ]
+}

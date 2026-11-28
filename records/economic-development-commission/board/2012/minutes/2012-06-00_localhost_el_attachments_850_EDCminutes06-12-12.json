@@ -1,0 +1,29 @@
+{
+  "board": "economic-development-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "EDC Regular Meeting Minutes (pdf)",
+  "filename": "localhost_el_attachments_850_EDCminutes06-12-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2012/06/localhost_el_attachments_850_EDCminutes06-12-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/economic-development-commission/edc-meeting-minutes-2012/",
+  "upload_folder": "2012-06",
+  "first_seen_utc": "2026-11-28T05:21:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4ece824cab0692fe679d170a1aaa592a0e94f703800a1e786cf2113604f4f9f1",
+  "bytes": 61785,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:05:15 GMT",
+  "etag": "\"16c057d-f159-5208212b14cc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/economic-development-commission-2012/2012-06-00_localhost_el_attachments_850_EDCminutes06-12-12--4ece824cab06.pdf",
+  "versions": [
+    {
+      "sha256": "4ece824cab0692fe679d170a1aaa592a0e94f703800a1e786cf2113604f4f9f1",
+      "bytes": 61785,
+      "retrieved_utc": "2026-11-28T05:21:21+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:05:15 GMT"
+    }
+  ]
+}

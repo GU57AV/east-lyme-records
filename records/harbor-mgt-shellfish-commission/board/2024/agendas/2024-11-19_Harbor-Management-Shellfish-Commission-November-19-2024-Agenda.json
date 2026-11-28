@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission November 19 2024 Agenda (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-November-19-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/Harbor-Management-Shellfish-Commission-November-19-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2024-agendas/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-28T06:10:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "96d88b769e56f3bf2de5cff2fd3c5ad8463341eefb81ac167088185a1cc3af04",
+  "bytes": 44380,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Nov 2024 19:52:17 GMT",
+  "etag": "\"16808bb-ad5c-626e4c99a5e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2024/2024-11-19_Harbor-Management-Shellfish-Commission-November-19-2024-Agenda--96d88b769e56.pdf",
+  "versions": [
+    {
+      "sha256": "96d88b769e56f3bf2de5cff2fd3c5ad8463341eefb81ac167088185a1cc3af04",
+      "bytes": 44380,
+      "retrieved_utc": "2026-11-28T06:10:29+00:00",
+      "http_last_modified": "Thu, 14 Nov 2024 19:52:17 GMT"
+    }
+  ]
+}

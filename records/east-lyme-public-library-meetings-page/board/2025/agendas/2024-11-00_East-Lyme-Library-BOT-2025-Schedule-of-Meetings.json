@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT 2025 Schedule of Meetings (pdf)",
+  "filename": "East-Lyme-Library-BOT-2025-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/11/East-Lyme-Library-BOT-2025-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2025-agendas/",
+  "upload_folder": "2024-11",
+  "first_seen_utc": "2026-11-28T04:27:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f9bd730c6b0c568eba3ab6212622293282c16fc2134a07c4b797245ba615677b",
+  "bytes": 36813,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Nov 2024 21:24:38 GMT",
+  "etag": "\"1680891-8fcd-6274aa9143180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2025/2024-11-00_East-Lyme-Library-BOT-2025-Schedule-of-Meetings--f9bd730c6b0c.pdf",
+  "versions": [
+    {
+      "sha256": "f9bd730c6b0c568eba3ab6212622293282c16fc2134a07c4b797245ba615677b",
+      "bytes": 36813,
+      "retrieved_utc": "2026-11-28T04:27:30+00:00",
+      "http_last_modified": "Tue, 19 Nov 2024 21:24:38 GMT"
+    }
+  ]
+}

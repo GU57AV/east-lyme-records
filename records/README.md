@@ -19,11 +19,11 @@
 | [East Lyme Brookside Farm Museum Commission](brookside-farm-museum-commission/INDEX.md) | 271 | complete |
 | [East Lyme Cable TV Advisory Council](cable-tv-advisory-council/INDEX.md) | 163 | complete |
 | [East Lyme Commission On Aging](commission-on-aging/INDEX.md) | 358 | complete |
-| [East Lyme Conservation of Natural Resources Commission](conservation-of-natural-resources-commission/INDEX.md) | 464 | import in progress |
-| East Lyme East Lyme Public Library Board of Trustees | 0 | import in progress |
-| East Lyme Economic Development Commission | 0 | import in progress |
-| East Lyme Fair Rent Commission | 0 | import in progress |
-| East Lyme Harbor Management/Shellfish Commission | 0 | import in progress |
+| [East Lyme Conservation of Natural Resources Commission](conservation-of-natural-resources-commission/INDEX.md) | 574 | complete |
+| [East Lyme East Lyme Public Library Board of Trustees](east-lyme-public-library-meetings-page/INDEX.md) | 156 | complete |
+| [East Lyme Economic Development Commission](economic-development-commission/INDEX.md) | 12 | complete |
+| [East Lyme Fair Rent Commission](fair-rent-commission/INDEX.md) | 40 | complete |
+| [East Lyme Harbor Management/Shellfish Commission](harbor-mgt-shellfish-commission/INDEX.md) | 297 | import in progress |
 | East Lyme Hazard Mitigation Plan Committee | 0 | import in progress |
 | East Lyme Health & Safety Committee | 0 | import in progress |
 | East Lyme Historic Properties Commission | 0 | import in progress |

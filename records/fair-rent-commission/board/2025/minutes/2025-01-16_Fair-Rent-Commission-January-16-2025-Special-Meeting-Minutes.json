@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission January 16 2025 Special Meeting Minutes (pdf)",
+  "filename": "Fair-Rent-Commission-January-16-2025-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/01/Fair-Rent-Commission-January-16-2025-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/fair-rent-commission-2025-minutes/",
+  "upload_folder": "2025-01",
+  "first_seen_utc": "2026-11-28T05:36:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6ee085864663d545a1a7437cc3e0154d04bc60fee74aa1a4a188c4b576e42718",
+  "bytes": 595662,
+  "pages": 0,
+  "http_last_modified": "Thu, 23 Jan 2025 19:56:40 GMT",
+  "etag": "\"16c0047-916ce-62c65022bae00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2025/2025-01-16_Fair-Rent-Commission-January-16-2025-Special-Meeting-Minutes--6ee085864663.pdf",
+  "versions": [
+    {
+      "sha256": "6ee085864663d545a1a7437cc3e0154d04bc60fee74aa1a4a188c4b576e42718",
+      "bytes": 595662,
+      "retrieved_utc": "2026-11-28T05:36:59+00:00",
+      "http_last_modified": "Thu, 23 Jan 2025 19:56:40 GMT"
+    }
+  ]
+}

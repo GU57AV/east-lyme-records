@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission January 28 2026 Cancellation (pdf)",
+  "filename": "Fair-Rent-Commission-January-28-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/Fair-Rent-Commission-January-28-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/fair-rent-commission-2026-agendas/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T05:28:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dc5270d7f8b1238cce1f290ecad9a8cf713094b77cc85b61f7b9bec3ab3a66f9",
+  "bytes": 37617,
+  "pages": 0,
+  "http_last_modified": "Wed, 28 Jan 2026 19:57:07 GMT",
+  "etag": "\"17002f9-92f1-649782516ce0e\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2026/2026-01-28_Fair-Rent-Commission-January-28-2026-Cancellation--dc5270d7f8b1.pdf",
+  "versions": [
+    {
+      "sha256": "dc5270d7f8b1238cce1f290ecad9a8cf713094b77cc85b61f7b9bec3ab3a66f9",
+      "bytes": 37617,
+      "retrieved_utc": "2026-11-28T05:28:51+00:00",
+      "http_last_modified": "Wed, 28 Jan 2026 19:57:07 GMT"
+    }
+  ]
+}

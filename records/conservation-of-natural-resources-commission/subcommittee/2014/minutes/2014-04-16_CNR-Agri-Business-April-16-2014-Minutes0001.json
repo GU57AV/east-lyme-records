@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "CNR Agri-Business April 16 2014 Minutes (pdf)",
+  "filename": "CNR-Agri-Business-April-16-2014-Minutes0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNR-Agri-Business-April-16-2014-Minutes0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/cnr-agri-business-subcommittee-2014-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T04:11:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5b06fce0dbe038af5cf274067e9ab260ac3c84cd9b054e7fffca4eceea66a9be",
+  "bytes": 442000,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:06 GMT",
+  "etag": "\"1661feb-6be90-5208279de4380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-04-16_CNR-Agri-Business-April-16-2014-Minutes0001--5b06fce0dbe0.pdf",
+  "versions": [
+    {
+      "sha256": "5b06fce0dbe038af5cf274067e9ab260ac3c84cd9b054e7fffca4eceea66a9be",
+      "bytes": 442000,
+      "retrieved_utc": "2026-11-28T04:11:40+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:06 GMT"
+    }
+  ]
+}

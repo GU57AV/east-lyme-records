@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission November 18 2025 Amended Agenda (pdf)",
+  "filename": "Harbor-Management-November-18-2025-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/Harbor-Management-November-18-2025-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-28T06:02:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ad0d473c434199c352e5159189d1eaa11f13fe493bac1c30f1f3c23bd3a30061",
+  "bytes": 42909,
+  "pages": 0,
+  "http_last_modified": "Mon, 17 Nov 2025 20:43:58 GMT",
+  "etag": "\"1760010-a79d-643d068191c70\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2025/2025-11-18_Harbor-Management-November-18-2025-Amended-Agenda--ad0d473c4341.pdf",
+  "versions": [
+    {
+      "sha256": "ad0d473c434199c352e5159189d1eaa11f13fe493bac1c30f1f3c23bd3a30061",
+      "bytes": 42909,
+      "retrieved_utc": "2026-11-28T06:02:01+00:00",
+      "http_last_modified": "Mon, 17 Nov 2025 20:43:58 GMT"
+    }
+  ]
+}

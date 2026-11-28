@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "CNRC Sustainable CT Subcommittee Meeting Agenda (pdf)",
+  "filename": "CNRC-Sustainable-CT-Subcommittee-August-7-2023-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/07/CNRC-Sustainable-CT-Subcommittee-August-7-2023-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-sustainable-ct-subcommittee-2023-agendas/",
+  "upload_folder": "2023-07",
+  "first_seen_utc": "2026-11-28T04:13:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1f80becc7f2cbb3f5338704de6dc71a4b06fc6bfd69da249ca58cf6cc0263a0d",
+  "bytes": 36189,
+  "pages": 0,
+  "http_last_modified": "Mon, 31 Jul 2023 20:58:23 GMT",
+  "etag": "\"16e0328-8d5d-601ceb0e5b9c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2023/2023-08-07_CNRC-Sustainable-CT-Subcommittee-August-7-2023-Meeting-Agenda--1f80becc7f2c.pdf",
+  "versions": [
+    {
+      "sha256": "1f80becc7f2cbb3f5338704de6dc71a4b06fc6bfd69da249ca58cf6cc0263a0d",
+      "bytes": 36189,
+      "retrieved_utc": "2026-11-28T04:13:01+00:00",
+      "http_last_modified": "Mon, 31 Jul 2023 20:58:23 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission August 18 2026 Cancellation (pdf)",
+  "filename": "Harbor-Management-August-18-2026-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/Harbor-Management-August-18-2026-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2026-agendas/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-28T05:55:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c24be89dc06746b09ca105c5aa2f7d3f083f59730fd85e4d8c06f4fe1d8db570",
+  "bytes": 39491,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Aug 2026 19:10:08 GMT",
+  "etag": "\"16e0ecb-9a43-6595709000ab0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2026/2026-08-18_Harbor-Management-August-18-2026-Cancellation--c24be89dc067.pdf",
+  "versions": [
+    {
+      "sha256": "c24be89dc06746b09ca105c5aa2f7d3f083f59730fd85e4d8c06f4fe1d8db570",
+      "bytes": 39491,
+      "retrieved_utc": "2026-11-28T05:55:15+00:00",
+      "http_last_modified": "Tue, 18 Aug 2026 19:10:08 GMT"
+    }
+  ]
+}

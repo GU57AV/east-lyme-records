@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": true,
+  "link_text": "Agri-Business 2019 Meeting Schedule (pdf)",
+  "filename": "Agri-Business-2019-Calendar.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/12/Agri-Business-2019-Calendar.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2019-agendas/",
+  "upload_folder": "2018-12",
+  "first_seen_utc": "2026-11-28T03:38:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3302b3a748af5d1b81706ea4d93feed90738aedf54566cd9c988198bcf1c502",
+  "bytes": 28433,
+  "pages": 0,
+  "http_last_modified": "Tue, 04 Dec 2018 15:00:05 GMT",
+  "etag": "\"16c0760-6f11-57c33854ac740\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2019/2018-12-00_Agri-Business-2019-Calendar--a3302b3a748a.pdf",
+  "versions": [
+    {
+      "sha256": "a3302b3a748af5d1b81706ea4d93feed90738aedf54566cd9c988198bcf1c502",
+      "bytes": 28433,
+      "retrieved_utc": "2026-11-28T03:38:31+00:00",
+      "http_last_modified": "Tue, 04 Dec 2018 15:00:05 GMT"
+    }
+  ]
+}

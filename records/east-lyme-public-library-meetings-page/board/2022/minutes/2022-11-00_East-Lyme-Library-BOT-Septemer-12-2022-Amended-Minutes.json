@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT Septemer 12 2022 Amended Minutes (pdf)",
+  "filename": "East-Lyme-Library-BOT-Septemer-12-2022-Amended-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/11/East-Lyme-Library-BOT-Septemer-12-2022-Amended-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2022-minutes/",
+  "upload_folder": "2022-11",
+  "first_seen_utc": "2026-11-28T04:39:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6929107c1b3d038c89db821d51b6277b31ca9f53b9e43466b4d4388639f3560f",
+  "bytes": 115912,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Nov 2022 16:23:36 GMT",
+  "etag": "\"16a10d2-1c4c8-5ed84c7235200\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2022/2022-11-00_East-Lyme-Library-BOT-Septemer-12-2022-Amended-Minutes--6929107c1b3d.pdf",
+  "versions": [
+    {
+      "sha256": "6929107c1b3d038c89db821d51b6277b31ca9f53b9e43466b4d4388639f3560f",
+      "bytes": 115912,
+      "retrieved_utc": "2026-11-28T04:39:21+00:00",
+      "http_last_modified": "Tue, 15 Nov 2022 16:23:36 GMT"
+    }
+  ]
+}

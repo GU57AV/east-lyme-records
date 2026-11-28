@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": true,
+  "link_text": "Agri-Business October 19 2016 Amended Agenda (pdf)",
+  "filename": "Agri-Business-October-19-2016-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/Agri-Business-October-19-2016-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T03:53:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5d367d2f2421cb43e9cbe3b550fa39fc360226cf0ac138c5ba9482c252de6cfb",
+  "bytes": 29174,
+  "pages": 0,
+  "http_last_modified": "Thu, 06 Oct 2016 15:58:34 GMT",
+  "etag": "\"16e0630-71f6-53e345da6fe80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2016-10-19_Agri-Business-October-19-2016-Amended-Agenda--5d367d2f2421.pdf",
+  "versions": [
+    {
+      "sha256": "5d367d2f2421cb43e9cbe3b550fa39fc360226cf0ac138c5ba9482c252de6cfb",
+      "bytes": 29174,
+      "retrieved_utc": "2026-11-28T03:53:23+00:00",
+      "http_last_modified": "Thu, 06 Oct 2016 15:58:34 GMT"
+    }
+  ]
+}

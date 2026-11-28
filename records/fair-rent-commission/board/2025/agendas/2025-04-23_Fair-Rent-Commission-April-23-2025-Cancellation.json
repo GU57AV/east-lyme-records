@@ -1,0 +1,29 @@
+{
+  "board": "fair-rent-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Fair Rent Commission April 23 2025 Cancellation (pdf)",
+  "filename": "Fair-Rent-Commission-April-23-2025-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/04/Fair-Rent-Commission-April-23-2025-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/fair-rent-commission/fair-rent-commission-2025-agendas/",
+  "upload_folder": "2025-04",
+  "first_seen_utc": "2026-11-28T05:32:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b2be477811a67cc450994fd917fc552b9fc4f8ef0e09b537228357f6cd18529c",
+  "bytes": 95038,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Apr 2025 21:02:36 GMT",
+  "etag": "\"16c0266-1733e-633786baf3300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/fair-rent-commission-2025/2025-04-23_Fair-Rent-Commission-April-23-2025-Cancellation--b2be477811a6.pdf",
+  "versions": [
+    {
+      "sha256": "b2be477811a67cc450994fd917fc552b9fc4f8ef0e09b537228357f6cd18529c",
+      "bytes": 95038,
+      "retrieved_utc": "2026-11-28T05:32:35+00:00",
+      "http_last_modified": "Wed, 23 Apr 2025 21:02:36 GMT"
+    }
+  ]
+}

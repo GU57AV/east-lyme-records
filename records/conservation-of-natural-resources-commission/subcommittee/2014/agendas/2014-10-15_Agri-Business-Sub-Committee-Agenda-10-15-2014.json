@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": true,
+  "link_text": "CNR Agri-Business October 15 2014 Agenda (pdf)",
+  "filename": "Agri-Business-Sub-Committee-Agenda-10-15-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Agri-Business-Sub-Committee-Agenda-10-15-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/cnr-agri-business-subcommittee-2014-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T04:07:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9a2e5fd2aa7d21f5f0c673084b599dd0ad49201ad14efdfc50bac1cd7fa2992e",
+  "bytes": 70865,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:28:18 GMT",
+  "etag": "\"1664025-114d1-5208265203480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-10-15_Agri-Business-Sub-Committee-Agenda-10-15-2014--9a2e5fd2aa7d.pdf",
+  "versions": [
+    {
+      "sha256": "9a2e5fd2aa7d21f5f0c673084b599dd0ad49201ad14efdfc50bac1cd7fa2992e",
+      "bytes": 70865,
+      "retrieved_utc": "2026-11-28T04:07:15+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:28:18 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission October 21 2025 Agenda (pdf)",
+  "filename": "East-Lyme-Harbor-Management-Shellfish-Commission-October-21-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/East-Lyme-Harbor-Management-Shellfish-Commission-October-21-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-28T06:02:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "15842f5d5e1790afe31052a912174bc3f414df34664551eb9003790f1eba3be0",
+  "bytes": 41261,
+  "pages": 0,
+  "http_last_modified": "Thu, 16 Oct 2025 20:05:09 GMT",
+  "etag": "\"1720072-a12d-6414c224f9072\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2025/2025-10-21_East-Lyme-Harbor-Management-Shellfish-Commission-October-21-2025-Agenda--15842f5d5e17.pdf",
+  "versions": [
+    {
+      "sha256": "15842f5d5e1790afe31052a912174bc3f414df34664551eb9003790f1eba3be0",
+      "bytes": 41261,
+      "retrieved_utc": "2026-11-28T06:02:42+00:00",
+      "http_last_modified": "Thu, 16 Oct 2025 20:05:09 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "east-lyme-public-library-meetings-page",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "East Lyme Library BOT Mar 7 2016 Meeting Cancellation (pdf)",
+  "filename": "East-Lyme-Library-BOT-Mar-7-2016-Meeting-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/East-Lyme-Library-BOT-Mar-7-2016-Meeting-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/east-lyme-public-library-meetings-page/east-lyme-public-library-meetings-page-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T05:05:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bbe57801273b6da59fe5d678c4bef4fef4ea3cdf9c99559ed9e9935f15a39adc",
+  "bytes": 19839,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Mar 2016 13:57:04 GMT",
+  "etag": "\"16e0682-4d7f-52e16c5aa8c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/east-lyme-public-library-meetings-page-2016/2016-03-07_East-Lyme-Library-BOT-Mar-7-2016-Meeting-Cancellation--bbe57801273b.pdf",
+  "versions": [
+    {
+      "sha256": "bbe57801273b6da59fe5d678c4bef4fef4ea3cdf9c99559ed9e9935f15a39adc",
+      "bytes": 19839,
+      "retrieved_utc": "2026-11-28T05:05:05+00:00",
+      "http_last_modified": "Tue, 15 Mar 2016 13:57:04 GMT"
+    }
+  ]
+}

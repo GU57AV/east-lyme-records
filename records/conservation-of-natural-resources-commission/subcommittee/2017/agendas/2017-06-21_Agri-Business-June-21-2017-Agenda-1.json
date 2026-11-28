@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": true,
+  "link_text": "Agri-Business June 21 2017 Agenda (pdf)",
+  "filename": "Agri-Business-June-21-2017-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Agri-Business-June-21-2017-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T03:47:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9cda01de52a25b9f9c2a8fe6a1ea7bf2005a3bdb31706c168b99f3a14dcd60ea",
+  "bytes": 34606,
+  "pages": 0,
+  "http_last_modified": "Fri, 19 May 2017 17:38:30 GMT",
+  "etag": "\"1662cd3-872e-54fe3fd561180\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2017/2017-06-21_Agri-Business-June-21-2017-Agenda-1--9cda01de52a2.pdf",
+  "versions": [
+    {
+      "sha256": "9cda01de52a25b9f9c2a8fe6a1ea7bf2005a3bdb31706c168b99f3a14dcd60ea",
+      "bytes": 34606,
+      "retrieved_utc": "2026-11-28T03:47:38+00:00",
+      "http_last_modified": "Fri, 19 May 2017 17:38:30 GMT"
+    }
+  ]
+}

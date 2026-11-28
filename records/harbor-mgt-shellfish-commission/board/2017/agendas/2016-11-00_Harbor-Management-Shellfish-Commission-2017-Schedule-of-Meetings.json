@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Harbor Management Shellfish Commission 2017 Schedule of Meetings (pdf)",
+  "filename": "Harbor-Management-Shellfish-Commission-2017-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Harbor-Management-Shellfish-Commission-2017-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T07:23:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "73b0d0e68696f2ae8b93389a1ec0b18a5cd8d426960fc66d1f99644f1657642f",
+  "bytes": 32076,
+  "pages": 0,
+  "http_last_modified": "Fri, 23 Dec 2016 14:07:09 GMT",
+  "etag": "\"1662902-7d4c-54453e6d13d40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2017/2016-11-00_Harbor-Management-Shellfish-Commission-2017-Schedule-of-Meetings--73b0d0e68696.pdf",
+  "versions": [
+    {
+      "sha256": "73b0d0e68696f2ae8b93389a1ec0b18a5cd8d426960fc66d1f99644f1657642f",
+      "bytes": 32076,
+      "retrieved_utc": "2026-11-28T07:23:14+00:00",
+      "http_last_modified": "Fri, 23 Dec 2016 14:07:09 GMT"
+    }
+  ]
+}

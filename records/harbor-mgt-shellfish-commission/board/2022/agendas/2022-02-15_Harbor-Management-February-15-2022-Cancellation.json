@@ -1,0 +1,29 @@
+{
+  "board": "harbor-mgt-shellfish-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Harbor Management February 15 2022 Cancellation (pdf)",
+  "filename": "Harbor-Management-February-15-2022-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/02/Harbor-Management-February-15-2022-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/harbor-mgt-shellfish-commission/harbor-mgt-shellfish-commission-2022-agendas/",
+  "upload_folder": "2022-02",
+  "first_seen_utc": "2026-11-28T06:33:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "df4a416eb78fb314c634e292c3d4152d4630679bcc247d51935f56d21a880e09",
+  "bytes": 45329,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Feb 2022 19:51:47 GMT",
+  "etag": "\"16a0ffb-b111-5d79b29ef3ac0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/harbor-mgt-shellfish-commission-2022/2022-02-15_Harbor-Management-February-15-2022-Cancellation--df4a416eb78f.pdf",
+  "versions": [
+    {
+      "sha256": "df4a416eb78fb314c634e292c3d4152d4630679bcc247d51935f56d21a880e09",
+      "bytes": 45329,
+      "retrieved_utc": "2026-11-28T06:33:29+00:00",
+      "http_last_modified": "Wed, 09 Feb 2022 19:51:47 GMT"
+    }
+  ]
+}
