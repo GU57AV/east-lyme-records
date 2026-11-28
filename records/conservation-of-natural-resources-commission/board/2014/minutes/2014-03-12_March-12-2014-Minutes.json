@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "CNRC March 12 2014 Minutes (pdf)",
+  "filename": "March-12-2014-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/March-12-2014-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/cnrc-meeting-minutes-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T01:47:31+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d8800a370ee1ec7218d9de8065d9b00754c124aeffc443c369ce560fabc52d8a",
+  "bytes": 125004,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:09:07 GMT",
+  "etag": "\"1663134-1e84c-52082208556c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-03-12_March-12-2014-Minutes--d8800a370ee1.pdf",
+  "versions": [
+    {
+      "sha256": "d8800a370ee1ec7218d9de8065d9b00754c124aeffc443c369ce560fabc52d8a",
+      "bytes": 125004,
+      "retrieved_utc": "2026-11-28T01:47:31+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:09:07 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Agri-Business October 21 2020 Agenda (pdf)",
+  "filename": "Agribusiness-October-21-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/Agribusiness-October-21-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-28T02:32:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f756d2dd67c693418bd43259db707c047d7602e15687b69423bb3a3e245cdffa",
+  "bytes": 37484,
+  "pages": 0,
+  "http_last_modified": "Wed, 23 Sep 2020 17:49:17 GMT",
+  "etag": "\"1661913-926c-5affeb3d22140\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-10-21_Agribusiness-October-21-2020-Agenda--f756d2dd67c6.pdf",
+  "versions": [
+    {
+      "sha256": "f756d2dd67c693418bd43259db707c047d7602e15687b69423bb3a3e245cdffa",
+      "bytes": 37484,
+      "retrieved_utc": "2026-11-28T02:32:09+00:00",
+      "http_last_modified": "Wed, 23 Sep 2020 17:49:17 GMT"
+    }
+  ]
+}

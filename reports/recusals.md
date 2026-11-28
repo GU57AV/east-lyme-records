@@ -1,6 +1,6 @@
 # Recusals
 
-_Updated Nov 27, 2026 4:33 PM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 9:35 PM ET. Unofficial and automatic._
 
 Each time the minutes record a named member stepping aside from a matter: recusing, leaving the room during a vote, or abstaining for a stated conflict-type reason. Recusal is what East Lyme's Ethics Code (Town Code § 35.18) and state law (for example CGS § 8-11 for zoning boards) call for when a member has an interest in a matter, so these entries show the rules being followed, not wrongdoing.
 
@@ -16,6 +16,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | Water & Sewer Commission | 12 |
 | Inland Wetlands Agency | 11 |
 | Planning Commission | 11 |
+| Conservation of Natural Resources Commission | 2 |
 | Board of Finance | 1 |
 
 ## All recorded recusals (newest first)
@@ -76,6 +77,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2019-05-16 | Zoning Commission | Mr. Peck | recused | — | moved to deny the request of Jennifer and William Argyle for a Text Amendment to the East Lyme Zoning Regulations Sectio | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-16_Zoning-Commission-May-16-2019-Regular-Meeting-Minutes.md) |
 | 2019-05-16 | Zoning Commission | Mr. Peck | recused | — | Application of William Sweeney, Esq | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-16_Zoning-Commission-May-16-2019-Regular-Meeting-Minutes.md) |
 | 2019-05-02 | Zoning Commission | Mr. Peck | recused | — | — | [minutes](../records/zoning-commission/board/2019/minutes/2019-05-02_Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes.md) |
+| 2019-02-13 | Conservation of Natural Resources Commission | Chairman Carlson | recused | — | — | [minutes](../records/conservation-of-natural-resources-commission/board/2019/minutes/2019-02-13_CNRC-February-13-2019-Minutes.md) |
 | 2019-01-16 | Board of Selectmen | Mr. Nickerson | recused | — | MOVED to approve an expenditure of up to $2,650 from the Parahus Account | [minutes](../records/board-of-selectmen/board/2019/minutes/2019-01-16_BOS-January-16-2019-Minutes.md) |
 | 2018-11-19 | Inland Wetlands Agency | Vice Chairman Cicchiello | abstained | due to personal relationship with the applicant; Ms | application of Elizabeth Farrugia, 24 Green Valley Lake Rd, East Lyme for a vessel that floats inside property owners bo | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-11-19_IWA-November-19-2018-Special-Meeting-Minutes.md) |
 | 2018-10-15 | Inland Wetlands Agency | Ms. Cicchiello | recused | — | Application for vessel that floats inside property owners boundaries but moves with the tide at 24 Green Valley Lake Rd, | [minutes](../records/inland-wetlands-agency/board/2018/minutes/2018-10-15_IWA-October-15-2018-Minutes.md) |
@@ -151,6 +153,7 @@ Each time the minutes record a named member stepping aside from a matter: recusi
 | 2012-04-17 | Planning Commission | Chairman Bowers | recused | — | — | [minutes](../records/planning-commission/board/2012/minutes/2012-04-17_PC-Workshop-Minutes-of-April-17-2012.md) |
 | 2012-03-22 | Board of Assessment Appeals | Mr. Foley | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2012/minutes/2012-03-22_BAAminutes03-22-12.md) |
 | 2012-03-22 | Board of Assessment Appeals | Ms. Schwartz | recused | — | — | [minutes](../records/board-of-assessment-appeals/board/2012/minutes/2012-03-22_BAAminutes03-22-12.md) |
+| 2012-03-14 | Conservation of Natural Resources Commission | Mr. Schutt | recused | — | moved to approve both letters, which had been discussed at previous meetings and sent to the Board of Selectmen (as atta | [minutes](../records/conservation-of-natural-resources-commission/board/2012/minutes/2012-03-14_CNRC-Minutes-of-March-14-2012.md) |
 | 2012-03-07 | Board of Selectmen | Ms. Cheeseman | recused | since she sits on the Board of Directors of the Museum | moved to authorize the First Selectman to sign a lease containing the usual and applicable standards with the Children’s | [minutes](../records/board-of-selectmen/board/2012/minutes/2012-03-07_BOS-March-7-2012-Regular-Meeting-Minutes.md) |
 | 2012-02-16 | Zoning Commission | Mr. Peck | recused | — | Application of Gerry Karpuska, for a Special Permit for Outdoor Dining at property identified in the application as 26 W | [minutes](../records/zoning-commission/board/2012/minutes/2012-02-16_ZC-PH-Minutes-of-Feb-16-2012.md) |
 | 2012-01-19 | Zoning Commission | Mr. Peck | recused | — | Application of Donna Criscuolo for Niantic Yoga Center for a Special permit for Indoor Recreation for a yoga studio at p | [minutes](../records/zoning-commission/board/2012/minutes/2012-01-19_ZC-Public-Hearing-Minutes-Jan-19-2012.md) |

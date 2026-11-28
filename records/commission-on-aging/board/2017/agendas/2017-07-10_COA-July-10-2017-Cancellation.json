@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "COA July 10 2017 Cancellation (pdf)",
+  "filename": "COA-July-10-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/COA-July-10-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T22:41:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2e769352f77af83ce5a53c4fb0204c34b19555faa017957cbed256b094c0f318",
+  "bytes": 25549,
+  "pages": 0,
+  "http_last_modified": "Wed, 05 Jul 2017 19:34:27 GMT",
+  "etag": "\"16623a6-63cd-55397168c16c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2017/2017-07-10_COA-July-10-2017-Cancellation--2e769352f77a.pdf",
+  "versions": [
+    {
+      "sha256": "2e769352f77af83ce5a53c4fb0204c34b19555faa017957cbed256b094c0f318",
+      "bytes": 25549,
+      "retrieved_utc": "2026-11-27T22:41:29+00:00",
+      "http_last_modified": "Wed, 05 Jul 2017 19:34:27 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "CNRC January 8 2020 Agenda (pdf)",
+  "filename": "CNRC-January-8-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/01/CNRC-January-8-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2020-agendas/",
+  "upload_folder": "2020-01",
+  "first_seen_utc": "2026-11-28T00:54:23+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "859239356712fb0546a36d4c78db2a49ab76a380404420964b1b15508efa804a",
+  "bytes": 37920,
+  "pages": 0,
+  "http_last_modified": "Fri, 03 Jan 2020 17:59:21 GMT",
+  "etag": "\"16616d2-9420-59b4011b77040\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-01-08_CNRC-January-8-2020-Agenda--859239356712.pdf",
+  "versions": [
+    {
+      "sha256": "859239356712fb0546a36d4c78db2a49ab76a380404420964b1b15508efa804a",
+      "bytes": 37920,
+      "retrieved_utc": "2026-11-28T00:54:23+00:00",
+      "http_last_modified": "Fri, 03 Jan 2020 17:59:21 GMT"
+    }
+  ]
+}

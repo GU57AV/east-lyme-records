@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "CNRC June 10 2020 Cancellation (pdf)",
+  "filename": "CNRC-June-10-2020-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/06/CNRC-June-10-2020-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2020-agendas/",
+  "upload_folder": "2020-06",
+  "first_seen_utc": "2026-11-28T00:53:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "47bde3b17fb272220e0ecd3f97aac1095c8b25ddb8d3090506e17758ec4da214",
+  "bytes": 26076,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Jun 2020 15:55:20 GMT",
+  "etag": "\"166171f-65dc-5a7a8c1200a00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-06-10_CNRC-June-10-2020-Cancellation--47bde3b17fb2.pdf",
+  "versions": [
+    {
+      "sha256": "47bde3b17fb272220e0ecd3f97aac1095c8b25ddb8d3090506e17758ec4da214",
+      "bytes": 26076,
+      "retrieved_utc": "2026-11-28T00:53:22+00:00",
+      "http_last_modified": "Tue, 09 Jun 2020 15:55:20 GMT"
+    }
+  ]
+}

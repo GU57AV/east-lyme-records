@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "CNRC October 8 2014 Agenda (pdf)",
+  "filename": "CNRC-Agenda-10-08-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNRC-Agenda-10-08-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-natural-resources-agendas-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:41:05+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a5c2dea5d610e0e8b49c2deee098108e2f442f9017c63a0a4a8d396a71c6556b",
+  "bytes": 37292,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Oct 2014 15:32:00 GMT",
+  "etag": "\"1661d85-91ac-504c2c8a55c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-10-08_CNRC-Agenda-10-08-2014--a5c2dea5d610.pdf",
+  "versions": [
+    {
+      "sha256": "a5c2dea5d610e0e8b49c2deee098108e2f442f9017c63a0a4a8d396a71c6556b",
+      "bytes": 37292,
+      "retrieved_utc": "2026-11-28T01:41:05+00:00",
+      "http_last_modified": "Mon, 06 Oct 2014 15:32:00 GMT"
+    }
+  ]
+}

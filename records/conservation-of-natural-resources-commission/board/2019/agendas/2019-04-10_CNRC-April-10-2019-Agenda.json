@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "CNRC April 10 2019 Agenda (pdf)",
+  "filename": "CNRC-April-10-2019-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/04/CNRC-April-10-2019-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2019-agendas/",
+  "upload_folder": "2019-04",
+  "first_seen_utc": "2026-11-28T00:59:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1119a3a44cffa29e9b3b6a64caec3f22b0f5c7ac301081febd58ac5b3d2eeb2a",
+  "bytes": 34734,
+  "pages": 0,
+  "http_last_modified": "Mon, 08 Apr 2019 15:43:31 GMT",
+  "etag": "\"16c2012-87ae-58606b2c90ec0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2019/2019-04-10_CNRC-April-10-2019-Agenda--1119a3a44cff.pdf",
+  "versions": [
+    {
+      "sha256": "1119a3a44cffa29e9b3b6a64caec3f22b0f5c7ac301081febd58ac5b3d2eeb2a",
+      "bytes": 34734,
+      "retrieved_utc": "2026-11-28T00:59:27+00:00",
+      "http_last_modified": "Mon, 08 Apr 2019 15:43:31 GMT"
+    }
+  ]
+}

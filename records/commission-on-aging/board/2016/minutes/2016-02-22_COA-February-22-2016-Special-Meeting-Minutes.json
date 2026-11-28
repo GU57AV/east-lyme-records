@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "COA February 22 2016 Special Meeting Minutes (pdf)",
+  "filename": "COA-February-22-2016-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/COA-February-22-2016-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T22:56:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e669839047bacf6b6d11cd8be722bc8df318680a072dfd15bc2be0b768e6e393",
+  "bytes": 360539,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Feb 2016 15:09:44 GMT",
+  "etag": "\"16e0458-5805b-52cadb0661e00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2016/2016-02-22_COA-February-22-2016-Special-Meeting-Minutes--e669839047ba.pdf",
+  "versions": [
+    {
+      "sha256": "e669839047bacf6b6d11cd8be722bc8df318680a072dfd15bc2be0b768e6e393",
+      "bytes": 360539,
+      "retrieved_utc": "2026-11-27T22:56:03+00:00",
+      "http_last_modified": "Fri, 26 Feb 2016 15:09:44 GMT"
+    }
+  ]
+}

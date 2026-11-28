@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "COA October 11 2016 Minutes (pdf)",
+  "filename": "COA-October-11-2016-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/COA-October-11-2016-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T22:53:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "489f67d2bfe1801a9bff1da127598780b7f582ca2132caa315c28509796394d4",
+  "bytes": 165982,
+  "pages": 0,
+  "http_last_modified": "Fri, 14 Oct 2016 19:16:46 GMT",
+  "etag": "\"16e05dc-2885e-53ed811338380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2016/2016-10-11_COA-October-11-2016-Minutes--489f67d2bfe1.pdf",
+  "versions": [
+    {
+      "sha256": "489f67d2bfe1801a9bff1da127598780b7f582ca2132caa315c28509796394d4",
+      "bytes": 165982,
+      "retrieved_utc": "2026-11-27T22:53:41+00:00",
+      "http_last_modified": "Fri, 14 Oct 2016 19:16:46 GMT"
+    }
+  ]
+}

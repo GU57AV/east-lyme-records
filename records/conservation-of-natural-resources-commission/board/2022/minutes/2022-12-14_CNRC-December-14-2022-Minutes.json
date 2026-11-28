@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "CNRC December 14 2022 Minutes (pdf)",
+  "filename": "CNRC-December-14-2022-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/12/CNRC-December-14-2022-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2022-minutes/",
+  "upload_folder": "2022-12",
+  "first_seen_utc": "2026-11-28T00:39:08+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8fdf1a49566d91d712bf89c35574c1cdd55e31189fff8be709281c9186d2948a",
+  "bytes": 192537,
+  "pages": 0,
+  "http_last_modified": "Tue, 20 Dec 2022 15:56:28 GMT",
+  "etag": "\"16a08ca-2f019-5f0447a8c2300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-12-14_CNRC-December-14-2022-Minutes--8fdf1a49566d.pdf",
+  "versions": [
+    {
+      "sha256": "8fdf1a49566d91d712bf89c35574c1cdd55e31189fff8be709281c9186d2948a",
+      "bytes": 192537,
+      "retrieved_utc": "2026-11-28T00:39:08+00:00",
+      "http_last_modified": "Tue, 20 Dec 2022 15:56:28 GMT"
+    }
+  ]
+}

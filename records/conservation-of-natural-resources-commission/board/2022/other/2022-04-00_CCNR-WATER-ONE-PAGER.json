@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "other",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "Protecting Your Drinking Water (pdf)",
+  "filename": "CCNR-WATER-ONE-PAGER.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/04/CCNR-WATER-ONE-PAGER.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/natural-resources-and-us/",
+  "upload_folder": "2022-04",
+  "first_seen_utc": "2026-11-27T23:58:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b4cb0242dd13a090e2aa1f4a7727f161b9d90200790497bcbe6cec02b4625ce6",
+  "bytes": 172743,
+  "pages": 0,
+  "http_last_modified": "Sun, 03 Apr 2022 01:43:46 GMT",
+  "etag": "\"16a1310-2a2c7-5dbb624791880\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-04-00_CCNR-WATER-ONE-PAGER--b4cb0242dd13.pdf",
+  "versions": [
+    {
+      "sha256": "b4cb0242dd13a090e2aa1f4a7727f161b9d90200790497bcbe6cec02b4625ce6",
+      "bytes": 172743,
+      "retrieved_utc": "2026-11-27T23:58:50+00:00",
+      "http_last_modified": "Sun, 03 Apr 2022 01:43:46 GMT"
+    }
+  ]
+}

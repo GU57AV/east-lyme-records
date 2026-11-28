@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA October 9 2018 Cancellation (pdf)",
+  "filename": "COA-October-10-2018-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/COA-October-10-2018-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-agendas/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-27T22:32:41+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "110128bd256a5b17878f53590239f1cb4263b6e5e984e792a1568639504538c3",
+  "bytes": 28075,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Oct 2018 14:57:38 GMT",
+  "etag": "\"16c147f-6dab-577ccf56abc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-10-10_COA-October-10-2018-Cancellation--110128bd256a.pdf",
+  "versions": [
+    {
+      "sha256": "110128bd256a5b17878f53590239f1cb4263b6e5e984e792a1568639504538c3",
+      "bytes": 28075,
+      "retrieved_utc": "2026-11-27T22:32:41+00:00",
+      "http_last_modified": "Tue, 09 Oct 2018 14:57:38 GMT"
+    }
+  ]
+}

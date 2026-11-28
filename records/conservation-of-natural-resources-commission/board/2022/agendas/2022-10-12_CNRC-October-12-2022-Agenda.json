@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "CNRC October 12 2022 Agenda (pdf)",
+  "filename": "CNRC-October-12-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/CNRC-October-12-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-28T00:35:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "87fe0ed6613e910789c4345f1f9c05c7fba6aa43ffc75eb3f5e4ca404ec69781",
+  "bytes": 33143,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Oct 2022 12:43:03 GMT",
+  "etag": "\"16a11e7-8177-5ead5bbc903c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-10-12_CNRC-October-12-2022-Agenda--87fe0ed6613e.pdf",
+  "versions": [
+    {
+      "sha256": "87fe0ed6613e910789c4345f1f9c05c7fba6aa43ffc75eb3f5e4ca404ec69781",
+      "bytes": 33143,
+      "retrieved_utc": "2026-11-28T00:35:26+00:00",
+      "http_last_modified": "Wed, 12 Oct 2022 12:43:03 GMT"
+    }
+  ]
+}

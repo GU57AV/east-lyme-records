@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "CNRC December 13 2023 Minutes (pdf)",
+  "filename": "CNRC-December-13-2023-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/12/CNRC-December-13-2023-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2023-minutes/",
+  "upload_folder": "2023-12",
+  "first_seen_utc": "2026-11-28T00:30:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9178d84539720cb917555c97920af1ca6025edc3f3002471b01198ddd56046be",
+  "bytes": 232543,
+  "pages": 0,
+  "http_last_modified": "Mon, 18 Dec 2023 13:44:33 GMT",
+  "etag": "\"16c2230-38c5f-60cc8f32bf240\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2023/2023-12-13_CNRC-December-13-2023-Minutes--9178d8453972.pdf",
+  "versions": [
+    {
+      "sha256": "9178d84539720cb917555c97920af1ca6025edc3f3002471b01198ddd56046be",
+      "bytes": 232543,
+      "retrieved_utc": "2026-11-28T00:30:40+00:00",
+      "http_last_modified": "Mon, 18 Dec 2023 13:44:33 GMT"
+    }
+  ]
+}

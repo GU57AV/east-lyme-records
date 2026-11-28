@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": true,
+  "link_text": "Agri-Business November 19 2026 Agenda (pdf)",
+  "filename": "Agri-Business-November-19-2026-Agenda-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/Agri-Business-November-19-2026-Agenda-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2026-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-28T01:53:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "818eba5fc28a021dca9b337ee2dda706c2b05edcaf281abcdcfb0cd0c826ad9e",
+  "bytes": 86378,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Nov 2026 14:14:03 GMT",
+  "etag": "\"17c0067-1516a-6606563e03538\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2026/2026-11-19_Agri-Business-November-19-2026-Agenda-1--818eba5fc28a.pdf",
+  "versions": [
+    {
+      "sha256": "818eba5fc28a021dca9b337ee2dda706c2b05edcaf281abcdcfb0cd0c826ad9e",
+      "bytes": 86378,
+      "retrieved_utc": "2026-11-28T01:53:36+00:00",
+      "http_last_modified": "Mon, 16 Nov 2026 14:14:03 GMT"
+    }
+  ]
+}

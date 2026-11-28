@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "CNRC November 24 2025 Special Meeting Agenda (pdf)",
+  "filename": "CNRC-November-24-2025-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/11/CNRC-November-24-2025-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2025-agendas/",
+  "upload_folder": "2025-11",
+  "first_seen_utc": "2026-11-28T00:08:19+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8e630994452466b8e775a566e96e5e55c2008f09589cca41de81ce3ab428872e",
+  "bytes": 24097,
+  "pages": 0,
+  "http_last_modified": "Thu, 13 Nov 2025 19:08:56 GMT",
+  "etag": "\"17601ca-5e21-6437e9cd6123f\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2025/2025-11-24_CNRC-November-24-2025-Special-Meeting-Agenda--8e6309944524.pdf",
+  "versions": [
+    {
+      "sha256": "8e630994452466b8e775a566e96e5e55c2008f09589cca41de81ce3ab428872e",
+      "bytes": 24097,
+      "retrieved_utc": "2026-11-28T00:08:19+00:00",
+      "http_last_modified": "Thu, 13 Nov 2025 19:08:56 GMT"
+    }
+  ]
+}

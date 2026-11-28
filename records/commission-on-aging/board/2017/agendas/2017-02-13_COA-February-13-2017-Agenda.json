@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "COA February 13 2017 Agenda (pdf)",
+  "filename": "COA-February-13-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/COA-February-13-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T22:43:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "3f41ddfaf33d85971be4b65ada91a74e0bbff1bc99556e22e799f9c7486776f9",
+  "bytes": 52307,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Feb 2017 13:33:26 GMT",
+  "etag": "\"1662d2d-cc53-5482d24761580\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2017/2017-02-13_COA-February-13-2017-Agenda--3f41ddfaf33d.pdf",
+  "versions": [
+    {
+      "sha256": "3f41ddfaf33d85971be4b65ada91a74e0bbff1bc99556e22e799f9c7486776f9",
+      "bytes": 52307,
+      "retrieved_utc": "2026-11-27T22:43:10+00:00",
+      "http_last_modified": "Fri, 10 Feb 2017 13:33:26 GMT"
+    }
+  ]
+}

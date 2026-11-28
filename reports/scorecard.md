@@ -1,6 +1,6 @@
 # Transparency scorecard
 
-_Updated Nov 27, 2026 4:33 PM ET. Unofficial and automatic._
+_Updated Nov 27, 2026 9:35 PM ET. Unofficial and automatic._
 
 How reliably and how promptly each board posts agendas and minutes, for boards whose records this archive has fully imported. Connecticut's Freedom of Information Act (CGS § 1-225) requires agendas at least 24 hours before a meeting and minutes within seven days after it.
 
@@ -18,6 +18,7 @@ Meetings from Nov 27, 2025 through yesterday.
 | Board of Selectmen | 29 | 100% (29/29) | 100% (29/29) | 100% (29/29) | 86% (25/29) | 6 | 1 |
 | Brookside Farm Museum Commission | 3 | 67% (2/3) | 100% (2/2) | 67% (2/3) | 0% (0/2) | 17 | 15 |
 | Cable TV Advisory Council | 6 | 100% (6/6) | 100% (6/6) | 100% (6/6) | 100% (6/6) | 0.5 | 0 |
+| Commission On Aging | 10 | 100% (10/10) | 100% (10/10) | 100% (10/10) | 100% (10/10) | 3 | 0 |
 | Inland Wetlands Agency | 15 | 87% (13/15) | 100% (13/13) | 67% (10/15) | 50% (5/10) | 7.5 | 18 |
 | Planning Commission | 15 | 100% (15/15) | 100% (15/15) | 93% (14/15) | 50% (7/14) | 7.5 | 0 |
 | Water & Sewer Commission | 21 | 100% (21/21) | 90% (19/21) | 76% (16/21) | 38% (6/16) | 8.5 | 0 |
@@ -37,6 +38,7 @@ Meetings from Nov 27, 2025 through yesterday.
 | Board of Selectmen | 86 | 99% (85/86) | 100% (85/85) | 99% (85/86) | 87% (74/85) | 5 | 1 |
 | Brookside Farm Museum Commission | 21 | 57% (12/21) | 92% (11/12) | 62% (13/21) | 69% (9/13) | 6 | 15 |
 | Cable TV Advisory Council | 18 | 100% (18/18) | 100% (18/18) | 100% (18/18) | 88% (15/17) | 0 | 0 |
+| Commission On Aging | 30 | 100% (30/30) | 100% (30/30) | 100% (30/30) | 97% (29/30) | 2 | 0 |
 | Inland Wetlands Agency | 44 | 91% (40/44) | 98% (39/40) | 68% (30/44) | 63% (19/30) | 7 | 18 |
 | Planning Commission | 36 | 100% (36/36) | 100% (36/36) | 97% (35/36) | 69% (24/35) | 7 | 0 |
 | Water & Sewer Commission | 46 | 98% (45/46) | 96% (43/45) | 87% (40/46) | 45% (18/40) | 8 | 0 |

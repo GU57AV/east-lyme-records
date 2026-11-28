@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "COA October 10 2017 Agenda (pdf)",
+  "filename": "COA-October-10-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/COA-October-10-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-27T22:40:28+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e9921bd6a7853ba92bf6a6df97e9cc2c0a4603c21bd0926ec89b6ae89a3c3651",
+  "bytes": 49067,
+  "pages": 0,
+  "http_last_modified": "Fri, 06 Oct 2017 19:58:12 GMT",
+  "etag": "\"1662f6a-bfab-55ae642b9bd00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2017/2017-10-10_COA-October-10-2017-Agenda--e9921bd6a785.pdf",
+  "versions": [
+    {
+      "sha256": "e9921bd6a7853ba92bf6a6df97e9cc2c0a4603c21bd0926ec89b6ae89a3c3651",
+      "bytes": 49067,
+      "retrieved_utc": "2026-11-27T22:40:28+00:00",
+      "http_last_modified": "Fri, 06 Oct 2017 19:58:12 GMT"
+    }
+  ]
+}

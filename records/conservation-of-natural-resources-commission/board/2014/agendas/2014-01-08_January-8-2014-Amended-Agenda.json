@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "CNRC January 8 2014 Amended Agenda (pdf)",
+  "filename": "January-8-2014-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/January-8-2014-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-natural-resources-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T01:44:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "72574d03a3e883ddf501090d31a57fcf53fcba7deaa2d809589f800a9f993266",
+  "bytes": 41112,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:08:34 GMT",
+  "etag": "\"16630e2-a098-520821e8dcc80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-01-08_January-8-2014-Amended-Agenda--72574d03a3e8.pdf",
+  "versions": [
+    {
+      "sha256": "72574d03a3e883ddf501090d31a57fcf53fcba7deaa2d809589f800a9f993266",
+      "bytes": 41112,
+      "retrieved_utc": "2026-11-28T01:44:07+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:08:34 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "CNRC January 14 2026 Minutes (pdf)",
+  "filename": "CNRC-January-14-2026-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/01/CNRC-January-14-2026-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2026-minutes/",
+  "upload_folder": "2026-01",
+  "first_seen_utc": "2026-11-28T00:07:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ae17865c51f7f9dd6321800e5bea0fc6d05e8c249c6ed9386e0196c1650f83af",
+  "bytes": 240270,
+  "pages": 0,
+  "http_last_modified": "Wed, 21 Jan 2026 16:51:16 GMT",
+  "etag": "\"17002ce-3aa8e-648e8bb88e14c\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2026/2026-01-14_CNRC-January-14-2026-Minutes--ae17865c51f7.pdf",
+  "versions": [
+    {
+      "sha256": "ae17865c51f7f9dd6321800e5bea0fc6d05e8c249c6ed9386e0196c1650f83af",
+      "bytes": 240270,
+      "retrieved_utc": "2026-11-28T00:07:39+00:00",
+      "http_last_modified": "Wed, 21 Jan 2026 16:51:16 GMT"
+    }
+  ]
+}

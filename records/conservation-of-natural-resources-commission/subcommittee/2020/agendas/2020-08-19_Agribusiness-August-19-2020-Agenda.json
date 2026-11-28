@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": true,
+  "link_text": "Agri-Business August 19 2020 Agenda (pdf)",
+  "filename": "Agribusiness-August-19-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/08/Agribusiness-August-19-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2020-agendas/",
+  "upload_folder": "2020-08",
+  "first_seen_utc": "2026-11-28T02:32:29+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8010efef136dbe7146066b9b3934e257cf3c97b37deb1674fe4d8a5d2aa5bfc5",
+  "bytes": 34984,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Aug 2020 12:41:16 GMT",
+  "etag": "\"1661a8a-88a8-5ad2633faf300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-08-19_Agribusiness-August-19-2020-Agenda--8010efef136d.pdf",
+  "versions": [
+    {
+      "sha256": "8010efef136dbe7146066b9b3934e257cf3c97b37deb1674fe4d8a5d2aa5bfc5",
+      "bytes": 34984,
+      "retrieved_utc": "2026-11-28T02:32:29+00:00",
+      "http_last_modified": "Tue, 18 Aug 2020 12:41:16 GMT"
+    }
+  ]
+}

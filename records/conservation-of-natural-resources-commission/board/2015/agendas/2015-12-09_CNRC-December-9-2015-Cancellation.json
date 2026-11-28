@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "CNRC December 9 2015 Cancellation (pdf)",
+  "filename": "CNRC-December-9-2015-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/CNRC-December-9-2015-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-28T01:29:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f2bf44f89a6d931f87d7ca15e62ae5569e0d1da455db66df7c754c6183e08fbe",
+  "bytes": 33474,
+  "pages": 0,
+  "http_last_modified": "Wed, 09 Dec 2015 18:29:02 GMT",
+  "etag": "\"16633d6-82c2-5267b43b01780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2015/2015-12-09_CNRC-December-9-2015-Cancellation--f2bf44f89a6d.pdf",
+  "versions": [
+    {
+      "sha256": "f2bf44f89a6d931f87d7ca15e62ae5569e0d1da455db66df7c754c6183e08fbe",
+      "bytes": 33474,
+      "retrieved_utc": "2026-11-28T01:29:15+00:00",
+      "http_last_modified": "Wed, 09 Dec 2015 18:29:02 GMT"
+    }
+  ]
+}

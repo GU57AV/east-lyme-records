@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "CNRC January 10 2024 Agenda (pdf)",
+  "filename": "CNRC-January-10-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/CNRC-January-10-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T00:20:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b30a7fb319f963924688e295338c80f2d1f3804136b5d8e2ab6a2af752cd655a",
+  "bytes": 35704,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Jan 2024 13:54:59 GMT",
+  "etag": "\"168070d-8b78-60e83a8fe32c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-01-10_CNRC-January-10-2024-Agenda--b30a7fb319f9.pdf",
+  "versions": [
+    {
+      "sha256": "b30a7fb319f963924688e295338c80f2d1f3804136b5d8e2ab6a2af752cd655a",
+      "bytes": 35704,
+      "retrieved_utc": "2026-11-28T00:20:51+00:00",
+      "http_last_modified": "Tue, 09 Jan 2024 13:54:59 GMT"
+    }
+  ]
+}

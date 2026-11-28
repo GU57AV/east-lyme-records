@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "CNRC July 15 2015 Cancellation (lack of quorum) (pdf)",
+  "filename": "CNRC-July-15-2015-Cancellationlack-of-quorum.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNRC-July-15-2015-Cancellationlack-of-quorum.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:31:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "cdac6c95fab2df28ed5e337ebf9909653b57ae2660aa9c03cb126e050ed5f0dc",
+  "bytes": 23575,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:42 GMT",
+  "etag": "\"1663d4c-5c17-520827c039480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2015/2015-07-15_CNRC-July-15-2015-Cancellationlack-of-quorum--cdac6c95fab2.pdf",
+  "versions": [
+    {
+      "sha256": "cdac6c95fab2df28ed5e337ebf9909653b57ae2660aa9c03cb126e050ed5f0dc",
+      "bytes": 23575,
+      "retrieved_utc": "2026-11-28T01:31:57+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:42 GMT"
+    }
+  ]
+}

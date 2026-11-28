@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": true,
+  "link_text": "Agri-Business Sub-Committee September 20 2023 Agenda (pdf)",
+  "filename": "Agri-Business-September-20-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/09/Agri-Business-September-20-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2023-agendas/",
+  "upload_folder": "2023-09",
+  "first_seen_utc": "2026-11-28T02:15:15+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5045343c094e04e391f4d759b37ad9d9c5295a941e914887db5d74627b7e4144",
+  "bytes": 37630,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Sep 2023 15:05:46 GMT",
+  "etag": "\"16e015d-92fe-6055302b36680\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2023/2023-09-20_Agri-Business-September-20-2023-Agenda--5045343c094e.pdf",
+  "versions": [
+    {
+      "sha256": "5045343c094e04e391f4d759b37ad9d9c5295a941e914887db5d74627b7e4144",
+      "bytes": 37630,
+      "retrieved_utc": "2026-11-28T02:15:15+00:00",
+      "http_last_modified": "Thu, 14 Sep 2023 15:05:46 GMT"
+    }
+  ]
+}

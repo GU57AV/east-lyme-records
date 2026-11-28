@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "other",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "State Project Memo - Replacement of Bridge No. 02719 Route 156 Four Mile River (pdf)",
+  "filename": "State-Project-No.-0104-0175-Replacement-of-Bridge-Route-156-October-2023.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/State-Project-No.-0104-0175-Replacement-of-Bridge-Route-156-October-2023.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2024-materials/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T00:25:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "edad310e3a459e704937cc5188f835d0154767ee6fc3594cc4e9e74f7fafc4f4",
+  "bytes": 316026,
+  "pages": 0,
+  "http_last_modified": "Tue, 02 Jan 2024 16:59:17 GMT",
+  "etag": "\"16806db-4d27a-60df96b364340\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-01-00_State-Project-No.-0104-0175-Replacement-of-Bridge-Route-156-October-2023--edad310e3a45.pdf",
+  "versions": [
+    {
+      "sha256": "edad310e3a459e704937cc5188f835d0154767ee6fc3594cc4e9e74f7fafc4f4",
+      "bytes": 316026,
+      "retrieved_utc": "2026-11-28T00:25:36+00:00",
+      "http_last_modified": "Tue, 02 Jan 2024 16:59:17 GMT"
+    }
+  ]
+}

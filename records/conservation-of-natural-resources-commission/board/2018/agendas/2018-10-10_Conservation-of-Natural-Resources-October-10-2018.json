@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "CNRC October 10, 2018 Agenda (pdf)",
+  "filename": "Conservation-of-Natural-Resources-October-10-2018.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/10/Conservation-of-Natural-Resources-October-10-2018.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2018-agendas/",
+  "upload_folder": "2018-10",
+  "first_seen_utc": "2026-11-28T01:05:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0f3a149478c163bffdcc86490eb8a7d3ec2dc35cb6a41907d225e06b5cda8e0d",
+  "bytes": 32545,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Oct 2018 13:32:31 GMT",
+  "etag": "\"16c1455-7f21-578e566cb59c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2018/2018-10-10_Conservation-of-Natural-Resources-October-10-2018--0f3a149478c1.pdf",
+  "versions": [
+    {
+      "sha256": "0f3a149478c163bffdcc86490eb8a7d3ec2dc35cb6a41907d225e06b5cda8e0d",
+      "bytes": 32545,
+      "retrieved_utc": "2026-11-28T01:05:54+00:00",
+      "http_last_modified": "Tue, 23 Oct 2018 13:32:31 GMT"
+    }
+  ]
+}

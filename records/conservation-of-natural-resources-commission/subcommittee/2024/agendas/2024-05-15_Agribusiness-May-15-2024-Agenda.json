@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "Agri-Business May 15 2024 Agenda (pdf)",
+  "filename": "Agribusiness-May-15-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/05/Agribusiness-May-15-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2024-agendas/",
+  "upload_folder": "2024-05",
+  "first_seen_utc": "2026-11-28T02:08:49+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56f3aade82bdd006264dd6676988733cd51554b72ff896a2f42f8cec878fc5ae",
+  "bytes": 27226,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 May 2024 14:40:47 GMT",
+  "etag": "\"168067f-6a5a-6181a856d19c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-05-15_Agribusiness-May-15-2024-Agenda--56f3aade82bd.pdf",
+  "versions": [
+    {
+      "sha256": "56f3aade82bdd006264dd6676988733cd51554b72ff896a2f42f8cec878fc5ae",
+      "bytes": 27226,
+      "retrieved_utc": "2026-11-28T02:08:49+00:00",
+      "http_last_modified": "Fri, 10 May 2024 14:40:47 GMT"
+    }
+  ]
+}

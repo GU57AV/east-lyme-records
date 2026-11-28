@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Agri-Business August 17 2022 Minutes (pdf)",
+  "filename": "Agribusiness-August-17-2022-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/09/Agribusiness-August-17-2022-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2022-minutes/",
+  "upload_folder": "2022-09",
+  "first_seen_utc": "2026-11-28T02:24:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1902a90023eaf401e02e450254fb8210f9afbf261dcaefda985b9b79ff1b286a",
+  "bytes": 75411,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Sep 2022 14:21:57 GMT",
+  "etag": "\"16a117f-12693-5e9086f210b40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-08-17_Agribusiness-August-17-2022-Meeting-Minutes--1902a90023ea.pdf",
+  "versions": [
+    {
+      "sha256": "1902a90023eaf401e02e450254fb8210f9afbf261dcaefda985b9b79ff1b286a",
+      "bytes": 75411,
+      "retrieved_utc": "2026-11-28T02:24:42+00:00",
+      "http_last_modified": "Mon, 19 Sep 2022 14:21:57 GMT"
+    }
+  ]
+}

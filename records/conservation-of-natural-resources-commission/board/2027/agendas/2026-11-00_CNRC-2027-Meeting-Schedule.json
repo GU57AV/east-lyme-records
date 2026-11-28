@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2027",
+  "subcommittee": false,
+  "link_text": "CNRC 2027 Meeting Schedule (pdf)",
+  "filename": "CNRC-2027-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/11/CNRC-2027-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2027-agendas/",
+  "upload_folder": "2026-11",
+  "first_seen_utc": "2026-11-27T23:59:51+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ec444d701479568d33d771f50adf879784f2680263624a38c750750f969798a9",
+  "bytes": 24718,
+  "pages": 0,
+  "http_last_modified": "Thu, 19 Nov 2026 15:50:16 GMT",
+  "etag": "\"17c0086-608e-660a315804a75\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2027/2026-11-00_CNRC-2027-Meeting-Schedule--ec444d701479.pdf",
+  "versions": [
+    {
+      "sha256": "ec444d701479568d33d771f50adf879784f2680263624a38c750750f969798a9",
+      "bytes": 24718,
+      "retrieved_utc": "2026-11-27T23:59:51+00:00",
+      "http_last_modified": "Thu, 19 Nov 2026 15:50:16 GMT"
+    }
+  ]
+}

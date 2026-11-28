@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2026",
+  "subcommittee": false,
+  "link_text": "CNRC August 12 2026 Agenda (pdf)",
+  "filename": "CNRC-August-12-2026-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2026/08/CNRC-August-12-2026-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2026-agendas/",
+  "upload_folder": "2026-08",
+  "first_seen_utc": "2026-11-28T00:01:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b1c137a000b0397254aee50b890fe19ecc04de430a1b9de9eaf71c8e5d11422d",
+  "bytes": 33535,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Aug 2026 13:12:42 GMT",
+  "etag": "\"16e0eb4-82ff-658d957b67331\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2026/2026-08-12_CNRC-August-12-2026-Agenda--b1c137a000b0.pdf",
+  "versions": [
+    {
+      "sha256": "b1c137a000b0397254aee50b890fe19ecc04de430a1b9de9eaf71c8e5d11422d",
+      "bytes": 33535,
+      "retrieved_utc": "2026-11-28T00:01:13+00:00",
+      "http_last_modified": "Wed, 12 Aug 2026 13:12:42 GMT"
+    }
+  ]
+}

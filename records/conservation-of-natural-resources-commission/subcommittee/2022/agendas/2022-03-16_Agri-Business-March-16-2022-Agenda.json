@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Agri-Business March 16 2022 Agenda (pdf)",
+  "filename": "Agri-Business-March-16-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/Agri-Business-March-16-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-28T02:23:01+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6d146c5d57009f5e18168ffddcca7408d03abbbf880580744e2d03ecc1607185",
+  "bytes": 32014,
+  "pages": 0,
+  "http_last_modified": "Tue, 15 Mar 2022 12:27:31 GMT",
+  "etag": "\"16a0a63-7d0e-5da40ebb7b2c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-03-16_Agri-Business-March-16-2022-Agenda--6d146c5d5700.pdf",
+  "versions": [
+    {
+      "sha256": "6d146c5d57009f5e18168ffddcca7408d03abbbf880580744e2d03ecc1607185",
+      "bytes": 32014,
+      "retrieved_utc": "2026-11-28T02:23:01+00:00",
+      "http_last_modified": "Tue, 15 Mar 2022 12:27:31 GMT"
+    }
+  ]
+}

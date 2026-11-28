@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "CNRC Agenda 02-08-2012 (pdf)",
+  "filename": "CNRC-Agenda-for-February-8-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNRC-Agenda-for-February-8-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:50:54+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a14045097848fdd769b53bb40cb3bb49ccc5d0cb1ba4115d81c3b83945bebff1",
+  "bytes": 38174,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:38 GMT",
+  "etag": "\"1661fa1-951e-520827bc68b80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2012/2012-02-08_CNRC-Agenda-for-February-8-2012--a14045097848.pdf",
+  "versions": [
+    {
+      "sha256": "a14045097848fdd769b53bb40cb3bb49ccc5d0cb1ba4115d81c3b83945bebff1",
+      "bytes": 38174,
+      "retrieved_utc": "2026-11-28T01:50:54+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:38 GMT"
+    }
+  ]
+}

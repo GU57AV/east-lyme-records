@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "COA Apil 13 2015 Special Minutes (pdf)",
+  "filename": "COA-Apil-13-2015-Special-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/COA-Apil-13-2015-Special-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-minutes-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T23:03:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7665ff6fdc230921bc474b7846cca0bb784bb65a17b163198b4c48fd4ed8b29e",
+  "bytes": 208289,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:34:52 GMT",
+  "etag": "\"1663e67-32da1-520827c9c2b00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2015/2015-00-00_COA-Apil-13-2015-Special-Minutes--7665ff6fdc23.pdf",
+  "versions": [
+    {
+      "sha256": "7665ff6fdc230921bc474b7846cca0bb784bb65a17b163198b4c48fd4ed8b29e",
+      "bytes": 208289,
+      "retrieved_utc": "2026-11-27T23:03:10+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:34:52 GMT"
+    }
+  ]
+}

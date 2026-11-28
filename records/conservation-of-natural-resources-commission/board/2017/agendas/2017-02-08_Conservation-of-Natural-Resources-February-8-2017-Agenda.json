@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "CNRC February 8 2017 Agenda (pdf)",
+  "filename": "Conservation-of-Natural-Resources-February-8-2017-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Conservation-of-Natural-Resources-February-8-2017-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T01:17:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "4d11d4b3a79723278c3a40b93ece1d60692025bc01e71d594d142d5a8e72c9ca",
+  "bytes": 32814,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Feb 2017 14:31:25 GMT",
+  "etag": "\"1662542-802e-5482df3d36940\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2017/2017-02-08_Conservation-of-Natural-Resources-February-8-2017-Agenda--4d11d4b3a797.pdf",
+  "versions": [
+    {
+      "sha256": "4d11d4b3a79723278c3a40b93ece1d60692025bc01e71d594d142d5a8e72c9ca",
+      "bytes": 32814,
+      "retrieved_utc": "2026-11-28T01:17:04+00:00",
+      "http_last_modified": "Fri, 10 Feb 2017 14:31:25 GMT"
+    }
+  ]
+}

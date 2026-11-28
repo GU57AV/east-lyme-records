@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Conservation of Natural Resources September 20 2017 Special Meeting Minutes (2 of 2) (pdf)",
+  "filename": "CNRC-September-20-2017-Special-Meeting-Minutes-2-of-2.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/CNRC-September-20-2017-Special-Meeting-Minutes-2-of-2.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T01:19:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "36ae659dcb519fef7e6c11ec15f3edd9a91d11d4c3d515e7423fba81e17f08e2",
+  "bytes": 1102293,
+  "pages": 0,
+  "http_last_modified": "Mon, 02 Oct 2017 16:23:17 GMT",
+  "etag": "\"166285b-10d1d5-55a92cac22740\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2017/2017-09-20_CNRC-September-20-2017-Special-Meeting-Minutes-2-of-2--36ae659dcb51.pdf",
+  "versions": [
+    {
+      "sha256": "36ae659dcb519fef7e6c11ec15f3edd9a91d11d4c3d515e7423fba81e17f08e2",
+      "bytes": 1102293,
+      "retrieved_utc": "2026-11-28T01:19:06+00:00",
+      "http_last_modified": "Mon, 02 Oct 2017 16:23:17 GMT"
+    }
+  ]
+}

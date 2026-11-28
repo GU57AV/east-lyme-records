@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA June 11 2018 Amended Agenda (pdf)",
+  "filename": "COA-June-11-2018-Amended-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/COA-June-11-2018-Amended-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-agendas/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-27T22:33:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "557e66fa1bcaf52f1c77614f901ed4d2bac390cb8bf82f0afd4b7842a4a471f1",
+  "bytes": 51833,
+  "pages": 0,
+  "http_last_modified": "Mon, 11 Jun 2018 17:58:20 GMT",
+  "etag": "\"16c0f65-ca79-56e617eb18700\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-06-11_COA-June-11-2018-Amended-Agenda--557e66fa1bca.pdf",
+  "versions": [
+    {
+      "sha256": "557e66fa1bcaf52f1c77614f901ed4d2bac390cb8bf82f0afd4b7842a4a471f1",
+      "bytes": 51833,
+      "retrieved_utc": "2026-11-27T22:33:42+00:00",
+      "http_last_modified": "Mon, 11 Jun 2018 17:58:20 GMT"
+    }
+  ]
+}

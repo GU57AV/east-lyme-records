@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "COA July 14 2014 Minutes (pdf)",
+  "filename": "aging-7.14.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/aging-7.14.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-minutes-2014/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T23:10:57+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "2b16eb53462adab9f608b73d034340698e7a824910ac8ca31e81947234b80e20",
+  "bytes": 212259,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Jul 2014 12:24:00 GMT",
+  "etag": "\"1663811-33d23-4fe62b728d800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2014/2014-07-14_aging-7.14--2b16eb53462a.pdf",
+  "versions": [
+    {
+      "sha256": "2b16eb53462adab9f608b73d034340698e7a824910ac8ca31e81947234b80e20",
+      "bytes": 212259,
+      "retrieved_utc": "2026-11-27T23:10:57+00:00",
+      "http_last_modified": "Thu, 17 Jul 2014 12:24:00 GMT"
+    }
+  ]
+}

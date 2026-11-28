@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "Agri-Business February 21 2024 Agenda (pdf)",
+  "filename": "Agribusiness-February-21-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/02/Agribusiness-February-21-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2024-agendas/",
+  "upload_folder": "2024-02",
+  "first_seen_utc": "2026-11-28T02:09:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a08ea13908b3e89c23e632010ad416ac863587311e442239ff5cad8497f3825c",
+  "bytes": 27591,
+  "pages": 0,
+  "http_last_modified": "Thu, 08 Feb 2024 15:22:20 GMT",
+  "etag": "\"168082a-6bc7-610e0609ec300\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-02-21_Agribusiness-February-21-2024-Agenda--a08ea13908b3.pdf",
+  "versions": [
+    {
+      "sha256": "a08ea13908b3e89c23e632010ad416ac863587311e442239ff5cad8497f3825c",
+      "bytes": 27591,
+      "retrieved_utc": "2026-11-28T02:09:50+00:00",
+      "http_last_modified": "Thu, 08 Feb 2024 15:22:20 GMT"
+    }
+  ]
+}

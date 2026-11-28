@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA June 11 2018 Minutes (pdf)",
+  "filename": "COA-June-11-2018-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/06/COA-June-11-2018-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-minutes/",
+  "upload_folder": "2018-06",
+  "first_seen_utc": "2026-11-27T22:37:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5967e4ed8a60d9ba5d466684145cb655a07e9cfb04c896ee11727924de852ea5",
+  "bytes": 174458,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Jun 2018 18:56:03 GMT",
+  "etag": "\"16c0fee-2a97a-56e9ea6a0d6c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-06-11_COA-June-11-2018-Minutes--5967e4ed8a60.pdf",
+  "versions": [
+    {
+      "sha256": "5967e4ed8a60d9ba5d466684145cb655a07e9cfb04c896ee11727924de852ea5",
+      "bytes": 174458,
+      "retrieved_utc": "2026-11-27T22:37:46+00:00",
+      "http_last_modified": "Thu, 14 Jun 2018 18:56:03 GMT"
+    }
+  ]
+}

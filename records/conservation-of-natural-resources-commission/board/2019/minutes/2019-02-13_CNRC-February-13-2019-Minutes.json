@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2019",
+  "subcommittee": false,
+  "link_text": "CNRC February 13 2019 Minutes (pdf)",
+  "filename": "CNRC-February-13-2019-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/CNRC-February-13-2019-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2019-minutes/",
+  "upload_folder": "2019-03",
+  "first_seen_utc": "2026-11-28T01:04:33+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "da037748861abb7374ff95b47a551a92133e04d73b23b55efe94947c26bd8c2c",
+  "bytes": 236132,
+  "pages": 0,
+  "http_last_modified": "Tue, 12 Mar 2019 13:28:45 GMT",
+  "etag": "\"16c19b1-39a64-583e5ab1b5d40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2019/2019-02-13_CNRC-February-13-2019-Minutes--da037748861a.pdf",
+  "versions": [
+    {
+      "sha256": "da037748861abb7374ff95b47a551a92133e04d73b23b55efe94947c26bd8c2c",
+      "bytes": 236132,
+      "retrieved_utc": "2026-11-28T01:04:33+00:00",
+      "http_last_modified": "Tue, 12 Mar 2019 13:28:45 GMT"
+    }
+  ]
+}

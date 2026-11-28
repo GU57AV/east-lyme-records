@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "CNRC May 14, 2014 Agenda (pdf)",
+  "filename": "May-14-2014-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/May-14-2014-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-natural-resources-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T01:42:46+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bef360d02a3dfb35ed7b872cead3fb52a8924075c4848287c11a1c6ff1afd1f2",
+  "bytes": 29669,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:09:16 GMT",
+  "etag": "\"1663146-73e5-52082210eab00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-05-14_May-14-2014-Agenda--bef360d02a3d.pdf",
+  "versions": [
+    {
+      "sha256": "bef360d02a3dfb35ed7b872cead3fb52a8924075c4848287c11a1c6ff1afd1f2",
+      "bytes": 29669,
+      "retrieved_utc": "2026-11-28T01:42:46+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:09:16 GMT"
+    }
+  ]
+}

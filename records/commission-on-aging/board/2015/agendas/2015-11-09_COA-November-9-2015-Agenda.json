@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "COA November 9 2015 Agenda (pdf)",
+  "filename": "COA-November-9-2015-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/11/COA-November-9-2015-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-agendas-2015/",
+  "upload_folder": "2014-11",
+  "first_seen_utc": "2026-11-27T22:57:04+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "bd3cbb8fc6f3410e009a178b10624e13d9b765466a3adbe62ee84053c859ebfb",
+  "bytes": 45606,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Nov 2015 14:02:06 GMT",
+  "etag": "\"16633dc-b226-523cb92749380\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2015/2015-11-09_COA-November-9-2015-Agenda--bd3cbb8fc6f3.pdf",
+  "versions": [
+    {
+      "sha256": "bd3cbb8fc6f3410e009a178b10624e13d9b765466a3adbe62ee84053c859ebfb",
+      "bytes": 45606,
+      "retrieved_utc": "2026-11-27T22:57:04+00:00",
+      "http_last_modified": "Thu, 05 Nov 2015 14:02:06 GMT"
+    }
+  ]
+}

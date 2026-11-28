@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA May 14 2018 Agenda (pdf)",
+  "filename": "COA-May-14-2018-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/05/COA-May-14-2018-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-agendas/",
+  "upload_folder": "2018-05",
+  "first_seen_utc": "2026-11-27T22:34:42+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "74e943f28390169a6d14167033a46e705ff0ed998e31bf9e62b35067f4481531",
+  "bytes": 49544,
+  "pages": 0,
+  "http_last_modified": "Thu, 10 May 2018 14:31:23 GMT",
+  "etag": "\"16c09e7-c188-56bdadfa924c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-05-14_COA-May-14-2018-Regular-Meeting-Agenda--74e943f28390.pdf",
+  "versions": [
+    {
+      "sha256": "74e943f28390169a6d14167033a46e705ff0ed998e31bf9e62b35067f4481531",
+      "bytes": 49544,
+      "retrieved_utc": "2026-11-27T22:34:42+00:00",
+      "http_last_modified": "Thu, 10 May 2018 14:31:23 GMT"
+    }
+  ]
+}

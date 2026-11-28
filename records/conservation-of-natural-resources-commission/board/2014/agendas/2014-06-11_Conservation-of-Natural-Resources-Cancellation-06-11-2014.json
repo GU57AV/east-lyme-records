@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "CNRC June 11, 2014 Cancellation (pdf)",
+  "filename": "Conservation-of-Natural-Resources-Cancellation-06-11-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/03/Conservation-of-Natural-Resources-Cancellation-06-11-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-natural-resources-agendas-2014/",
+  "upload_folder": "2014-03",
+  "first_seen_utc": "2026-11-28T01:42:26+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dffca7b596d55a74b5c1f949228d865cc5ae1a42801b61439fdbcd74a54ed4cc",
+  "bytes": 25134,
+  "pages": 0,
+  "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT",
+  "etag": "\"16630b9-622e-4fbaf4c5f3880\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2014/2014-06-11_Conservation-of-Natural-Resources-Cancellation-06-11-2014--dffca7b596d5.pdf",
+  "versions": [
+    {
+      "sha256": "dffca7b596d55a74b5c1f949228d865cc5ae1a42801b61439fdbcd74a54ed4cc",
+      "bytes": 25134,
+      "retrieved_utc": "2026-11-28T01:42:26+00:00",
+      "http_last_modified": "Fri, 13 Jun 2014 03:30:26 GMT"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "CNRC September 8 2021 Agenda (pdf)",
+  "filename": "Conservation-of-Natural-Resources-September-8-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/09/Conservation-of-Natural-Resources-September-8-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2021-agendas/",
+  "upload_folder": "2021-09",
+  "first_seen_utc": "2026-11-28T00:44:13+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d95ead0e70dd2e9a870b713a8244e297006610aec622391642695acd7e539065",
+  "bytes": 35623,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Sep 2021 13:18:14 GMT",
+  "etag": "\"1680301-8b27-5cb6799165180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2021/2021-09-08_Conservation-of-Natural-Resources-September-8-2021-Agenda--d95ead0e70dd.pdf",
+  "versions": [
+    {
+      "sha256": "d95ead0e70dd2e9a870b713a8244e297006610aec622391642695acd7e539065",
+      "bytes": 35623,
+      "retrieved_utc": "2026-11-28T00:44:13+00:00",
+      "http_last_modified": "Tue, 07 Sep 2021 13:18:14 GMT"
+    }
+  ]
+}

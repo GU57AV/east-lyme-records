@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA April 9 2018 Agenda (pdf)",
+  "filename": "Commission-on-Aging-April-9-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/Commission-on-Aging-April-9-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-agendas/",
+  "upload_folder": "2018-04",
+  "first_seen_utc": "2026-11-27T22:35:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d66eb1a95a330225b9a4d13fbe90795fba0aaca5b85824c2bd571b277ee8bba6",
+  "bytes": 48923,
+  "pages": 0,
+  "http_last_modified": "Wed, 04 Apr 2018 18:29:01 GMT",
+  "etag": "\"16c158c-bf1b-56909ff377540\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-04-09_Commission-on-Aging-April-9-2018-Agenda--d66eb1a95a33.pdf",
+  "versions": [
+    {
+      "sha256": "d66eb1a95a330225b9a4d13fbe90795fba0aaca5b85824c2bd571b277ee8bba6",
+      "bytes": 48923,
+      "retrieved_utc": "2026-11-27T22:35:03+00:00",
+      "http_last_modified": "Wed, 04 Apr 2018 18:29:01 GMT"
+    }
+  ]
+}

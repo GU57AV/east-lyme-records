@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Agri-Business October 19 2022 Agenda (pdf)",
+  "filename": "Agribusiness-October-19-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/10/Agribusiness-October-19-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-10",
+  "first_seen_utc": "2026-11-28T02:21:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5dd2b0da02cf0729b540c9e1cc97492dc32f1d65c4bcfc09e4373a2ba841c9bd",
+  "bytes": 37189,
+  "pages": 0,
+  "http_last_modified": "Tue, 18 Oct 2022 14:32:43 GMT",
+  "etag": "\"16a11ce-9145-5eb4ff70818c0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-10-19_Agribusiness-October-19-2022-Agenda--5dd2b0da02cf.pdf",
+  "versions": [
+    {
+      "sha256": "5dd2b0da02cf0729b540c9e1cc97492dc32f1d65c4bcfc09e4373a2ba841c9bd",
+      "bytes": 37189,
+      "retrieved_utc": "2026-11-28T02:21:00+00:00",
+      "http_last_modified": "Tue, 18 Oct 2022 14:32:43 GMT"
+    }
+  ]
+}

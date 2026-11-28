@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "CNRC April 30 2015 Special Meeting Agenda (pdf)",
+  "filename": "Conservation-of-Natural-Resources-Special-Meeting-Agenda-04-30-20151.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/Conservation-of-Natural-Resources-Special-Meeting-Agenda-04-30-20151.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-agendas-2015/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:32:58+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "5e3c5296bb3e330fc1d2c4234ddcecbe6c51064d30166c2c209b3da4e587e719",
+  "bytes": 29443,
+  "pages": 0,
+  "http_last_modified": "Wed, 29 Apr 2015 19:37:52 GMT",
+  "etag": "\"1663ce3-7303-514e21d66e400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2015/2015-04-30_Conservation-of-Natural-Resources-Special-Meeting-Agenda-04-30-20151--5e3c5296bb3e.pdf",
+  "versions": [
+    {
+      "sha256": "5e3c5296bb3e330fc1d2c4234ddcecbe6c51064d30166c2c209b3da4e587e719",
+      "bytes": 29443,
+      "retrieved_utc": "2026-11-28T01:32:58+00:00",
+      "http_last_modified": "Wed, 29 Apr 2015 19:37:52 GMT"
+    }
+  ]
+}

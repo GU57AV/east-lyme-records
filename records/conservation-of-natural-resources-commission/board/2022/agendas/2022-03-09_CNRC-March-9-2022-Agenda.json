@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "CNRC March 9 2022 Agenda (pdf)",
+  "filename": "CNRC-March-9-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/03/CNRC-March-9-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2022-agendas/",
+  "upload_folder": "2022-03",
+  "first_seen_utc": "2026-11-28T00:37:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "56635b29ec54e6eb3f8df977e55416b2a1a4deab4d682b6278f02f703f97eed9",
+  "bytes": 36599,
+  "pages": 0,
+  "http_last_modified": "Tue, 08 Mar 2022 16:54:06 GMT",
+  "etag": "\"16a0abb-8ef7-5d9b7d4346780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-03-09_CNRC-March-9-2022-Agenda--56635b29ec54.pdf",
+  "versions": [
+    {
+      "sha256": "56635b29ec54e6eb3f8df977e55416b2a1a4deab4d682b6278f02f703f97eed9",
+      "bytes": 36599,
+      "retrieved_utc": "2026-11-28T00:37:47+00:00",
+      "http_last_modified": "Tue, 08 Mar 2022 16:54:06 GMT"
+    }
+  ]
+}

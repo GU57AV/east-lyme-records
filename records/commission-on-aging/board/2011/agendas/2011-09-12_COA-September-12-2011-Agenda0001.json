@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2011",
+  "subcommittee": false,
+  "link_text": "COA September 12 2011 Agenda (pdf)",
+  "filename": "COA-September-12-2011-Agenda0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/COA-September-12-2011-Agenda0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-agendas-2011/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T23:28:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "f6f7d04702f89a35dcfadf19e067aee1c3ab31ea90a48d38771f5003c94456d9",
+  "bytes": 646689,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:39:39 GMT",
+  "etag": "\"1663ca7-9de21-520828db770c0\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2011/2011-09-12_COA-September-12-2011-Agenda0001--f6f7d04702f8.pdf",
+  "versions": [
+    {
+      "sha256": "f6f7d04702f89a35dcfadf19e067aee1c3ab31ea90a48d38771f5003c94456d9",
+      "bytes": 646689,
+      "retrieved_utc": "2026-11-27T23:28:03+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:39:39 GMT"
+    }
+  ]
+}

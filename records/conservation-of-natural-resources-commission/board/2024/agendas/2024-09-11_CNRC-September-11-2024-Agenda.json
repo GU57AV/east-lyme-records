@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": false,
+  "link_text": "CNRC September 11 2024 Agenda (pdf)",
+  "filename": "CNRC-September-11-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/CNRC-September-11-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-28T00:18:09+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7ab7397f12e60d36afba82ceb3726bd63aab29f10afcc560871c911809e9d103",
+  "bytes": 37466,
+  "pages": 0,
+  "http_last_modified": "Tue, 10 Sep 2024 18:35:48 GMT",
+  "etag": "\"1680952-925a-621c824646900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-09-11_CNRC-September-11-2024-Agenda--7ab7397f12e6.pdf",
+  "versions": [
+    {
+      "sha256": "7ab7397f12e60d36afba82ceb3726bd63aab29f10afcc560871c911809e9d103",
+      "bytes": 37466,
+      "retrieved_utc": "2026-11-28T00:18:09+00:00",
+      "http_last_modified": "Tue, 10 Sep 2024 18:35:48 GMT"
+    }
+  ]
+}

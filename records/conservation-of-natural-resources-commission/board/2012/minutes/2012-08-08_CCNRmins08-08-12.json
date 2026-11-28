@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "CNRC Minutes 08-08-2012 (pdf)",
+  "filename": "CCNRmins08-08-12.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CCNRmins08-08-12.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-2012-minutes/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:51:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "975ccf96b14e1d13108026d196994c39332db4e42a76e1de6e0da08014f6c2fc",
+  "bytes": 132813,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Sep 2014 18:29:10 GMT",
+  "etag": "\"1663c73-206cd-503fc17d48980\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2012/2012-08-08_CCNRmins08-08-12--975ccf96b14e.pdf",
+  "versions": [
+    {
+      "sha256": "975ccf96b14e1d13108026d196994c39332db4e42a76e1de6e0da08014f6c2fc",
+      "bytes": 132813,
+      "retrieved_utc": "2026-11-28T01:51:34+00:00",
+      "http_last_modified": "Fri, 26 Sep 2014 18:29:10 GMT"
+    }
+  ]
+}

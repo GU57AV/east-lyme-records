@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "CNRC July & August Cancellation (pdf)",
+  "filename": "CNRC-July-August-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/CNRC-July-August-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T01:23:10+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fe128dea989f7bf2ff7352c005f9a09b662e3e62fb160a5685a568939a6505ff",
+  "bytes": 28466,
+  "pages": 0,
+  "http_last_modified": "Wed, 15 Jun 2016 18:21:09 GMT",
+  "etag": "\"16e0455-6f32-535552f808f40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2015-12-00_CNRC-July-August-Cancellation--fe128dea989f.pdf",
+  "versions": [
+    {
+      "sha256": "fe128dea989f7bf2ff7352c005f9a09b662e3e62fb160a5685a568939a6505ff",
+      "bytes": 28466,
+      "retrieved_utc": "2026-11-28T01:23:10+00:00",
+      "http_last_modified": "Wed, 15 Jun 2016 18:21:09 GMT"
+    }
+  ]
+}

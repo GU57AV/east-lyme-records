@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "COA May 12, 2014 Cancellation (pdf)",
+  "filename": "COA-Cancellation-05-12-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/COA-Cancellation-05-12-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-27T23:07:14+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "62897337f09caf4d907f3a5c9addcc2090ec76b29a047dee26a8d0fb10e4b56a",
+  "bytes": 50130,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:11:59 GMT",
+  "etag": "\"166341c-c3d2-520822ac5d9c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2014/2014-05-12_COA-Cancellation-05-12-2014--62897337f09c.pdf",
+  "versions": [
+    {
+      "sha256": "62897337f09caf4d907f3a5c9addcc2090ec76b29a047dee26a8d0fb10e4b56a",
+      "bytes": 50130,
+      "retrieved_utc": "2026-11-27T23:07:14+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:11:59 GMT"
+    }
+  ]
+}

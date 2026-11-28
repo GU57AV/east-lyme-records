@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "COA December 18 2017 Special Meeting Agenda (pdf)",
+  "filename": "COA-December-18-2017-Special-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/12/COA-December-18-2017-Special-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2017-agendas/",
+  "upload_folder": "2017-12",
+  "first_seen_utc": "2026-11-27T22:39:27+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "0e1a2db9412c0d66177b135a1c881ee5c0cdfa42c97799ed77ac0ed89992fe76",
+  "bytes": 50141,
+  "pages": 0,
+  "http_last_modified": "Thu, 14 Dec 2017 14:46:08 GMT",
+  "etag": "\"16a0165-c3dd-5604df1bd0c00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2017/2017-12-18_COA-December-18-2017-Special-Meeting-Agenda--0e1a2db9412c.pdf",
+  "versions": [
+    {
+      "sha256": "0e1a2db9412c0d66177b135a1c881ee5c0cdfa42c97799ed77ac0ed89992fe76",
+      "bytes": 50141,
+      "retrieved_utc": "2026-11-27T22:39:27+00:00",
+      "http_last_modified": "Thu, 14 Dec 2017 14:46:08 GMT"
+    }
+  ]
+}

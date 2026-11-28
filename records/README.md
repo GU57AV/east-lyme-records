@@ -18,8 +18,8 @@
 | [East Lyme Board of Assessment Appeals](board-of-assessment-appeals/INDEX.md) | 186 | complete |
 | [East Lyme Brookside Farm Museum Commission](brookside-farm-museum-commission/INDEX.md) | 271 | complete |
 | [East Lyme Cable TV Advisory Council](cable-tv-advisory-council/INDEX.md) | 163 | complete |
-| [East Lyme Commission On Aging](commission-on-aging/INDEX.md) | 179 | import in progress |
-| East Lyme Conservation of Natural Resources Commission | 0 | import in progress |
+| [East Lyme Commission On Aging](commission-on-aging/INDEX.md) | 358 | complete |
+| [East Lyme Conservation of Natural Resources Commission](conservation-of-natural-resources-commission/INDEX.md) | 464 | import in progress |
 | East Lyme East Lyme Public Library Board of Trustees | 0 | import in progress |
 | East Lyme Economic Development Commission | 0 | import in progress |
 | East Lyme Fair Rent Commission | 0 | import in progress |

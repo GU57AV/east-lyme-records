@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "Conservation of Natural Resources October 11 2017 Minutes (pdf)",
+  "filename": "CNRC-October-11-2017-Minutes-1.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/CNRC-October-11-2017-Minutes-1.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2017-minutes/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T01:18:45+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "58662b56871aedb1696103c66f2a0967ffa4da53f1ad49dedb1543ef44d97d70",
+  "bytes": 148584,
+  "pages": 0,
+  "http_last_modified": "Mon, 13 Nov 2017 19:04:55 GMT",
+  "etag": "\"1662521-24468-55de1f223a3c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2017/2017-10-11_CNRC-October-11-2017-Minutes-1--58662b56871a.pdf",
+  "versions": [
+    {
+      "sha256": "58662b56871aedb1696103c66f2a0967ffa4da53f1ad49dedb1543ef44d97d70",
+      "bytes": 148584,
+      "retrieved_utc": "2026-11-28T01:18:45+00:00",
+      "http_last_modified": "Mon, 13 Nov 2017 19:04:55 GMT"
+    }
+  ]
+}

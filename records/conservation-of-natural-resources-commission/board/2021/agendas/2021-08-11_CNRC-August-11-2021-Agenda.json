@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "CNRC August 11 2021 Agenda (pdf)",
+  "filename": "CNRC-August-11-2021-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/08/CNRC-August-11-2021-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2021-agendas/",
+  "upload_folder": "2021-08",
+  "first_seen_utc": "2026-11-28T00:44:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "357da4585ba5ec77cf47c6f72ebf1d72f184d52f5a9bfe09bbbf4e5598723176",
+  "bytes": 39742,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Aug 2021 13:56:38 GMT",
+  "etag": "\"16804cb-9b3e-5c920c104b180\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2021/2021-08-11_CNRC-August-11-2021-Agenda--357da4585ba5.pdf",
+  "versions": [
+    {
+      "sha256": "357da4585ba5ec77cf47c6f72ebf1d72f184d52f5a9bfe09bbbf4e5598723176",
+      "bytes": 39742,
+      "retrieved_utc": "2026-11-28T00:44:34+00:00",
+      "http_last_modified": "Mon, 09 Aug 2021 13:56:38 GMT"
+    }
+  ]
+}

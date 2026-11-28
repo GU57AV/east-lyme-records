@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "CNRC August 9 2023 Agenda (pdf)",
+  "filename": "CNRC-August-9-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/08/CNRC-August-9-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2023-agendas/",
+  "upload_folder": "2023-08",
+  "first_seen_utc": "2026-11-28T00:27:38+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9f1d6d8bb8715bc77b01fb4481901339d798ea1aa84c4fae1904cc52e8b3ca6a",
+  "bytes": 44312,
+  "pages": 0,
+  "http_last_modified": "Mon, 07 Aug 2023 13:04:58 GMT",
+  "etag": "\"16e02ac-ad18-60254e4b77280\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2023/2023-08-09_CNRC-August-9-2023-Agenda--9f1d6d8bb871.pdf",
+  "versions": [
+    {
+      "sha256": "9f1d6d8bb8715bc77b01fb4481901339d798ea1aa84c4fae1904cc52e8b3ca6a",
+      "bytes": 44312,
+      "retrieved_utc": "2026-11-28T00:27:38+00:00",
+      "http_last_modified": "Mon, 07 Aug 2023 13:04:58 GMT"
+    }
+  ]
+}

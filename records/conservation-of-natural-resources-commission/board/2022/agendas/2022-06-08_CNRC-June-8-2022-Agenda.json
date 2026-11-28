@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "CNRC June 8 2022 Agenda (pdf)",
+  "filename": "CNRC-June-8-2022-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/06/CNRC-June-8-2022-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2022-agendas/",
+  "upload_folder": "2022-06",
+  "first_seen_utc": "2026-11-28T00:36:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c591d20554ebeb8d8be6a4fa89d3b1fa832a9cb5451a8a02cb654b9592f4eef1",
+  "bytes": 31463,
+  "pages": 0,
+  "http_last_modified": "Tue, 07 Jun 2022 19:45:32 GMT",
+  "etag": "\"16a0f0f-7ae7-5e0e0d4db6f00\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-06-08_CNRC-June-8-2022-Agenda--c591d20554eb.pdf",
+  "versions": [
+    {
+      "sha256": "c591d20554ebeb8d8be6a4fa89d3b1fa832a9cb5451a8a02cb654b9592f4eef1",
+      "bytes": 31463,
+      "retrieved_utc": "2026-11-28T00:36:47+00:00",
+      "http_last_modified": "Tue, 07 Jun 2022 19:45:32 GMT"
+    }
+  ]
+}

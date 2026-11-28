@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": true,
+  "link_text": "Agri-Business August 17 2022 Agenda (pdf)",
+  "filename": "Agri-Business-August-17-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2022/08/Agri-Business-August-17-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2022-agendas/",
+  "upload_folder": "2022-08",
+  "first_seen_utc": "2026-11-28T02:21:40+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "be9e78f98aa1c68a0ba38acd7192bbe889723319e4a02dfbb429b385c8eaf0c5",
+  "bytes": 35113,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Aug 2022 13:08:20 GMT",
+  "etag": "\"16a13bc-8929-5e65b71403900\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2022-08-17_Agri-Business-August-17-Agenda--be9e78f98aa1.pdf",
+  "versions": [
+    {
+      "sha256": "be9e78f98aa1c68a0ba38acd7192bbe889723319e4a02dfbb429b385c8eaf0c5",
+      "bytes": 35113,
+      "retrieved_utc": "2026-11-28T02:21:40+00:00",
+      "http_last_modified": "Tue, 16 Aug 2022 13:08:20 GMT"
+    }
+  ]
+}

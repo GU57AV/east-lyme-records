@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "CNRC November 11 2020 Minutes (pdf)",
+  "filename": "CNRC-November-11-2020-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/11/CNRC-November-11-2020-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2020-minutes/",
+  "upload_folder": "2020-11",
+  "first_seen_utc": "2026-11-28T00:55:03+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "29d5d6b61696495f1ac49ceec48418b2431cb589a086226d5927af39cfc16bd8",
+  "bytes": 221315,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Nov 2020 20:07:19 GMT",
+  "etag": "\"1661803-36083-5b43eece5abc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-11-11_CNRC-November-11-2020-Minutes--29d5d6b61696.pdf",
+  "versions": [
+    {
+      "sha256": "29d5d6b61696495f1ac49ceec48418b2431cb589a086226d5927af39cfc16bd8",
+      "bytes": 221315,
+      "retrieved_utc": "2026-11-28T00:55:03+00:00",
+      "http_last_modified": "Mon, 16 Nov 2020 20:07:19 GMT"
+    }
+  ]
+}

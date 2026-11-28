@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2025",
+  "subcommittee": true,
+  "link_text": "Agri-Business September 17 2025 Minutes (pdf)",
+  "filename": "Agri-Business-September-17-2025-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/Agri-Business-September-17-2025-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2025-minutes/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-28T02:05:06+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "b982be459754d6399ed1239a4786d2997c8e32acc2ab3ece443bd76792b3e080",
+  "bytes": 66673,
+  "pages": 0,
+  "http_last_modified": "Fri, 10 Oct 2025 13:04:57 GMT",
+  "etag": "\"172006c-10471-640cd908b1e4b\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2025/2025-09-17_Agri-Business-September-17-2025-Minutes--b982be459754.pdf",
+  "versions": [
+    {
+      "sha256": "b982be459754d6399ed1239a4786d2997c8e32acc2ab3ece443bd76792b3e080",
+      "bytes": 66673,
+      "retrieved_utc": "2026-11-28T02:05:06+00:00",
+      "http_last_modified": "Fri, 10 Oct 2025 13:04:57 GMT"
+    }
+  ]
+}

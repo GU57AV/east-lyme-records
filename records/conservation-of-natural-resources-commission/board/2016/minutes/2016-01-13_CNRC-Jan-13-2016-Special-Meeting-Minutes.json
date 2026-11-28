@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "CNRC Jan 13 2016 Special Meeting Minutes (pdf)",
+  "filename": "CNRC-Jan-13-2016-Special-Meeting-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/CNRC-Jan-13-2016-Special-Meeting-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2016-minutes/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T01:28:55+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8600ada11a4b9b0e43277e326ca04226e7cf224342db7bb7a78c6924c32defbb",
+  "bytes": 116851,
+  "pages": 0,
+  "http_last_modified": "Tue, 19 Jan 2016 19:57:08 GMT",
+  "etag": "\"16e04f8-1c873-529b546406d00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2016-01-13_CNRC-Jan-13-2016-Special-Meeting-Minutes--8600ada11a4b.pdf",
+  "versions": [
+    {
+      "sha256": "8600ada11a4b9b0e43277e326ca04226e7cf224342db7bb7a78c6924c32defbb",
+      "bytes": 116851,
+      "retrieved_utc": "2026-11-28T01:28:55+00:00",
+      "http_last_modified": "Tue, 19 Jan 2016 19:57:08 GMT"
+    }
+  ]
+}

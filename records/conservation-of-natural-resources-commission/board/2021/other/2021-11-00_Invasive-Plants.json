@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "other",
+  "year": "2021",
+  "subcommittee": false,
+  "link_text": "Common Invasive Plants in Southeastern Connecticut (pdf)",
+  "filename": "Invasive-Plants.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/Invasive-Plants.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/natural-resources-and-us/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-27T23:59:11+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "21a5d289e0ab15911ca4823ee4f0f6ffd53e88e2bc200ca97f35b22a5e9f08c1",
+  "bytes": 730932,
+  "pages": 0,
+  "http_last_modified": "Thu, 18 Nov 2021 20:15:45 GMT",
+  "etag": "\"1680284-b2734-5d115d2d13e40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2021/2021-11-00_Invasive-Plants--21a5d289e0ab.pdf",
+  "versions": [
+    {
+      "sha256": "21a5d289e0ab15911ca4823ee4f0f6ffd53e88e2bc200ca97f35b22a5e9f08c1",
+      "bytes": 730932,
+      "retrieved_utc": "2026-11-27T23:59:11+00:00",
+      "http_last_modified": "Thu, 18 Nov 2021 20:15:45 GMT"
+    }
+  ]
+}

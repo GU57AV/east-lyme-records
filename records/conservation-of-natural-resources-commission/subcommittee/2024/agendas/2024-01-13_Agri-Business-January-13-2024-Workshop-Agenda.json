@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "Agri-Business January 13 2024 Workshop Agenda (pdf)",
+  "filename": "Agri-Business-January-13-2024-Workshop-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/01/Agri-Business-January-13-2024-Workshop-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2024-agendas/",
+  "upload_folder": "2024-01",
+  "first_seen_utc": "2026-11-28T02:10:30+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "9a94b3a7742bed746e4499a25d921aa50cadc5d5e9b7334c42fb618c3b89c935",
+  "bytes": 37283,
+  "pages": 0,
+  "http_last_modified": "Tue, 16 Jan 2024 13:20:32 GMT",
+  "etag": "\"168069a-91a3-60f0ffeade800\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-01-13_Agri-Business-January-13-2024-Workshop-Agenda--9a94b3a7742b.pdf",
+  "versions": [
+    {
+      "sha256": "9a94b3a7742bed746e4499a25d921aa50cadc5d5e9b7334c42fb618c3b89c935",
+      "bytes": 37283,
+      "retrieved_utc": "2026-11-28T02:10:30+00:00",
+      "http_last_modified": "Tue, 16 Jan 2024 13:20:32 GMT"
+    }
+  ]
+}

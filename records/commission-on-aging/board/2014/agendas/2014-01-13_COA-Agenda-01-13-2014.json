@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2014",
+  "subcommittee": false,
+  "link_text": "COA Jan 13 2014 Agenda (pdf)",
+  "filename": "COA-Agenda-01-13-2014.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/04/COA-Agenda-01-13-2014.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-agendas-2014/",
+  "upload_folder": "2014-04",
+  "first_seen_utc": "2026-11-27T23:09:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "27549cc2f9437a9480e01a39aa6ab28270a6983b9991a3d60ae86ca7a8d22b25",
+  "bytes": 48412,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:11:58 GMT",
+  "etag": "\"1663458-bd1c-520822ab69780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2014/2014-01-13_COA-Agenda-01-13-2014--27549cc2f943.pdf",
+  "versions": [
+    {
+      "sha256": "27549cc2f9437a9480e01a39aa6ab28270a6983b9991a3d60ae86ca7a8d22b25",
+      "bytes": 48412,
+      "retrieved_utc": "2026-11-27T23:09:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:11:58 GMT"
+    }
+  ]
+}

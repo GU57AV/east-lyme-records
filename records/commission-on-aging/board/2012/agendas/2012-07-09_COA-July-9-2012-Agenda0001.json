@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "COA July 9 2012 Agenda (pdf)",
+  "filename": "COA-July-9-2012-Agenda0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/COA-July-9-2012-Agenda0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-agendas-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T23:21:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "1681aa8516f7ae2ee351c51d60e9747e7df61f8515c6dcfc2f9e6a2d36da8d67",
+  "bytes": 584004,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:36:59 GMT",
+  "etag": "\"1663e63-8e944-52082842e08c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2012/2012-07-09_COA-July-9-2012-Agenda0001--1681aa8516f7.pdf",
+  "versions": [
+    {
+      "sha256": "1681aa8516f7ae2ee351c51d60e9747e7df61f8515c6dcfc2f9e6a2d36da8d67",
+      "bytes": 584004,
+      "retrieved_utc": "2026-11-27T23:21:32+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:36:59 GMT"
+    }
+  ]
+}

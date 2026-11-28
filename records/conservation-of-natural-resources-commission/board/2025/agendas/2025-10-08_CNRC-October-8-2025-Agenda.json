@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2025",
+  "subcommittee": false,
+  "link_text": "CNRC October 8 2025 Agenda (pdf)",
+  "filename": "CNRC-October-8-2025-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2025/10/CNRC-October-8-2025-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2025-agendas/",
+  "upload_folder": "2025-10",
+  "first_seen_utc": "2026-11-28T00:09:00+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "94e490306893e5ed3f3e94d707041d4da107525ec52e8b17bf4a7493c8377887",
+  "bytes": 37012,
+  "pages": 0,
+  "http_last_modified": "Mon, 06 Oct 2025 15:37:17 GMT",
+  "etag": "\"1720056-9094-6407f39f41045\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2025/2025-10-08_CNRC-October-8-2025-Agenda--94e490306893.pdf",
+  "versions": [
+    {
+      "sha256": "94e490306893e5ed3f3e94d707041d4da107525ec52e8b17bf4a7493c8377887",
+      "bytes": 37012,
+      "retrieved_utc": "2026-11-28T00:09:00+00:00",
+      "http_last_modified": "Mon, 06 Oct 2025 15:37:17 GMT"
+    }
+  ]
+}

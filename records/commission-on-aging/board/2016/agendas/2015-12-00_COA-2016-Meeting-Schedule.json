@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "COA 2016 Meeting Schedule (pdf)",
+  "filename": "COA-2016-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/COA-2016-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T22:52:39+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "ffb7409b86354eeccb51dfcd18162f1dd4bfd031a430355a5e3ffc62688b6f15",
+  "bytes": 37187,
+  "pages": 0,
+  "http_last_modified": "Mon, 01 Feb 2016 19:14:31 GMT",
+  "etag": "\"16e03a4-9143-52aba31c793c0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2016/2015-12-00_COA-2016-Meeting-Schedule--ffb7409b8635.pdf",
+  "versions": [
+    {
+      "sha256": "ffb7409b86354eeccb51dfcd18162f1dd4bfd031a430355a5e3ffc62688b6f15",
+      "bytes": 37187,
+      "retrieved_utc": "2026-11-27T22:52:39+00:00",
+      "http_last_modified": "Mon, 01 Feb 2016 19:14:31 GMT"
+    }
+  ]
+}

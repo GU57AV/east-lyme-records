@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "CNRC Agenda 04-11-2012 (pdf)",
+  "filename": "CNRC-April-11-2012.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNRC-April-11-2012.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-2012-agendas/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-28T01:49:12+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d618057fb410936dca3648af25dfe16ec317024b7cc7ea97c5826a518b90e70e",
+  "bytes": 37650,
+  "pages": 0,
+  "http_last_modified": "Fri, 26 Sep 2014 18:22:38 GMT",
+  "etag": "\"1661d7e-9312-503fc00771780\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2012/2012-04-11_CNRC-April-11-2012--d618057fb410.pdf",
+  "versions": [
+    {
+      "sha256": "d618057fb410936dca3648af25dfe16ec317024b7cc7ea97c5826a518b90e70e",
+      "bytes": 37650,
+      "retrieved_utc": "2026-11-28T01:49:12+00:00",
+      "http_last_modified": "Fri, 26 Sep 2014 18:22:38 GMT"
+    }
+  ]
+}

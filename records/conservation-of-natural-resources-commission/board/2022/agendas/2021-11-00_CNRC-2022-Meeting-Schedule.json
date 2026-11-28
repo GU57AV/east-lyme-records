@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2022",
+  "subcommittee": false,
+  "link_text": "CNRC 2022 Meeting Schedule (pdf)",
+  "filename": "CNRC-2022-Meeting-Schedule.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2021/11/CNRC-2022-Meeting-Schedule.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2022-agendas/",
+  "upload_folder": "2021-11",
+  "first_seen_utc": "2026-11-28T00:38:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "8d98d81bf124019069d2f78ed58bf001406c782ac3e92469724488b928c138e5",
+  "bytes": 32860,
+  "pages": 0,
+  "http_last_modified": "Tue, 23 Nov 2021 18:49:57 GMT",
+  "etag": "\"1680247-805c-5d179352ddf40\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2022/2021-11-00_CNRC-2022-Meeting-Schedule--8d98d81bf124.pdf",
+  "versions": [
+    {
+      "sha256": "8d98d81bf124019069d2f78ed58bf001406c782ac3e92469724488b928c138e5",
+      "bytes": 32860,
+      "retrieved_utc": "2026-11-28T00:38:48+00:00",
+      "http_last_modified": "Tue, 23 Nov 2021 18:49:57 GMT"
+    }
+  ]
+}

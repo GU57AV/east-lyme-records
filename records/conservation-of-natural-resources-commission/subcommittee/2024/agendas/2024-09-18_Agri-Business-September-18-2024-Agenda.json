@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "Agri-Business September 18 2024 Agenda (pdf)",
+  "filename": "Agri-Business-September-18-2024-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/09/Agri-Business-September-18-2024-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2024-agendas/",
+  "upload_folder": "2024-09",
+  "first_seen_utc": "2026-11-28T02:07:48+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "40613f2db584df6581d0b2243264fb7f95e98d55849f597155c3ea6f4ae0a2f9",
+  "bytes": 41583,
+  "pages": 0,
+  "http_last_modified": "Mon, 16 Sep 2024 13:55:37 GMT",
+  "etag": "\"1680901-a26f-6223ced6d2840\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-09-18_Agri-Business-September-18-2024-Agenda--40613f2db584.pdf",
+  "versions": [
+    {
+      "sha256": "40613f2db584df6581d0b2243264fb7f95e98d55849f597155c3ea6f4ae0a2f9",
+      "bytes": 41583,
+      "retrieved_utc": "2026-11-28T02:07:48+00:00",
+      "http_last_modified": "Mon, 16 Sep 2024 13:55:37 GMT"
+    }
+  ]
+}

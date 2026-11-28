@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "CNRC 2018 Schedule of Meetings (pdf)",
+  "filename": "CNRC-2018-Schedule-of-Meetings.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2017/10/CNRC-2018-Schedule-of-Meetings.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2018-agendas/",
+  "upload_folder": "2017-10",
+  "first_seen_utc": "2026-11-28T01:08:56+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fb4e9e58c8d70ec5340f77817c31eaf1b5c3ef2e19d15642de94509c9aa35d89",
+  "bytes": 36775,
+  "pages": 0,
+  "http_last_modified": "Thu, 09 Nov 2017 20:28:29 GMT",
+  "etag": "\"16a0426-8fa7-55d92a5a1b540\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2018/2017-10-00_CNRC-2018-Schedule-of-Meetings--fb4e9e58c8d7.pdf",
+  "versions": [
+    {
+      "sha256": "fb4e9e58c8d70ec5340f77817c31eaf1b5c3ef2e19d15642de94509c9aa35d89",
+      "bytes": 36775,
+      "retrieved_utc": "2026-11-28T01:08:56+00:00",
+      "http_last_modified": "Thu, 09 Nov 2017 20:28:29 GMT"
+    }
+  ]
+}

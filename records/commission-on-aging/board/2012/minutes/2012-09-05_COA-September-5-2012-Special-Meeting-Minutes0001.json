@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2012",
+  "subcommittee": false,
+  "link_text": "COA September 5 2012 Special Meeting Minutes (pdf)",
+  "filename": "COA-September-5-2012-Special-Meeting-Minutes0001.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/COA-September-5-2012-Special-Meeting-Minutes0001.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-minutes-2012/",
+  "upload_folder": null,
+  "first_seen_utc": "2026-11-27T23:24:36+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "c4240683365c1f6d7d86c9a505eb5f7060146798b62de255c5dd1925b9c2e1b3",
+  "bytes": 2793756,
+  "pages": 0,
+  "http_last_modified": "Thu, 24 Sep 2015 18:40:12 GMT",
+  "etag": "\"1661ed1-2aa11c-520828faefb00\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2012/2012-09-05_COA-September-5-2012-Special-Meeting-Minutes0001--c4240683365c.pdf",
+  "versions": [
+    {
+      "sha256": "c4240683365c1f6d7d86c9a505eb5f7060146798b62de255c5dd1925b9c2e1b3",
+      "bytes": 2793756,
+      "retrieved_utc": "2026-11-27T23:24:36+00:00",
+      "http_last_modified": "Thu, 24 Sep 2015 18:40:12 GMT"
+    }
+  ]
+}

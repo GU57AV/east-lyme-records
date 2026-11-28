@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "CNRC November 14 2018 Agenda (pdf)",
+  "filename": "CNRC-November-14-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/11/CNRC-November-14-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2018-agendas/",
+  "upload_folder": "2018-11",
+  "first_seen_utc": "2026-11-28T01:05:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "a3abf10e8597bd12616d2021f6feca29fdbd6a1befed855c4cf18485282e8ef5",
+  "bytes": 36003,
+  "pages": 0,
+  "http_last_modified": "Tue, 13 Nov 2018 18:27:28 GMT",
+  "etag": "\"16c11c7-8ca3-57a8ff8490400\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2018/2018-11-14_CNRC-November-14-2018-Agenda--a3abf10e8597.pdf",
+  "versions": [
+    {
+      "sha256": "a3abf10e8597bd12616d2021f6feca29fdbd6a1befed855c4cf18485282e8ef5",
+      "bytes": 36003,
+      "retrieved_utc": "2026-11-28T01:05:34+00:00",
+      "http_last_modified": "Tue, 13 Nov 2018 18:27:28 GMT"
+    }
+  ]
+}

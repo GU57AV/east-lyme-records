@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "CNRC July 11 2018 Agenda (pdf)",
+  "filename": "Conservation-Natural-Resources-July-11-2018-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/07/Conservation-Natural-Resources-July-11-2018-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2018-agendas/",
+  "upload_folder": "2018-07",
+  "first_seen_utc": "2026-11-28T01:06:34+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d541e40388d1330079af022e929a2648a2adf839670989e8b76903f8dfd311c5",
+  "bytes": 33126,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 Jul 2018 13:08:18 GMT",
+  "etag": "\"16c1790-8166-570403da51480\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2018/2018-07-11_Conservation-Natural-Resources-July-11-2018-Agenda--d541e40388d1.pdf",
+  "versions": [
+    {
+      "sha256": "d541e40388d1330079af022e929a2648a2adf839670989e8b76903f8dfd311c5",
+      "bytes": 33126,
+      "retrieved_utc": "2026-11-28T01:06:34+00:00",
+      "http_last_modified": "Thu, 05 Jul 2018 13:08:18 GMT"
+    }
+  ]
+}

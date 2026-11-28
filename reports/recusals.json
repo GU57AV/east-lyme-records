@@ -758,6 +758,20 @@
   "source_url": "https://eltownhall.com/wp-content/uploads/2019/05/Zoning-May-2-2019-Public-Hearing-Regular-Meeting-Minutes.pdf"
  },
  {
+  "date": "2019-02-13",
+  "board": "conservation-of-natural-resources-commission",
+  "board_name": "Conservation of Natural Resources Commission",
+  "members": [
+   "Chairman Carlson"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "",
+  "excerpt": "Chairman Carlson recused himself from voting on the item.",
+  "minutes": "records/conservation-of-natural-resources-commission/board/2019/minutes/2019-02-13_CNRC-February-13-2019-Minutes.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2019/03/CNRC-February-13-2019-Minutes.pdf"
+ },
+ {
   "date": "2019-01-16",
   "board": "board-of-selectmen",
   "board_name": "Board of Selectmen",
@@ -1807,6 +1821,20 @@
   "excerpt": "“Ms. Schwartz recused herself for the two following items.",
   "minutes": "records/board-of-assessment-appeals/board/2012/minutes/2012-03-22_BAAminutes03-22-12.md",
   "source_url": "https://eltownhall.com/wp-content/uploads/BAAminutes03-22-12.pdf"
+ },
+ {
+  "date": "2012-03-14",
+  "board": "conservation-of-natural-resources-commission",
+  "board_name": "Conservation of Natural Resources Commission",
+  "members": [
+   "Mr. Schutt"
+  ],
+  "type": "recused",
+  "reason": "",
+  "item": "moved to approve both letters, which had been discussed at previous meetings and sent to the Board of Selectmen (as attached)",
+  "excerpt": "Mr. Schutt recused himself from the vote on the second letter only and voted in favor on the first letter.",
+  "minutes": "records/conservation-of-natural-resources-commission/board/2012/minutes/2012-03-14_CNRC-Minutes-of-March-14-2012.md",
+  "source_url": "https://eltownhall.com/wp-content/uploads/CNRC-Minutes-of-March-14-2012.pdf"
  },
  {
   "date": "2012-03-07",

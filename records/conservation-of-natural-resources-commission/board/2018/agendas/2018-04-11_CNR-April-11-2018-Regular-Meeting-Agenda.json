@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "CNRC April 11 2018 Regular Meeting Agenda (pdf)",
+  "filename": "CNR-April-11-2018-Regular-Meeting-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/04/CNR-April-11-2018-Regular-Meeting-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2018-agendas/",
+  "upload_folder": "2018-04",
+  "first_seen_utc": "2026-11-28T01:07:35+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "fcc5d85483258e78e0f27dff822f69051416c8092f2d045ed9712a158a982c0b",
+  "bytes": 35475,
+  "pages": 0,
+  "http_last_modified": "Mon, 09 Apr 2018 15:32:48 GMT",
+  "etag": "\"16c14da-8a93-5696c1e392800\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2018/2018-04-11_CNR-April-11-2018-Regular-Meeting-Agenda--fcc5d8548325.pdf",
+  "versions": [
+    {
+      "sha256": "fcc5d85483258e78e0f27dff822f69051416c8092f2d045ed9712a158a982c0b",
+      "bytes": 35475,
+      "retrieved_utc": "2026-11-28T01:07:35+00:00",
+      "http_last_modified": "Mon, 09 Apr 2018 15:32:48 GMT"
+    }
+  ]
+}

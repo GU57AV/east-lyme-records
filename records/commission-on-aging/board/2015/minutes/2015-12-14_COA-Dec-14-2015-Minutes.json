@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2015",
+  "subcommittee": false,
+  "link_text": "COA December 14 2015 Minutes (pdf)",
+  "filename": "COA-Dec-14-2015-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2014/12/COA-Dec-14-2015-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/coa-meeting-minutes-2015/",
+  "upload_folder": "2014-12",
+  "first_seen_utc": "2026-11-27T23:00:47+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "296f1fa28714b260850e9fcd00854b7c3f7e4036e9f18abdd8a16d8550f6fc8b",
+  "bytes": 213271,
+  "pages": 0,
+  "http_last_modified": "Thu, 17 Dec 2015 16:49:44 GMT",
+  "etag": "\"1663058-34117-5271acf4b3a00\"",
+  "text_method": "tesseract (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2015/2015-12-14_COA-Dec-14-2015-Minutes--296f1fa28714.pdf",
+  "versions": [
+    {
+      "sha256": "296f1fa28714b260850e9fcd00854b7c3f7e4036e9f18abdd8a16d8550f6fc8b",
+      "bytes": 213271,
+      "retrieved_utc": "2026-11-27T23:00:47+00:00",
+      "http_last_modified": "Thu, 17 Dec 2015 16:49:44 GMT"
+    }
+  ]
+}

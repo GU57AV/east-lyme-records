@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "minutes",
+  "year": "2018",
+  "subcommittee": false,
+  "link_text": "COA January 8 2018 Minutes (Lack of Quorum) (pdf)",
+  "filename": "COA-January-8-2018-Minutes-Lack-of-Quorum.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2018/01/COA-January-8-2018-Minutes-Lack-of-Quorum.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2018-minutes/",
+  "upload_folder": "2018-01",
+  "first_seen_utc": "2026-11-27T22:39:07+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "d534ce18457878db53331b13a70c3534cc2b9edda061381b66d90c9fb4510871",
+  "bytes": 26593,
+  "pages": 0,
+  "http_last_modified": "Tue, 09 Jan 2018 19:03:54 GMT",
+  "etag": "\"16c0e7a-67e1-5625c93753a80\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2018/2018-01-08_COA-January-8-2018-Minutes-Lack-of-Quorum--d534ce184578.pdf",
+  "versions": [
+    {
+      "sha256": "d534ce18457878db53331b13a70c3534cc2b9edda061381b66d90c9fb4510871",
+      "bytes": 26593,
+      "retrieved_utc": "2026-11-27T22:39:07+00:00",
+      "http_last_modified": "Tue, 09 Jan 2018 19:03:54 GMT"
+    }
+  ]
+}

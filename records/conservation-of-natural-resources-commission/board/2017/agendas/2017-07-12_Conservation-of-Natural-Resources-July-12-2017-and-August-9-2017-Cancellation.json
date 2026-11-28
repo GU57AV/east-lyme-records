@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2017",
+  "subcommittee": false,
+  "link_text": "CNRC July 12 2017 and August 9 2017 Cancellation (pdf)",
+  "filename": "Conservation-of-Natural-Resources-July-12-2017-and-August-9-2017-Cancellation.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2016/11/Conservation-of-Natural-Resources-July-12-2017-and-August-9-2017-Cancellation.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2017-agendas/",
+  "upload_folder": "2016-11",
+  "first_seen_utc": "2026-11-28T01:15:22+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "dc809695eed4372fa334d1b3c9ff755c7f454a654dc10e0ee47eaa8a8737cedb",
+  "bytes": 25359,
+  "pages": 0,
+  "http_last_modified": "Wed, 12 Jul 2017 12:26:34 GMT",
+  "etag": "\"1662ef6-630f-5541ded34d280\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2017/2017-07-12_Conservation-of-Natural-Resources-July-12-2017-and-August-9-2017-Cancellation--dc809695eed4.pdf",
+  "versions": [
+    {
+      "sha256": "dc809695eed4372fa334d1b3c9ff755c7f454a654dc10e0ee47eaa8a8737cedb",
+      "bytes": 25359,
+      "retrieved_utc": "2026-11-28T01:15:22+00:00",
+      "http_last_modified": "Wed, 12 Jul 2017 12:26:34 GMT"
+    }
+  ]
+}

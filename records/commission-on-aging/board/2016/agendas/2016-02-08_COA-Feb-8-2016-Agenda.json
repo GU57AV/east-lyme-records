@@ -1,0 +1,29 @@
+{
+  "board": "commission-on-aging",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "COA February 8 2016 Agenda (pdf)",
+  "filename": "COA-Feb-8-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/COA-Feb-8-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/commission-on-aging/commission-on-aging-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-27T22:51:59+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "e86642e9e2832dc70e842d835178c981c3ad25495e493e055006aec73427c9d3",
+  "bytes": 45449,
+  "pages": 0,
+  "http_last_modified": "Thu, 04 Feb 2016 19:42:33 GMT",
+  "etag": "\"16e03fb-b189-52af6ef8efc40\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/commission-on-aging-2016/2016-02-08_COA-Feb-8-2016-Agenda--e86642e9e283.pdf",
+  "versions": [
+    {
+      "sha256": "e86642e9e2832dc70e842d835178c981c3ad25495e493e055006aec73427c9d3",
+      "bytes": 45449,
+      "retrieved_utc": "2026-11-27T22:51:59+00:00",
+      "http_last_modified": "Thu, 04 Feb 2016 19:42:33 GMT"
+    }
+  ]
+}

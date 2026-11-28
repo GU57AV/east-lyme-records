@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2016",
+  "subcommittee": false,
+  "link_text": "CNRC May 11 2016 Agenda (pdf)",
+  "filename": "CNRC-May-11-2016-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2015/12/CNRC-May-11-2016-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2016-agendas/",
+  "upload_folder": "2015-12",
+  "first_seen_utc": "2026-11-28T01:23:50+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "6c6849b0f56c1e1fb5f317c6a146cbe5202eb8379cf30b3a0512e76285a23141",
+  "bytes": 34152,
+  "pages": 0,
+  "http_last_modified": "Thu, 05 May 2016 19:43:31 GMT",
+  "etag": "\"16e0406-8568-5321d8e931ec0\"",
+  "text_method": "ocrmypdf (OCR)",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2016/2016-05-11_CNRC-May-11-2016-Agenda--6c6849b0f56c.pdf",
+  "versions": [
+    {
+      "sha256": "6c6849b0f56c1e1fb5f317c6a146cbe5202eb8379cf30b3a0512e76285a23141",
+      "bytes": 34152,
+      "retrieved_utc": "2026-11-28T01:23:50+00:00",
+      "http_last_modified": "Thu, 05 May 2016 19:43:31 GMT"
+    }
+  ]
+}

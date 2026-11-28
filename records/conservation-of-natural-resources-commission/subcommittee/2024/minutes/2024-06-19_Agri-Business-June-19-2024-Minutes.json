@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "minutes",
+  "year": "2024",
+  "subcommittee": true,
+  "link_text": "Agri-Business Subcommittee June 19 2024 Minutes (pdf)",
+  "filename": "Agri-Business-June-19-2024-Minutes.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2024/08/Agri-Business-June-19-2024-Minutes.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-subcommittee-2024-minutes/",
+  "upload_folder": "2024-08",
+  "first_seen_utc": "2026-11-28T02:12:32+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "db369e64ca89e56e293ac7a47ec74a7bd08129b39267a498f3cbcb4ee22f3380",
+  "bytes": 52066,
+  "pages": 0,
+  "http_last_modified": "Mon, 19 Aug 2024 13:09:02 GMT",
+  "etag": "\"1680a8c-cb62-6200903465780\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2024/2024-06-19_Agri-Business-June-19-2024-Minutes--db369e64ca89.pdf",
+  "versions": [
+    {
+      "sha256": "db369e64ca89e56e293ac7a47ec74a7bd08129b39267a498f3cbcb4ee22f3380",
+      "bytes": 52066,
+      "retrieved_utc": "2026-11-28T02:12:32+00:00",
+      "http_last_modified": "Mon, 19 Aug 2024 13:09:02 GMT"
+    }
+  ]
+}

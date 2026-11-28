@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2020",
+  "subcommittee": false,
+  "link_text": "CNRC September 9 2020 Agenda (pdf)",
+  "filename": "CNRC-September-9-2020-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2020/09/CNRC-September-9-2020-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2020-agendas/",
+  "upload_folder": "2020-09",
+  "first_seen_utc": "2026-11-28T00:52:21+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "37d9efed596e26dd06dc7752b9d9b1945d7d77890813e99967010a8bafd5ea12",
+  "bytes": 63732,
+  "pages": 0,
+  "http_last_modified": "Wed, 02 Sep 2020 14:56:37 GMT",
+  "etag": "\"16618b9-f8f4-5ae55d7a63340\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2020/2020-09-09_CNRC-September-9-2020-Agenda--37d9efed596e.pdf",
+  "versions": [
+    {
+      "sha256": "37d9efed596e26dd06dc7752b9d9b1945d7d77890813e99967010a8bafd5ea12",
+      "bytes": 63732,
+      "retrieved_utc": "2026-11-28T00:52:21+00:00",
+      "http_last_modified": "Wed, 02 Sep 2020 14:56:37 GMT"
+    }
+  ]
+}

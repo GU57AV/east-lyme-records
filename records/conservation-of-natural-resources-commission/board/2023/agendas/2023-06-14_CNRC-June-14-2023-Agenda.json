@@ -1,0 +1,29 @@
+{
+  "board": "conservation-of-natural-resources-commission",
+  "kind": "agendas",
+  "year": "2023",
+  "subcommittee": false,
+  "link_text": "CNRC June 14 2023 Agenda (pdf)",
+  "filename": "CNRC-June-14-2023-Agenda.pdf",
+  "source_url": "https://eltownhall.com/wp-content/uploads/2023/06/CNRC-June-14-2023-Agenda.pdf",
+  "listing_page": "https://eltownhall.com/government/boards-commissions/conservation-of-natural-resources-commission/conservation-of-natural-resources-commission-2023-agendas/",
+  "upload_folder": "2023-06",
+  "first_seen_utc": "2026-11-28T00:28:18+00:00",
+  "seen_in_initial_import": true,
+  "not_on_site_at_utc": null,
+  "sha256": "7fc58bc775dc2ffccf4409fe9347c9a0461bf1e13c80bbd7cb06c184226dcff1",
+  "bytes": 31396,
+  "pages": 0,
+  "http_last_modified": "Tue, 13 Jun 2023 12:13:15 GMT",
+  "etag": "\"16e001f-7aa4-5fe01c27dccc0\"",
+  "text_method": "pdftotext",
+  "original_copy": "https://github.com/GU57AV/east-lyme-records/releases/download/conservation-of-natural-resources-commission-2023/2023-06-14_CNRC-June-14-2023-Agenda--7fc58bc775dc.pdf",
+  "versions": [
+    {
+      "sha256": "7fc58bc775dc2ffccf4409fe9347c9a0461bf1e13c80bbd7cb06c184226dcff1",
+      "bytes": 31396,
+      "retrieved_utc": "2026-11-28T00:28:18+00:00",
+      "http_last_modified": "Tue, 13 Jun 2023 12:13:15 GMT"
+    }
+  ]
+}
